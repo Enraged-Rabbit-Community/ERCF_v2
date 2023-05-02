@@ -1,6 +1,6 @@
 # ERCF v2 Community Project
 
-This is the, perhaps temporary, repository for community development of the next generation v2 Enraged Rabbit Carrot Feeder (ERCF). This project is endorsed by ERCF its creator Ette
+This is the, perhaps temporary, repository for community development of the next generation v2 Enraged Rabbit Carrot Feeder (ERCF). This project is endorsed by ERCF's creator Ette.  Thank you for an awesome project Ette!!
 
 ## Development Team:
 * @moggieuk V0.1503 | V2.4088
