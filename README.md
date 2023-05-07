@@ -4,7 +4,7 @@ This is the, perhaps temporary, repository for community development of the next
 
 ## Development Team:
 * @moggieuk V0.1503 | V2.4088
-* @sneakytreesnake V2.3804 V2.3804
+* @sneakytreesnake V2.3804
 * @mneuhaus VT.483
 * @gneu V2.5345
 * @bombela V2.4393
@@ -18,7 +18,7 @@ This is the, perhaps temporary, repository for community development of the next
 
 
 ## Components:
-1. Sturdy backbone (based on Sturdy Bunny from @sneakytreesnake V2.3804 V2.3804)
+1. Sturdy backbone (based on Sturdy Bunny from @sneakytreesnake V2.3804)
 2. Reliable encoder (based on Binky from @mneuhaus VT.483)
 3. Remove need for top hats with sprung servo (based on Springy from @moggieuk V0.1503 | V2.4088)
 4. Remove snag points on reverse filament flow (for EndlessSpool support)
@@ -28,7 +28,9 @@ This is the, perhaps temporary, repository for community development of the next
 8. Standardized layout so things like calibrating the selector is mostly automatic (the geometry is sufficiently fixed)
 9. Rationalize command line set in Happy Hare for consistency
 10. Magnetically closed connector cover on encoder (the current one is prone to breaking)
-11. Updated manual
+11. Reinforced gearbox assembly, preventing twisting with overtightened fasteners (@sneakytreesnake V2.3804)
+12. Filament passthrough integrated into filament block end as standard (@moggieuk V0.1503 | V2.4088, @sneakytreesnake V2.3804) 
+13. Updated manual
 
 
 ## Other Planned Companion Projects:
