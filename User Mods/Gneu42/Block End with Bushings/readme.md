@@ -32,7 +32,7 @@ The bushings can be found on Aliexpress : https://fr.aliexpress.com/item/1005004
 <p align=center><img src="Images/Bushing.JPG" width="500" alt="Axles_stop_exit.JPG"></p>
 <p align=center><img src="Images/All-opacity100.JPG" width="500" alt="Axles_stop_entry.JPG"> </p>
 
-<p align=center><img src="Images/Entry_side.JPG" width="250" alt="Axles_stop_entry.JPG"><img src="Images/Axles_stop_entry.JPG" width="250" alt="Axles_stop_exit.JPG"> </p>
+<p align=center><img src="Images/Entry_side.JPG" width="250" alt="Entry_side.JPG"><img src="Images/Axles_stop_entry.JPG" width="250" alt="Axles_stop_entry.JPG"> </p>
 
-<p align=center><img src="Images/Exit_side.JPG" width="250" alt="Axles_stop_entry.JPG"><img src="Images/Axles_stop_exit.JPG" width="250" alt="Axles_stop_exit.JPG"> </p>
+<p align=center><img src="Images/exit_side.JPG" width="250" alt="exit_side.JPG"><img src="Images/Axles_stop_exit.JPG" width="250" alt="Axles_stop_exit.JPG"> </p>
 
