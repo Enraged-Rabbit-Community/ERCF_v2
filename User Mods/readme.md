@@ -2,4 +2,4 @@
 
 ## Summary.
 **Gneu42**
-* [Block End with Bushing](/gneu42/block-end-with-bushings)           
+* [Block End with Bushing](/gneu42/block_end_with_bushings)           
