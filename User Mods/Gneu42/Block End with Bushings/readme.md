@@ -1,4 +1,4 @@
-<h1 align="center"><ins>Reenforced Blok End </ins></h1>
+<h1 align="center"><ins>Reinforced Block End </ins></h1>
 
 <H2 align="center">Filament block end with brass bushing and 5mm shaft.</H1>
 
