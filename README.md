@@ -1,13 +1,21 @@
 # ERCF v2 Community Project
 
+This README is under construction.... (and represents internal developer notes at the momement)
+
+## BOM Quick Link
+https://docs.google.com/spreadsheets/d/1HtVIu4yqzS6xJQr63-JKtMAh4Xq7wbtWPFeuiCnrnnE
+
+
 This is the, perhaps temporary, repository for community development of the next generation v2 Enraged Rabbit Carrot Feeder (ERCF). This project is endorsed by ERCF's creator Ette.  Thank you for an awesome project Ette!!
 
-## Development Team:
+## Initial Development / Test Team:
 * @moggieuk V0.1503 | V2.4088
+* @gneu V2.5345
 * @sneakytreesnake V2.3804
 * @mneuhaus VT.483
-* @gneu V2.5345
-* @bombela V2.4393
+* @Miriax
+* @kinematicdigit
+* @ningpj
 
 
 ## Goals:
