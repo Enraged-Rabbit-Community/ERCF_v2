@@ -1,5 +1,6 @@
 
-# Enraged Rabbit Cotton Tail![](https://media.discordapp.net/attachments/1165841694273585234/1165910456683221073/394413133_10160827106300856_2289264436205624168_n.png?ex=654891ba\&is=65361cba\&hm=1bbe1b6bbc529e638add06c535aef12ad2c58fd5fa59339fec894c2ca8a0237b&=\&width=2076\&height=1492)
+# Enraged Rabbit Cotton Tail
+![](https://raw.githubusercontent.com/Enraged-Rabbit-Community/ERCF_v2/master/Stls/Buffer/ERCT/IMG/heroimage_ERCT.png?token=GHSAT0AAAAAACGHVUJM7ZF7PZVEQEWNCZOEZKUMBYA)
 
 ## Introduction
 
