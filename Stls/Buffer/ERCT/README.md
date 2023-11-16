@@ -32,29 +32,30 @@ Terrance Lam
 
 ***
 
-### BOM (Each arm group):
+### BOM (Each arm group/channel):
 
 * (8) 8mm M3 screws
 * (1) 16mm M3 screw
 * (1) 25mm M3 screw
-* (1) Heatset
+* (1) M3 threaded inserts (M3x5x4mm) Heat Sets
 * PTFE Tubing (4mm OD/3MM ID recommended)
 * (1) 608 ZZ Bearing (same as ERCP - skateboard bearings will work as well)
 * (1) ECAS
 * (2) M3 Hammerhead T-Nuts (for attaching to 2020 extrusions)
 
+### End cap (with integrated MMB CASE) needs:
+
+* (6) 8mm M3 screws
+* (5) 25mm M3 screw (1) for non MMB
+* (4) M3 threaded inserts (M3x5x4mm) Heat Sets (0) for non MMB
+
 **The optional MMB version build requires:**
 
 (1) BTT MMB Can board
-
 (1) Microswitch per arm
-
 (1) 5.5 mm ball bearing per arm
-
 (2) 12mm M2 BHCS screws per arm
-
 (1) Button Neopixels per arm
-
 ***
 
 ## Building the ERCT
