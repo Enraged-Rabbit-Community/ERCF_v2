@@ -22,10 +22,12 @@ This system is also designed to reduce the buffer length, while the loops are de
 
 ## Acknowledgements
 
-ERCT was designed by me, Terrance Lam. I designed this to simplify the buffer design and integrate cleanly with ERCF, TripleDecky, Sturdy Bunny, Happy Hare Springy, and Binky mods. This has since evolved into the second generation of ERCF and is now included in this ,. I thank the entire team from the ERCF V2 team. and especially Moggie, for bringing me into the team. I also have my home server, Fizzy's Tech, on Discord to thank for the countless support and hosting of the Beta development on that server. Jose from Fizzy's Tech was instrumental in this development as he was part of the system's early development and early testing. There are numerous testers who have helped as well, making suggestions throughout the beta cycle. I want to give a special shout-out to Wolffy01 and gsx8299 for their contributions to ideas, testing and mods.&#x20;
+I designed ERCT to simplify the buffer design and integrate cleanly with ERCF, TripleDecky, Sturdy Bunny, Happy Hare Springy, and Binky mods. This has since evolved into the second generation of ERCF and is now included in this. I thank the entire team from the ERCF V2 team. and especially Moggie, for bringing me into the team. I also have my home server, Fizzy's Tech, on Discord to thank for the countless support and hosting of the Beta development on that server. Jose from Fizzy's Tech was instrumental in this development as he was part of the system's early development and early testing. There are numerous testers who have helped as well, making suggestions throughout the beta cycle. I want to give a special shout-out to Wolffy01 and gsx8299 for their contributions to ideas, testing and mods.&#x20;
 
 Questions related to this buffer can be directed at <https://discord.com/channels/460117602945990666/909743915475816458> or you may visit my home server at <https://discord.gg/Gs2vAtK7T7>
 
+Terrance Lam
+@kinematicdigit
 ###
 
 ***
