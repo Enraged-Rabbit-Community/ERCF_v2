@@ -51,11 +51,11 @@ Terrance Lam
 
 **The optional MMB version build requires:**
 
-(1) BTT MMB Can board
-(1) Microswitch per arm
-(1) 5.5 mm ball bearing per arm
-(2) 12mm M2 BHCS screws per arm
-(1) Button Neopixels per arm
+* (1) BTT MMB Can board
+* (1) Microswitch per arm
+* (1) 5.5 mm ball bearing per arm
+* (2) 12mm M2 BHCS screws per arm
+* (1) Button Neopixels per arm
 ***
 
 ## Building the ERCT
