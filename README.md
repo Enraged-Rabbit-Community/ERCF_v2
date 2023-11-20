@@ -10,7 +10,7 @@ Please be careful sharing the link, as it grants edit permission.
 # ERCF v2 Community Project
 
 <p align="center">
-  <img src="/Assets/ERCFv2.png" alt='ERCFv2' width='80%'>
+  <img src="/Assets/ERCFv2.png" alt='ERCFv2' width='70%'>
   <h1 align="center">Voron ERCF v2</h1>
 </p>
 
@@ -50,26 +50,30 @@ This is a community born project and major update to the Voron ERCF MMU that was
  
 ## New Components
 If you are familar with ERCF v1.1 this will serve as an overview of changes:
-1. Sturdy backbone (based on Sturdy Bunny by @sneakytreesnake V2.3804)
-2. Reliable encoder (based on Binky by @mneuhaus VT.483)
-3. Remove need for top hats with sprung servo (based on Springy by @moggieuk V0.1503 | V2.4088)
-4. Remove snag points on reverse filament flow (for EndlessSpool support)
-5. Improved gate mechanism to prevent filament slip back and removing magnetic gate (Triple Decky by @gneu V2.5345 and refined by Thumper Blocks by @kierantheman)
-6. Remove high wear parts / those prone to breakage (the servo arm improvements / bearing)
-7. Formal filament bypass (including position in selector array)
-8. Standardized layout so things like calibrating the selector is mostly automatic (the geometry is sufficiently fixed)
-9. Rationalize command line set in Happy Hare firmware for consistency
-10. Magnetically closed connector cover on encoder
-11. Reinforced gearbox assembly, preventing twisting with overtightened fasteners (@sneakytreesnake V2.3804)
-12. Filament passthrough integrated into filament block end as standard (@moggieuk V0.1503)
-13. Updated manual (@Miriax, @ningpj, @kinematicdigit
-14. High Quality Step-by-step CAD (@fizzy)
-15. New integrated passive buffer system (Cotton Tail by @kinematicdigit)
-16. Testing, Ideas and Quality (the whole team)
+
+<ol>
+Sturdy backbone (based on Sturdy Bunny by @sneakytreesnake V2.3804)
+Reliable encoder (based on Binky by @mneuhaus VT.483)
+Remove need for top hats with sprung servo (based on Springy by @moggieuk V0.1503 | V2.4088)
+Remove snag points on reverse filament flow (for EndlessSpool support)
+Improved gate mechanism to prevent filament slip back and removing magnetic gate (Triple Decky by @gneu V2.5345 and refined by Thumper Blocks by @kierantheman)
+Remove high wear parts / those prone to breakage (the servo arm improvements / bearing)
+Formal filament bypass (including position in selector array)
+Standardized layout so things like calibrating the selector is mostly automatic (the geometry is sufficiently fixed)
+Magnetically closed connector cover on encoder
+Reinforced gearbox assembly, preventing twisting with overtightened fasteners (@sneakytreesnake V2.3804)
+Filament passthrough integrated into filament block end as standard (@moggieuk V0.1503)
+Updated manual (@Miriax, @ningpj, @kinematicdigit
+High Quality Step-by-step CAD (@fizzy)
+New integrated passive buffer system (Cotton Tail by @kinematicdigit)
+Testing, Ideas and Quality (the whole team)
+</ol>
 
 ### Other (Possibly) Planned Companion Projects:
-* Pellet purge system to remove the need for the wipe tower and to unify tip creation to one place. Based on @bombela V2.4393 Assisted Purge System work
-* Filament cutter to avoid need to form tips
+<ul>
+  Pellet purge system to remove the need for the wipe tower and to unify tip creation to one place. Based on @bombela V2.4393 Assisted Purge System work
+  Filament cutter to avoid need to form tips
+</ul>
 
 ## BOM
 You can find a Bill of Material for the project here: [BOM](https://docs.google.com/spreadsheets/d/1HtVIu4yqzS6xJQr63-JKtMAh4Xq7wbtWPFeuiCnrnnE)
@@ -77,18 +81,19 @@ Note that the BOM also contains an upgrade list for those of you wanting to use 
 
 ## Acknowledgements
 Firstly and most importantly let me introduce the development and test team.  A project like this doesn't happen without hundreds of hours of volunteer effort and all of these are awesome.  Please give some :clap: :clap:
-
-* @moggieuk V0.1503 | V2.4088 (Mr Happy Hare)
-* @gneu V2.5345 (Filament block innovator)
-* @sneakytreesnake V2.3804 (The backbone!)
-* @mneuhaus VT.483 (Mr Binky)
-* @Miriax (Doc Demon)
-* @kinematicdigit (Mr Cotton Tail)
-* @ningpj (Tester and Breaker)
-* @fizzy (Master of CAD)
-* @kierantheman (Mr Thumper)
-* gsx8299 (Builder Extraordinaire)
-* @bombella (Purge system fame)
+<ul>
+  @moggieuk V0.1503 | V2.4088 (Mr Happy Hare)
+  @gneu V2.5345 (Filament block innovator)
+  @sneakytreesnake V2.3804 (The backbone!)
+  @mneuhaus VT.483 (Mr Binky)
+  @Miriax (Doc Demon)
+  @kinematicdigit (Mr Cotton Tail)
+  @ningpj (Tester and Breaker)
+  @fizzy (Master of CAD)
+  @kierantheman (Mr Thumper)
+  @gsx8299 (Builder Extraordinaire)
+  @bombella (Purge system fame)
+</ul>
 
 CAD Design Guidelines Used (in case you were interested) can be found: [here](/Assets/Dev_Notes.md)
 
