@@ -10,7 +10,7 @@ Please be careful sharing the link, as it grants edit permission.
 # ERCF v2 Community Project
 
 <p align="center">
-  <img src="need_ogo.jpg" alt='ERCFv2' width='30%'>
+  <img src="/Assets/ERCFv2.png" alt='ERCFv2' width='80%'>
   <h1 align="center">Voron ERCF v2</h1>
 </p>
 
