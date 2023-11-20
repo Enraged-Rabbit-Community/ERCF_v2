@@ -9,7 +9,31 @@ Please be careful sharing the link, as it grants edit permission.
 
 # ERCF v2 Community Project
 
-This is a community born project and major update to the Voron ERCF MMU project that was started a couple of years ago by Ette.  It is endorsed by Ette and the guiding philosophy wasn't to start again with a new MMU design but to refine what has already proven to be a very capable machine and push it to be the best it can be by simplifying construction, improving reliability and aligning as close as possible to v1.1 BOM. The project includes an optional integrated filament buffer system and a bit of bling!  It fully leverages the Happy Hare firware MMU control software and Klipper Screen entensions.
+<p align="center">
+  <img src="need_ogo.jpg" alt='ERCFv2' width='30%'>
+  <h1 align="center">ERCF v2</h1>
+</p>
+
+<p align="center">
+Voron MMU
+</p>
+
+<p align="center">
+  <a aria-label="Downloads" href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/releases">
+    <img src="https://img.shields.io/github/release/Enraged-Rabbit-Community/ERCF_v2?display_name=tag&style=flat-square">
+  </a>
+  <a aria-label="Stars" href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/stargazers">
+    <img src="https://img.shields.io/github/stars/Enraged-Rabbit-Community/ERCF_v2?style=flat-square">
+  </a>
+  <a aria-label="Forks" href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/network/members">
+    <img src="https://img.shields.io/github/forks/Enraged-Rabbit-Community/ERCF_v2?style=flat-square">
+  </a>
+  <a aria-label="License" href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/Enraged-Rabbit-Community/ERCF_v2?style=flat-square">
+  </a>
+</p>
+
+This is a community born project and major update to the Voron ERCF MMU that was started a couple of years ago by Ette.  It is endorsed by Ette and the guiding philosophy wasn't to start again with a new MMU design but to refine what has already proven to be a very capable machine and push it to be the best it can be by simplifying construction, improving reliability and aligning as close as possible to v1.1 BOM. The project includes an all new optional integrated filament buffer system (ERCT) and a bit of bling!  It fully leverages the Happy Hare firmware MMU control software and Klipper Screen entensions.
 
 ## Table of Content
 - [New Components](#changelog)
@@ -66,7 +90,7 @@ Firstly and most importantly let me introduce the development and test team.  A 
 * gsx8299 (Builder Extraordinaire)
 * @bombella (Purge system fame)
 
-CAD Design Guidelines Used (in case you were interested) can be found: [here](/Assets/Dev_Guide.md)
+CAD Design Guidelines Used (in case you were interested) can be found: [here](/Assets/Dev_Notes.md)
 
 ## Build Photos
 ![20231116_230501](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/3d18d3fe-b8f0-4750-8b06-f487ab54ef35)
