@@ -52,26 +52,21 @@ This is a community born project and major update to the Voron ERCF MMU that was
 If you are familar with ERCF v1.1 this will serve as an overview of changes:
 
 <ol>
-  <li>Sturdy backbone (based on Sturdy Bunny by @sneakytreesnake V2.3804)
-  <li>Reliable encoder (based on Binky by @mneuhaus VT.483)
-  <li>Remove need for top hats with sprung servo (based on Springy by @moggieuk V0.1503 | V2.4088)
-  <li>Remove snag points on reverse filament flow (for EndlessSpool support)
-  <li>Improved gate mechanism to prevent filament slip back and removing magnetic gate (Triple Decky by @gneu V2.5345 and refined by Thumper Blocks by @kierantheman)
-  <li>Remove high wear parts / those prone to breakage (the servo arm improvements / bearing)
-  <li>Formal filament bypass (including position in selector array)
-  <li>Standardized layout so things like calibrating the selector is mostly automatic (the geometry is sufficiently fixed)
-  <li>Magnetically closed connector cover on encoder
-  <li>Reinforced gearbox assembly, preventing twisting with overtightened fasteners (@sneakytreesnake V2.3804)
-  <li>Filament passthrough integrated into filament block end as standard (@moggieuk V0.1503)
-  <li>Updated manual (@Miriax, @ningpj, @kinematicdigit
-  <li>High Quality Step-by-step CAD (@fizzy)
-  <li>New integrated passive buffer system (Cotton Tail by @kinematicdigit)
-  <li>Testing, Ideas and Quality (the whole team)
+  <li>Sturdy backbone
+  <li>Reliable encoder
+  <li>Sprung servo instead of adjustable top hats
+  <li>Innovative 3-position servo design
+  <li>Filament trap in blocks instread of magnetic gates
+  <li>Formal filament bypass
+  <li>Reinforced gearbox assembly
+  <li>Updated manual
+  <li>High Quality Step-by-step CAD
+  <li>New integrated passive buffer system (Cotton Tail)
 </ol>
 
 ### Other (Possibly) Planned Companion Projects:
 <ul>
-  <li>Pellet purge system to remove the need for the wipe tower and to unify tip creation to one place. Based on @bombela V2.4393 Assisted Purge System work
+  <li>Pellet purge system to remove the need for the wipe tower
   <li>Filament cutter to avoid need to form tips
 </ul>
 
@@ -80,7 +75,7 @@ You can find a Bill of Material for the project here: [BOM](https://docs.google.
 Note that the BOM also contains an upgrade list for those of you wanting to use your existing ERCF v1.1 kits.
 
 ## Acknowledgements
-Firstly and most importantly let me introduce the development and test team.  A project like this doesn't happen without hundreds of hours of volunteer effort and all of these are awesome.  Please give some :clap: :clap:
+Firstly and most importantly let me introduce the development and test team.  A project like this doesn't happen without hundreds of hours of volunteer effort and all of these folks are awesome.  Please give some :clap: :clap: :clap:
 <ul>
   <li>@moggieuk V0.1503 | V2.4088 (Mr Happy Hare)
   <li>@gneu V2.5345 (Filament block innovator)
