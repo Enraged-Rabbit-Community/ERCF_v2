@@ -52,27 +52,27 @@ This is a community born project and major update to the Voron ERCF MMU that was
 If you are familar with ERCF v1.1 this will serve as an overview of changes:
 
 <ol>
-Sturdy backbone (based on Sturdy Bunny by @sneakytreesnake V2.3804)
-Reliable encoder (based on Binky by @mneuhaus VT.483)
-Remove need for top hats with sprung servo (based on Springy by @moggieuk V0.1503 | V2.4088)
-Remove snag points on reverse filament flow (for EndlessSpool support)
-Improved gate mechanism to prevent filament slip back and removing magnetic gate (Triple Decky by @gneu V2.5345 and refined by Thumper Blocks by @kierantheman)
-Remove high wear parts / those prone to breakage (the servo arm improvements / bearing)
-Formal filament bypass (including position in selector array)
-Standardized layout so things like calibrating the selector is mostly automatic (the geometry is sufficiently fixed)
-Magnetically closed connector cover on encoder
-Reinforced gearbox assembly, preventing twisting with overtightened fasteners (@sneakytreesnake V2.3804)
-Filament passthrough integrated into filament block end as standard (@moggieuk V0.1503)
-Updated manual (@Miriax, @ningpj, @kinematicdigit
-High Quality Step-by-step CAD (@fizzy)
-New integrated passive buffer system (Cotton Tail by @kinematicdigit)
-Testing, Ideas and Quality (the whole team)
+  <li>Sturdy backbone (based on Sturdy Bunny by @sneakytreesnake V2.3804)
+  <li>Reliable encoder (based on Binky by @mneuhaus VT.483)
+  <li>Remove need for top hats with sprung servo (based on Springy by @moggieuk V0.1503 | V2.4088)
+  <li>Remove snag points on reverse filament flow (for EndlessSpool support)
+  <li>Improved gate mechanism to prevent filament slip back and removing magnetic gate (Triple Decky by @gneu V2.5345 and refined by Thumper Blocks by @kierantheman)
+  <li>Remove high wear parts / those prone to breakage (the servo arm improvements / bearing)
+  <li>Formal filament bypass (including position in selector array)
+  <li>Standardized layout so things like calibrating the selector is mostly automatic (the geometry is sufficiently fixed)
+  <li>Magnetically closed connector cover on encoder
+  <li>Reinforced gearbox assembly, preventing twisting with overtightened fasteners (@sneakytreesnake V2.3804)
+  <li>Filament passthrough integrated into filament block end as standard (@moggieuk V0.1503)
+  <li>Updated manual (@Miriax, @ningpj, @kinematicdigit
+  <li>High Quality Step-by-step CAD (@fizzy)
+  <li>New integrated passive buffer system (Cotton Tail by @kinematicdigit)
+  <li>Testing, Ideas and Quality (the whole team)
 </ol>
 
 ### Other (Possibly) Planned Companion Projects:
 <ul>
-  Pellet purge system to remove the need for the wipe tower and to unify tip creation to one place. Based on @bombela V2.4393 Assisted Purge System work
-  Filament cutter to avoid need to form tips
+  <li>Pellet purge system to remove the need for the wipe tower and to unify tip creation to one place. Based on @bombela V2.4393 Assisted Purge System work
+  <li>Filament cutter to avoid need to form tips
 </ul>
 
 ## BOM
@@ -82,17 +82,17 @@ Note that the BOM also contains an upgrade list for those of you wanting to use 
 ## Acknowledgements
 Firstly and most importantly let me introduce the development and test team.  A project like this doesn't happen without hundreds of hours of volunteer effort and all of these are awesome.  Please give some :clap: :clap:
 <ul>
-  @moggieuk V0.1503 | V2.4088 (Mr Happy Hare)
-  @gneu V2.5345 (Filament block innovator)
-  @sneakytreesnake V2.3804 (The backbone!)
-  @mneuhaus VT.483 (Mr Binky)
-  @Miriax (Doc Demon)
-  @kinematicdigit (Mr Cotton Tail)
-  @ningpj (Tester and Breaker)
-  @fizzy (Master of CAD)
-  @kierantheman (Mr Thumper)
-  @gsx8299 (Builder Extraordinaire)
-  @bombella (Purge system fame)
+  <li>@moggieuk V0.1503 | V2.4088 (Mr Happy Hare)
+  <li>@gneu V2.5345 (Filament block innovator)
+  <li>@sneakytreesnake V2.3804 (The backbone!)
+  <li>@mneuhaus VT.483 (Mr Binky)
+  <li>@Miriax (Doc Demon)
+  <li>@kinematicdigit (Mr Cotton Tail)
+  <li>@ningpj (Tester and Breaker)
+  <li>@fizzy (Master of CAD)
+  <li>@kierantheman (Mr Thumper)
+  <li>@gsx8299 (Builder Extraordinaire)
+  <li>@bombella (Purge system fame)
 </ul>
 
 CAD Design Guidelines Used (in case you were interested) can be found: [here](/Assets/Dev_Notes.md)
