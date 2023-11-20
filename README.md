@@ -88,6 +88,7 @@ Firstly and most importantly let me introduce the development and test team.  A 
   <li>@kierantheman (Mr Thumper)
   <li>@gsx8299 (Builder Extraordinaire)
   <li>@bombella (Purge system fame)
+  <li>@fragmon (Video guru)
 </ul>
 
 CAD Design Guidelines Used (in case you were interested) can be found: [here](/Assets/Dev_Notes.md)
