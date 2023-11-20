@@ -11,11 +11,11 @@ Please be careful sharing the link, as it grants edit permission.
 
 <p align="center">
   <img src="need_ogo.jpg" alt='ERCFv2' width='30%'>
-  <h1 align="center">ERCF v2</h1>
+  <h1 align="center">Voron ERCF v2</h1>
 </p>
 
 <p align="center">
-Voron MMU
+MMU for Klipper based 3D-Printers
 </p>
 
 <p align="center">
