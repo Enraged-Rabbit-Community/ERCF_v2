@@ -36,9 +36,10 @@ MMU for Klipper based 3D-Printers
 This is a community born project and major update to the Voron ERCF MMU that was started a couple of years ago by Ette.  It is endorsed by Ette and the guiding philosophy wasn't to start again with a new MMU design but to refine what has already proven to be a very capable machine and push it to be the best it can be by simplifying construction, improving reliability and aligning as close as possible to v1.1 BOM. The project includes an all new optional integrated filament buffer system (ERCT) and a bit of bling!  It fully leverages the Happy Hare firmware MMU control software and Klipper Screen entensions.
 
 ## Table of Content
-- [New Components](#changelog)
+- [New Components](#new-components)
 - [BOM](#bom)
 - [Acknowledgements](#acknowledgements)
+- [Firmware](#firmware)
 - [Build Photos](#build-photos)
 - [Showroom](#showroom)
 - [Chagelog](#changelog)
@@ -91,7 +92,13 @@ Firstly and most importantly let me introduce the development and test team.  A 
   <li>@fragmon (Video guru)
 </ul>
 
-CAD Design Guidelines Used (in case you were interested) can be found: [here](/Assets/Dev_Notes.md)
+CAD Design Guidelines used in this project (in case you were interested) can be found: [here](/Assets/Dev_Notes.md)
+
+## Firmware
+ERCF is designed to be used with [Happy Hare](https://github.com/moggieuk/Happy-Hare) MMU firmware and can optionally be operated by [KlipperScreen](https://github.com/moggieuk/KlipperScreen-Happy-Hare-Edition) extension.
+<p align="center">
+  <img src="https://github.com/moggieuk/KlipperScreen-Happy-Hare-Edition/blob/master/docs/img/mmu/mmu_main.png" alt='KlipperScreen' width='40%'>
+</p>
 
 ## Build Photos
 ![20231116_230501](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/3d18d3fe-b8f0-4750-8b06-f487ab54ef35)
