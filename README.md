@@ -1,92 +1,74 @@
-# ERCF v2 Community Project
-
-This README is under construction.... (and represents internal developer notes at the momement)
-
-## BOM Quick Link
-[https://docs.google.com/spreadsheets/d/1HtVIu4yqzS6xJQr63-JKtMAh4Xq7wbtWPFeuiCnrnnE](https://docs.google.com/spreadsheets/d/1HtVIu4yqzS6xJQr63-JKtMAh4Xq7wbtWPFeuiCnrnnE)
-
-
-This is the, perhaps temporary, repository for community development of the next generation v2 Enraged Rabbit Carrot Feeder (ERCF). This project is endorsed by ERCF's creator Ette.  Thank you for an awesome project Ette!!
-
-## Manual Quick Link
+## TEMPORARY Manual Quick Link
 [https://docs.google.com/presentation/d/1GNcei5_qR5PPlFaxJqjTnTScKnyJQXV2OCJxBeb3A3g](https://docs.google.com/presentation/d/1GNcei5_qR5PPlFaxJqjTnTScKnyJQXV2OCJxBeb3A3g/edit?usp=sharing)
-
 
 This is the Google Slides document containing the ERCFv2 manual for community development. Currently, we are adding the content from the ERCF v1 manual with placeholder images. Once that is complete, we will move on to updating the manual and loading in update images.
 
 Please be careful sharing the link, as it grants edit permission.
 
-## Initial Development / Test Team:
-* @moggieuk V0.1503 | V2.4088
-* @gneu V2.5345
-* @sneakytreesnake V2.3804
-* @mneuhaus VT.483
-* @Miriax
-* @kinematicdigit
-* @ningpj
+---
 
+# ERCF v2 Community Project
 
-## Goals:
-- Simplify construction (without any significant additional costs)
-- Aim for out of the gate reliability (i.e. wider tolerance for certain parts)
-- Quicker set up time / less config
-- Align with current BOM and design as closely as possible.
+This is a community born project and major update to the Voron ERCF MMU project that was started a couple of years ago by Ette.  It is endorsed by Ette and the guiding philosophy wasn't to start again with a new MMU design but to refine what has already proven to be a very capable machine and push it to be the best it can be by simplifying construction, improving reliability and aligning as close as possible to v1.1 BOM. The project includes an optional integrated filament buffer system and a bit of bling!  It fully leverages the Happy Hare firware MMU control software and Klipper Screen entensions.
 
-
-## Components:
-1. Sturdy backbone (based on Sturdy Bunny from @sneakytreesnake V2.3804)
-2. Reliable encoder (based on Binky from @mneuhaus VT.483)
-3. Remove need for top hats with sprung servo (based on Springy from @moggieuk V0.1503 | V2.4088)
+## Table of Content
+- [New Components](#changelog)
+- [BOM](#bom)
+- [Acknowledgements](#acknowledgements)
+- [Build Photos](#build-photos)
+- [Showroom](#showroom)
+- [Chagelog](#changelog)
+<!--
+- [FAQ](https://github.com/EtteGit/EnragedRabbitProject/tree/main/Documentation/FAQ)
+  - [Carrot Patch](https://github.com/EtteGit/EnragedRabbitProject/blob/main/Documentation/FAQ/FAQ_ERCP.md)
+  - [Carrot Feeder](https://github.com/EtteGit/EnragedRabbitProject/blob/main/Documentation/FAQ/FAQ_ERCF.md)
+-->
+ 
+## New Components
+If you are familar with ERCF v1.1 this will serve as an overview of changes:
+1. Sturdy backbone (based on Sturdy Bunny by @sneakytreesnake V2.3804)
+2. Reliable encoder (based on Binky by @mneuhaus VT.483)
+3. Remove need for top hats with sprung servo (based on Springy by @moggieuk V0.1503 | V2.4088)
 4. Remove snag points on reverse filament flow (for EndlessSpool support)
-5. Improve gate mechanism so filament does not slip back through accidentally (perhaps removing the need for the magnetic gate?) (based on Triple Decky from @gneu V2.5345)
+5. Improved gate mechanism to prevent filament slip back and removing magnetic gate (Triple Decky by @gneu V2.5345 and refined by Thumper Blocks by @kierantheman)
 6. Remove high wear parts / those prone to breakage (the servo arm improvements / bearing)
 7. Formal filament bypass (including position in selector array)
 8. Standardized layout so things like calibrating the selector is mostly automatic (the geometry is sufficiently fixed)
-9. Rationalize command line set in Happy Hare for consistency
-10. Magnetically closed connector cover on encoder (the current one is prone to breaking)
+9. Rationalize command line set in Happy Hare firmware for consistency
+10. Magnetically closed connector cover on encoder
 11. Reinforced gearbox assembly, preventing twisting with overtightened fasteners (@sneakytreesnake V2.3804)
-12. Filament passthrough integrated into filament block end as standard (@moggieuk V0.1503 | V2.4088, @sneakytreesnake V2.3804) 
-13. Updated manual
+12. Filament passthrough integrated into filament block end as standard (@moggieuk V0.1503)
+13. Updated manual (@Miriax, @ningpj, @kinematicdigit
+14. High Quality Step-by-step CAD (@fizzy)
+15. New integrated passive buffer system (Cotton Tail by @kinematicdigit)
+16. Testing, Ideas and Quality (the whole team)
 
-
-## Other Planned Companion Projects:
-* ERCP v2 (new buffer system) which could be based on the auto rewind idea from @mneuhaus VT.483
+### Other (Possibly) Planned Companion Projects:
 * Pellet purge system to remove the need for the wipe tower and to unify tip creation to one place. Based on @bombela V2.4393 Assisted Purge System work
-* Idea: Integrated dIsplay / control panel.  Integrated low spec rpi running a further customized version of KlipperScreen that is solely for managing ERCF.  The pi could also drive ERCF motors and servo
+* Filament cutter to avoid need to form tips
 
-## CAD Design Guidelines
+## BOM
+You can find a Bill of Material for the project here: [BOM](https://docs.google.com/spreadsheets/d/1HtVIu4yqzS6xJQr63-JKtMAh4Xq7wbtWPFeuiCnrnnE)
+Note that the BOM also contains an upgrade list for those of you wanting to use your existing ERCF v1.1 kits.
 
-### Features
+## Acknowledgements
+Firstly and most importantly let me introduce the development and test team.  A project like this doesn't happen without hundreds of hours of volunteer effort and all of these are awesome.  Please give some :clap: :clap:
 
-* no overhangs over 45 degrees
-* no supports (unless they are absolutely needed, and if that's the case they must be built in to the part)
-* 0.4mm chamfer on surfaces that touch the print bed (and no fillets on the build surface--breaks the 45 degree overhang rule)
-* general "nice" aesthetic
-* Take note of part orientation to make sure the part is strong in the directions it needs to be.
-* Countersunk holes "overhanging" the print surface should have a chamfer on them or other method like that to prevent issues
-* Think about minimum perimeters/shells--try to avoid really thin features
-* Design with common screws/hardware in mind. Ie, stick with M3x6,8,12,16,20,25,30,35,40, M5x10,16,30,40 when possible (for V1/V2)
-* Counterbore bridging for holes [[1]](#counterbore)
-* always orient STLs such that no reorientation is necessary (stricter that just thinking about it in design)
-* consider fillets for all edges that are sharp and might be touched by people, 0.5-1.0 tends to be good
-* loose joints generally oversized by 0.3-0.4mm diameter for loose fit or 0.1mm for press fit. 3.4mm for M3 hardware, 5.4mm for M5 hardware
+* @moggieuk V0.1503 | V2.4088 (Mr Happy Hare)
+* @gneu V2.5345 (Filament block innovator)
+* @sneakytreesnake V2.3804 (The backbone!)
+* @mneuhaus VT.483 (Mr Binky)
+* @Miriax (Doc Demon)
+* @kinematicdigit (Mr Cotton Tail)
+* @ningpj (Tester and Breaker)
+* @fizzy (Master of CAD)
+* @kierantheman (Mr Thumper)
+* gsx8299 (Builder Extraordinaire)
+* @bombella (Purge system fame)
 
-### Screw Holes
-* Loose fit screw holes - Make the hole 0.4mm bigger
-* Thread into the plastic - Make the hole 0.1mm smaller
+CAD Design Guidelines Used (in case you were interested) can be found: [here](/Assets/Dev_Guide.md)
 
-### Press Fits/Bearings
-* Make the feature .2mm bigger. A 10mm diameter bearing would be 10.2mm [[3]](#press-fit)
-
-### Heatsets
-* Heatset holes should be 4.7mm in diameter
-* blind heatset holes should be 5mm deep
-* add a 0.4 chamfer to all heatsets entrance edges on build surface (helps with insertion)
-
-### References
-* [1] <a href="https://github.com/Finn2708/CounterboreBridging" id="counterbore">Fusion360 Counterbore Addon</a>
-
-### Photos
+## Build Photos
 ![20231116_230501](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/3d18d3fe-b8f0-4750-8b06-f487ab54ef35)
 ![20231116_211032](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/971ceefa-8946-438d-9de7-a26cfcdae56b)
 ![20231116_214903](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/5781d748-67eb-44f2-a793-cf8f4229b99f)
@@ -98,3 +80,11 @@ Please be careful sharing the link, as it grants edit permission.
 ![IMG_2443](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/147fb32d-f3e4-4365-b579-de3997274053)
 ![IMG_2444](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/6d84f624-84b9-4a88-ad7c-de2a09619397)
 ![IMG_2447](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/52122c6a-e28c-4bd7-a8a8-324b2cc9a74f)
+
+
+## Showroom
+<img src="Showroom/Spidermans.png" alt="Spidermans" width="950"/><img src="Showroom/NoS_Prints.png" alt="NoS_prints" width="950"/><img src="Showroom/BnE_Prints.png" alt="BnE_Prints" width="950"/><img src=Showroom/Bimaterial_logo.png alt="Voron Logo TPU" width="650"/><img src=Showroom/9_colors_test.png alt="9_colors_test" width="400"/>
+
+## Changelog
+TODO
+
