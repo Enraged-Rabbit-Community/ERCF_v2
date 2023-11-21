@@ -42,7 +42,7 @@ This is a community born project and major update to the Voron ERCF MMU that was
 - [Firmware](#firmware)
 - [Build Photos](#build-photos)
 - [Showroom](#showroom)
-- [Chagelog](#changelog)
+- [Changelog](#changelog)
 <!--
 - [FAQ](https://github.com/EtteGit/EnragedRabbitProject/tree/main/Documentation/FAQ)
   - [Carrot Patch](https://github.com/EtteGit/EnragedRabbitProject/blob/main/Documentation/FAQ/FAQ_ERCP.md)
