@@ -1,6 +1,8 @@
 # Enraged Rabbit Cotton Tail
 
-![](https://raw.githubusercontent.com/Enraged-Rabbit-Community/ERCF_v2/master/Options/ERCF_Buffer/Assets/heroimage_ERCT.png?token=GHSAT0AAAAAACGHVUJM2IJEOBFTAQRPIBOQZKUMFWQ)
+<p align="center">
+  <img src="Assets/heroimage_ERCT.png" alt='ERCT' width='70%'>
+</p>
 
 ## Introduction
 
