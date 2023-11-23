@@ -73,7 +73,7 @@ When an MMU changes tool the unloaded filament needs to be thoughtfully managed 
 
 ERCT also incorporates a neopixel on each gate that, when driven by the Happy Hare firmware, provides both functional feedback as well as the necessary "bling".  Enjoy!
 
-[Find out more](Options/ERCT_Buffer/ERCT.md)
+<img src="Options/ERCT_Buffer/Assets/heroimage_ERCT.png" alt='ERCT' width='30%'> [Read more](Options/ERCT_Buffer/ERCT.md)
 
 ### Enraged Rabbit Filametrix (ERF)
 When an MMU changes tool the unloaded filament needs to be thoughtfully managed so that is doesn't tangle. The Enraged Rabbit Cotton Tail (ERCT) buffer system is a designed to attach directly to ERCF V2. It is a passive system that optimizes space and is also designed to reduce resistance in the filament path, creating a consistent system for calibration and reliable operation.
