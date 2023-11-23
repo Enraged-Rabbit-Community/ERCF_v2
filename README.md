@@ -107,7 +107,7 @@ Most importantly let me introduce the development and test team.  A project like
   <li>@mneuhaus VT.483 (Mr Binky)
   <li>@Miriax (Doc Demon)
   <li>@kinematicdigit (Mr Cotton Tail)
-  <li>@ningpj (Tester and Breaker)
+  <li>@ningpj (Tester, Breaker, & Doc's)
   <li>@fizzy (Master of CAD)
   <li>@kierantheman (Mr Thumper)
   <li>@gsx8299 (Test Builder Extraordinaire)
