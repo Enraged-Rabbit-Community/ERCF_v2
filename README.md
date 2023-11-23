@@ -78,7 +78,7 @@ ERCT also incorporates a neopixel on each gate that, when driven by the Happy Ha
 ### Enraged Rabbit Filametrix (ERF)
 When an MMU changes tool the unloaded filament needs to be thoughtfully managed so that is doesn't tangle. The Enraged Rabbit Cotton Tail (ERCT) buffer system is a designed to attach directly to ERCF V2. It is a passive system that optimizes space and is also designed to reduce resistance in the filament path, creating a consistent system for calibration and reliable operation.
 
-<img src="Options/Filament_Cutter/Assets/ERF.png" alt='ERF' width='30%'> [Read more](Options/Filament_Cutter/Assets/ERF.md)
+<img src="Options/ERF_Filament_Cutter/Assets/ERF.png" alt='ERF' width='30%'> [Read more](Options/ERF_Filament_Cutter/Assets/ERF.md)
 
 ### Toolhead Sensors
 ERCF can be operated without a toolhead sensor (filament detection) in the toolhead but it is not recommended. A toolhead sensor provides an accurate homing point very close to the nozzle but also adds reliability to the tool change process. ERCF includes a set of toolhead sensor modifications for popular extruders. These work reliably through coupling a microswitch to the filament path.
