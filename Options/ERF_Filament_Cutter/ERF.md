@@ -1,6 +1,6 @@
 # Enranged Rabbit Filametrix Filament Cutter
 
-This is a mod of the Voron Stealthburner which adds a filament cutting possibility!
+This is a mod to various toolheads that add a filament cutting possibility rather than having to tune the traditional tip forming process.
 
 ![Image](https://user-images.githubusercontent.com/83211473/235375660-0192f0ec-643e-4637-aa77-7b43cf537856.png)
 ![image](https://github.com/sorted01/Filametrix/assets/83211473/0ce0be5b-109b-4fe7-905f-fe22846c1f3a)
@@ -171,11 +171,6 @@ If you are using a gantry servo, remove the hashtags related to "gantry_servo"s 
 
 
 
-
 #### Optional Next location
 The _MMU_CUT_TIP now has an option to move to a "next location" immediately after making the cut. For instance,  set it to the purge tower's location from the slicer. The _SET_LOC_AFTER_TOOLCHANGE sets this location, and the _MMU_CUT_TIP macro will be responsible for traveling immediately after the cut but prior to the unload. See the orcaslicer's toolchange gcode two messages down as an example. If you don't plan to use it, it's safe to ignore this point.
 ![image](https://github.com/sorted01/Filametrix/assets/83211473/7356e881-aa94-4ef5-a443-2704a1233318)
-
-
-
-
