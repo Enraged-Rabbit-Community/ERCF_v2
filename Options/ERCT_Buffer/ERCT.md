@@ -1,6 +1,8 @@
 # Enraged Rabbit Cotton Tail
 
-![](https://raw.githubusercontent.com/Enraged-Rabbit-Community/ERCF_v2/master/Stls/Buffer/ERCT/IMG/heroimage_ERCT.png?token=GHSAT0AAAAAACGHVUJM2IJEOBFTAQRPIBOQZKUMFWQ)
+<p align="center">
+  <img src="Assets/heroimage_ERCT.png" alt='ERCT' width='70%'>
+</p>
 
 ## Introduction
 
@@ -22,7 +24,7 @@ This system is also designed to reduce the buffer length, while the loops are de
 
 ## Acknowledgements
 
-I designed ERCT to simplify the buffer design and integrate cleanly with ERCF, TripleDecky, Sturdy Bunny, Happy Hare Springy, and Binky mods. This has since evolved into the second generation of ERCF and is now included in this. I thank the entire team from the ERCF V2 team. and especially Moggie, for bringing me into the team. I also have my home server, Fizzy's Tech, on Discord to thank for the countless support and hosting of the Beta development on that server. Jose from Fizzy's Tech was instrumental in this development as he was part of the system's early development and early testing. There are numerous testers who have helped as well, making suggestions throughout the beta cycle. I want to give a special shout-out to Wolffy01 and gsx8299 for their contributions to ideas, testing and mods.&#x20;
+ERCT was designed to simplify the buffer design and integrate cleanly with ERCF, TripleDecky, Sturdy Bunny, Springy, and Binky mods. This has since evolved into the second generation and become part of ERCFv2. I thank the entire team from the ERCF V2 team. and especially Moggie, for bringing me into the team. I also have my home server, Fizzy's Tech, on Discord to thank for the countless support and hosting of the Beta development on that server. Jose from Fizzy's Tech was instrumental in this development as he was part of the system's early development and early testing. There are numerous testers who have helped as well, making suggestions throughout the beta cycle. I want to give a special shout-out to Wolffy01 and gsx8299 for their contributions to ideas, testing and mods.&#x20;
 
 Questions related to this buffer can be directed at <https://discord.com/channels/460117602945990666/909743915475816458> or you may visit my home server at <https://discord.gg/Gs2vAtK7T7>
 
@@ -114,14 +116,15 @@ The rest of the parts can be printed with 20-30% gyroid infill.
 | <img src="https://media.discordapp.net/attachments/1165841694273585234/1166585244951003146/IMG_6678.jpg?ex=654b062c&is=6538912c&hm=63cdd9fa9454be9187e00e98c48cabcb1d775c086cf25a594265531e41c355fd&=&width=1118&height=1492" /> | Feed back into the tube located there.                                                                                                                                                                                                                                              |
 | <img src="https://media.discordapp.net/attachments/1165841694273585234/1166585245936660491/IMG_6679.jpg?ex=654b062c&is=6538912c&hm=e3c76bf88213eddcc9221ea91ed7ac1a73a6be620f368cd6a0f2d5fd51f3a63c&=&width=1118&height=1492" /> | It will feed through, and you should feel some resistance from the trap; press on the top hat to help it through.                                                                                                                                                                   |
 | <img src="https://media.discordapp.net/attachments/1165841694273585234/1166585620139884646/IMG_6680.jpg?ex=654b0685&is=65389185&hm=7568a71a55eee9097aa165998a36d50d42a99aebba1663cac728e537cc36b351&=&width=1118&height=1492" /> | The final step is to push the filament flush to the opening so it doesn’t catch on the selector. That’s it. Load it all up, and away you go!                                                                                                                                        |
-PHOTOS![IMG_2493](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/48101ea5-40e3-46d4-ac59-74eebbf196bc)
-![IMG_2483](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/2d91d352-24d3-4ddc-833f-a6f3b92258be)
-![IMG_2489](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/ff55bdee-60af-4938-a4cf-9ce11b47ecf4)
-![IMG_2492](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/ff998508-cefc-4be5-8a85-e9b62c6e36b8)
-![IMG_2510](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/4bb285ab-83b4-4b69-bfa0-87bed2e422ed)
-![IMG_2490](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/43f286ea-291f-41d3-8505-4d7bd59be999)
-![IMG_2509](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/33f84eb6-6206-440d-a60b-9b55584d5f7f)
-![IMG_2511](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/9e1eaa7a-8ec8-4ea0-9568-668f161f43d8)
-![IMG_2508](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/cbbae386-c956-4c65-a5fa-570d8a73c641)
-![IMG_2507](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/4f16cf5e-674e-48b0-902e-61cc494eb955)
-![IMG_2506](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/91a64ea9-a506-4a22-a7f1-140e91702d0a)
+PHOTOS![IMG_2493](https://github.com/Enraged-Rabbit-Community/ERCF_v2/Options/ERCT_Buffer/Assets/121695166/48101ea5-40e3-46d4-ac59-74eebbf196bc)
+![IMG_2483](https://github.com/Enraged-Rabbit-Community/ERCF_v2/Options/ERCT_Buffer/Assets/121695166/2d91d352-24d3-4ddc-833f-a6f3b92258be)
+![IMG_2489](https://github.com/Enraged-Rabbit-Community/ERCF_v2/Options/ERCT_Buffer/Assets/121695166/ff55bdee-60af-4938-a4cf-9ce11b47ecf4)
+![IMG_2492](https://github.com/Enraged-Rabbit-Community/ERCF_v2/Options/ERCT_Buffer/Assets/121695166/ff998508-cefc-4be5-8a85-e9b62c6e36b8)
+![IMG_2510](https://github.com/Enraged-Rabbit-Community/ERCF_v2/Options/ERCT_Buffer/Assets/121695166/4bb285ab-83b4-4b69-bfa0-87bed2e422ed)
+![IMG_2490](https://github.com/Enraged-Rabbit-Community/ERCF_v2/Options/ERCT_Buffer/Assets/121695166/43f286ea-291f-41d3-8505-4d7bd59be999)
+![IMG_2509](https://github.com/Enraged-Rabbit-Community/ERCF_v2/Options/ERCT_Buffer/Assets/121695166/33f84eb6-6206-440d-a60b-9b55584d5f7f)
+![IMG_2511](https://github.com/Enraged-Rabbit-Community/ERCF_v2/Options/ERCT_Buffer/Assets/121695166/9e1eaa7a-8ec8-4ea0-9568-668f161f43d8)
+![IMG_2508](https://github.com/Enraged-Rabbit-Community/ERCF_v2/Options/ERCT_Buffer/Assets/121695166/cbbae386-c956-4c65-a5fa-570d8a73c641)
+![IMG_2507](https://github.com/Enraged-Rabbit-Community/ERCF_v2/Options/ERCT_Buffer/Assets/121695166/4f16cf5e-674e-48b0-902e-61cc494eb955)
+![IMG_2506](https://github.com/Enraged-Rabbit-Community/ERCF_v2/Options/ERCT_Buffer/Assets/121695166/91a64ea9-a506-4a22-a7f1-140e91702d0a)
+
