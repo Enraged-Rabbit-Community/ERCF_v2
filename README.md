@@ -33,7 +33,15 @@ An expandable MMU for Klipper based 3D-Printers
   </a>
 </p>
 
-This is a community born project and major update to the Voron ERCF MMU that was started a couple of years ago by Ette.  It is endorsed by Ette and the guiding philosophy wasn't to start again with a new MMU design but to refine what has already proven to be a very capable machine and push it to be the best it can be by simplifying construction, improving reliability and aligning as close as possible to v1.1 BOM. However the project includes an all new optional integrated filament buffer system (ERCT) and a bit of bling, filament cutter option (ERF) and a collection of toolhead sensor modifications. It fully leverages the Happy Hare firmware MMU control software and Klipper Screen entensions.
+<br>
+
+<table>
+<tr>
+<td> <img src="/Assets/Enraged_Rabbit_v2.png" alt='RabbitV2' width='100%'></td>
+<td>
+This is a community born project and major update to the Voron ERCF MMU that was started a couple of years ago by Ette.  It is endorsed by Ette and the guiding philosophy wasn't to start again with a new MMU design but to refine what has already proven to be a very capable machine and push it to be the best it can be by simplifying construction, improving reliability and aligning as close as possible to v1.1 BOM. However the project includes an all new optional integrated filament buffer system (ERCT) and a bit of bling, filament cutter option (ERF) and a collection of toolhead sensor modifications. It fully leverages the Happy Hare firmware MMU control software and Klipper Screen entensions.</td>
+</tr>
+</table>
 
 ## Table of Content
 - [ERCF Changes since V1.1](#enraged_rabbit_carrot_feeder_ercf)
