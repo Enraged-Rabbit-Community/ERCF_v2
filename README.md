@@ -63,22 +63,23 @@ There are a rapidly growing list of MMUs in the market place from the mass produ
 -->
 
 ## Enraged Rabbit Carrot Feeder (ERCF)
-If you are familar with ERCF v1.1 this will serve as an overview of changes:
+If you are familar with ERCF v1.1 this will serve as an overview of updates:
 <ol>
-  <li>Sturdy backbone
+  <li>Sturdy backbone - no more flex
   <li>Reliable encoder
   <li>Sprung servo instead of adjustable top hats
   <li>Innovative 3-position servo design
   <li>Filament trap in blocks instread of magnetic gates
   <li>Formal filament bypass
   <li>Reinforced gearbox assembly
-  <li>Updated manual
+  <li>Beautifully illustrated Manual
   <li>High Quality Step-by-step CAD
   <li>New integrated passive buffer system (Cotton Tail)
+  <li>Reliable tips with companion Filament cutter
 </ol>
  
 ## Optional Components
-<i>(although you might see variations of these projects elsewhere, consider this the integrated and guaranteed ERCF compable source)</i>
+<i>(although you might see variations of these projects elsewhere, consider this the new integrated and guaranteed ERCF compatable source)</i>
 
 ### Enraged Rabbit Cotton Tail (ERCT)
 When an MMU changes tool the unloaded filament needs to be thoughtfully managed so that is doesn't tangle. The Enraged Rabbit Cotton Tail (ERCT) buffer system is designed to attach directly to ERCF V2. It is a passive system that optimizes space and is also designed to reduce resistance in the filament path, creating a consistent system for calibration.
