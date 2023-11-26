@@ -37,9 +37,13 @@ An expandable MMU for Klipper based 3D-Printers
 
 <table>
 <tr>
-<td> <img src="/Assets/Enraged_Rabbit_v2.png" alt='RabbitV2' width='100%'></td>
+<td width=30%> <img src="/Assets/Enraged_Rabbit_v2.png" alt='RabbitV2'></td>
 <td>
-This is a community born project and major update to the Voron ERCF MMU that was started a couple of years ago by Ette.  It is endorsed by Ette and the guiding philosophy wasn't to start again with a new MMU design but to refine what has already proven to be a very capable machine and push it to be the best it can be by simplifying construction, improving reliability and aligning as close as possible to v1.1 BOM. However the project includes an all new optional integrated filament buffer system (ERCT) and a bit of bling, filament cutter option (ERF) and a collection of toolhead sensor modifications. It fully leverages the Happy Hare firmware MMU control software and Klipper Screen entensions.</td>
+This is a community born project and major update to the Voron ERCF MMU that was started a couple of years ago by Ette.  It is endorsed by Ette and the guiding philosophy wasn't to start again with a new MMU design but to refine what has already proven to be a very capable machine and push it to be the best it can be by simplifying construction, improving reliability and aligning as close as possible to v1.1 BOM. However the project includes an all new optional integrated filament buffer system (ERCT) and a bit of bling, filament cutter option (ERF) and a collection of toolhead sensor modifications. It fully leverages the Happy Hare firmware MMU control software and Klipper Screen entensions.
+<p>
+  
+There are a rapidly growing list of MMUs in the market place from the mass produced "Fords" who pioneered the market to the "Toyotas" that are more recent efficient engineering feats but somehow lack soul. We consider ERCFv2 the "BMW" - a little over engineered perhaps but destinctively cool and built to last.  We hope you enjoy!
+</td>
 </tr>
 </table>
 
@@ -59,22 +63,23 @@ This is a community born project and major update to the Voron ERCF MMU that was
 -->
 
 ## Enraged Rabbit Carrot Feeder (ERCF)
-If you are familar with ERCF v1.1 this will serve as an overview of changes:
+If you are familar with ERCF v1.1 this will serve as an overview of updates:
 <ol>
-  <li>Sturdy backbone
+  <li>Sturdy backbone - no more flex
   <li>Reliable encoder
   <li>Sprung servo instead of adjustable top hats
   <li>Innovative 3-position servo design
   <li>Filament trap in blocks instread of magnetic gates
   <li>Formal filament bypass
   <li>Reinforced gearbox assembly
-  <li>Updated manual
+  <li>Beautifully illustrated Manual
   <li>High Quality Step-by-step CAD
   <li>New integrated passive buffer system (Cotton Tail)
+  <li>Reliable tips with companion Filament cutter
 </ol>
  
 ## Optional Components
-<i>(although you might see variations of these projects elsewhere, consider this the integrated and guaranteed ERCF compable source)</i>
+<i>(although you might see variations of these projects elsewhere, consider this the new integrated and guaranteed ERCF compatable source)</i>
 
 ### Enraged Rabbit Cotton Tail (ERCT)
 When an MMU changes tool the unloaded filament needs to be thoughtfully managed so that is doesn't tangle. The Enraged Rabbit Cotton Tail (ERCT) buffer system is designed to attach directly to ERCF V2. It is a passive system that optimizes space and is also designed to reduce resistance in the filament path, creating a consistent system for calibration.
