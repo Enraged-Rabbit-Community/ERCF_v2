@@ -4,7 +4,7 @@
 This is a mod to various toolheads that add a filament cutting possibility rather than having to tune the traditional tip forming process.
 
 ![Image](Assets/ERF.png)
-![image](Assets/ERF2.png
+![image](Assets/ERF2.png)
 
 ### Main Body
 #### Main Body with Filamentsensor Option has been added.
