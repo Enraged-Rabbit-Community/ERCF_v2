@@ -82,16 +82,37 @@ If you are familar with ERCF v1.1 this will serve as an overview of updates:
 <i>(although you might see variations of these projects elsewhere, consider this the new integrated and guaranteed ERCF compatable source)</i>
 
 ### Enraged Rabbit Cotton Tail (ERCT)
+<table>
+<tr>
+<td width=30%><img src="Options/ERCT_Buffer/Assets/heroimage_ERCT.png" alt='ERCT'></td>
+<td>
 When an MMU changes tool the unloaded filament needs to be thoughtfully managed so that is doesn't tangle. The Enraged Rabbit Cotton Tail (ERCT) buffer system is designed to attach directly to ERCF V2. It is a passive system that optimizes space and is also designed to reduce resistance in the filament path, creating a consistent system for calibration.
+<p>
 
 ERCT also incorporates a neopixel on each gate that, when driven by the Happy Hare firmware, provides both functional feedback as well as the necessary "bling".  Enjoy!
+<p>
 
-<img src="Options/ERCT_Buffer/Assets/heroimage_ERCT.png" alt='ERCT' width='40%'> [Read more](Options/ERCT_Buffer/ERCT.md)
+[Read more](Options/ERCT_Buffer/ERCT.md)
+</td>
+</tr>
+</table>
 
 ### Enraged Rabbit Filametrix (ERF)
-When an MMU changes tool the unloaded filament needs to be thoughtfully managed so that is doesn't tangle. The Enraged Rabbit Cotton Tail (ERCT) buffer system is a designed to attach directly to ERCF V2. It is a passive system that optimizes space and is also designed to reduce resistance in the filament path, creating a consistent system for calibration and reliable operation.
+<table>
+<tr>
+<td>
+Before the MMU can unload a filament it must prepare the tip so that it can be cleanly loaded next time.  This tip forming process is very difficult to tune and varies based on material type, temperature, hotend type and even weather!  Introducing Enraged Rabbit Filametrix (ERF) filament cutting system.  This lightweight addition to your Stealthburner toolhead adds a cutting blade.  When retracting the problematic tip of the filament is simply cut off for perfect tips and no jams.
+<p>
 
-<img src="Options/ERF_Filament_Cutter/Assets/ERF.png" alt='ERF' width='40%'> [Read more](Options/ERF_Filament_Cutter/ERF.md)
+ERF also supports an optional servo operated ganrtry activation pin so no print area is lost with this addition. ERF designs also include the recommended integrated toolhead sensor
+<p>
+
+[Read more](Options/ERF_Filament_Cutter/ERF.md)
+</td>
+<td width=30%><img src="Options/ERF_Filament_Cutter/Assets/ERF.png" alt='ERF' width='40%'></td>
+</tr>
+</table>
+
 
 ### Toolhead Sensors
 ERCF can be operated without a toolhead sensor (filament detection) in the toolhead but it is not recommended. A toolhead sensor provides an accurate homing point very close to the nozzle but also adds reliability to the tool change process. ERCF includes a set of toolhead sensor modifications for popular extruders. These work reliably through coupling a microswitch to the filament path.
@@ -102,10 +123,20 @@ ERCF can be operated without a toolhead sensor (filament detection) in the toolh
 </ul>
 
 ## Firmware
-ERCF is designed to be used with [Happy Hare](https://github.com/moggieuk/Happy-Hare) MMU firmware for Klipper and can optionally be operated by [KlipperScreen](https://github.com/moggieuk/KlipperScreen-Happy-Hare-Edition) extension.
-<p align="center">
-  <img src="https://github.com/moggieuk/KlipperScreen-Happy-Hare-Edition/blob/master/docs/img/mmu/mmu_main.png" alt='KlipperScreen' width='40%'>
-</p>
+<table>
+<tr>
+<td width=30%><img src="https://github.com/moggieuk/KlipperScreen-Happy-Hare-Edition/blob/master/docs/img/mmu/mmu_main.png" alt='KlipperScreen'></td>
+<td>
+ERCF is designed to be used with the Happy Hare MMU firmware for Klipper which adds a set of klipper extensions for configuration setup, testing and operation of ERCF. These commands are available through the command line or macros but are perhaps best operated with an interactive UI with the optional KlipperScreen extension.
+<p>
+
+Happy Hare provides an easy installation script which had knowledge of recommended settings and will greatly accelarate the setup process.
+<p>
+
+[Happy Hare](https://github.com/moggieuk/Happy-Hare) [KlipperScreen](https://github.com/moggieuk/KlipperScreen-Happy-Hare-Edition)
+</td>
+</tr>
+</table>
 
 ## BOM
 You can find a Bill of Material for the project and options here: [BOM](https://docs.google.com/spreadsheets/d/1HtVIu4yqzS6xJQr63-JKtMAh4Xq7wbtWPFeuiCnrnnE)
