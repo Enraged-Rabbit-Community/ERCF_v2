@@ -122,9 +122,9 @@ Most importantly let me introduce the development, test and doc team.  A project
   <li>@kinematicdigit (Mr Cotton Tail & Doc Illustrator)
   <li>@ningpj (Tester, Breaker & Doc's)
   <li>@fizzy (King of CAD)
-  <li>@kierantheman (Mr Thumper)
   <li>@gsx8299 (Test Builder Extraordinaire)
   <li>@sorted (Filametix "don't get enraged" filament cutting system)
+  <li>@kierantheman (Mr Thumper)
 </ul>
 
 ## Changelog
