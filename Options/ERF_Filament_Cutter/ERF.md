@@ -1,4 +1,5 @@
 # Enranged Rabbit Filametrix Filament Cutter
+![image](https://github.com/sorted01/Filametrix/assets/83211473/e81932d6-eaea-4e42-b224-81416cab5d39)
 
 This is a mod to various toolheads that add a filament cutting possibility rather than having to tune the traditional tip forming process.
 
