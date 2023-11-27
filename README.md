@@ -39,10 +39,10 @@ An expandable MMU for Klipper based 3D-Printers
 <tr>
 <td width=30%> <img src="/Assets/Enraged_Rabbit_v2.png" alt='RabbitV2'></td>
 <td>
-This is a community born project and major update to the Voron ERCF MMU that was started a couple of years ago by Ette.  It is endorsed by Ette and the guiding philosophy wasn't to start again with a new MMU design but to refine what has already proven to be a very capable machine and push it to be the best it can be by simplifying construction, improving reliability and aligning as close as possible to v1.1 BOM. However the project includes an all new optional integrated filament buffer system (ERCT) and a bit of bling, filament cutter option (ERF) and a collection of toolhead sensor modifications. It fully leverages the Happy Hare firmware MMU control software and Klipper Screen entensions.
+This is a community born project and major update to the Voron ERCF MMU that was started a couple of years ago by Ette.  It is endorsed by Ette and the guiding philosophy wasn't to start again with a new MMU design but to refine what has already proven to be a very capable machine and push it to be the best it can be by simplifying problematic construction, improving reliability and aligning as close as possible to v1.1 BOM. However the project includes an all new optional integrated filament buffer system (ERCT), filament cutter option (ERF), a collection of recommended toolhead sensor modifications and a bit of Bling! It fully leverages the Happy Hare firmware MMU control software with Klipper Screen entensions.
 <p>
   
-There are a rapidly growing list of MMUs in the market place from the mass produced "Fords" who pioneered the market to the "Toyotas" that are more recent efficient engineering feats but somehow lack soul. We consider ERCFv2 the "BMW" - a little over engineered perhaps but destinctively cool and built to last.  We hope you enjoy!
+There are a rapidly growing list of MMUs in the market place from the mass produced "Fords" who pioneered the market to the "Toyotas" that are more recent efficient engineering feats but somehow lack soul. We consider ERCFv2 the "BMW" - a little over engineered perhaps but destinctively cool and you feel good drving it.  We hope you enjoy!
 </td>
 </tr>
 </table>
@@ -112,21 +112,19 @@ You can find a Bill of Material for the project and options here: [BOM](https://
 Note that the BOM also contains an upgrade list for those of you wanting to use your existing ERCF v1.1 kits.
 
 ## Acknowledgements
-Most importantly let me introduce the development and test team.  A project like this doesn't happen without hundreds of hours of volunteer effort and all of these folks are awesome.  Please give some :clap: :clap: :clap:
+Most importantly let me introduce the development, test and doc team.  A project like this doesn't happen without hundreds of hours of volunteer effort and all of these folks are truely awesome.  Please give some :clap: :clap: :clap:
 <ul>
   <li>@moggieuk V0.1503 | V2.4088 (Mr Happy Hare & Chief whip)
   <li>@gneu V2.5345 (Filament block innovator)
   <li>@sneakytreesnake V2.3804 (The project backbone!)
   <li>@mneuhaus VT.483 (Mr Binky)
-  <li>@Miriax (Doc Demon)
-  <li>@kinematicdigit (Mr Cotton Tail)
-  <li>@ningpj (Tester, Breaker, & Doc's)
-  <li>@fizzy (Master of CAD)
-  <li>@kierantheman (Mr Thumper)
+  <li>@Miriax (Designer & Doc Demon)
+  <li>@kinematicdigit (Mr Cotton Tail & Doc Illustrator)
+  <li>@ningpj (Tester, Breaker & Doc's)
+  <li>@fizzy (King of CAD)
   <li>@gsx8299 (Test Builder Extraordinaire)
   <li>@sorted (Filametix "don't get enraged" filament cutting system)
-  <li>@bombella (Purge system experimenter)
-  <li>@fragmon (Video guru)
+  <li>@kierantheman (Mr Thumper)
 </ul>
 
 ## Changelog
