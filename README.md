@@ -53,6 +53,7 @@ There are a rapidly growing list of MMUs in the market place from the mass produ
 - [Firmware](#firmware)
 - [Documentation](#documentation)
 - [BOM](#bom)
+- [CAD](#cad)
 - [Acknowledgements](#acknowledgements)
 - [Changelog](#changelog)
 - [Build Photos](#build-photos)
@@ -171,6 +172,21 @@ Building something as complex as an MMU is a challenging undertaking but ERCFv2 
 ## BOM
 You can find a Bill of Material for the project and options here: [BOM](https://docs.google.com/spreadsheets/d/1HtVIu4yqzS6xJQr63-JKtMAh4Xq7wbtWPFeuiCnrnnE)
 Note that the BOM also contains an upgrade list for those of you wanting to use your existing ERCF v1.1 kits.
+
+<br>
+
+## CAD
+<table>
+<tr>
+<td width=30%><img src="Assets/CAD.png" alt='ERCF Master CAD'></td>
+<td>
+A lot of work has gone into creating a quality CAD model of the project carefully organized into folders that match the documentation!  It is hightly recommended that you open the CAD and hide every folder and then expose them one at a time as you work through the build.
+<p>
+
+[Master CAD](CAD/ERCF_v2.step)
+</td>
+</tr>
+</table>
 
 <br>
 
