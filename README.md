@@ -37,7 +37,7 @@ An expandable MMU for Klipper based 3D-Printers
 
 <table>
 <tr>
-<td width=30%> <img src="/Assets/Enraged_Rabbit_v2.png" alt='RabbitV2'></td>
+<td width=30%><img src="/Assets/Enraged_Rabbit_v2.png" alt='RabbitV2'></td>
 <td>
 This is a community born project and major update to the Voron ERCF MMU that was started a couple of years ago by Ette.  It is endorsed by Ette and the guiding philosophy wasn't to start again with a new MMU design but to refine what has already proven to be a very capable machine and push it to be the best it can be by simplifying problematic construction, improving reliability and aligning as close as possible to v1.1 BOM. However the project includes an all new optional integrated filament buffer system (ERCT), filament cutter option (ERF), a collection of recommended toolhead sensor modifications and a bit of Bling! It fully leverages the Happy Hare firmware MMU control software with Klipper Screen entensions.
 <p>
@@ -51,6 +51,7 @@ There are a rapidly growing list of MMUs in the market place from the mass produ
 - [ERCF Changes since V1.1](#enraged_rabbit_carrot_feeder_ercf)
 - [Optional Components](#optional_components)
 - [Firmware](#firmware)
+- [Documentation](#documentation)
 - [BOM](#bom)
 - [Acknowledgements](#acknowledgements)
 - [Changelog](#changelog)
@@ -65,7 +66,10 @@ There are a rapidly growing list of MMUs in the market place from the mass produ
 <br>
 
 ## Enraged Rabbit Carrot Feeder (ERCF)
-If you are familar with ERCF v1.1 this will serve as an overview of updates:
+<table>
+<tr>
+<td width=40%><img src="/Assets/ERCFv2.png">An MMU or Multimaterial Unit/Upgrade allows for the automatic change of filaments on your 3D printer.  You can use it to create beautiful multi-colored prints or, if you're lazy, simply to avoid loading filament by hand. If you are familar with ERCF v1.1 this will serve as an overview of updates:</td>
+<td>
 <ol>
   <li>Sturdy backbone - no more flex
   <li>Reliable (and custom) encoder design
@@ -75,10 +79,13 @@ If you are familar with ERCF v1.1 this will serve as an overview of updates:
   <li>Reinforced gearbox assembly
   <li>Beautifully illustrated Manual
   <li>High Quality Step-by-step CAD
-  <li>New integrated passive buffer system (Cotton Tail)
+  <li>New integrated (minimal friction) passive buffer system (Cotton Tail)
   <li>Reliable tips with companion Filament cutter
   <li>Both functional and asthetic LED status indication option. Aka Bling!
 </ol>
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -141,6 +148,21 @@ Happy Hare provides an easy installation script which has knowledge of recommend
 
 [Happy Hare](https://github.com/moggieuk/Happy-Hare) &nbsp;&nbsp; [KlipperScreen](https://github.com/moggieuk/KlipperScreen-Happy-Hare-Edition)
 </td>
+</tr>
+</table>
+
+<br>
+
+## Documentation
+<table>
+<tr>
+<td>
+Building something as complex as an MMU is a challenging undertaking but ERCFv2 project contains an amazingly detailed and illustrated manual with step-by-step instructions.  We have tried to make the process similar to fitting together a jigsaw puzzle, albeit with a few optionally pieces.
+<p>
+
+[ERCF PDF Manual](https://github.com/moggieuk/KlipperScreen-Happy-Hare-Edition)
+</td>
+<td width=30%><img src="Assets/Manual_Page.png" alt='ERCF Manual'></td>
 </tr>
 </table>
 
