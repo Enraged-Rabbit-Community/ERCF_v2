@@ -62,22 +62,26 @@ There are a rapidly growing list of MMUs in the market place from the mass produ
   - [Carrot Feeder](https://github.com/EtteGit/EnragedRabbitProject/blob/main/Documentation/FAQ/FAQ_ERCF.md)
 -->
 
+<br>
+
 ## Enraged Rabbit Carrot Feeder (ERCF)
 If you are familar with ERCF v1.1 this will serve as an overview of updates:
 <ol>
   <li>Sturdy backbone - no more flex
-  <li>Reliable encoder
+  <li>Reliable (and custom) encoder design
   <li>Sprung servo instead of adjustable top hats
-  <li>Innovative 3-position servo design
-  <li>Filament trap in blocks instread of magnetic gates
+  <li>Innovative 3-position servo design & Filament trap in blocks instread of magnetic gates
   <li>Formal filament bypass
   <li>Reinforced gearbox assembly
   <li>Beautifully illustrated Manual
   <li>High Quality Step-by-step CAD
   <li>New integrated passive buffer system (Cotton Tail)
   <li>Reliable tips with companion Filament cutter
+  <li>Both functional and asthetic LED status indication option. Aka Bling!
 </ol>
- 
+
+<br>
+
 ## Optional Components
 <i>(although you might see variations of these projects elsewhere, consider this the new integrated and guaranteed ERCF compatable source)</i>
 
@@ -109,7 +113,7 @@ ERF also supports an optional servo operated ganrtry activation pin so no print 
 
 [Read more](Options/ERF_Filament_Cutter/ERF.md)
 </td>
-<td width=30%><img src="Options/ERF_Filament_Cutter/Assets/ERF.png" alt='ERF' width='40%'></td>
+<td width=30%><img src="Options/ERF_Filament_Cutter/Assets/ERF.png" alt='ERF'></td>
 </tr>
 </table>
 
@@ -122,6 +126,8 @@ ERCF can be operated without a toolhead sensor (filament detection) in the toolh
   <li>Pellet purge system to remove the need for the wipe tower. Stay tuned
 </ul>
 
+<br>
+
 ## Firmware
 <table>
 <tr>
@@ -130,13 +136,15 @@ ERCF can be operated without a toolhead sensor (filament detection) in the toolh
 ERCF is designed to be used with the Happy Hare MMU firmware for Klipper which adds a set of klipper extensions for configuration setup, testing and operation of ERCF. These commands are available through the command line or macros but are perhaps best operated with an interactive UI with the optional KlipperScreen extension.
 <p>
 
-Happy Hare provides an easy installation script which had knowledge of recommended settings and will greatly accelarate the setup process.
+Happy Hare provides an easy installation script which has knowledge of recommended settings and will greatly accelarate the setup process.
 <p>
 
-[Happy Hare](https://github.com/moggieuk/Happy-Hare) [KlipperScreen](https://github.com/moggieuk/KlipperScreen-Happy-Hare-Edition)
+[Happy Hare](https://github.com/moggieuk/Happy-Hare) &nbsp;&nbsp; [KlipperScreen](https://github.com/moggieuk/KlipperScreen-Happy-Hare-Edition)
 </td>
 </tr>
 </table>
+
+<br>
 
 ## BOM
 You can find a Bill of Material for the project and options here: [BOM](https://docs.google.com/spreadsheets/d/1HtVIu4yqzS6xJQr63-JKtMAh4Xq7wbtWPFeuiCnrnnE)
@@ -158,6 +166,8 @@ Most importantly let me introduce the development, test and doc team.  A project
   <li>@kierantheman (Mr Thumper)
 </ul>
 
+<br>
+
 ## Changelog
 <ul>
   <li>v2.0 - Initial Release (Merry Christmas!)
@@ -166,6 +176,8 @@ Most importantly let me introduce the development, test and doc team.  A project
 CAD Design Guidelines used in this project (in case you were interested) can be found: [here](/Assets/Dev_Notes.md).
 
 <hr>
+
+<br>
 
 ## Build Photos
 ![20231116_230501](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/3d18d3fe-b8f0-4750-8b06-f487ab54ef35)
