@@ -172,6 +172,8 @@ Building something as complex as an MMU is a challenging undertaking but ERCFv2 
 You can find a Bill of Material for the project and options here: [BOM](https://docs.google.com/spreadsheets/d/1HtVIu4yqzS6xJQr63-JKtMAh4Xq7wbtWPFeuiCnrnnE)
 Note that the BOM also contains an upgrade list for those of you wanting to use your existing ERCF v1.1 kits.
 
+<br>
+
 ## Acknowledgements
 Most importantly let me introduce the development, test and doc team.  A project like this doesn't happen without hundreds of hours of volunteer effort and all of these folks are truely awesome.  Please give some :clap: :clap: :clap:
 <ul>
