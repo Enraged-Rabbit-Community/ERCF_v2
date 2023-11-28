@@ -48,16 +48,16 @@ There are a rapidly growing list of MMUs in the market place from the mass produ
 </table>
 
 ## Table of Content
-- [ERCF Changes since V1.1](#enraged_rabbit_carrot_feeder_ercf)
-- [Optional Components](#optional_components)
-- [Firmware](#firmware)
-- [Documentation](#documentation)
-- [BOM](#bom)
-- [CAD](#cad)
-- [Acknowledgements](#acknowledgements)
-- [Changelog](#changelog)
-- [Build Photos](#build-photos)
-- [Showroom](#showroom)
+**[ERCF Changes since V1.1](#enraged_rabbit_carrot_feeder_ercf)**<br>
+**[Optional Components](#optional_enraged_rabbit_components)**<br>
+**[Firmware](#firmware)**<br>
+**[Documentation](#documentation)**<br>
+**[BOM](#bom)**<br>
+**[CAD](#cad)**<br>
+**[Acknowledgements](#acknowledgements)**<br>
+**[Changelog](#changelog)**<br>
+**[Build Photos](#build-photos)**<br>
+**[Showroom](#showroom)**<br>
 <!--
 - [FAQ](https://github.com/EtteGit/EnragedRabbitProject/tree/main/Documentation/FAQ)
   - [Carrot Patch](https://github.com/EtteGit/EnragedRabbitProject/blob/main/Documentation/FAQ/FAQ_ERCP.md)
@@ -90,8 +90,11 @@ There are a rapidly growing list of MMUs in the market place from the mass produ
 
 <br>
 
-## Optional Components
-<i>(although you might see variations of these projects elsewhere, consider this the new integrated and guaranteed ERCF compatable source)</i>
+## Optional Enraged Rabbit Components
+> [!WARNING]  
+> Although you might see variations of these projects elsewhere, consider this the new integrated and guaranteed ERCF compatable source
+
+<br>
 
 ### Enraged Rabbit Cotton Tail (ERCT)
 <table>
@@ -109,6 +112,8 @@ ERCT also incorporates a neopixel on each gate that, when driven by the Happy Ha
 </tr>
 </table>
 
+<br>
+
 ### Enraged Rabbit Filametrix (ERF)
 <table>
 <tr>
@@ -125,6 +130,7 @@ ERF also supports an optional servo operated ganrtry activation pin so no print 
 </tr>
 </table>
 
+<br>
 
 ### Toolhead Sensors
 ERCF can be operated without a toolhead sensor (filament detection) in the toolhead but it is not recommended. A toolhead sensor provides an accurate homing point very close to the nozzle but also adds reliability to the tool change process. ERCF includes a set of toolhead sensor modifications for popular extruders. These work reliably through coupling a microswitch to the filament path.
@@ -174,8 +180,10 @@ Building something as complex as an MMU is a challenging undertaking but ERCFv2 
 <tr>
 <td width=30%><img src="Assets/BOM.png" alt='ERCF Project BOM'></td>
 <td>
-You can find a Bill of Material for the project and options here: [BOM](https://docs.google.com/spreadsheets/d/1HtVIu4yqzS6xJQr63-JKtMAh4Xq7wbtWPFeuiCnrnnE)
-Note that the BOM also contains an upgrade list for those of you wanting to use your existing ERCF v1.1 kits. Please make a copy and edit the "Filament Blocks #" to be the number of gates for your build.  This can be any number but we encourage kit vendors to use 4/8/12 as size variations. Note that there are separate columns for core ERCF, the optional ERCT and ERF options as well as the suggested "extras"
+You can find a Bill of Material for the project and options here. Note that the BOM also contains an upgrade list for those of you wanting to use your existing ERCF v1.1 kits. Please make a copy and edit the "Filament Blocks #" to be the number of gates for your build.  This can be any number but we encourage kit vendors to use 4/8/12 as size variations. Note that there are separate columns for core ERCF, the optional ERCT and ERF options as well as the suggested "extras"
+<p>
+
+[BOM](https://docs.google.com/spreadsheets/d/1HtVIu4yqzS6xJQr63-JKtMAh4Xq7wbtWPFeuiCnrnnE)
 </td>
 </tr>
 </table>
