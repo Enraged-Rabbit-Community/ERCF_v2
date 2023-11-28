@@ -170,21 +170,28 @@ Building something as complex as an MMU is a challenging undertaking but ERCFv2 
 <br>
 
 ## BOM
+<table>
+<tr>
+<td width=30%><img src="Assets/BOM.png" alt='ERCF Project BOM'></td>
+<td>
 You can find a Bill of Material for the project and options here: [BOM](https://docs.google.com/spreadsheets/d/1HtVIu4yqzS6xJQr63-JKtMAh4Xq7wbtWPFeuiCnrnnE)
 Note that the BOM also contains an upgrade list for those of you wanting to use your existing ERCF v1.1 kits. Please make a copy and edit the "Filament Blocks #" to be the number of gates for your build.  This can be any number but we encourage kit vendors to use 4/8/12 as size variations. Note that there are separate columns for core ERCF, the optional ERCT and ERF options as well as the suggested "extras"
+</td>
+</tr>
+</table>
 
 <br>
 
 ## CAD
 <table>
 <tr>
-<td width=30%><img src="Assets/CAD.png" alt='ERCF Master CAD'></td>
 <td>
 A lot of work has gone into creating a quality CAD model of the project carefully organized into folders that match the documentation!  It is hightly recommended that you open the CAD and hide every folder and then expose them one at a time as you work through the build.
 <p>
 
 [Master CAD](CAD/ERCF_v2.step)
 </td>
+<td width=30%><img src="Assets/CAD.png" alt='ERCF Master CAD'></td>
 </tr>
 </table>
 
