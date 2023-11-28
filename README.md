@@ -11,7 +11,7 @@ Please be careful sharing the link, as it grants edit permission.
 
 <p align="center">
   <img src="/Assets/ERCFv2.png" alt='ERCFv2' width='70%'>
-  <h1 align="center">Voron ERCF v2</h1>
+  <h1 align="center">Voron ERCF v2 - RC1</h1>
 </p>
 
 <p align="center">
@@ -69,20 +69,20 @@ There are a rapidly growing list of MMUs in the market place from the mass produ
 ## Enraged Rabbit Carrot Feeder (ERCF)
 <table>
 <tr>
-<td width=40%><img src="/Assets/ERCFv2.png">An MMU or Multimaterial Unit/Upgrade allows for the automatic change of filaments on your 3D printer.  You can use it to create beautiful multi-colored prints or, if you're lazy, simply to avoid loading filament by hand. If you are familar with ERCF v1.1 this will serve as an overview of updates:</td>
+<td width=50%><img src="/Assets/ERCFv2.png">An MMU or Multimaterial Unit/Upgrade allows for the automatic change of filaments on your 3D printer.  You can use it to create beautiful multi-colored prints or, if you're lazy, simply to avoid loading filament by hand. If you are familar with ERCF v1.1 this will serve as an overview of updates:</td>
 <td>
 <ol>
   <li>Sturdy backbone - no more flex
   <li>Reliable (and custom) encoder design
   <li>Sprung servo instead of adjustable top hats
-  <li>Innovative 3-position servo design & Filament trap in blocks instread of magnetic gates
+  <li>Innovative Filament trap in blocks instead of magnetic gates
   <li>Formal filament bypass
   <li>Reinforced gearbox assembly
   <li>Beautifully illustrated Manual
   <li>High Quality Step-by-step CAD
-  <li>New integrated (minimal friction) passive buffer system (Cotton Tail)
-  <li>Reliable tips with companion Filament cutter
-  <li>Both functional and asthetic LED status indication option. Aka Bling!
+  <li>New integrated passive buffer system (Cotton Tail)
+  <li>Perfect tips with Filametrix Filament cutter
+  <li>Functional and asthetic LED status indication
 </ol>
 </td>
 </tr>
@@ -221,7 +221,7 @@ Most importantly let me introduce the development, test and doc team.  A project
 
 ## Changelog
 <ul>
-  <li>v2.0 - Initial Release (Merry Christmas!)
+  <li>v2.0 rc1 - Initial Release (Merry Christmas!)
 </ul>
 
 CAD Design Guidelines used in this project (in case you were interested) can be found: [here](/Assets/Dev_Notes.md).
