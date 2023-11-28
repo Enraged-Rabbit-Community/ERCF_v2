@@ -56,8 +56,8 @@ There are a rapidly growing list of MMUs in the market place from the mass produ
 **[CAD](#cad)**<br>
 **[Acknowledgements](#acknowledgements)**<br>
 **[Changelog](#changelog)**<br>
-**[Build Photos](#build-photos)**<br>
-**[Showroom](#showroom)**<br>
+**[Build Photos](#build_photos)**<br>
+**[Showroom](#user_print_showroom)**<br>
 <!--
 - [FAQ](https://github.com/EtteGit/EnragedRabbitProject/tree/main/Documentation/FAQ)
   - [Carrot Patch](https://github.com/EtteGit/EnragedRabbitProject/blob/main/Documentation/FAQ/FAQ_ERCP.md)
@@ -91,10 +91,6 @@ There are a rapidly growing list of MMUs in the market place from the mass produ
 <br>
 
 ## Optional Enraged Rabbit Components
-> [!WARNING]  
-> Although you might see variations of these projects elsewhere, consider this the new integrated and guaranteed ERCF compatable source
-
-<br>
 
 ### Enraged Rabbit Cotton Tail (ERCT)
 <table>
@@ -133,12 +129,12 @@ ERF also supports an optional servo operated ganrtry activation pin so no print 
 <br>
 
 ### Toolhead Sensors
-ERCF can be operated without a toolhead sensor (filament detection) in the toolhead but it is not recommended. A toolhead sensor provides an accurate homing point very close to the nozzle but also adds reliability to the tool change process. ERCF includes a set of toolhead sensor modifications for popular extruders. These work reliably through coupling a microswitch to the filament path.
+ERCF can be operated without a toolhead sensor (filament detection) in the toolhead but it is _**not recommended**_. A toolhead sensor provides an accurate homing point very close to the nozzle but also adds reliability to the tool change process. ERCF includes a set of toolhead sensor modifications for popular extruders. These work reliably through coupling a microswitch to the filament path.
 
-### Other (Possibly) Planned Optional Companion Projects:
-<ul>
-  <li>Pellet purge system to remove the need for the wipe tower. Stay tuned
-</ul>
+<br>
+
+### Purge System (ERPS)
+Pellet purge system to remove the need for the wipe tower. Stay tuned.
 
 <br>
 
@@ -247,6 +243,8 @@ CAD Design Guidelines used in this project (in case you were interested) can be 
 ![IMG_2444](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/6d84f624-84b9-4a88-ad7c-de2a09619397)
 ![IMG_2447](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/52122c6a-e28c-4bd7-a8a8-324b2cc9a74f)
 
-## Showroom
+<br>
+
+## User Print Showroom
 <img src="Assets/Showroom/Spidermans.png" alt="Spidermans" width="950"/><img src="Assets/Showroom/NoS_Prints.png" alt="NoS_prints" width="950"/><img src="Assets/Showroom/BnE_Prints.png" alt="BnE_Prints" width="950"/><img src=Assets/Showroom/Bimaterial_logo.png alt="Voron Logo TPU" width="650"/><img src=Assets/Showroom/9_colors_test.png alt="9_colors_test" width="400"/>
 
