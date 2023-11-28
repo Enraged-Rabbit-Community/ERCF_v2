@@ -12,10 +12,10 @@ This system is also designed to reduce the buffer length, while the loops are de
 
 **Features include:**
 
-* Large central buffer wheel - reduces the filament's natural shape - each wheel comes pre-notched to make loading filament easier.
+* Large central buffer wheel - reduces the bend radius of the filament's natural shape - each wheel comes pre-notched to make loading filament easier.
 * Inline connection - connects directly to the 2020 extrusion arm
 * Short Buffer Length - Can operate as short as 500mm in buffer Length
-* Stackable Arm - Each arm is stackable for whatever combination of gates you want. They are optimized for strength and lightweight while providing loading and unloading filament access. More than 9 channels will require self-sourcing a metal axial rod, but printing your own up to 9 channels is available in the STL directory.
+* Stackable Arm - Each arm is stackable for whatever combination of gates you want. They are optimized for strength and lightweight while providing loading and unloading filament access. More than 12 channels will require self-sourcing a metal axle rod, but printing your own up to 12 channels is available in the STL directory.
 * Uses most parts from ERCP V1 -  if you already have a kit, most parts should be interchangeable.
 
 ##
@@ -24,7 +24,7 @@ This system is also designed to reduce the buffer length, while the loops are de
 
 ## Acknowledgements
 
-ERCT was designed to simplify the buffer design and integrate cleanly with ERCF, TripleDecky, Sturdy Bunny, Springy, and Binky mods. This has since evolved into the second generation and become part of ERCFv2. I thank the entire team from the ERCF V2 team. and especially Moggie, for bringing me into the team. I also have my home server, Fizzy's Tech, on Discord to thank for the countless support and hosting of the Beta development on that server. Jose from Fizzy's Tech was instrumental in this development as he was part of the system's early development and early testing. There are numerous testers who have helped as well, making suggestions throughout the beta cycle. I want to give a special shout-out to Wolffy01 and gsx8299 for their contributions to ideas, testing and mods.&#x20;
+ERCT was designed to simplify the buffer design and integrate cleanly with ERCFv2. I thank the entire team from the ERCF V2 team, especially Moggie, for bringing me onto the team. I also have my home server, Fizzy's Tech, on Discord to thank for the countless support and hosting of the Beta development on that server. Jose from Fizzy's Tech was instrumental in this development as he was part of the system's early development and early testing. There are numerous testers who have helped as well, making suggestions throughout the beta cycle. I want to give a special shout-out to Wolffy01 and gsx8299 for their contributions to ideas, testing and mods.&#x20;
 
 Questions related to this buffer can be directed at <https://discord.com/channels/460117602945990666/909743915475816458> or you may visit my home server at <https://discord.gg/Gs2vAtK7T7>
 
@@ -43,7 +43,7 @@ Terrance Lam
 * PTFE Tubing (4mm OD/3MM ID recommended)
 * (1) 608 ZZ Bearing (same as ERCP - skateboard bearings will work as well)
 * (1) ECAS
-* (2) M3 Hammerhead T-Nuts (for attaching to 2020 extrusions)
+* (1) M3 Rollin Spring nut (for attaching to 2020 extrusions)
 
 ### End cap (with integrated MMB CASE) needs:
 

@@ -37,12 +37,12 @@ An expandable MMU for Klipper based 3D-Printers
 
 <table>
 <tr>
-<td width=30%> <img src="/Assets/Enraged_Rabbit_v2.png" alt='RabbitV2'></td>
+<td width=30%><img src="/Assets/Enraged_Rabbit_v2.png" alt='RabbitV2'></td>
 <td>
-This is a community born project and major update to the Voron ERCF MMU that was started a couple of years ago by Ette.  It is endorsed by Ette and the guiding philosophy wasn't to start again with a new MMU design but to refine what has already proven to be a very capable machine and push it to be the best it can be by simplifying construction, improving reliability and aligning as close as possible to v1.1 BOM. However the project includes an all new optional integrated filament buffer system (ERCT) and a bit of bling, filament cutter option (ERF) and a collection of toolhead sensor modifications. It fully leverages the Happy Hare firmware MMU control software and Klipper Screen entensions.
+This is a community born project and major update to the Voron ERCF MMU that was started a couple of years ago by Ette.  It is endorsed by Ette and the guiding philosophy wasn't to start again with a new MMU design but to refine what has already proven to be a very capable machine and push it to be the best it can be by simplifying problematic construction, improving reliability and aligning as close as possible to v1.1 BOM. However the project includes an all new optional integrated filament buffer system (ERCT), filament cutter option (ERF), a collection of recommended toolhead sensor modifications and a bit of Bling! It fully leverages the Happy Hare firmware MMU control software with Klipper Screen entensions.
 <p>
   
-There are a rapidly growing list of MMUs in the market place from the mass produced "Fords" who pioneered the market to the "Toyotas" that are more recent efficient engineering feats but somehow lack soul. We consider ERCFv2 the "BMW" - a little over engineered perhaps but destinctively cool and built to last.  We hope you enjoy!
+There are a rapidly growing list of MMUs in the market place from the mass produced "Fords" who pioneered the market to the "Toyotas" that are more recent efficient engineering feats but somehow lack soul. We consider ERCFv2 the "BMW" - a little over engineered perhaps but destinctively cool and you feel good drving it.  We hope you enjoy!
 </td>
 </tr>
 </table>
@@ -51,7 +51,9 @@ There are a rapidly growing list of MMUs in the market place from the mass produ
 - [ERCF Changes since V1.1](#enraged_rabbit_carrot_feeder_ercf)
 - [Optional Components](#optional_components)
 - [Firmware](#firmware)
+- [Documentation](#documentation)
 - [BOM](#bom)
+- [CAD](#cad)
 - [Acknowledgements](#acknowledgements)
 - [Changelog](#changelog)
 - [Build Photos](#build-photos)
@@ -62,36 +64,67 @@ There are a rapidly growing list of MMUs in the market place from the mass produ
   - [Carrot Feeder](https://github.com/EtteGit/EnragedRabbitProject/blob/main/Documentation/FAQ/FAQ_ERCF.md)
 -->
 
+<br>
+
 ## Enraged Rabbit Carrot Feeder (ERCF)
-If you are familar with ERCF v1.1 this will serve as an overview of updates:
+<table>
+<tr>
+<td width=40%><img src="/Assets/ERCFv2.png">An MMU or Multimaterial Unit/Upgrade allows for the automatic change of filaments on your 3D printer.  You can use it to create beautiful multi-colored prints or, if you're lazy, simply to avoid loading filament by hand. If you are familar with ERCF v1.1 this will serve as an overview of updates:</td>
+<td>
 <ol>
   <li>Sturdy backbone - no more flex
-  <li>Reliable encoder
+  <li>Reliable (and custom) encoder design
   <li>Sprung servo instead of adjustable top hats
-  <li>Innovative 3-position servo design
-  <li>Filament trap in blocks instread of magnetic gates
+  <li>Innovative 3-position servo design & Filament trap in blocks instread of magnetic gates
   <li>Formal filament bypass
   <li>Reinforced gearbox assembly
   <li>Beautifully illustrated Manual
   <li>High Quality Step-by-step CAD
-  <li>New integrated passive buffer system (Cotton Tail)
+  <li>New integrated (minimal friction) passive buffer system (Cotton Tail)
   <li>Reliable tips with companion Filament cutter
+  <li>Both functional and asthetic LED status indication option. Aka Bling!
 </ol>
- 
+</td>
+</tr>
+</table>
+
+<br>
+
 ## Optional Components
 <i>(although you might see variations of these projects elsewhere, consider this the new integrated and guaranteed ERCF compatable source)</i>
 
 ### Enraged Rabbit Cotton Tail (ERCT)
+<table>
+<tr>
+<td width=30%><img src="Options/ERCT_Buffer/Assets/heroimage_ERCT.png" alt='ERCT'></td>
+<td>
 When an MMU changes tool the unloaded filament needs to be thoughtfully managed so that is doesn't tangle. The Enraged Rabbit Cotton Tail (ERCT) buffer system is designed to attach directly to ERCF V2. It is a passive system that optimizes space and is also designed to reduce resistance in the filament path, creating a consistent system for calibration.
+<p>
 
 ERCT also incorporates a neopixel on each gate that, when driven by the Happy Hare firmware, provides both functional feedback as well as the necessary "bling".  Enjoy!
+<p>
 
-<img src="Options/ERCT_Buffer/Assets/heroimage_ERCT.png" alt='ERCT' width='40%'> [Read more](Options/ERCT_Buffer/ERCT.md)
+[Read more](Options/ERCT_Buffer/ERCT.md)
+</td>
+</tr>
+</table>
 
 ### Enraged Rabbit Filametrix (ERF)
-When an MMU changes tool the unloaded filament needs to be thoughtfully managed so that is doesn't tangle. The Enraged Rabbit Cotton Tail (ERCT) buffer system is a designed to attach directly to ERCF V2. It is a passive system that optimizes space and is also designed to reduce resistance in the filament path, creating a consistent system for calibration and reliable operation.
+<table>
+<tr>
+<td>
+Before the MMU can unload a filament it must prepare the tip so that it can be cleanly loaded next time.  This tip forming process is very difficult to tune and varies based on material type, temperature, hotend type and even weather!  Introducing Enraged Rabbit Filametrix (ERF) filament cutting system.  This lightweight addition to your Stealthburner toolhead adds a cutting blade.  When retracting the problematic tip of the filament is simply cut off for perfect tips and no jams.
+<p>
 
-<img src="Options/ERF_Filament_Cutter/Assets/ERF.png" alt='ERF' width='40%'> [Read more](Options/ERF_Filament_Cutter/ERF.md)
+ERF also supports an optional servo operated ganrtry activation pin so no print area is lost with this addition. ERF designs also include the recommended integrated toolhead sensor
+<p>
+
+[Read more](Options/ERF_Filament_Cutter/ERF.md)
+</td>
+<td width=30%><img src="Options/ERF_Filament_Cutter/Assets/ERF.png" alt='ERF'></td>
+</tr>
+</table>
+
 
 ### Toolhead Sensors
 ERCF can be operated without a toolhead sensor (filament detection) in the toolhead but it is not recommended. A toolhead sensor provides an accurate homing point very close to the nozzle but also adds reliability to the tool change process. ERCF includes a set of toolhead sensor modifications for popular extruders. These work reliably through coupling a microswitch to the filament path.
@@ -101,33 +134,79 @@ ERCF can be operated without a toolhead sensor (filament detection) in the toolh
   <li>Pellet purge system to remove the need for the wipe tower. Stay tuned
 </ul>
 
+<br>
+
 ## Firmware
-ERCF is designed to be used with [Happy Hare](https://github.com/moggieuk/Happy-Hare) MMU firmware for Klipper and can optionally be operated by [KlipperScreen](https://github.com/moggieuk/KlipperScreen-Happy-Hare-Edition) extension.
-<p align="center">
-  <img src="https://github.com/moggieuk/KlipperScreen-Happy-Hare-Edition/blob/master/docs/img/mmu/mmu_main.png" alt='KlipperScreen' width='40%'>
-</p>
+<table>
+<tr>
+<td width=30%><img src="https://github.com/moggieuk/KlipperScreen-Happy-Hare-Edition/blob/master/docs/img/mmu/mmu_main.png" alt='KlipperScreen'></td>
+<td>
+ERCF is designed to be used with the Happy Hare MMU firmware for Klipper which adds a set of klipper extensions for configuration setup, testing and operation of ERCF. These commands are available through the command line or macros but are perhaps best operated with an interactive UI with the optional KlipperScreen extension.
+<p>
+
+Happy Hare provides an easy installation script which has knowledge of recommended settings and will greatly accelarate the setup process.
+<p>
+
+[Happy Hare](https://github.com/moggieuk/Happy-Hare) &nbsp;&nbsp; [KlipperScreen](https://github.com/moggieuk/KlipperScreen-Happy-Hare-Edition)
+</td>
+</tr>
+</table>
+
+<br>
+
+## Documentation
+<table>
+<tr>
+<td>
+Building something as complex as an MMU is a challenging undertaking but ERCFv2 project contains an amazingly detailed and illustrated manual with step-by-step instructions.  We have tried to make the process similar to fitting together a jigsaw puzzle, albeit with a few optionally pieces.
+<p>
+
+[ERCF PDF Manual](https://github.com/moggieuk/KlipperScreen-Happy-Hare-Edition)
+</td>
+<td width=30%><img src="Assets/Manual_Page.png" alt='ERCF Manual'></td>
+</tr>
+</table>
+
+<br>
 
 ## BOM
 You can find a Bill of Material for the project and options here: [BOM](https://docs.google.com/spreadsheets/d/1HtVIu4yqzS6xJQr63-JKtMAh4Xq7wbtWPFeuiCnrnnE)
 Note that the BOM also contains an upgrade list for those of you wanting to use your existing ERCF v1.1 kits.
 
+<br>
+
+## CAD
+<table>
+<tr>
+<td width=30%><img src="Assets/CAD.png" alt='ERCF Master CAD'></td>
+<td>
+A lot of work has gone into creating a quality CAD model of the project carefully organized into folders that match the documentation!  It is hightly recommended that you open the CAD and hide every folder and then expose them one at a time as you work through the build.
+<p>
+
+[Master CAD](CAD/ERCF_v2.step)
+</td>
+</tr>
+</table>
+
+<br>
+
 ## Acknowledgements
-Most importantly let me introduce the development and test team.  A project like this doesn't happen without hundreds of hours of volunteer effort and all of these folks are awesome.  Please give some :clap: :clap: :clap:
+Most importantly let me introduce the development, test and doc team.  A project like this doesn't happen without hundreds of hours of volunteer effort and all of these folks are truely awesome.  Please give some :clap: :clap: :clap:
 <ul>
   <li>@moggieuk V0.1503 | V2.4088 (Mr Happy Hare & Chief whip)
   <li>@gneu V2.5345 (Filament block innovator)
   <li>@sneakytreesnake V2.3804 (The project backbone!)
   <li>@mneuhaus VT.483 (Mr Binky)
-  <li>@Miriax (Doc Demon)
-  <li>@kinematicdigit (Mr Cotton Tail)
-  <li>@ningpj (Tester, Breaker, & Doc's)
-  <li>@fizzy (Master of CAD)
-  <li>@kierantheman (Mr Thumper)
+  <li>@Miriax (Designer & Doc Demon)
+  <li>@kinematicdigit (Mr Cotton Tail & Doc Illustrator)
+  <li>@ningpj (Tester, Breaker & Doc's)
+  <li>@fizzy (King of CAD)
   <li>@gsx8299 (Test Builder Extraordinaire)
   <li>@sorted (Filametix "don't get enraged" filament cutting system)
-  <li>@bombella (Purge system experimenter)
-  <li>@fragmon (Video guru)
+  <li>@kierantheman (Mr Thumper)
 </ul>
+
+<br>
 
 ## Changelog
 <ul>
@@ -137,6 +216,8 @@ Most importantly let me introduce the development and test team.  A project like
 CAD Design Guidelines used in this project (in case you were interested) can be found: [here](/Assets/Dev_Notes.md).
 
 <hr>
+
+<br>
 
 ## Build Photos
 ![20231116_230501](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/3d18d3fe-b8f0-4750-8b06-f487ab54ef35)
