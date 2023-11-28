@@ -171,7 +171,7 @@ Building something as complex as an MMU is a challenging undertaking but ERCFv2 
 
 ## BOM
 You can find a Bill of Material for the project and options here: [BOM](https://docs.google.com/spreadsheets/d/1HtVIu4yqzS6xJQr63-JKtMAh4Xq7wbtWPFeuiCnrnnE)
-Note that the BOM also contains an upgrade list for those of you wanting to use your existing ERCF v1.1 kits.
+Note that the BOM also contains an upgrade list for those of you wanting to use your existing ERCF v1.1 kits. Please make a copy and edit the "Filament Blocks #" to be the number of gates for your build.  This can be any number but we encourage kit vendors to use 4/8/12 as size variations. Note that there are separate columns for core ERCF, the optional ERCT and ERF options as well as the suggested "extras"
 
 <br>
 
