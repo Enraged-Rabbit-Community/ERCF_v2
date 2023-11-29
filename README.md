@@ -7,7 +7,7 @@ Please be careful sharing the link, as it grants edit permission.
 
 ---
 
-# Enranged Rabbit v2 Community Project
+# Enraged Rabbit Community Project
 
 <p align="center">
   <img src="/Assets/Full_CAD.png" alt='ERCFv2' width='70%'>
