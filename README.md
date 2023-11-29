@@ -10,7 +10,7 @@ Please be careful sharing the link, as it grants edit permission.
 # Enraged Rabbit Community Project
 
 <p align="center">
-  <img src="/Assets/Full_CAD.png" alt='ERCFv2' width='70%'>
+  <img src="/Assets/Full_CAD.jpg" alt='ERCFv2' width='70%'>
   <h1 align="center">ERCF v2 - RC1</h1>
 </p>
 
