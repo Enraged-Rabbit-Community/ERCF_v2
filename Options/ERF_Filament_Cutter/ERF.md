@@ -1,7 +1,15 @@
 # Enranged Rabbit Filametrix Filament Cutter
-![image](Assets/Filametrix_Logo.png)
+<table>
+  <tr>
+    <td>
+      <img src="Assets/Filametrix_Logo.png">
+    </td>
+    <td>
+      This options adds a lightweight filament cutting option for perfect filament tips without having to tune the traditional tip forming process. This can lead to much greater reliability of your MMU
+    </td>
+  </tr>
+</table>
 
-This is a mod to various toolheads that add a filament cutting possibility rather than having to tune the traditional tip forming process.
 
 ![Image](Assets/ERF.png)
 ![image](Assets/ERF2.png)
