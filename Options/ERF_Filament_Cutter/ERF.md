@@ -1,4 +1,4 @@
-# Enranged Rabbit Filametrix Filament Cutter
+# Enraged Rabbit "Filametrix" Filament Cutter
 <table>
   <tr>
     <td width=30%><img src="Assets/Filametrix_Logo.png" alt='ER Filametrix'></td>
@@ -118,10 +118,11 @@ Please be aware:
 
 ## Assembly
 ### Cutting arm
+
 #### Cut skalpel to length l=26mm
 ![image](Assets/Skalpel_Before_Cut.png)
 
-##### Result
+#### Result
 ![image](Assets/Skalpel_After_Cut.png)
 
 #### Insert skalpel into knife holder
@@ -133,7 +134,8 @@ Insert the skalpel (which is cut to 26mm) into the knife holder until you see it
 The M2.5x15 screw is directly screwed into the plastic of the knife holder. The tip of the screw should be flush with the cutting arm or no more than 0.1-0.3mm above it.
 Check the orientation of the hole for the M2.5 screw in the knife holder. It needs to be on the bottom side.
 
-**!! The knife holder must move up and down without friction in the cutting arm but shoult not have a lot play. Maybe some grinding is needed. !!**
+> [!NOTE]  
+> The knife holder must move up and down without friction in the cutting arm but shoult not have a lot play. Maybe some grinding is needed.
 
 ![image](Assets/Knife_Holder1.png)
 ![image](Assets/Knife_Holder2.png)
