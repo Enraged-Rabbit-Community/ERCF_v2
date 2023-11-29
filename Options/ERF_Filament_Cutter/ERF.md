@@ -20,7 +20,7 @@
 - SB_CW2_Main_Body_Cutting_With_2xD2F_ECAS
 - SB_CW2_Main_Body_Cutting_With_D2F_ECAS
 - SB_CS2_Main_Body_EBB_ECAS_D2F
-  -  "CW2 main body for the ERCF w/ ECAs, bearing switch, and SB2209 Canbus mods"
+  -  CW2 main body for the ERCF w/ ECAS, bearing switch, and SB2209 Canbus Mod
   -  Credit: [juliusjj25](https://github.com/juliusjj25)
 
 #### LGX Lite
@@ -138,8 +138,8 @@ Please be aware:
     <td colspan=2>Insert the skalpel (which is cut to 26mm) into the knife holder until you see it in the little hole. Use pliers to push it into the knife holder. Some force should be needed as the skalpel should stay in place due to the "pressfit". If that's not the case add some glue.(Depending on skalpel tolerances)</td>
   </tr>
   <tr>
-    <td width=40%><img src="Assets/Knife_Holder1.png" alt='Holder1'></td>
-    <td><img src="Assets/Knife_Holder2.png" alt='Holder2'></td>
+    <td width=40%><img src="Assets/Knife_Holder1.png" alt='Holder1' width=60%></td>
+    <td><img src="Assets/Knife_Holder2.png" alt='Holder2' width=35%></td>
   </tr>
   <tr>
     <td colspan=2>Put knife holder into cutting arm. The M2.5x15 screw is directly screwed into the plastic of the knife holder. The tip of the screw should be flush with the cutting arm or no more than 0.1-0.3mm above it. Check the orientation of the hole for the M2.5 screw in the knife holder. It needs to be on the bottom side.</td>
@@ -155,30 +155,35 @@ Please be aware:
     <td width=40%><img src="Assets/SB_Main_Body.png" alt='SB Main Body'></td>
     <td>Add heat inserts. Tip here for the heat set that goes above the cutter - suggest drilling the threads out with a ~2.5mm drill bit. On the hotend holder side below the cutter make sure you flare out the PTFE tube to help guide the filament.</td>
   </tr>
- <tr>
+  <tr>
     <td width=40%><img src="Assets/SB_Cutting_Printhead.png" alt='SB Cutting Printhead'></td>
     <td>SB cutting Printhead back</td>
   </tr>
-   <tr>
+  <tr>
     <td width=40%><img src="Assets/Depressor.png" alt='Depressor'></td>
     <td>Depressor - one on either end, end with ribs should be flush with surface below ribs with no plastic sticking up past surface</td>
   </tr>
+  <tr>
+    <td width=40%><img src="Assets/Depressor_Mount.png" alt='Depressor'></td>
+    <td>Finished cutting point assembly should look like this. Note: for titanium backers, the backer should be centered between belt clamps and the end of the depressor mount should be flush with the end of the backer. This will work for all backers with 10/20/40mm spacing with the furthest back hole 5-15mm from the end. Height of depressor should be adjusted to press in the depression on the cutting arm and the BHCS can be adjusted in and out for the right positioning and locked in place with the M3 nut</td>
+  </tr>
 </table>
 
-#### Finished cutting point assembly should look like this
-Note: for titanium backers, the backer should be centered between belt clamps and the end of the depressor mount should be flush with the end of the backer. This will work for all backers with 10/20/40mm spacing with the furthest back hole 5-15mm from the end. Height of depressor should be adjusted to press in the depression on the cutting arm and the BHCS can be adjusted in and out for the right positioning and locked in place with the M3 nut.
-
-![image](Assets/Depressor_Mount.png)
+<br>
 
 ## Happy Hare Setup
 
 ### In mmu_parameters.cfg:
 
-`form_tip_macro: _MMU_CUT_TIP`
+`form_tip_macro: _MMU_CUT_TIP` to instruct Happy Hare to use the filament cutter rather than normal tip forming.
 
 Make sure `toolhead_extruder_to_nozzle` and `toolhead_sensor_to_nozzle` are set to your particular toolhead as per the Happy Hare documentation.
 
-`force_form_tip_standalone: 1`
+`force_form_tip_standalone: 1` this tell Happy Hare to always use the tip cutting macro.
+
+> [!IMPORTANT]  
+> Make sure you turn off tip forming or any extruder movements in your slicer - the slicer must not take any part in the filament swap. It should pick up when purging the new filament to the purge block.
+
 
 ### In mmu_filamentix.cfg:
 Configure the `_MMU_CUT_TIP` macro variables as per the instructions in the file.
