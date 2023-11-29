@@ -116,42 +116,54 @@ Please be aware:
 - 2x M3 SHCS (Lengths: 6mm - no backers, 10mm - titanium backers, 12mm - MGN9 rails)
 - 2x Voron heat inserts
 
+<br>
+<hr>
+
 ## Assembly
 ### Cutting arm
-
-#### Cut skalpel to length l=26mm
-![image](Assets/Skalpel_Before_Cut.png)
-
-#### Result
-![image](Assets/Skalpel_After_Cut.png)
-
-#### Insert skalpel into knife holder
-Insert the skalpel (which is cut to 26mm) into the knife holder until you see it in the little hole. Use pliers to push it into the knife holder. Some force should be needed as the skalpel should stay in place due to the "pressfit". If that's not the case add some glue.(Depending on skalpel tolerances)
-
-![image](Assets/Skalpel_Insertion.png)
-
-#### Put knife holder into cutting arm
-The M2.5x15 screw is directly screwed into the plastic of the knife holder. The tip of the screw should be flush with the cutting arm or no more than 0.1-0.3mm above it.
-Check the orientation of the hole for the M2.5 screw in the knife holder. It needs to be on the bottom side.
+<table>
+  <tr>
+    <td width=40%><img src="Assets/Skalpel_Before_Cut.png" alt='Scalpel Before Cut'></td>
+    <td>Cut skalpel to length l=26mm</td>
+  </tr>
+  <tr>
+    <td width=40%><img src="Assets/Skalpel_After_Cut.png" alt='Scalpel After Cut'></td>
+    <td>After cut</td>
+  </tr>
+  <tr>
+    <td width=40%><img src="Assets/Skalpel_Insertion.png" alt='Scalpel Insertion'></td>
+    <td>Insert skalpel into knife holder</td>
+  </tr>
+  <tr>
+    <td colspan=2>Insert the skalpel (which is cut to 26mm) into the knife holder until you see it in the little hole. Use pliers to push it into the knife holder. Some force should be needed as the skalpel should stay in place due to the "pressfit". If that's not the case add some glue.(Depending on skalpel tolerances)</td>
+  </tr>
+  <tr>
+    <td width=40%><img src="Assets/Knife_Holder1.png" alt='Holder1'></td>
+    <td><img src="Assets/Knife_Holder2.png" alt='Holder2'></td>
+  </tr>
+  <tr>
+    <td colspan=2>Put knife holder into cutting arm. The M2.5x15 screw is directly screwed into the plastic of the knife holder. The tip of the screw should be flush with the cutting arm or no more than 0.1-0.3mm above it. Check the orientation of the hole for the M2.5 screw in the knife holder. It needs to be on the bottom side.</td>
+  </tr>
+</table>
 
 > [!NOTE]  
 > The knife holder must move up and down without friction in the cutting arm but shoult not have a lot play. Maybe some grinding is needed.
 
-![image](Assets/Knife_Holder1.png)
-![image](Assets/Knife_Holder2.png)
-
-### Add heat inserts
-
-Tip here for the heat set that goes above the cutter I would suggest drilling the threads out with a ~2.5mm drill bit. On the hotend holder side below the cutter make sure you flare out the PTFE tube to help guide the filament.
-
-#### Main body
-![image](Assets/SB_Main_Body.png)
-
-#### SB cutting Printhead back
-![image](Assets/SB_Cutting_Printhead.png)
-
-#### Depressor - one on either end, end with ribs should be flush with surface below ribs with no plastic sticking up past surface
-![image](Assets/Depressor.png)
+### Toolhead Body
+<table>
+  <tr>
+    <td width=40%><img src="Assets/SB_Main_Body.png" alt='SB Main Body'></td>
+    <td>Add heat inserts. Tip here for the heat set that goes above the cutter - suggest drilling the threads out with a ~2.5mm drill bit. On the hotend holder side below the cutter make sure you flare out the PTFE tube to help guide the filament.</td>
+  </tr>
+ <tr>
+    <td width=40%><img src="Assets/SB_Cutting_Printhead.png" alt='SB Cutting Printhead'></td>
+    <td>SB cutting Printhead back</td>
+  </tr>
+   <tr>
+    <td width=40%><img src="Assets/Depressor.png" alt='Depressor'></td>
+    <td>Depressor - one on either end, end with ribs should be flush with surface below ribs with no plastic sticking up past surface</td>
+  </tr>
+</table>
 
 #### Finished cutting point assembly should look like this
 Note: for titanium backers, the backer should be centered between belt clamps and the end of the depressor mount should be flush with the end of the backer. This will work for all backers with 10/20/40mm spacing with the furthest back hole 5-15mm from the end. Height of depressor should be adjusted to press in the depression on the cutting arm and the BHCS can be adjusted in and out for the right positioning and locked in place with the M3 nut.
