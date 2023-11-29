@@ -106,7 +106,8 @@ Please be aware:
 - 1x M2.5x16 SHCS (15-18mm works)
 - Spring 0.4x4x15 or alternative of ballpoint pen (L=15mm; D<=4,5mm) (I've ordered some for testing, to have a "defined" spring)
 - Type 4 metal hobby blades (we will cut it to length) [Link](https://de.aliexpress.com/item/1005005117830095.html?spm=a2g0o.order_detail.order_detail_item.9.47c26368QwSbBr&gatewayAdapt=glo2deu) Amazon link, these need glue to be held in but work fine (USA) [Link](https://www.amazon.com/dp/B07QP8L1QG)
-- ![Image](Assets/Number4_Blades.png)
+
+![Image](Assets/Number4_Blades.png)
 
 #### Cutting point on gantry
 - 1x M3x16 BHCS
@@ -125,6 +126,7 @@ Please be aware:
 
 #### Insert skalpel into knife holder
 Insert the skalpel (which is cut to 26mm) into the knife holder until you see it in the little hole. Use pliers to push it into the knife holder. Some force should be needed as the skalpel should stay in place due to the "pressfit". If that's not the case add some glue.(Depending on skalpel tolerances)
+
 ![image](Assets/Skalpel_Insertion.png)
 
 #### Put knife holder into cutting arm
@@ -139,15 +141,19 @@ Check the orientation of the hole for the M2.5 screw in the knife holder. It nee
 ### Add heat inserts
 
 Tip here for the heat set that goes above the cutter I would suggest drilling the threads out with a ~2.5mm drill bit. On the hotend holder side below the cutter make sure you flare out the PTFE tube to help guide the filament.
+
 #### Main body
 ![image](Assets/SB_Main_Body.png)
+
 #### SB cutting Printhead back
 ![image](Assets/SB_Cutting_Printhead.png)
+
 #### Depressor - one on either end, end with ribs should be flush with surface below ribs with no plastic sticking up past surface
 ![image](Assets/Depressor.png)
 
 #### Finished cutting point assembly should look like this
 Note: for titanium backers, the backer should be centered between belt clamps and the end of the depressor mount should be flush with the end of the backer. This will work for all backers with 10/20/40mm spacing with the furthest back hole 5-15mm from the end. Height of depressor should be adjusted to press in the depression on the cutting arm and the BHCS can be adjusted in and out for the right positioning and locked in place with the M3 nut.
+
 ![image](Assets/Depressor_Mount.png)
 
 ## Happy Hare Setup
