@@ -1,62 +1,58 @@
 # Enranged Rabbit Filametrix Filament Cutter
 <table>
   <tr>
+    <td width=30%><img src="Assets/Filametrix_Logo.png" alt='ER Filametrix'></td>
     <td>
-      <img src="Assets/Filametrix_Logo.png">
-    </td>
-    <td>
-      This options adds a lightweight filament cutting option for perfect filament tips without having to tune the traditional tip forming process. This can lead to much greater reliability of your MMU
+      This options adds a lightweight filament cutting option for the Voron Stealthburner toolhead (with a few contributed options) for perfect filament tips without having to tune the traditional tip forming process. Thanks to contributors it supports a number of different hotends. This can lead to much greater reliability of your MMU.
     </td>
   </tr>
 </table>
 
-
+## Illustration
 ![Image](Assets/ERF.png)
 ![image](Assets/ERF2.png)
 
 ### Main Body
-#### Main Body with Filamentsensor Option has been added.
+
+#### SB_CW2 Main Body with various sensor options
 - SB_CW2_Main_Body_Cutting_With_2xD2F_ECAS
 - SB_CW2_Main_Body_Cutting_With_D2F_ECAS
 - SB_CS2_Main_Body_EBB_ECAS_D2F "CW2 main body for the ERCF w/ ECAs, bearing switch, and SB2209 Canbus mods" Thanks to [juliusjj25](https://github.com/juliusjj25)
 
-#### Support for LGX Lite
+#### LGX Lite
 https://www.printables.com/de/model/576122-lgx-lite-stealthburner-filament-cutter
 
-tommorox234 has created the main body for the LGX Lite. Feel free to get in contact with him via printables.
-Thank you :)
+<br>Credit: tommorox234 via printables.
 
-### Printhead
-#### Update for Bambu Hotend has been added.
+### Supported Hotends
+
+#### Rapido
+- TODO
+
+Credit: [juliusjj25](https://github.com/juliusjj25)
+
+#### Voron Revo
+- SB_RevoVoron_back
+- SB_RevoVoron_front
+
+Credit: Russell Gower (NOTE currently untested)
+
+#### Bambu Hotend!
 - SB_Bambu_cutting_Printhead_back
 - SB_Bambu_cutting_Printhead_front or SB_Bambu_cutting_Printhead_front_2
 - Bambu_Adapter
 
-Thanks to "Jakub Kadlec" from Facebook :) 
+Credi: "Jakub Kadlec" from Facebook
 
-#### Update for Voron Revo Hotend 
-- SB_RevoVoron_back
-- SB_RevoVoron_front
-
-by Russell Gower - NOTE currently untested!!
-
-#### Update for Rapido Hotend
-
-- see folder
-
-say thank you to [juliusjj25](https://github.com/juliusjj25)  :) 
-
-#### Update for Slice engingeering mosquito hotend
-
+#### Mosquito (Slice Engingeering)
 https://www.printables.com/de/model/614813-filametrix-mod-for-slice-engingeering-mosquito-hot
 
-say thank you to "https://www.printables.com/de/@MakeAUsername_285162"
+Credit: "https://www.printables.com/de/@MakeAUsername_285162"
 
-## Motivation
-I was looking at the ERCF MMU for several month now. What always kept me from starting the project were the discussions about issues and problems with  filament tip forming. Suddenly a new company showed us how they do it quite reliable. They just cut the filament. Further motivated and inspired by the design of @pure100kim who has built the [ERCF_Filament_Cutting_MOD](https://github.com/pure100kim/ERCF_Filament_Cutting_MOD) I started to build my own version of it.
+## Inspiration
+@sorted, the project lead for this wants to recognise the inspiration that came from Bambu Labs and the design by @pure100kim who has built the [ERCF_Filament_Cutting_MOD](https://github.com/pure100kim/ERCF_Filament_Cutting_MOD).
 
 ## See how it works
-
 
 Proof of concept 1: https://youtube.com/shorts/HOMG8cVk_U4
 
