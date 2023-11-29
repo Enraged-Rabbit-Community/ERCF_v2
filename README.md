@@ -202,7 +202,7 @@ A lot of work has gone into creating a quality CAD model of the project carefull
 <br>
 
 ## Acknowledgements
-Most importantly let me introduce the development, test and doc team.  A project like this doesn't happen without hundreds of hours of volunteer effort and all of these folks are truely awesome.  Please give some :clap: :clap: :clap:
+Most importantly let me introduce the development, test and doc team.  A project like this doesn't happen without many hundreds of hours of volunteer effort and all of these folks are truely awesome.  Please give some :clap: :clap: :clap:
 <ul>
   <li>@moggieuk V0.1503 | V2.4088 (Mr Happy Hare & Chief whip)
   <li>@gneu V2.5345 (Filament block innovator)
@@ -227,6 +227,14 @@ Most importantly let me introduce the development, test and doc team.  A project
 CAD Design Guidelines used in this project (in case you were interested) can be found: [here](/Assets/Dev_Notes.md).
 
 <hr>
+
+<p align="center"><i>
+There once was a printer so keen,<br>
+To print in red, yellow, and green.<br>
+It whirred and it spun,<br>
+Mixing colors for fun,<br>
+The most vibrant prints ever seen!
+</i></p>
 
 <br>
 
