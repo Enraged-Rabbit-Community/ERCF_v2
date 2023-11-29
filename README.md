@@ -10,8 +10,8 @@ Please be careful sharing the link, as it grants edit permission.
 # Enranged Rabbit v2 Community Project
 
 <p align="center">
-  <img src="/Assets/ERCFv2.png" alt='ERCFv2' width='70%'>
-  <h1 align="center">Voron ERCF v2 - RC1</h1>
+  <img src="/Assets/Full_CAD.png" alt='ERCFv2' width='70%'>
+  <h1 align="center">ERCF v2 - RC1</h1>
 </p>
 
 <p align="center">
