@@ -8,51 +8,57 @@
   </tr>
 </table>
 
+<br>
+
 ## Illustration
 ![Image](Assets/ERF.png)
 ![image](Assets/ERF2.png)
 
-### Main Body
+## Toolheads
 
 #### SB_CW2 Main Body with various sensor options
 - SB_CW2_Main_Body_Cutting_With_2xD2F_ECAS
 - SB_CW2_Main_Body_Cutting_With_D2F_ECAS
-- SB_CS2_Main_Body_EBB_ECAS_D2F "CW2 main body for the ERCF w/ ECAs, bearing switch, and SB2209 Canbus mods" Thanks to [juliusjj25](https://github.com/juliusjj25)
+- SB_CS2_Main_Body_EBB_ECAS_D2F
+  -  "CW2 main body for the ERCF w/ ECAs, bearing switch, and SB2209 Canbus mods"
+  -  Credit: [juliusjj25](https://github.com/juliusjj25)
 
 #### LGX Lite
-https://www.printables.com/de/model/576122-lgx-lite-stealthburner-filament-cutter
+- Printables: [lgx-lite](https://www.printables.com/de/model/576122-lgx-lite-stealthburner-filament-cutter)
+  - Credit: tommorox234
 
-<br>Credit: tommorox234 via printables.
+<br>
 
-### Supported Hotends
+## Supported Hotends
 
 #### Rapido
-- TODO
-
-Credit: [juliusjj25](https://github.com/juliusjj25)
+- SB_Rapido_TH_Front_Cutter
+- SB_Rapido_TH_Rear_CW2_Cutter
+  - Credit: [juliusjj25](https://github.com/juliusjj25)
 
 #### Voron Revo
-- SB_RevoVoron_back
-- SB_RevoVoron_front
-
-Credit: Russell Gower (NOTE currently untested)
+- SB_RevoVoron_Back
+- SB_RevoVoron_Front
+  - Credit: Russell Gower (NOTE currently untested)
 
 #### Bambu Hotend!
-- SB_Bambu_cutting_Printhead_back
-- SB_Bambu_cutting_Printhead_front or SB_Bambu_cutting_Printhead_front_2
+- SB_Bambu_Cutting_Printhead_back
+- SB_Bambu_Cutting_Printhead_front or SB_Bambu_cutting_Printhead_front_2
 - Bambu_Adapter
-
-Credi: "Jakub Kadlec" from Facebook
+   - Credit: "Jakub Kadlec" from Facebook
 
 #### Mosquito (Slice Engingeering)
-https://www.printables.com/de/model/614813-filametrix-mod-for-slice-engingeering-mosquito-hot
+- Printables: [mosquito](https://www.printables.com/de/model/614813-filametrix-mod-for-slice-engingeering-mosquito-hot)
+  - Credit: @MakeAUsername_285162
 
-Credit: "https://www.printables.com/de/@MakeAUsername_285162"
+<br>
 
 ## Inspiration
 @sorted, the project lead for this wants to recognise the inspiration that came from Bambu Labs and the design by @pure100kim who has built the [ERCF_Filament_Cutting_MOD](https://github.com/pure100kim/ERCF_Filament_Cutting_MOD).
 
-## See how it works
+<br>
+
+## How it works
 
 Proof of concept 1: https://youtube.com/shorts/HOMG8cVk_U4
 
@@ -60,12 +66,14 @@ Proof of concept 2: https://youtu.be/tTcrxttyths
 
 Filametrix in action: https://www.youtube.com/watch?v=tfMZWQRqtvY
 
-## Good to know
+### Good to know
 
 Please be aware:
 - We will need to use one of the ADXL mounting threads
 - Depending on the setup and position of the cutting point we will most probably not lose any build volume
 - For the main body i remixed the ECAS version from [Alexanderor](https://www.printables.com/de/model/433797-clockwork-2-ecas-fitting-for-ercf)
+
+<br>
 
 ## What you need
 ### Print list
