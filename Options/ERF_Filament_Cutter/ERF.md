@@ -150,14 +150,17 @@ Tip here for the heat set that goes above the cutter I would suggest drilling th
 Note: for titanium backers, the backer should be centered between belt clamps and the end of the depressor mount should be flush with the end of the backer. This will work for all backers with 10/20/40mm spacing with the furthest back hole 5-15mm from the end. Height of depressor should be adjusted to press in the depression on the cutting arm and the BHCS can be adjusted in and out for the right positioning and locked in place with the M3 nut.
 ![image](Assets/Depressor_Mount.png)
 
-
-TODO... Add doc page to Happy Hare
+## Happy Hare Setup
 
 ### In mmu_parameters.cfg:
-set form_tip_macro: _MMU_CUT_TIP
 
-set toolhead_extruder_to_nozzle and toolhead_sensor_to_nozzle to corresponding measured values of your toolhead.
+`form_tip_macro: _MMU_CUT_TIP`
 
-set force_form_tip_standalone: 1
+Make sure `toolhead_extruder_to_nozzle` and `toolhead_sensor_to_nozzle` are set to your particular toolhead as per the Happy Hare documentation.
+
+`force_form_tip_standalone: 1`
+
+### In mmu_filamentix.cfg:
+Configure the `_MMU_CUT_TIP` macro variables as per the instructions in the file.
 
 
