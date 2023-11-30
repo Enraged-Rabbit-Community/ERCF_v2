@@ -61,8 +61,8 @@
 
 <br>
 
-## Inspiration
-@sorted, the project lead for this wants to recognise the inspiration that came from Bambu Labs and the design by @pure100kim who has built the [ERCF_Filament_Cutting_MOD](https://github.com/pure100kim/ERCF_Filament_Cutting_MOD).
+> [!NOTE]  
+> @sorted, the project lead for this wants to recognise the inspiration that came from Bambu Labs and a design by [@pure100kim](https://github.com/pure100kim/ERCF_Filament_Cutting_MOD)
 
 <br>
 
