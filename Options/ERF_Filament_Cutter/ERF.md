@@ -3,7 +3,7 @@
   <tr>
     <td width=30%><img src="Assets/Filametrix_Logo.png" alt='ER Filametrix'></td>
     <td>
-      This options adds a lightweight filament cutting option for the Voron Stealthburner toolhead (with a few contributed options) for perfect filament tips without having to tune the traditional tip forming process. Thanks to contributors it supports a number of different hotends. This can lead to much greater reliability of your MMU.
+      This options adds a lightweight filament cutting capability to the Voron Stealthburner CW2 toolhead for perfect filament tips without having to tune the traditional tip forming process. Thanks to contributors it supports a number of different hotends. This can lead to much greater reliability of your MMU.  We hope over time to offer support for additional toolheads.
     </td>
   </tr>
 </table>
