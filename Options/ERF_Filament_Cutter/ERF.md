@@ -77,26 +77,25 @@ Filametrix in action: https://www.youtube.com/watch?v=tfMZWQRqtvY
 ### Good to know
 
 Please be aware:
-- We will need to use one of the ADXL mounting threads
-- Depending on the setup and position of the cutting point we will most probably not lose any build volume
-- For the main body i remixed the ECAS version from [Alexanderor](https://www.printables.com/de/model/433797-clockwork-2-ecas-fitting-for-ercf)
+- You will need to use one of the ADXL mounting threads
+- Careful placement of the cutting point will minimize impact (if any) to build area.  Note that a gantry servo option is available for operating the "Depressor Pin" to ensure no impact
 
 <br>
 
 ## What you need
 ### Print list
 #### Toolhead
-- 1x SB (hotend name) cutting Printhead back
-- 1x SB (hotend name) cutting Printhead front
-- 1x SB Main body Cutting with ECAS (or with sensor)
+- 1x SB (hotend name) Cutting Printhead Back
+- 1x SB (hotend name) Cutting Printhead Front
+- 1x SB Main body Cutting with ECAS (with selected sensors)
 - 1x SB motor plate (as Stealthburner has seen a small update the newest plate does not fit anymore. So please use the one from this git)
-- 1x SB latch ECAS
-- 1x Cutting arm
-- 1x Knife holder
+- 1x SB Latch ECAS
+- 1x Cutting Rrm
+- 1x Knife Holder
 
 #### Cutting point on gantry
-- 1x depressor mount
-- 1x depressor
+- 1x Depressor Mount
+- 1x Depressor
 
 #### Cutting point on gantry with servo
 - tbd...
@@ -105,7 +104,7 @@ Please be aware:
 
 #### Toolhead: 
 - Loctite
-- 1x M3 nut (DIN934; ideally a countersunk tool to modify the nut for proper filament insertion)
+- 1x M3 nut (DIN934; idealy a countersunk tool to modify the nut for proper filament insertion)
 - 2x M3 washer (0.5mm)
 - 1x M3x18 SHCS (it repleaces the top left M3x25 SHCS from the SB-Cover mount) 
 - 2x Voron heat inserts
