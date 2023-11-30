@@ -61,24 +61,20 @@
 
 <br>
 
-> [!NOTE]  
-> @sorted, the project lead for this wants to recognise the inspiration that came from Bambu Labs and a design by [@pure100kim](https://github.com/pure100kim/ERCF_Filament_Cutting_MOD)
+## How it works
+
+Proof of concept [Video 1](https://youtube.com/shorts/HOMG8cVk_U4)
+
+Proof of concept [Video 2](https://youtu.be/tTcrxttyths)
+
+Filametrix [in action](https://www.youtube.com/watch?v=tfMZWQRqtvY)
 
 <br>
 
-## How it works
-
-Proof of concept 1: https://youtube.com/shorts/HOMG8cVk_U4
-
-Proof of concept 2: https://youtu.be/tTcrxttyths
-
-Filametrix in action: https://www.youtube.com/watch?v=tfMZWQRqtvY
-
-### Good to know
-
-Please be aware:
-- You will need to use one of the ADXL mounting threads
-- Careful placement of the cutting point will minimize impact (if any) to build area.  Note that a gantry servo option is available for operating the "Depressor Pin" to ensure no impact
+> [!NOTE]  
+> - @sorted, the project lead for this wants to recognise the inspiration that came from Bambu Labs and a design by [@pure100kim](https://github.com/pure100kim/ERCF_Filament_Cutting_MOD)
+> - You will need to use one of the ADXL mounting threads
+> - Careful placement of the cutting point will minimize impact (if any) to build area.  Note that a gantry servo option is available for operating the "Depressor Pin" to ensure no impact
 
 <br>
 
