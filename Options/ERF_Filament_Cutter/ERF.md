@@ -16,40 +16,48 @@
 
 ## Toolheads
 
-#### SB_CW2 Main Body with various sensor options
-- SB_CW2_Main_Body_Cutting_With_2xD2F_ECAS
-- SB_CW2_Main_Body_Cutting_With_D2F_ECAS
-- SB_CS2_Main_Body_EBB_ECAS_D2F
-  -  CW2 main body for the ERCF w/ ECAS, bearing switch, and SB2209 Canbus Mod
-  -  Credit: [juliusjj25](https://github.com/juliusjj25)
+#### StealthBurner CW2 (with various sensor options)
+- SB_CW2_Main_Body_Cutting_With_2xD2F_ECAS.stl (Cutter + Entry Sensor + Toolhead Sensor + ECAS)
+- SB_CW2_Main_Body_Cutting_With_ECAS.stl (Cutter + ECAS)
+- SB_CW2_Main_Body_Cutting_With_Entry_D2F_ECAS.stl (Cutter + Entry Sensor + ECAS)
+- SB_CW2_Main_Body_Cutting_With_Toolhead_D2F_EBB_ECAS.stl (Cutter + Toolhead Sensor + EBB board + ECAS)
+  - Credit: [juliusjj25](https://github.com/juliusjj25)
 
 #### LGX Lite
-- Printables: [lgx-lite](https://www.printables.com/de/model/576122-lgx-lite-stealthburner-filament-cutter)
-  - Credit: tommorox234
+- SB_LGX_Lite_Main_Body_Cutting.stl
+  - Credit: [tommorox234](https://www.printables.com/de/model/576122-lgx-lite-stealthburner-filament-cutter)
 
 <br>
 
 ## Supported Hotends
 
+#### V6-R6
+- SB_V6_R6_Cutting_Printhead_Back.stl
+- SB_V6_R6_Cutting_Printhead_Front.stl
+  
 #### Rapido
-- SB_Rapido_TH_Front_Cutter
-- SB_Rapido_TH_Rear_CW2_Cutter
+- SB_Rapido_TH_Cutting_Printhead_Rear.stl
+- SB_Rapido_TH_Cutting_Printhead_Front.stl
   - Credit: [juliusjj25](https://github.com/juliusjj25)
 
-#### Voron Revo
-- SB_RevoVoron_Back
-- SB_RevoVoron_Front
-  - Credit: Russell Gower (NOTE currently untested)
+#### Dragon
+- SB_Dragon_Cutting_Printhead_Back.stl
+- SB_Dragon_Cutting_Printhead_Front.stl
 
-#### Bambu Hotend!
-- SB_Bambu_Cutting_Printhead_back
-- SB_Bambu_Cutting_Printhead_front or SB_Bambu_cutting_Printhead_front_2
+#### Voron Revo
+- SB_Revo_Voron_Cutting_Printhead_Back.stl
+- SB_Revo_Voron_Cutting_Printhead_Front.stl
+  - Credit: Russell Gower
+
+#### Bambu
+- SB_Bambu_Cutting_Printhead_Back.stl
+- SB_Bambu_Cutting_Printhead_Front.stl
 - Bambu_Adapter
    - Credit: "Jakub Kadlec" from Facebook
 
 #### Mosquito (Slice Engingeering)
-- Printables: [mosquito](https://www.printables.com/de/model/614813-filametrix-mod-for-slice-engingeering-mosquito-hot)
-  - Credit: @MakeAUsername_285162
+- Slice_Mosquito_Cutting_Printhead_Front_And_Rear.stl
+  - Credit: [MakeAUsername_285162](https://www.printables.com/de/model/614813-filametrix-mod-for-slice-engingeering-mosquito-hot)
 
 <br>
 
