@@ -48,16 +48,16 @@ There are a rapidly growing list of MMUs in the market place from the mass produ
 </table>
 
 ## Table of Content
-**[ERCF Changes since V1.1](#enraged_rabbit_carrot_feeder_ercf)**<br>
-**[Optional Components](#optional_enraged_rabbit_components)**<br>
+**[ERCF Changes since V1.1](#enraged-rabbit-carrot-feeder-ercf)**<br>
+**[Optional Components](#optional-enraged-rabbit-components)**<br>
 **[Firmware](#firmware)**<br>
 **[Documentation](#documentation)**<br>
 **[BOM](#bom)**<br>
 **[CAD](#cad)**<br>
 **[Acknowledgements](#acknowledgements)**<br>
 **[Changelog](#changelog)**<br>
-**[Build Photos](#build_photos)**<br>
-**[Showroom](#user_print_showroom)**<br>
+**[Build Photos](#build-photos)**<br>
+**[Showroom](#user-print-showroom)**<br>
 <!--
 - [FAQ](https://github.com/EtteGit/EnragedRabbitProject/tree/main/Documentation/FAQ)
   - [Carrot Patch](https://github.com/EtteGit/EnragedRabbitProject/blob/main/Documentation/FAQ/FAQ_ERCP.md)
