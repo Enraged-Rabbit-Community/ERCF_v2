@@ -205,16 +205,16 @@ A lot of work has gone into creating a quality CAD model of the project carefull
 Most importantly let me introduce the development, test and doc team.  A project like this doesn't happen without many hundreds of hours of volunteer effort and all of these folks are truely awesome.  Please give some :clap: :clap: :clap:
 <ul>
   <li>@moggieuk V0.1503 | V2.4088 (Mr Happy Hare & Chief whip)
-  <li>@gneu V2.5345 (Filament block innovator)
+  <li>@gneu V2.5345 (Filament block & bling innovator)
   <li>@sneakytreesnake V2.3804 (The project backbone!)
   <li>@mneuhaus VT.483 (Mr Binky)
   <li>@Miriax (Designer & Doc Demon)
   <li>@kinematicdigit (Mr Cotton Tail & Doc Illustrator)
-  <li>@ningpj (Tester, Breaker & Doc's)
+  <li>@ningpj (Tester, Breaker & Documenter)
   <li>@fizzy (King of CAD)
   <li>@gsx8299 (Test Builder Extraordinaire)
   <li>@sorted (Filametix "don't get enraged" filament cutting system)
-  <li>@kierantheman (Mr Thumper)
+  <li>@kierantheman (Mr ThumperBlocks)
 </ul>
 
 <br>
