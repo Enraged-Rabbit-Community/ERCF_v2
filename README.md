@@ -69,7 +69,7 @@ There are a rapidly growing list of MMUs in the market place from the mass produ
 ## Enraged Rabbit Carrot Feeder (ERCF)
 <table>
 <tr>
-<td width=50%><img src="/Assets/ERCFv2.png">An MMU or Multimaterial Unit/Upgrade allows for the automatic change of filaments on your 3D printer.  You can use it to create beautiful multi-colored prints or, if you're lazy, simply to avoid loading filament by hand. If you are familar with ERCF v1.1 this will serve as an overview of updates:</td>
+<td width=45%><img src="/Assets/ERCFv2.png">An MMU or Multimaterial Unit/Upgrade allows for the automatic change of filaments on your 3D printer.  You can use it to create beautiful multi-colored prints or, if you're lazy, simply to avoid loading filament by hand. If you are familar with ERCF v1.1 this will serve as an overview of updates:</td>
 <td>
 <ol>
   <li>Sturdy backbone - no more flex
