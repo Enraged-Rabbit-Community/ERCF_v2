@@ -126,19 +126,19 @@ Filametrix [in action](https://www.youtube.com/watch?v=tfMZWQRqtvY)
 ### Cutting arm
 <table>
   <tr>
-    <td width=40%><img src="Assets/Skalpel_Before_Cut.png" alt='Scalpel Before Cut'></td>
-    <td>Cut skalpel to length l=26mm</td>
+    <td width=40%><img src="Assets/Scalpel_Before_Cut.png" alt='Scalpel Before Cut'></td>
+    <td>Cut scalpel to length l=26mm</td>
   </tr>
   <tr>
-    <td width=40%><img src="Assets/Skalpel_After_Cut.png" alt='Scalpel After Cut'></td>
+    <td width=40%><img src="Assets/Scalpel_After_Cut.png" alt='Scalpel After Cut'></td>
     <td>After cut</td>
   </tr>
   <tr>
-    <td width=40%><img src="Assets/Skalpel_Insertion.png" alt='Scalpel Insertion'></td>
-    <td>Insert skalpel into knife holder</td>
+    <td width=40%><img src="Assets/Scalpel_Insertion.png" alt='Scalpel Insertion'></td>
+    <td>Insert scalpel into knife holder</td>
   </tr>
   <tr>
-    <td colspan=2>Insert the skalpel (which is cut to 26mm) into the knife holder until you see it in the little hole. Use pliers to push it into the knife holder. Some force should be needed as the skalpel should stay in place due to the "pressfit". If that's not the case add some glue.(Depending on skalpel tolerances)</td>
+    <td colspan=2>Insert the scalpel (which is cut to 26mm) into the knife holder until you see it in the little hole. Use pliers to push it into the knife holder. Some force should be needed as the scalpel should stay in place due to the "pressfit". If that's not the case add some glue.(Depending on scalpel tolerances)</td>
   </tr>
   <tr>
     <td width=40%><img src="Assets/Knife_Holder1.png" alt='Holder1' width=60%></td>
