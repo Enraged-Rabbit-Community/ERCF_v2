@@ -95,7 +95,7 @@ There are a rapidly growing list of MMUs in the market place from the mass produ
 ### Enraged Rabbit Cotton Tail (ERCT)
 <table>
 <tr>
-<td width=30%><img src="Options/ERCT_Buffer/Assets/heroimage_ERCT.png" alt='ERCT'></td>
+<td width=30%><img src="Recommended_Options/ERCT_Buffer/Assets/heroimage_ERCT.png" alt='ERCT'></td>
 <td>
 When an MMU changes tool the unloaded filament needs to be thoughtfully managed so that is doesn't tangle. The Enraged Rabbit Cotton Tail (ERCT) buffer system is designed to attach directly to ERCF V2. It is a passive system that optimizes space and is also designed to reduce resistance in the filament path, creating a consistent system for calibration.
 <p>
@@ -103,7 +103,7 @@ When an MMU changes tool the unloaded filament needs to be thoughtfully managed 
 ERCT also incorporates a neopixel on each gate that, when driven by the Happy Hare firmware, provides both functional feedback as well as the necessary "bling".  Enjoy!
 <p>
 
-[Read more](Options/ERCT_Buffer/ERCT.md)
+[Read more](Recommended_Options/ERCT_Buffer/ERCT.md)
 </td>
 </tr>
 </table>
@@ -120,9 +120,9 @@ Before the MMU can unload a filament it must prepare the tip so that it can be c
 ERF also supports an optional servo operated ganrtry activation pin so no print area is lost with this addition. ERF designs also include the recommended integrated toolhead sensor
 <p>
 
-[Read more](Options/ERF_Filament_Cutter/ERF.md)
+[Read more](Recommended_Options/ERF_Filament_Cutter/ERF.md)
 </td>
-<td width=30%><img src="Options/ERF_Filament_Cutter/Assets/ERF.png" alt='ERF'></td>
+<td width=30%><img src="Recommended_Options/ERF_Filament_Cutter/Assets/ERF.png" alt='ERF'></td>
 </tr>
 </table>
 
@@ -135,7 +135,7 @@ ERF also supports an optional servo operated ganrtry activation pin so no print 
 ERCF can be operated without a toolhead sensor (filament detection) in the toolhead but it is _**not recommended**_. A toolhead sensor provides an accurate homing point very close to the nozzle but also adds reliability to the tool change process. ERCF includes a set of toolhead sensor modifications for popular extruders. These work reliably through coupling a microswitch to the filament path.
 <p>
 
-[Read more](Options/Toolhead_Sensor/README.md)
+[Read more](Recommended_Options/Toolhead_Sensor/README.md)
 </td>
 </tr>
 </table>
@@ -169,7 +169,7 @@ Happy Hare provides an easy installation script which has knowledge of recommend
 <table>
 <tr>
 <td>
-Building something as complex as an MMU is a challenging undertaking but ERCFv2 project contains an amazingly detailed and illustrated manual with step-by-step instructions.  We have tried to make the process similar to fitting together a jigsaw puzzle, albeit with a few optionally pieces.
+Building something as complex as an MMU is a challenging undertaking but ERCFv2 project contains an amazingly detailed and illustrated manual with step-by-step instructions.  We have tried to make the process similar to fitting together a jigsaw puzzle, albeit with a few optional pieces.
 <p>
 
 [ERCFv2 PDF Manual](Documentation/ERCF_v2_Manual.pdf)
