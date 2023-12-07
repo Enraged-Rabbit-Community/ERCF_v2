@@ -129,10 +129,16 @@ ERF also supports an optional servo operated ganrtry activation pin so no print 
 <br>
 
 ### Toolhead Sensors
+<table>
+<tr>
+<td>
 ERCF can be operated without a toolhead sensor (filament detection) in the toolhead but it is _**not recommended**_. A toolhead sensor provides an accurate homing point very close to the nozzle but also adds reliability to the tool change process. ERCF includes a set of toolhead sensor modifications for popular extruders. These work reliably through coupling a microswitch to the filament path.
 <p>
 
 [Read more](Options/Toolhead_Sensor/README.md)
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -166,7 +172,7 @@ Happy Hare provides an easy installation script which has knowledge of recommend
 Building something as complex as an MMU is a challenging undertaking but ERCFv2 project contains an amazingly detailed and illustrated manual with step-by-step instructions.  We have tried to make the process similar to fitting together a jigsaw puzzle, albeit with a few optionally pieces.
 <p>
 
-[ERCF PDF Manual](https://github.com/moggieuk/KlipperScreen-Happy-Hare-Edition)
+[ERCFv2 PDF Manual](Documentation/ERCF_v2_Manual.pdf)
 </td>
 <td width=30%><img src="Assets/Manual_Page.png" alt='ERCF Manual'></td>
 </tr>
