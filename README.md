@@ -133,7 +133,7 @@ ERF also supports an optional servo operated ganrtry activation pin so no print 
 <table>
 <tr>
 <td>
-ERCF can be operated without a toolhead sensor (filament detection) in the toolhead but it is _**not recommended**_. A toolhead sensor provides an accurate homing point very close to the nozzle but also adds reliability to the tool change process. ERCF includes a set of toolhead sensor modifications for popular extruders. These work reliably through coupling a microswitch to the filament path.
+ERCF can be operated without a toolhead sensor (filament detection) in the toolhead but it is **not recommended**. A toolhead sensor provides an accurate homing point very close to the nozzle but also adds reliability to the tool change process. ERCF includes a set of toolhead sensor modifications for popular extruders. These work reliably through coupling a microswitch to the filament path.
 <p>
 
 [Read more](Recommended_Options/Toolhead_Sensor/README.md)
