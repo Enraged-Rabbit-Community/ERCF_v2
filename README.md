@@ -233,7 +233,7 @@ Most importantly let me introduce the development, test and doc team.  A project
 ## Vendors
 <table>
 <tr>
-<td width=30%><img src="Assets/Certified.jpg" alt='Vendor Certification'></td>
+<td width=25%><img src="Assets/Certified.jpg" alt='Vendor Certification'></td>
 <td>
 These kits and specialty parts have been checked by us and meet good quality standards:
 <ul>
@@ -244,7 +244,7 @@ These kits and specialty parts have been checked by us and meet good quality sta
 </table>
 
 **To manufacturers:**
-If you want to be included in the list, please contact us. We are happy to validate your kit and then add you to the list.
+_If you want to be included in the list, please contact us. We are happy to validate your kit/parts and then add you to the list._
 
 <br>
 
