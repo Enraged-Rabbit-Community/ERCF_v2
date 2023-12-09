@@ -243,8 +243,8 @@ These kits and specialty parts have been checked by us and meet good quality sta
 </tr>
 </table>
 
-**To manufacturers:**
-_If you want to be included in the list, please contact us. We are happy to validate your kit/parts and then add you to the list._
+**Manufacturers:**
+_If you want to be included, please contact us. We are happy to validate your kit/parts and then add you to the list..._
 
 <br>
 
