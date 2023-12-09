@@ -58,6 +58,7 @@ There are a rapidly growing list of MMUs in the market place from the mass produ
 **[BOM](#bom)**<br>
 **[CAD](#cad)**<br>
 **[Acknowledgements](#acknowledgements)**<br>
+**[Vendors](#vendors)**<br>
 **[Changelog](#changelog)**<br>
 **[Build Photos](#build-photos)**<br>
 **[Showroom](#user-print-showroom)**<br>
@@ -228,6 +229,13 @@ Most importantly let me introduce the development, test and doc team.  A project
 </ul>
 
 <br>
+
+## Vendors
+These kits have been checked by us and meet good quality standards:
+- Check back soon...
+
+**To manufacturers:**
+If you want to be included in the list, please contact us. We are happy to validate your kit and then add you to the list.
 
 ## Changelog
 <ul>
