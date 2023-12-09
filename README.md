@@ -1,4 +1,4 @@
-## TEMPORARY Manual Quick Link
+/## TEMPORARY Manual Quick Link
 [https://docs.google.com/presentation/d/1GNcei5_qR5PPlFaxJqjTnTScKnyJQXV2OCJxBeb3A3g](https://docs.google.com/presentation/d/1GNcei5_qR5PPlFaxJqjTnTScKnyJQXV2OCJxBeb3A3g/edit?usp=sharing)
 
 This is the (temporary) Google Slides document containing the ERCFv2 manual for community development. Currently, we are adding the content from the ERCF v1 manual with placeholder images. Once that is complete, we will move on to updating the manual and loading in update images.
@@ -58,6 +58,7 @@ There are a rapidly growing list of MMUs in the market place from the mass produ
 **[BOM](#bom)**<br>
 **[CAD](#cad)**<br>
 **[Acknowledgements](#acknowledgements)**<br>
+**[Vendors](#vendors)**<br>
 **[Changelog](#changelog)**<br>
 **[Build Photos](#build-photos)**<br>
 **[Showroom](#user-print-showroom)**<br>
@@ -226,6 +227,24 @@ Most importantly let me introduce the development, test and doc team.  A project
   <li>@sorted (Filametix "don't get enraged" filament cutting system)
   <li>@kierantheman (Mr ThumperBlocks)
 </ul>
+
+<br>
+
+## Vendors
+<table>
+<tr>
+<td width=25%><img src="Assets/Certified.jpg" alt='Vendor Certification'></td>
+<td>
+These kits and specialty parts have been checked by us and meet good quality standards:
+<ul>
+  <li>On the way... stay tuned!
+  </li>
+</td>
+</tr>
+</table>
+
+**Manufacturers:**
+_If you want to be included, please contact us. We are happy to validate your kit/parts and then add you to the list..._
 
 <br>
 
