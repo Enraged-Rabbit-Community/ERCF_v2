@@ -233,7 +233,7 @@ Most importantly let me introduce the development, test and doc team.  A project
 ## Vendors
 <table>
 <tr>
-<td width=30%><img src="Assets/Certified.png" alt='Vendor Certification'></td>
+<td width=30%><img src="Assets/Certified.jpg" alt='Vendor Certification'></td>
 <td>
 These kits and specialty parts have been checked by us and meet good quality standards:
 <ul>
