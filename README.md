@@ -1,4 +1,4 @@
-## TEMPORARY Manual Quick Link
+/## TEMPORARY Manual Quick Link
 [https://docs.google.com/presentation/d/1GNcei5_qR5PPlFaxJqjTnTScKnyJQXV2OCJxBeb3A3g](https://docs.google.com/presentation/d/1GNcei5_qR5PPlFaxJqjTnTScKnyJQXV2OCJxBeb3A3g/edit?usp=sharing)
 
 This is the (temporary) Google Slides document containing the ERCFv2 manual for community development. Currently, we are adding the content from the ERCF v1 manual with placeholder images. Once that is complete, we will move on to updating the manual and loading in update images.
@@ -231,11 +231,22 @@ Most importantly let me introduce the development, test and doc team.  A project
 <br>
 
 ## Vendors
-These kits have been checked by us and meet good quality standards:
-- Check back soon...
+<table>
+<tr>
+<td width=30%><img src="Assets/Certified.png" alt='Vendor Certification'></td>
+<td>
+These kits and specialty parts have been checked by us and meet good quality standards:
+<ul>
+  <li>On the way... stay tuned!
+  </li>
+</td>
+</tr>
+</table>
 
 **To manufacturers:**
 If you want to be included in the list, please contact us. We are happy to validate your kit and then add you to the list.
+
+<br>
 
 ## Changelog
 <ul>
