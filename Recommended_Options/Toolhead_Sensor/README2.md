@@ -54,7 +54,10 @@ Welcome to the dedicated page for exploring the various options available for To
   </td>
 
   <td>
-    _contribute_
+    <ul>
+      <li>Part_X
+      <li>Part_Y
+    </ul>
   </td>
 
   <td>
@@ -80,7 +83,10 @@ Welcome to the dedicated page for exploring the various options available for To
   </td>
 
   <td>
-    _contribute_
+    <ul>
+      <li>Part_X
+      <li>Part_Y
+    </ul>
   </td>
 
   <td>
