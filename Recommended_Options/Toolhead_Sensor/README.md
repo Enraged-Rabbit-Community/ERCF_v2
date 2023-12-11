@@ -42,7 +42,7 @@ Welcome to the dedicated page for exploring the various options available for To
 ## Option 1 (recommended): 
 This setup allows for checking if the filament gets stuck at the entrance to the extruder and if it gets stuck at the entrance of the nozzle. This setup is recommended to avoid failed prints.
 Currently, the following toolheads are available for this variant:
-### 1.1 StealthBurner Toolhead
+### 1.1 Stealthburner Toolhead
 #### Clockwork Extruder
 - 
 #### LGX Extruder
@@ -51,7 +51,6 @@ Currently, the following toolheads are available for this variant:
 -
 #### Other Extruder
 
----
 ### 1.2 XOL 2 Toolhead
 #### Sherpa Mini Extruder
 - 
@@ -61,7 +60,6 @@ Currently, the following toolheads are available for this variant:
 -
 #### Other Extruder
 
----
 ### 1.3 other Toolheads
 #### Sherpa Mini Extruder
 - 
