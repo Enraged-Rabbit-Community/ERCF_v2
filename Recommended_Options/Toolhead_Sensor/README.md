@@ -40,7 +40,7 @@ Currently, the following toolheads are available for this variant:
 This setup checks if the filament gets stuck at the entrance to the extruder. Once it passes the extruder, any jamming can only be detected by the encoder.
 The following toolheads can be equipped with this variant.
 #### StealthBurner CW2
-- 
+- [Main Body](./stls/option2/cw2_main_body_with_ECAS_and_sensor.stl) + [latch](./stls/misc/[a]_latch.stl) by [Garth Snyder](https://github.com/GarthSnyder)
 #### Galileo 2
 - Comming soon... please help! 
 #### LGX Lite
@@ -67,7 +67,7 @@ The following toolheads can be equipped with this variant.
 ### Option 4 (not recommended):
 This setup has only a bowden secure (ecas or push fit).
 #### StealthBurner CW2
-- 
+- [Main Body](./stls/option4/cw2_main_body_with_ECAS.stl) + [latch](./stls/misc/[a]_latch.stl) by [Garth Snyder](https://github.com/GarthSnyder)
 #### Galileo 2
 - Comming soon... please help! 
 #### LGX Lite
