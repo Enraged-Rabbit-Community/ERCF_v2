@@ -22,55 +22,136 @@ Welcome to the dedicated page for exploring the various options available for To
 
 ---
 
-### Option 1 (recommended): 
+## Option 1 (recommended): 
 This setup allows for checking if the filament gets stuck at the entrance to the extruder and if it gets stuck at the entrance of the nozzle. This setup is recommended to avoid failed prints.
 Currently, the following toolheads are available for this variant:
-#### StealthBurner CW2
+### StealthBurner Toolhead
+#### Clockwork Extruder
 - 
-#### Galileo 2
-- Comming soon... please help! 
-#### LGX Lite
-- Comming soon... please help!
-#### Others
-- Comming soon... please help!
+#### LGX Extruder
+-
+#### Galileo 2 Extruder
+-
+#### Other Extruder
 
 ---
+### XOL 2 Toolhead
+#### Sherpa Mini Extruder
+- 
+#### LGX Extruder
+-
+#### Galileo 2 Extruder
+-
+#### Other Extruder
 
-### Option 2: 
+---
+### other Toolheads
+#### Sherpa Mini Extruder
+- 
+#### LGX Extruder
+-
+#### Galileo 2 Extruder
+-
+#### Other Extruder
+
+
+
+## Option 2: 
 This setup checks if the filament gets stuck at the entrance to the extruder. Once it passes the extruder, any jamming can only be detected by the encoder.
 The following toolheads can be equipped with this variant.
-#### StealthBurner CW2
+
+### StealthBurner Toolhead
+#### Clockwork Extruder
 - [Main Body](./stls/option2/cw2_main_body_with_ECAS_and_sensor.stl) + [latch](./stls/misc/[a]_latch.stl) by [Garth Snyder](https://github.com/GarthSnyder)
-#### Galileo 2
-- Comming soon... please help! 
-#### LGX Lite
-- Comming soon... please help!
-#### Others
-- Comming soon... please help!
+#### LGX Extruder
+- feel free to add
+#### Galileo 2 Extruder
+- feel free to add
+#### Other Extruder
+
+---
+### XOL 2 Toolhead
+#### Sherpa Mini Extruder
+- feel free to add 
+#### LGX Extruder
+- feel free to add
+#### Galileo 2 Extruder
+- feel free to add
+#### Other Extruder
+
+---
+### other Toolheads
+#### Sherpa Mini Extruder
+- feel free to add 
+#### LGX Extruder
+- feel free to add
+#### Galileo 2 Extruder
+- feel free to add
+#### Other Extruder
 
 ---
 
 ### Option 3: 
 This setup checks if the filament gets stuck at the entrance to the nozzle. If the filament cant pass the extruder, any jamming can only be detected by the encoder.
 The following toolheads can be equipped with this variant.
-#### StealthBurner CW2
-- 
-#### Galileo 2
-- Comming soon... please help! 
-#### LGX Lite
-- Comming soon... please help!
-#### Others
-- Comming soon... please help!
+### StealthBurner Toolhead
+#### Clockwork Extruder
+- feel free to add
+#### LGX Extruder
+- feel free to add
+#### Galileo 2 Extruder
+- feel free to add
+#### Other Extruder
 
 ---
+### XOL 2 Toolhead
+#### Sherpa Mini Extruder
+- feel free to add 
+#### LGX Extruder
+- feel free to add
+#### Galileo 2 Extruder
+- feel free to add
+#### Other Extruder
+
+---
+### other Toolheads
+#### Sherpa Mini Extruder
+- feel free to add
+#### LGX Extruder
+- feel free to add
+#### Galileo 2 Extruder
+- feel free to add
+#### Other Extruder
+
 
 ### Option 4 (not recommended):
 This setup has only a bowden secure (ecas or push fit).
-#### StealthBurner CW2
+### StealthBurner Toolhead
+#### Clockwork Extruder
 - [Main Body](./stls/option4/cw2_main_body_with_ECAS.stl) + [latch](./stls/misc/[a]_latch.stl) by [Garth Snyder](https://github.com/GarthSnyder)
-#### Galileo 2
-- Comming soon... please help! 
-#### LGX Lite
-- Comming soon... please help!
-#### Others
-- Comming soon... please help!
+
+#### LGX Extruder
+- feel free to add
+#### Galileo 2 Extruder
+- feel free to add
+#### Other Extruder
+
+---
+### XOL 2 Toolhead
+#### Sherpa Mini Extruder
+- feel free to add 
+#### LGX Extruder
+- feel free to add
+#### Galileo 2 Extruder
+- feel free to add
+#### Other Extruder
+
+---
+### other Toolheads
+#### Sherpa Mini Extruder
+- feel free to add 
+#### LGX Extruder
+- feel free to add
+#### Galileo 2 Extruder
+- feel free to add
+#### Other Extruder
