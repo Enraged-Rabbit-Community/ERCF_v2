@@ -1,6 +1,6 @@
-# Enraged Rabbit Toolhead Filament Inspection Options Detailed Overview
+# Enraged Rabbit Toolhead Filament detection Options Detailed Overview
 
-Welcome to the dedicated page for exploring the various options available for Toolhead Filament Inspection as part of the Enraged Rabbit Project. This crucial step is implemented to meticulously check for any potential errors that might occur during the filament's loading and unloading phases. The ERCFv2 team staunchly advocates for the utilization of a dual-sensor system, incorporating both an entry and toolhead sensor. In this section, you will find a comprehensive collection of standalone sensor options compatible with popular toolheads.
+Welcome to the dedicated page for exploring the various options available for Toolhead Filament detection as part of the Enraged Rabbit Project. This crucial step is implemented to meticulously check for any potential errors that might occur during the filament's loading and unloading phases. The ERCFv2 team staunchly advocates for the utilization of a dual-sensor system, incorporating both an entry and toolhead sensor. In this section, you will find a comprehensive collection of standalone sensor options compatible with popular toolheads.
 
 ---
 **NOTE: secured bowden**
@@ -14,7 +14,7 @@ Welcome to the dedicated page for exploring the various options available for To
 
 ---
 
-## Table of Content
+## modified Parts for filament detection
 
 - **[Option 1 (recommended): entry sensor and toolhead sensor](#option-1-recommended-entry-sensor-and-toolhead-sensor)**
   - [1.1 Stealthburner Toolhead](#11-stealthburner-toolhead)
