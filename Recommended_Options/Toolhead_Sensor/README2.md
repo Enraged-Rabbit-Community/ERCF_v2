@@ -16,6 +16,11 @@ Welcome to the dedicated page for exploring the various options available for To
 
 ## Modified parts for Filament Detection on popular toolheads
 
+<details>
+<summary>Stealthburner Options</summary>
+
+</details>
+
 <table>
 <tr>
 <td>Extruder:</td>
@@ -27,7 +32,7 @@ Welcome to the dedicated page for exploring the various options available for To
 
 <tr>
   <td>
-    Stealthburner CW2
+    CW2
   </td>
 
   <td>
@@ -52,7 +57,7 @@ Welcome to the dedicated page for exploring the various options available for To
 
 <tr>
   <td>
-    Stealthburner Galileo2
+    Galileo2
   </td>
 
   <td>
@@ -77,7 +82,7 @@ Welcome to the dedicated page for exploring the various options available for To
 
 <tr>
   <td>
-    Stealthburner LGX
+    LGX
   </td>
 
   <td>
@@ -103,7 +108,7 @@ Welcome to the dedicated page for exploring the various options available for To
 
 <tr>
   <td>
-    Stealthburner Other
+    Other
   </td>
 
   <td>
@@ -125,6 +130,23 @@ Welcome to the dedicated page for exploring the various options available for To
   <td>
     <sub><i>contribute</i></sub>
   </td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary>XOL Options</summary>
+
+</details>
+
+<table>
+<tr>
+<td>Extruder:</td>
+<th>Toolhead & Entry Sensors</th>
+<th>Toolhead Sensor Only</th>
+<th>Entry Sensor Only</th>
+<th>No Sensor</th>
 </tr>
 
 <tr>
