@@ -14,30 +14,7 @@ Welcome to the dedicated page for exploring the various options available for To
 
 ---
 
-## modified Parts for filament detection
-
-- **[Option 1 (recommended): entry sensor and toolhead sensor](#option-1-recommended-entry-sensor-and-toolhead-sensor)**
-  - [1.1 Stealthburner Toolhead](#11-stealthburner-toolhead)
-  - [1.2 XOL 2 Toolhead](#12-xol-2-toolhead)
-  - [1.3 other Toolheads](#13-other-toolheads)
-  
-- **[Option 2: entry sensor](#option-2-entry-sensor)**
-  - [2.1 Stealthburner Toolhead](#21-stealthburner-toolhead)
-  - [2.2 XOL 2 Toolhead](#22-xol-2-toolhead)
-  - [2.3 other Toolheads](#23-other-toolheads)
-  
-- **[Option 3: toolhead sensor](#option-3-toolhead-sensor)**
-  - [3.1 Stealthburner Toolhead](#31-stealthburner-toolhead)
-  - [3.2 XOL 2 Toolhead](#32-xol-2-toolhead)
-  - [3.3 other Toolheads](#33-other-toolheads)
-  
-- **[Option 4 (not recommended): no sensor](#option-4-not-recommended-no-sensor)**
-  - [4.1 Stealthburner Toolhead](#41-stealthburner-toolhead)
-  - [4.2 XOL 2 Toolhead](#42-xol-2-toolhead)
-  - [4.3 other Toolheads](#43-other-toolheads)
-
-
----
+## Modified parts for Filament Detection on popular toolheads
 
 <table>
 <tr>
