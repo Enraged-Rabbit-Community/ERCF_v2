@@ -18,7 +18,7 @@ Welcome to the dedicated page for exploring the various options available for To
 
 <table>
 <tr>
-<th></th>
+<td>Extruder:</td>
 <th>Toolhead & Entry Sensors</th>
 <th>Toolhead Sensor Only</th>
 <th>Entry Sensor Only</th>
