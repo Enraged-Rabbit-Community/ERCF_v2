@@ -83,7 +83,8 @@ The following toolheads can be equipped with this variant.
 #### Galileo 2 Extruder
 - feel free to add
 #### Other Extruder
-
+- feel free to add
+- 
 ### 2.2 XOL 2 Toolhead
 #### Sherpa Mini Extruder
 - feel free to add 
@@ -92,6 +93,7 @@ The following toolheads can be equipped with this variant.
 #### Galileo 2 Extruder
 - feel free to add
 #### Other Extruder
+- feel free to add
 
 ### 2.3 other Toolheads
 #### Sherpa Mini Extruder
@@ -101,7 +103,8 @@ The following toolheads can be equipped with this variant.
 #### Galileo 2 Extruder
 - feel free to add
 #### Other Extruder
-
+- feel free to add
+  
 ---
 
 ### Option 3: 
@@ -115,7 +118,8 @@ The following toolheads can be equipped with this variant.
 #### Galileo 2 Extruder
 - feel free to add
 #### Other Extruder
-
+- feel free to add
+  
 ### 3.2 XOL 2 Toolhead
 #### Sherpa Mini Extruder
 - feel free to add 
@@ -124,7 +128,8 @@ The following toolheads can be equipped with this variant.
 #### Galileo 2 Extruder
 - feel free to add
 #### Other Extruder
-
+- feel free to add
+  
 ### 3.3 other Toolheads
 #### Sherpa Mini Extruder
 - feel free to add
@@ -133,7 +138,8 @@ The following toolheads can be equipped with this variant.
 #### Galileo 2 Extruder
 - feel free to add
 #### Other Extruder
-
+- feel free to add
+  
 ---
 
 ### Option 4 (not recommended):
@@ -147,7 +153,8 @@ This setup has only a bowden secure (ecas or push fit).
 #### Galileo 2 Extruder
 - feel free to add
 #### Other Extruder
-
+- feel free to add
+  
 ### 4.2 XOL 2 Toolhead
 #### Sherpa Mini Extruder
 - feel free to add 
@@ -156,7 +163,8 @@ This setup has only a bowden secure (ecas or push fit).
 #### Galileo 2 Extruder
 - feel free to add
 #### Other Extruder
-
+- feel free to add
+  
 ### 4.3 other Toolheads
 #### Sherpa Mini Extruder
 - feel free to add 
@@ -165,3 +173,5 @@ This setup has only a bowden secure (ecas or push fit).
 #### Galileo 2 Extruder
 - feel free to add
 #### Other Extruder
+- feel free to add
+  
