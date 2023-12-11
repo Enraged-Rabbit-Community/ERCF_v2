@@ -5,6 +5,10 @@ ERCFv2 team highly recommends a entry + toolhead sensor. This folder contains st
 > [!NOTE]
 > This page only recommends setups where the Bowden is fixed with a Push-Fit or ECAS. There are other toolheads (stock cw2) where the Bowden is merely inserted. In these cases, there is a risk that the Bowden may slip out of the holder in the event of a clog, hence these setups are not recommended.
 
+> [!NOTE]  
+> If you are using the ERF filament cutter then you should use the toolhead modification found in that folder. These lack cutting ability.
+
+
 ## Table of Content
 **[Variant 1: Sensor before the entrance + Sensor between Extruder and Nozzle (recommended)](#Variant-1)**<br>
 **[Variant 2: Sensor before the entrance ](#Variant-2)**<br>
@@ -21,8 +25,6 @@ This setup checks if the filament gets stuck at the entrance to the extruder. On
 
 The following toolheads can be equipped with this variant.
 
-> [!NOTE]  
-> If you are using the ERF filament cutter then you should use the toolhead modification found in that folder. These lack cutting ability.
 
 
 ### Variant 3: 
