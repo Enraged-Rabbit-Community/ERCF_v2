@@ -14,13 +14,13 @@ ERCFv2 team highly recommends a entry + toolhead sensor. This folder contains st
 
 
 ## Table of Content
-**[Variant 1: Toolheads with entry sensor and toolhead sensor (recommended)](#Variant-1)**<br>
-**[Variant 2: Toolheads with entry sensor ](#Variant-2)**<br>
-**[Variant 3: Toolheads with toolhead sensor ](#Variant-3)**<br>
-**[Variant 4: no Sensor](#Variant-4)**<br>
+**[Option 1 (recommended): Toolheads with entry sensor and toolhead sensor (recommended)](#Option-1)**<br>
+**[Option 2: Toolheads with entry sensor ](#Option-2)**<br>
+**[Option 3: Toolheads with toolhead sensor ](#Option-3)**<br>
+**[Option 4: (not recommended) ](#Option-4)**<br>
 
 
-### Variant 1: 
+### Option 1 (recommended): 
 This setup allows for checking if the filament gets stuck at the entrance to the extruder and if it gets stuck at the entrance of the nozzle. This setup is recommended to avoid failed prints.
 Currently, the following toolheads are available for this variant:
 #### StealthBurner CW2
@@ -32,7 +32,7 @@ Currently, the following toolheads are available for this variant:
 #### Others
 - Comming soon... please help!
 
-### Variant 2: 
+### Option 2: 
 This setup checks if the filament gets stuck at the entrance to the extruder. Once it passes the extruder, any jamming can only be detected by the encoder.
 The following toolheads can be equipped with this variant.
 #### StealthBurner CW2
@@ -45,7 +45,7 @@ The following toolheads can be equipped with this variant.
 #### Others
 - Comming soon... please help!
 
-### Variant 3: 
+### Option 3: 
 This setup checks if the filament gets stuck at the entrance to the nozzle. If the filament cant pass the extruder, any jamming can only be detected by the encoder.
 The following toolheads can be equipped with this variant.
 #### StealthBurner CW2
@@ -58,5 +58,5 @@ The following toolheads can be equipped with this variant.
 #### Others
 - Comming soon... please help!
 
-### Variant 4 (not recommend): 
+### Option 4 (not recommended):
 This setup needs no special parts. The filament jamming can be detected by the encoder
