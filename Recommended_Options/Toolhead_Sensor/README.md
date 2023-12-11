@@ -75,7 +75,7 @@ Currently, the following toolheads are available for this variant:
 This setup checks if the filament gets stuck at the entrance to the extruder. Once it passes the extruder, any jamming can only be detected by the encoder.
 The following toolheads can be equipped with this variant.
 
-### 2.1 StealthBurner Toolhead
+### 2.1 Stealthburner Toolhead
 #### Clockwork Extruder
 - [Main Body](./stls/option2/cw2_main_body_with_ECAS_and_sensor.stl) + [latch](./stls/misc/[a]_latch.stl) by [Garth Snyder](https://github.com/GarthSnyder)
 #### LGX Extruder
@@ -109,7 +109,7 @@ The following toolheads can be equipped with this variant.
 ### Option 3: 
 This setup checks if the filament gets stuck at the entrance to the nozzle. If the filament cant pass the extruder, any jamming can only be detected by the encoder.
 The following toolheads can be equipped with this variant.
-### StealthBurner Toolhead
+### 3.1 Stealthburner Toolhead
 #### Clockwork Extruder
 - feel free to add
 #### LGX Extruder
@@ -119,7 +119,7 @@ The following toolheads can be equipped with this variant.
 #### Other Extruder
 
 ---
-### XOL 2 Toolhead
+### 3.2 XOL 2 Toolhead
 #### Sherpa Mini Extruder
 - feel free to add 
 #### LGX Extruder
@@ -129,7 +129,7 @@ The following toolheads can be equipped with this variant.
 #### Other Extruder
 
 ---
-### other Toolheads
+### 3.3 other Toolheads
 #### Sherpa Mini Extruder
 - feel free to add
 #### LGX Extruder
@@ -141,7 +141,7 @@ The following toolheads can be equipped with this variant.
 
 ### Option 4 (not recommended):
 This setup has only a bowden secure (ecas or push fit).
-### StealthBurner Toolhead
+### 4.1 Stealthburner Toolhead
 #### Clockwork Extruder
 - [Main Body](./stls/option4/cw2_main_body_with_ECAS.stl) + [latch](./stls/misc/[a]_latch.stl) by [Garth Snyder](https://github.com/GarthSnyder)
 
@@ -152,7 +152,7 @@ This setup has only a bowden secure (ecas or push fit).
 #### Other Extruder
 
 ---
-### XOL 2 Toolhead
+### 4.2 XOL 2 Toolhead
 #### Sherpa Mini Extruder
 - feel free to add 
 #### LGX Extruder
@@ -162,7 +162,7 @@ This setup has only a bowden secure (ecas or push fit).
 #### Other Extruder
 
 ---
-### other Toolheads
+### 4.3 other Toolheads
 #### Sherpa Mini Extruder
 - feel free to add 
 #### LGX Extruder
