@@ -40,43 +40,80 @@ Welcome to the dedicated page for exploring the various options available for To
 ---
 
 <table>
-<th>
-<td></td>
-<td>Toolhead & Entry Sensors</td>
-<td>Toolhead Sensor Only</td>
-<td>Entry Sensor Only</td>
-<td>No Sensor</td>
-</th>
 <tr>
-<td>
-* Stealthburner CW2
-* Galileo 2
-* XOL 2
-</td>
-<td>
-<td>
-* Stealthburner CW2
-* Galileo 2
-* XOL 2
-</td>
-<td>
-* Stealthburner CW2
-* Galileo 2
-* XOL 2
-</td>
-<td>
-* Stealthburner CW2
-* Galileo 2
-* XOL 2
-</td>
+<th></th>
+<th>Toolhead & Entry Sensors</th>
+<th>Toolhead Sensor Only</th>
+<th>Entry Sensor Only</th>
+<th>No Sensor</th>
 </tr>
+
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+  <td>
+    Stealthburner CW2
+  </td>
+
+  <td>
+    _contribute_
+  </td>
+
+  <td>
+    _contribute_
+  </td>
+
+  <td>
+    _contribute_
+  </td>
+
+  <td>
+    _contribute_
+  </td>
 </tr>
+
+<tr>
+  <td>
+    Galileo 2
+  </td>
+
+  <td>
+    _contribute_
+  </td>
+
+  <td>
+    _contribute_
+  </td>
+
+  <td>
+    _contribute_
+  </td>
+
+  <td>
+    _contribute_
+  </td>
+</tr>
+
+<tr>
+  <td>
+    XOL 2
+  </td>
+
+  <td>
+    _contribute_
+  </td>
+
+  <td>
+    _contribute_
+  </td>
+
+  <td>
+    _contribute_
+  </td>
+
+  <td>
+    _contribute_
+  </td>
+</tr>
+
 </table>
 
 ## Option 1 (recommended): 
