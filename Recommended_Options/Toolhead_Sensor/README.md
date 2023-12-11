@@ -17,12 +17,15 @@ Welcome to the dedicated page for exploring the various options available for To
 ## Table of Content
 
 **[Option 1 (recommended): entry sensor and toolhead sensor](#Option-1)**<br>
-  \- [Stealthburner Toolhead](#StealthBurner-Toolhead)<br>
-  \- [XOL 2 Toolhead](#XOL-2-Toolhead)<br>
-  \- [other Toolheads](#other-Toolheads)<br>
+  \- [1.1 Stealthburner Toolhead](#1.1-StealthBurner-Toolhead)<br>
+  \- [1.2 XOL 2 Toolhead](#1.2-XOL-2-Toolhead)<br>
+  \- [1.3 other Toolheads](#1.3-other-Toolheads)<br>
   
 **[Option 2: entry sensor](#Option-2)**<br>
-
+  \- [2.1 Stealthburner Toolhead](#2.1-StealthBurner-Toolhead)<br>
+  \- [2.2 XOL 2 Toolhead](#2.2-XOL-2-Toolhead)<br>
+  \- [2.3 other Toolheads](#2.3-other-Toolheads)<br>
+  
 **[Option 3: toolhead sensor](#Option-3)**<br>
 
 **[Option 4 (not recommended): no sensor](#Option-4)**<br>
@@ -33,7 +36,7 @@ Welcome to the dedicated page for exploring the various options available for To
 ## Option 1 (recommended): 
 This setup allows for checking if the filament gets stuck at the entrance to the extruder and if it gets stuck at the entrance of the nozzle. This setup is recommended to avoid failed prints.
 Currently, the following toolheads are available for this variant:
-### StealthBurner Toolhead
+### 1.1 StealthBurner Toolhead
 #### Clockwork Extruder
 - 
 #### LGX Extruder
@@ -43,7 +46,7 @@ Currently, the following toolheads are available for this variant:
 #### Other Extruder
 
 ---
-### XOL 2 Toolhead
+### 1.2 XOL 2 Toolhead
 #### Sherpa Mini Extruder
 - 
 #### LGX Extruder
@@ -53,7 +56,7 @@ Currently, the following toolheads are available for this variant:
 #### Other Extruder
 
 ---
-### other Toolheads
+### 1.3 other Toolheads
 #### Sherpa Mini Extruder
 - 
 #### LGX Extruder
@@ -68,7 +71,7 @@ Currently, the following toolheads are available for this variant:
 This setup checks if the filament gets stuck at the entrance to the extruder. Once it passes the extruder, any jamming can only be detected by the encoder.
 The following toolheads can be equipped with this variant.
 
-### StealthBurner Toolhead
+### 2.1 StealthBurner Toolhead
 #### Clockwork Extruder
 - [Main Body](./stls/option2/cw2_main_body_with_ECAS_and_sensor.stl) + [latch](./stls/misc/[a]_latch.stl) by [Garth Snyder](https://github.com/GarthSnyder)
 #### LGX Extruder
@@ -78,7 +81,7 @@ The following toolheads can be equipped with this variant.
 #### Other Extruder
 
 ---
-### XOL 2 Toolhead
+### 2.2 XOL 2 Toolhead
 #### Sherpa Mini Extruder
 - feel free to add 
 #### LGX Extruder
@@ -88,7 +91,7 @@ The following toolheads can be equipped with this variant.
 #### Other Extruder
 
 ---
-### other Toolheads
+### 2.3 other Toolheads
 #### Sherpa Mini Extruder
 - feel free to add 
 #### LGX Extruder
