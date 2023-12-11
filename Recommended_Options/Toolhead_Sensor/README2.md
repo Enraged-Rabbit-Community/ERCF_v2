@@ -122,7 +122,24 @@ Welcome to the dedicated page for exploring the various options available for To
 
 </table>
 
-## Option 1 (recommended): 
+#### Toolhead & Entry Sensors
+This setup allows for checking if the filament gets stuck at the entrance to the extruder and if it gets stuck at the entrance of the nozzle. This setup is recommended to avoid failed prints. The downside is that you need two switch imputs to your MCU.
+
+#### Toolhead Sensor Only
+This setup checks if the filament gets stuck at the entrance to the extruder. Once it passes the extruder, any jamming can only be detected by the encoder.
+The following toolheads can be equipped with this variant.
+
+#### Entry Sensor Only
+xxxxxx
+
+#### No Sensor
+This setup has no sensors and is thus not recommended but it can be used if you have not other options with Happy Hare. It does include a secure bowden connection (ECAS or push fit) which is essential because the filament will be colliding with the extruder entrance.
+
+
+---
+
+## AS BEFORE
+
 ## Option 1 (recommended): 
 This setup allows for checking if the filament gets stuck at the entrance to the extruder and if it gets stuck at the entrance of the nozzle. This setup is recommended to avoid failed prints.
 Currently, the following toolheads are available for this variant:
