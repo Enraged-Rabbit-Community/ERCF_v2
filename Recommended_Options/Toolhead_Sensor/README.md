@@ -15,11 +15,18 @@ Welcome to the dedicated page for exploring the various options available for To
 ---
 
 ## Table of Content
+
 **[Option 1 (recommended): entry sensor and toolhead sensor](#Option-1)**<br>
-  \- [1. Stealthburner Toolhead](#StealthBurner-Toolhead)<br>
+  \- [Stealthburner Toolhead](#StealthBurner-Toolhead)<br>
+  \- [XOL 2 Toolhead](#XOL-2-Toolhead)<br>
+  \- [other Toolheads](#other-Toolheads)<br>
+  
 **[Option 2: entry sensor](#Option-2)**<br>
+
 **[Option 3: toolhead sensor](#Option-3)**<br>
+
 **[Option 4 (not recommended): no sensor](#Option-4)**<br>
+
 
 ---
 
