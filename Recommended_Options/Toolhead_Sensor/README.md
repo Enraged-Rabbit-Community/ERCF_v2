@@ -11,13 +11,17 @@ Welcome to the dedicated page for exploring the various options available for To
 ---
 ## Illustrative Diagram:
 <td><img src="./Assets/sensor_explained.png" alt='Sensor' style='width: 30%;'></td>
+
 ---
+
 ## Table of Content
 **[Option 1 (recommended): Toolheads with entry sensor and toolhead sensor](#Option-1)**<br>
 **[Option 2: Toolheads with entry sensor ](#Option-2)**<br>
 **[Option 3: Toolheads with toolhead sensor ](#Option-3)**<br>
 **[Option 4: (not recommended) ](#Option-4)**<br>
+
 ---
+
 ### Option 1 (recommended): 
 This setup allows for checking if the filament gets stuck at the entrance to the extruder and if it gets stuck at the entrance of the nozzle. This setup is recommended to avoid failed prints.
 Currently, the following toolheads are available for this variant:
