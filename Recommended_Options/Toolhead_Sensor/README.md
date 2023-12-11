@@ -1,25 +1,23 @@
-# Enraged Rabbit Toolhead Filament Inspection Options
-On this page, you will learn more about Toolhead Filament Inspection. This step is necessary to check whether any errors have occurred during the loading and unloading process. 
-ERCFv2 team highly recommends a entry + toolhead sensor. This folder contains standalone sensor options for popular toolheads.
+# Enraged Rabbit Toolhead Filament Inspection Options Detailed Overview
 
+Welcome to the dedicated page for exploring the various options available for Toolhead Filament Inspection as part of the Enraged Rabbit Project. This crucial step is implemented to meticulously check for any potential errors that might occur during the filament's loading and unloading phases. The ERCFv2 team staunchly advocates for the utilization of a dual-sensor system, incorporating both an entry and toolhead sensor. In this section, you will find a comprehensive collection of standalone sensor options compatible with popular toolheads.
+
+---
+**NOTE: secured bowden**
+> This guide predominantly endorses configurations where the Bowden tube is securely fastened using a Push-Fit or ECAS connection. We wish to highlight that there are certain toolheads, such as the stock cw2, where the Bowden tube is simply inserted without any additional securing mechanism. Such setups present a heightened risk of the Bowden tube dislodging from its holder in the event of a filament clog. Due to this increased risk factor, we do not recommend these types of setups.
+---
+**NOTE: using a filament cutter toolhead**
+> For users who have integrated the ERF filament cutter into their systems, it is essential to refer to the toolhead modifications outlined in [the specific folder](../ERF_Filament_Cutter). Please be aware that the setups discussed here do not include a cutting feature. Our aim is to provide you with a thorough understanding and the necessary resources to ensure optimal performance and reliability in your filament inspection process.
+---
 ## Illustrative Diagram:
 <td><img src="./Assets/sensor_explained.png" alt='Sensor' style='width: 30%;'></td>
-
-
-> [!NOTE]
-> This page only recommends setups where the Bowden is fixed with a Push-Fit or ECAS. There are other toolheads (stock cw2) where the Bowden is merely inserted. In these cases, there is a risk that the Bowden may slip out of the holder in the event of a clog, hence these setups are not recommended.
-
-> [!NOTE]  
-> If you are using the ERF filament cutter then you should use the toolhead modification found in [that folder](../ERF_Filament_Cutter). These lack cutting ability.
-
-
+---
 ## Table of Content
 **[Option 1 (recommended): Toolheads with entry sensor and toolhead sensor](#Option-1)**<br>
 **[Option 2: Toolheads with entry sensor ](#Option-2)**<br>
 **[Option 3: Toolheads with toolhead sensor ](#Option-3)**<br>
 **[Option 4: (not recommended) ](#Option-4)**<br>
-
-
+---
 ### Option 1 (recommended): 
 This setup allows for checking if the filament gets stuck at the entrance to the extruder and if it gets stuck at the entrance of the nozzle. This setup is recommended to avoid failed prints.
 Currently, the following toolheads are available for this variant:
@@ -31,6 +29,8 @@ Currently, the following toolheads are available for this variant:
 - Comming soon... please help!
 #### Others
 - Comming soon... please help!
+
+---
 
 ### Option 2: 
 This setup checks if the filament gets stuck at the entrance to the extruder. Once it passes the extruder, any jamming can only be detected by the encoder.
@@ -45,6 +45,8 @@ The following toolheads can be equipped with this variant.
 #### Others
 - Comming soon... please help!
 
+---
+
 ### Option 3: 
 This setup checks if the filament gets stuck at the entrance to the nozzle. If the filament cant pass the extruder, any jamming can only be detected by the encoder.
 The following toolheads can be equipped with this variant.
@@ -57,6 +59,8 @@ The following toolheads can be equipped with this variant.
 - Comming soon... please help!
 #### Others
 - Comming soon... please help!
+
+---
 
 ### Option 4 (not recommended):
 This setup needs no special parts. The filament jamming can be detected by the encoder.
