@@ -17,7 +17,7 @@ Welcome to the dedicated page for exploring the various options available for To
 ## Modified parts for Filament Detection on popular toolheads
 
 <details>
-<summary>Stealthburner Options</summary>
+<summary>Expand for Stealthburner Options</summary>
 
 <table>
 <tr>
@@ -35,8 +35,8 @@ Welcome to the dedicated page for exploring the various options available for To
 
   <td>
     <ul>
-      <li>Part_X
-      <li>Part_Y
+      <li><a href="Stls/Foo.stl">Part_X</a>
+      <li><a href="Stls/Foo.stl">Part_X</a>
     </ul>
   </td>
 
@@ -60,8 +60,8 @@ Welcome to the dedicated page for exploring the various options available for To
 
   <td>
     <ul>
-      <li>Part_X
-      <li>Part_Y
+      <li><a href="Stls/Foo.stl">Part_X</a>
+      <li><a href="Stls/Foo.stl">Part_X</a>
     </ul>
   </td>
 
@@ -134,7 +134,7 @@ Welcome to the dedicated page for exploring the various options available for To
 </details>
 
 <details>
-<summary>XOL Options</summary>
+<summary>Expand for XOL Options</summary>
 
 <table>
 <tr>
@@ -147,7 +147,32 @@ Welcome to the dedicated page for exploring the various options available for To
 
 <tr>
   <td>
-    XOL 2
+    LGX-Lite
+  </td>
+
+  <td>
+    <sub><i>contribute</i></sub>
+  </td>
+
+  <td>
+    <sub><i>contribute</i></sub>
+  </td>
+
+  <td>
+    <ul>
+      <li><a href="Stls/Foo.stl">Part_X</a>
+      <li><a href="Stls/Foo.stl">Part_X</a>
+    </ul>
+  </td>
+
+  <td>
+    <sub><i>contribute</i></sub>
+  </td>
+</tr>
+
+<tr>
+  <td>
+    Orbiter 2.0
   </td>
 
   <td>
