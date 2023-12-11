@@ -172,6 +172,8 @@ Welcome to the dedicated page for exploring the various options available for To
 
 </table>
 
+</detail>
+
 #### Toolhead & Entry Sensors
 This setup allows the firmware (Happy Hare) to quickly load bowden and optionally home prior to extruder, then home to toolhead sensor before loading to the nozzle. The entry sensor also allow for easier calibration of the bowden length.  The twin sensors also allows for precise location of the filament in an error situation which increases the changes of automatic recovery. The downside is that you need two switch imputs to your MCU. **This is the luxury option.**
 
