@@ -47,7 +47,9 @@ Currently, the following toolheads are available for this variant:
 - feel free to add
 #### LGX Extruder
 - feel free to add
-#### Galileo 2 Extruder
+#### Galileo Extruder
+- feel free to add
+#### Orbiter Extruder
 - feel free to add
 #### Other Extruder
 - feel free to add
@@ -56,7 +58,9 @@ Currently, the following toolheads are available for this variant:
 - feel free to add
 #### LGX Extruder
 - feel free to add
-#### Galileo 2 Extruder
+#### Galileo Extruder
+- feel free to add
+#### Orbiter Extruder
 - feel free to add
 #### Other Extruder
 - feel free to add
@@ -65,7 +69,9 @@ Currently, the following toolheads are available for this variant:
 - feel free to add
 #### LGX Extruder
 - feel free to add
-#### Galileo 2 Extruder
+#### Galileo Extruder
+- feel free to add
+#### Orbiter Extruder
 - feel free to add
 #### Other Extruder
 
@@ -80,7 +86,9 @@ The following toolheads can be equipped with this variant.
 - [Main Body](./stls/option2/cw2_main_body_with_ECAS_and_sensor.stl) + [latch](./stls/misc/[a]_latch.stl) by [Garth Snyder](https://github.com/GarthSnyder)
 #### LGX Extruder
 - feel free to add
-#### Galileo 2 Extruder
+#### Galileo Extruder
+- feel free to add
+#### Orbiter Extruder
 - feel free to add
 #### Other Extruder
 - feel free to add
@@ -90,7 +98,9 @@ The following toolheads can be equipped with this variant.
 - feel free to add 
 #### LGX Extruder
 - feel free to add
-#### Galileo 2 Extruder
+#### Galileo Extruder
+- feel free to add
+#### Orbiter Extruder
 - feel free to add
 #### Other Extruder
 - feel free to add
@@ -100,7 +110,9 @@ The following toolheads can be equipped with this variant.
 - feel free to add 
 #### LGX Extruder
 - feel free to add
-#### Galileo 2 Extruder
+#### Galileo Extruder
+- feel free to add
+#### Orbiter Extruder
 - feel free to add
 #### Other Extruder
 - feel free to add
@@ -115,7 +127,9 @@ The following toolheads can be equipped with this variant.
 - feel free to add
 #### LGX Extruder
 - feel free to add
-#### Galileo 2 Extruder
+#### Galileo Extruder
+- feel free to add
+#### Orbiter Extruder
 - feel free to add
 #### Other Extruder
 - feel free to add
@@ -125,7 +139,9 @@ The following toolheads can be equipped with this variant.
 - feel free to add 
 #### LGX Extruder
 - feel free to add
-#### Galileo 2 Extruder
+#### Galileo Extruder
+- feel free to add
+#### Orbiter Extruder
 - feel free to add
 #### Other Extruder
 - feel free to add
@@ -135,7 +151,9 @@ The following toolheads can be equipped with this variant.
 - feel free to add
 #### LGX Extruder
 - feel free to add
-#### Galileo 2 Extruder
+#### Galileo Extruder
+- feel free to add
+#### Orbiter Extruder
 - feel free to add
 #### Other Extruder
 - feel free to add
@@ -150,7 +168,9 @@ This setup has only a bowden secure (ecas or push fit).
 
 #### LGX Extruder
 - feel free to add
-#### Galileo 2 Extruder
+#### Galileo Extruder
+- feel free to add
+#### Orbiter Extruder
 - feel free to add
 #### Other Extruder
 - feel free to add
@@ -160,7 +180,9 @@ This setup has only a bowden secure (ecas or push fit).
 - feel free to add 
 #### LGX Extruder
 - feel free to add
-#### Galileo 2 Extruder
+#### Galileo Extruder
+- feel free to add
+#### Orbiter Extruder
 - feel free to add
 #### Other Extruder
 - feel free to add
@@ -170,7 +192,9 @@ This setup has only a bowden secure (ecas or push fit).
 - feel free to add 
 #### LGX Extruder
 - feel free to add
-#### Galileo 2 Extruder
+#### Galileo Extruder
+- feel free to add
+#### Orbiter Extruder
 - feel free to add
 #### Other Extruder
 - feel free to add
