@@ -1,5 +1,5 @@
-# Enraged Rabbit Filament Inspection Options
-On this page, you will learn more about Filament Inspection. This step is necessary to check whether any errors have occurred during the loading and unloading process. 
+# Enraged Rabbit Toolhead Filament Inspection Options
+On this page, you will learn more about Toolhead Filament Inspection. This step is necessary to check whether any errors have occurred during the loading and unloading process. 
 ERCFv2 team highly recommends a entry + toolhead sensor. This folder contains standalone sensor options for popular toolheads.
 
 ## Example:
@@ -10,7 +10,7 @@ ERCFv2 team highly recommends a entry + toolhead sensor. This folder contains st
 > This page only recommends setups where the Bowden is fixed with a Push-Fit or ECAS. There are other toolheads (stock cw2) where the Bowden is merely inserted. In these cases, there is a risk that the Bowden may slip out of the holder in the event of a clog, hence these setups are not recommended.
 
 > [!NOTE]  
-> If you are using the ERF filament cutter then you should use the toolhead modification found in that folder. These lack cutting ability.
+> If you are using the ERF filament cutter then you should use the toolhead modification found in [that folder](../ERF_Filament_Cutter). These lack cutting ability.
 
 
 ## Table of Content
