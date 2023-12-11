@@ -44,32 +44,32 @@ This setup allows for checking if the filament gets stuck at the entrance to the
 Currently, the following toolheads are available for this variant:
 ### 1.1 Stealthburner Toolhead
 #### Clockwork Extruder
-- 
+- feel free to add
 #### LGX Extruder
--
+- feel free to add
 #### Galileo 2 Extruder
--
+- feel free to add
 #### Other Extruder
-
+- feel free to add
 ### 1.2 XOL 2 Toolhead
 #### Sherpa Mini Extruder
-- 
+- feel free to add
 #### LGX Extruder
--
+- feel free to add
 #### Galileo 2 Extruder
--
+- feel free to add
 #### Other Extruder
-
+- feel free to add
 ### 1.3 other Toolheads
 #### Sherpa Mini Extruder
-- 
+- feel free to add
 #### LGX Extruder
--
+- feel free to add
 #### Galileo 2 Extruder
--
+- feel free to add
 #### Other Extruder
 
-
+---
 
 ## Option 2: 
 This setup checks if the filament gets stuck at the entrance to the extruder. Once it passes the extruder, any jamming can only be detected by the encoder.
@@ -84,7 +84,6 @@ The following toolheads can be equipped with this variant.
 - feel free to add
 #### Other Extruder
 
----
 ### 2.2 XOL 2 Toolhead
 #### Sherpa Mini Extruder
 - feel free to add 
@@ -94,7 +93,6 @@ The following toolheads can be equipped with this variant.
 - feel free to add
 #### Other Extruder
 
----
 ### 2.3 other Toolheads
 #### Sherpa Mini Extruder
 - feel free to add 
@@ -118,7 +116,6 @@ The following toolheads can be equipped with this variant.
 - feel free to add
 #### Other Extruder
 
----
 ### 3.2 XOL 2 Toolhead
 #### Sherpa Mini Extruder
 - feel free to add 
@@ -128,7 +125,6 @@ The following toolheads can be equipped with this variant.
 - feel free to add
 #### Other Extruder
 
----
 ### 3.3 other Toolheads
 #### Sherpa Mini Extruder
 - feel free to add
@@ -138,6 +134,7 @@ The following toolheads can be equipped with this variant.
 - feel free to add
 #### Other Extruder
 
+---
 
 ### Option 4 (not recommended):
 This setup has only a bowden secure (ecas or push fit).
@@ -151,7 +148,6 @@ This setup has only a bowden secure (ecas or push fit).
 - feel free to add
 #### Other Extruder
 
----
 ### 4.2 XOL 2 Toolhead
 #### Sherpa Mini Extruder
 - feel free to add 
@@ -161,7 +157,6 @@ This setup has only a bowden secure (ecas or push fit).
 - feel free to add
 #### Other Extruder
 
----
 ### 4.3 other Toolheads
 #### Sherpa Mini Extruder
 - feel free to add 
