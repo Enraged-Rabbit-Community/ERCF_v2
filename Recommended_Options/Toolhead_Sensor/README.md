@@ -2,14 +2,14 @@
 On this page, you will learn more about Filament Inspection. This step is necessary to check whether any errors have occurred during the loading and unloading process. 
 ERCFv2 team highly recommends a entry + toolhead sensor. This folder contains standalone sensor options for popular toolheads.
 
-
-## Table of Content
-**[##Variant 1: Sensor before the entrance + Sensor between Extruder and Nozzle (recommended)](#Variant-1)**<br>
-**[##Variant 1: Sensor before the entrance ](#Variant-2)**<br>
-**[##Variant 1: No Sensor](#Variant-3)**<br>
-
 > [!NOTE]
 > This page only recommends setups where the Bowden is fixed with a Push-Fit or ECAS. There are other toolheads (stock cw2) where the Bowden is merely inserted. In these cases, there is a risk that the Bowden may slip out of the holder in the event of a clog, hence these setups are not recommended.
+
+## Table of Content
+**[Variant 1: Sensor before the entrance + Sensor between Extruder and Nozzle (recommended)](#Variant-1)**<br>
+**[Variant 2: Sensor before the entrance ](#Variant-2)**<br>
+**[Variant 3: No Sensor](#Variant-3)**<br>
+
 
 ### Variant 1: 
 This setup allows for checking if the filament gets stuck at the entrance to the extruder and if it gets stuck at the entrance of the nozzle. This setup is recommended to avoid failed prints.
