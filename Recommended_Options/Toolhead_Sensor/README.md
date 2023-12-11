@@ -26,7 +26,7 @@ Welcome to the dedicated page for exploring the various options available for To
 This setup allows for checking if the filament gets stuck at the entrance to the extruder and if it gets stuck at the entrance of the nozzle. This setup is recommended to avoid failed prints.
 Currently, the following toolheads are available for this variant:
 #### StealthBurner CW2
-- SB_CW2_Main_Body_With_2xD2F_ECAS.stl (Entry Sensor + Toolhead Sensor + ECAS)  Credit: [juliusjj25](https://github.com/juliusjj25)  
+- 
 #### Galileo 2
 - Comming soon... please help! 
 #### LGX Lite
@@ -40,8 +40,7 @@ Currently, the following toolheads are available for this variant:
 This setup checks if the filament gets stuck at the entrance to the extruder. Once it passes the extruder, any jamming can only be detected by the encoder.
 The following toolheads can be equipped with this variant.
 #### StealthBurner CW2
-- SB_CW2_Main_Body_With_Entry_D2F_ECAS.stl (Entry Sensor + ECAS)
-  - Credit: [juliusjj25](https://github.com/juliusjj25)
+- 
 #### Galileo 2
 - Comming soon... please help! 
 #### LGX Lite
@@ -55,8 +54,7 @@ The following toolheads can be equipped with this variant.
 This setup checks if the filament gets stuck at the entrance to the nozzle. If the filament cant pass the extruder, any jamming can only be detected by the encoder.
 The following toolheads can be equipped with this variant.
 #### StealthBurner CW2
-- SB_CW2_Main_Body_With_Entry_D2F_ECAS.stl (Entry Sensor + ECAS)
-  - Credit: [juliusjj25](https://github.com/juliusjj25)
+- 
 #### Galileo 2
 - Comming soon... please help! 
 #### LGX Lite
@@ -67,4 +65,12 @@ The following toolheads can be equipped with this variant.
 ---
 
 ### Option 4 (not recommended):
-This setup needs no special parts. The filament jamming can be detected by the encoder.
+This setup has only a bowden secure (ecas or push fit).
+#### StealthBurner CW2
+- 
+#### Galileo 2
+- Comming soon... please help! 
+#### LGX Lite
+- Comming soon... please help!
+#### Others
+- Comming soon... please help!
