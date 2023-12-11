@@ -19,8 +19,6 @@ Welcome to the dedicated page for exploring the various options available for To
 <details>
 <summary>Stealthburner Options</summary>
 
-</details>
-
 <table>
 <tr>
 <td>Extruder:</td>
@@ -137,8 +135,6 @@ Welcome to the dedicated page for exploring the various options available for To
 
 <details>
 <summary>XOL Options</summary>
-
-</details>
 
 <table>
 <tr>
