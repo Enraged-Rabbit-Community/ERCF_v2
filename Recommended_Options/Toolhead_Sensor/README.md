@@ -2,7 +2,7 @@
 On this page, you will learn more about Toolhead Filament Inspection. This step is necessary to check whether any errors have occurred during the loading and unloading process. 
 ERCFv2 team highly recommends a entry + toolhead sensor. This folder contains standalone sensor options for popular toolheads.
 
-## Example:
+## Illustrative Diagram:
 <td><img src="./Assets/sensor_explained.png" alt='Sensor' style='width: 30%;'></td>
 
 
@@ -14,7 +14,7 @@ ERCFv2 team highly recommends a entry + toolhead sensor. This folder contains st
 
 
 ## Table of Content
-**[Option 1 (recommended): Toolheads with entry sensor and toolhead sensor (recommended)](#Option-1)**<br>
+**[Option 1 (recommended): Toolheads with entry sensor and toolhead sensor](#Option-1)**<br>
 **[Option 2: Toolheads with entry sensor ](#Option-2)**<br>
 **[Option 3: Toolheads with toolhead sensor ](#Option-3)**<br>
 **[Option 4: (not recommended) ](#Option-4)**<br>
@@ -59,4 +59,4 @@ The following toolheads can be equipped with this variant.
 - Comming soon... please help!
 
 ### Option 4 (not recommended):
-This setup needs no special parts. The filament jamming can be detected by the encoder
+This setup needs no special parts. The filament jamming can be detected by the encoder.
