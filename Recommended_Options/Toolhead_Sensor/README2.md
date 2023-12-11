@@ -38,25 +38,50 @@ Welcome to the dedicated page for exploring the various options available for To
   </td>
 
   <td>
-    _contribute_
+    <sub><i>contribute</i></sub>
   </td>
 
   <td>
-    _contribute_
+    <sub><i>contribute</i></sub>
   </td>
 
   <td>
-    _contribute_
+    <sub><i>contribute</i></sub>
   </td>
 </tr>
 
 <tr>
   <td>
-    Galileo 2
+    Stealthburner Galileo2
   </td>
 
   <td>
-    _contribute_
+    <ul>
+      <li>Part_X
+      <li>Part_Y
+    </ul>
+  </td>
+
+  <td>
+    <sub><i>contribute</i></sub>
+  </td>
+
+  <td>
+    <sub><i>contribute</i></sub>
+  </td>
+
+  <td>
+    <sub><i>contribute</i></sub>
+  </td>
+</tr>
+
+<tr>
+  <td>
+    Stealthburner LGX
+  </td>
+
+  <td>
+    <sub><i>contribute</i></sub>
   </td>
 
   <td>
@@ -68,11 +93,37 @@ Welcome to the dedicated page for exploring the various options available for To
   </td>
 
   <td>
-    _contribute_
+    <sub><i>contribute</i></sub>
   </td>
 
   <td>
-    _contribute_
+    <sub><i>contribute</i></sub>
+  </td>
+</tr>
+
+<tr>
+  <td>
+    Stealthburner Other
+  </td>
+
+  <td>
+    <sub><i>contribute</i></sub>
+  </td>
+
+  <td>
+    <ul>
+      <li><a href="Stls/Foo.stl">Part_X</a>
+      <li><a href="Stls/Foo.stl">Part_X</a>
+      <li><a href="Stls/Foo.stl">Part_Y</a>
+    </ul>
+  </td>
+
+  <td>
+    <sub><i>contribute</i></sub>
+  </td>
+
+  <td>
+    <sub><i>contribute</i></sub>
   </td>
 </tr>
 
@@ -82,11 +133,11 @@ Welcome to the dedicated page for exploring the various options available for To
   </td>
 
   <td>
-    _contribute_
+    <sub><i>contribute</i></sub>
   </td>
 
   <td>
-    _contribute_
+    <sub><i>contribute</i></sub>
   </td>
 
   <td>
@@ -97,7 +148,7 @@ Welcome to the dedicated page for exploring the various options available for To
   </td>
 
   <td>
-    _contribute_
+    <sub><i>contribute</i></sub>
   </td>
 </tr>
 
