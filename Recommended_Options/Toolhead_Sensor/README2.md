@@ -127,11 +127,10 @@ Welcome to the dedicated page for exploring the various options available for To
 </table>
 
 #### Toolhead & Entry Sensors
-This setup allows for checking if the filament gets stuck at the entrance to the extruder and if it gets stuck at the entrance of the nozzle. This setup is recommended to avoid failed prints. The downside is that you need two switch imputs to your MCU.
+This setup allows the firmware (Happy Hare) to quickly load bowden and optionally home prior to extruder, then home to toolhead sensor before loading to the nozzle. The entry sensor also allow for easier calibration of the bowden length.  The twin sensors also allows for precise location of the filament in an error situation which increases the changes of automatic recovery. The downside is that you need two switch imputs to your MCU. **This is the luxury option.**
 
 #### Toolhead Sensor Only
-This setup checks if the filament gets stuck at the entrance to the extruder. Once it passes the extruder, any jamming can only be detected by the encoder.
-The following toolheads can be equipped with this variant.
+Which this setup the firmware can quickly load close to the extruder and then precisely home to the toolhead sensor inside the extruder. The presence of the toolhead sensor is highly valuable in a MMU so the firmware allowing detection of correct behavior, smooth loading and auto recovery. This is usually an easy setup to accomodate and many toolhead boards or MCUs provide for this input. **This is the most common recommended option**
 
 #### Entry Sensor Only
 xxxxxx
