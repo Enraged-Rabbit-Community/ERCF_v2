@@ -15,10 +15,10 @@ Welcome to the dedicated page for exploring the various options available for To
 ---
 
 ## Table of Content
-**[Option 1 (recommended): Toolheads with entry sensor and toolhead sensor](#Option-1)**<br>
-**[Option 2: Toolheads with entry sensor ](#Option-2)**<br>
-**[Option 3: Toolheads with toolhead sensor ](#Option-3)**<br>
-**[Option 4: (not recommended) ](#Option-4)**<br>
+**[Option 1 (recommended): entry sensor and toolhead sensor](#Option-1)**<br>
+**[Option 2: entry sensor](#Option-2)**<br>
+**[Option 3: toolhead sensor](#Option-3)**<br>
+**[Option 4 (not recommended): no sensor](#Option-4)**<br>
 
 ---
 
