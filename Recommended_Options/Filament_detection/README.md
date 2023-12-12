@@ -40,7 +40,7 @@ This setup has no sensors and is thus not recommended but it can be used if you 
   </tr>
   <tr>
     <td>Clockwork 2</td>
-    <td></td>
+   <td> <a href="./stls/1_toolhead_entry_sensors/cw2_latch.stl">Latch</a> <br> <a href="./stls/1_toolhead_entry_sensors/cw2_body.stl">Body</a> <br> <a href="./stls/1_toolhead_entry_sensors/cw2_plate.stl">Plate</a></td>
     <td></td>
     <td></td>
     <td></td>
@@ -48,7 +48,7 @@ This setup has no sensors and is thus not recommended but it can be used if you 
   <tr>
     <td>Orbiter 2</td>
     <td></td>
-    <td>[Latch](./stls/1_toolhead_entry_sensors/cw2_latch.stl) <br> [Body](./stls/1_toolhead_entry_sensors/cw2_body.stl) <br> [Plate](./stls/1_toolhead_entry_sensors/cw2_plate.stl) </td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -74,10 +74,6 @@ This setup has no sensors and is thus not recommended but it can be used if you 
     <td></td>
   </tr>
 </table>
-
-
-
-
 - [Main Body](./stls/option2/cw2_main_body_with_ECAS_and_sensor.stl) + [latch](./stls/misc/[a]_latch.stl) by [Garth Snyder](https://github.com/GarthSnyder)
 
 - [Main Body](./stls/option4/cw2_main_body_with_ECAS.stl) + [latch](./stls/misc/[a]_latch.stl) by [Garth Snyder](https://github.com/GarthSnyder)
