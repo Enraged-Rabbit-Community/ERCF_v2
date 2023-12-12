@@ -30,7 +30,50 @@ This setup has no sensors and is thus not recommended but it can be used if you 
 
 <details>
 <summary>Expand for Stealthburner Options</summary>
-
+<table>
+  <tr>
+    <th>extruder</th>
+    <th>1. toolhead &amp; entry sensor</th>
+    <th>2. toolhead sensor</th>
+    <th>3. entry sensor</th>
+    <th>4. no sensor</th>
+  </tr>
+  <tr>
+    <td>Clockwork 2</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Orbiter 2</td>
+    <td></td>
+    <td>[Latch](./stls/1_toolhead_entry_sensors/cw2_latch.stl) <br> [Body](./stls/1_toolhead_entry_sensors/cw2_body.stl) <br> [Plate](./stls/1_toolhead_entry_sensors/cw2_plate.stl) </td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>LGX Lite</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Galileo 2</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>other extruder</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 
 
