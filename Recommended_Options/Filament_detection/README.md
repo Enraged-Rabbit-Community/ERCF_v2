@@ -42,7 +42,6 @@ This setup has no sensors and is thus not recommended but it can be used if you 
 ---
 
 ## Parts
-
 <details>
 <summary><strong>Expand for Stealthburner Options</strong></summary>
 <table>
