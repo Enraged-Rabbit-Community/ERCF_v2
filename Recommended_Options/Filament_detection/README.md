@@ -32,15 +32,15 @@ This setup has no sensors and is thus not recommended but it can be used if you 
 <summary>Expand for Stealthburner Options</summary>
 <table>
   <tr>
-    <th>extruder</th>
-    <th>1. toolhead <br> &amp; <br> entry sensor</th>
+    <th>Extruder</th>
+    <th>1. toolhead &amp; <br> entry sensor</th>
     <th>2. toolhead sensor</th>
     <th>3. entry sensor</th>
     <th>4. no sensor</th>
   </tr>
   <tr>
     <td>Clockwork 2</td>
-   <td> <a href="./stls/1_toolhead_entry_sensors/cw2_latch.stl">Latch</a> <br> <a href="./stls/1_toolhead_entry_sensors/cw2_body.stl">Body</a> <br> <a href="./stls/1_toolhead_entry_sensors/cw2_plate.stl">Plate</a> <br><a href=https://www.printables.com/model/466692-stealthburner-cw2-filament-sensors-with-ecas-latch/files>design by Petr Kašpar</a></td>
+   <td> <a href="./stls/1_toolhead_entry_sensors/cw2_latch.stl">Latch</a> <br> <a href="./stls/1_toolhead_entry_sensors/cw2_body.stl">Body</a> <br> <a href="./stls/1_toolhead_entry_sensors/cw2_plate.stl">Plate</a> <br>design by Petr Kašpar</a></td>
     <td></td>
     <td></td>
     <td></td>
