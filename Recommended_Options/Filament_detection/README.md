@@ -36,8 +36,8 @@ This setup has no sensors and is thus not recommended but it can be used if you 
 ✘ no clogg detection between ERCF and Extruder (Aside from the ERCF encoder, there is no detection whether the filament is being fed to the toolhead extruder.)  
 ✘ no clogg detection between after and Nozzle (Aside from the ERCF encoder, there is no detection whether the filament is being fed the toolhead extruder into the nozzle.)  
   
-![Bildbeschreibung]("./Assets/sensor_explained.png")
-*Position of the sensor.*
+<img src="./Assets/sensor_explained.png" alt="Position of the sensor" width="200"/>
+<p><em>Position of the sensor</em></p>
 
 ---
 
