@@ -48,7 +48,7 @@ This setup has no sensors and is thus not recommended but it can be used if you 
 <table>
   <tr>
     <th>Extruder</th>
-    <th>1. toolhead &amp; <br> entry sensor</th>
+    <th>1. toolhead &amp; entry sensor</th>
     <th>2. toolhead sensor</th>
     <th>3. entry sensor</th>
     <th>4. no sensor</th>
@@ -96,10 +96,10 @@ This setup has no sensors and is thus not recommended but it can be used if you 
 <table>
   <tr>
     <th>Extruder</th>
-    <th>1. toolhead &amp; <br> entry sensor</th>
-    <th>2. toolhead <br> sensor</th>
-    <th>3. entry <br> sensor</th>
-    <th>4. no <br> sensor</th>
+    <th>1. toolhead &amp; entry sensor</th>
+    <th>2. toolhead sensor</th>
+    <th>3. entry sensor</th>
+    <th>4. no sensor</th>
   </tr>
   <tr>
     <td>Clockwork 2</td>
