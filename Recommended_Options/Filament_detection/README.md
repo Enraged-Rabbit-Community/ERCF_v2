@@ -27,14 +27,14 @@ Which this setup the firmware can quickly load close to the nozzle and then prec
 **This is the most common recommended option**
 
 #### 3. Entry Sensor only
-Which this setup the firmware can quickly load close to the extruder and then precisely home to the toolhead sensor inside the extruder. The presence of the toolhead sensor is highly valuable in a MMU so the firmware allowing detection of correct behavior, smooth loading and auto recovery. This is usually an easy setup to accomodate and many toolhead boards or MCUs provide for this input.   
+Which this setup the firmware can quickly load close to the extruder and then precisely home to the toolhead sensor inside the extruder. The presence of the toolhead sensor is highly valuable in a MMU so the firmware allowing detection of correct behavior, smooth loading and auto recovery. This is usually an easy setup to accomodate and many toolhead boards or MCUs provide for this input.  
 ✔ physical clogg detection between ERCF and Extruder (It is detected whether the filament is fed to the toolhead extruder.)  
 ✘ no clogg detection between Extruder and Nozzle (No detection whether the filament is being fed by the toolhead extruder.)  
 **better then nothing :-X**
 
 #### 4. No Sensor
 This setup has no sensors and is thus not recommended but it can be used if you have not other options with Happy Hare. It does include a secure bowden connection (ECAS or push fit) which is essential because the filament will be colliding with the extruder entrance. If you have no pyhsical sensor your should look for a software detection like ([Happy-Hare](https://github.com/moggieuk/Happy-Hare)).  
-✘ no clogg detection between ERCF and Extruder (No detection whether the filament is not fed to the toolhead extruder.)
+✘ no clogg detection between ERCF and Extruder (No detection whether the filament is not fed to the toolhead extruder.)  
 ✘ no clogg detection between Extruder and Nozzle (No detection whether the filament is being fed the toolhead extruder.)  
 **not recommended**
 
