@@ -11,9 +11,6 @@ Welcome to the dedicated page for exploring the various options available for To
 ---
 
 ## Options
-
-<td><img src="./Assets/sensor_explained.png" alt='Sensor' style='width: 30%;'></td>
-
 **1. Toolhead and Entry Sensor**  
 This setup allows the firmware (Happy Hare) to quickly load bowden and optionally home prior to extruder, then home to toolhead sensor before loading to the nozzle. The entry sensor also allow for easier calibration of the bowden length.  The twin sensors also allows for precise location of the filament in an error situation which increases the chances of automatic recovery. The downside is that you need two switch inputs to your MCU. **This is the luxury option.**  
    
@@ -39,6 +36,9 @@ This setup has no sensors and is thus not recommended but it can be used if you 
 ✘ no clogg detection between ERCF and Extruder (Aside from the ERCF encoder, there is no detection whether the filament is being fed to the toolhead extruder.)  
 ✘ no clogg detection between after and Nozzle (Aside from the ERCF encoder, there is no detection whether the filament is being fed the toolhead extruder into the nozzle.)  
   
+![Bildbeschreibung]("./Assets/sensor_explained.png")
+*Position of the sensor.*
+
 ---
 
 ## Parts
