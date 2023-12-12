@@ -40,7 +40,7 @@ This setup has no sensors and is thus not recommended but it can be used if you 
   </tr>
   <tr>
     <td>Clockwork 2</td>
-   <td> <a href="./stls/1_toolhead_entry_sensors/cw2_latch.stl">Latch</a> <br> <a href="./stls/1_toolhead_entry_sensors/cw2_body.stl">Body</a> <br> <a href="./stls/1_toolhead_entry_sensors/cw2_plate.stl">Plate</a> <br>design by Petr Kašpar</a></td>
+   <td> <a href="./stls/1_toolhead_entry_sensors/cw2_latch.stl">Latch</a> <br> <a href="./stls/1_toolhead_entry_sensors/cw2_body.stl">Body</a> <br> <a href="./stls/1_toolhead_entry_sensors/cw2_plate.stl">Plate</a><br>You need: 2x D2F-5 <br>2x ball 5,5mm <br> 4x self tapping screw M2x10 <br> design by Petr Kašpar</a></td>
     <td></td>
     <td></td>
     <td></td>
