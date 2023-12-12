@@ -2,18 +2,17 @@
 
 Welcome to the dedicated page for exploring the various options available for Toolhead Filament detection as part of the Enraged Rabbit Project. This crucial step is implemented to meticulously check for any potential errors that might occur during the filament's loading and unloading phases. The ERCFv2 team advocates for the utilization of a toolhead sensor only or dual-sensor system. In this section, you will find a comprehensive collection of standalone sensor options compatible with popular toolheads.
 
----
-**NOTE: secured bowden**
+## Note
+**secured bowden**
 > This guide predominantly endorses configurations where the Bowden tube is securely fastened using a Push-Fit or ECAS connection. We wish to highlight that there are certain toolheads, such as the stock cw2, where the Bowden tube is simply inserted without any additional securing mechanism. Such setups present a heightened risk of the Bowden tube dislodging from its holder in the event of a filament clog. Due to this increased risk factor, we do not recommend these types of setups.
 ---
-**NOTE: using a filament cutter toolhead**
+**using a filament cutter toolhead**
 > For users who have integrated the ERF filament cutter into their systems, it is essential to refer to the toolhead modifications outlined in [the specific folder](../ERF_Filament_Cutter). Please be aware that the setups discussed here do not include a cutting feature. Our aim is to provide you with a thorough understanding and the necessary resources to ensure optimal performance and reliability in your filament inspection process.
 ---
-## Illustrative Diagram:
+
+## Options
+
 <td><img src="./Assets/sensor_explained.png" alt='Sensor' style='width: 30%;'></td>
-
-
-## Options:
 
 #### Toolhead and Entry Sensor
 This setup allows the firmware (Happy Hare) to quickly load bowden and optionally home prior to extruder, then home to toolhead sensor before loading to the nozzle. The entry sensor also allow for easier calibration of the bowden length.  The twin sensors also allows for precise location of the filament in an error situation which increases the chances of automatic recovery. The downside is that you need two switch inputs to your MCU.   
@@ -41,7 +40,7 @@ This setup has no sensors and is thus not recommended but it can be used if you 
 
 ---
 
-## modified parts
+## Parts
 
 <details>
 <summary><strong>Expand for Stealthburner Options</strong></summary>
