@@ -77,6 +77,7 @@ This setup has no sensors and is thus not recommended but it can be used if you 
     <td></td>
   </tr>
 </table>
+</details>
 
 <details>
 <summary>Expand for other toolheads</summary>
@@ -125,6 +126,7 @@ This setup has no sensors and is thus not recommended but it can be used if you 
   </tr>
 </table>
 
+</details>
 <details>
 <summary>Expand for XOL2 Options</summary>
 <table>
@@ -171,4 +173,4 @@ This setup has no sensors and is thus not recommended but it can be used if you 
     <td></td>
   </tr>
 </table>
-
+</details>
