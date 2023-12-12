@@ -17,27 +17,28 @@ Welcome to the dedicated page for exploring the various options available for To
 
 #### Toolhead & Entry Sensors
 This setup allows the firmware (Happy Hare) to quickly load bowden and optionally home prior to extruder, then home to toolhead sensor before loading to the nozzle. The entry sensor also allow for easier calibration of the bowden length.  The twin sensors also allows for precise location of the filament in an error situation which increases the chances of automatic recovery. The downside is that you need two switch inputs to your MCU. 
-&check; physical clogg detection between ERCF and Extruder
-&check; physical clogg detection between Extruder and nozzle
+✔ physical clogg detection between ERCF and Extruder
+✔ physical clogg detection between Extruder and nozzle
 **This is the luxury option.**
 
 #### Toolhead Sensor Only
 Which this setup the firmware can quickly load close to the nozzle and then precisely home to the toolhead sensor inside the extruder. The presence of the toolhead sensor is highly valuable in a MMU so the firmware allowing detection of correct behavior, smooth loading and auto recovery. This is usually an easy setup to accomodate and many toolhead boards or MCUs provide for this input. This option has no physical detection if the filament stuck in front of the extruder. In this case yo 
-&check; software clogg detection between ERCF and Extruder (extruder_homing_endstop: collision)
-&check; physical clogg detection between Extruder and nozzle
+(✔) software clogg detection between ERCF and Extruder (extruder_homing_endstop: collision)
+✔ physical clogg detection between Extruder and nozzle
 **This is the most common recommended option**
 
 #### Entry Sensor Only
 Which this setup the firmware can quickly load close to the extruder and then precisely home to the toolhead sensor inside the extruder. The presence of the toolhead sensor is highly valuable in a MMU so the firmware allowing detection of correct behavior, smooth loading and auto recovery. This is usually an easy setup to accomodate and many toolhead boards or MCUs provide for this input. This option has no physical detection if the filament stuck between extruder and nozzle.
-&check; physical clogg detection between ERCF and Extruder
-&cross; no clogg detection between Extruder and nozzle
-
+✔ physical clogg detection between ERCF and Extruder
+✘ no clogg detection between Extruder and nozzle
+**better then nothing :-X**
 
 #### No Sensor
 This setup has no sensors and is thus not recommended but it can be used if you have not other options with Happy Hare. It does include a secure bowden connection (ECAS or push fit) which is essential because the filament will be colliding with the extruder entrance. 
-&cross; physical clogg detection between ERCF and Extruder
-&cross; no clogg detection between Extruder and nozzle
+✘ physical clogg detection between ERCF and Extruder
+✘ no clogg detection between Extruder and nozzle
 **not recommended**
+
 ---
 
 ## modified parts for popular toolheads
