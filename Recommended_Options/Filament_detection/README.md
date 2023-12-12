@@ -40,8 +40,8 @@ This setup has no sensors and is thus not recommended but it can be used if you 
   </tr>
   <tr>
     <td>Clockwork 2</td>
-   <td> <a href="./stls/1_toolhead_entry_sensors/cw2_latch.stl">Latch</a> <br> <a href="./stls/1_toolhead_entry_sensors/cw2_body.stl">Body</a> <br> <a href="./stls/1_toolhead_entry_sensors/cw2_plate.stl">Plate</a><br>You need: 2x D2F-5 <br>2x ball 5,5mm <br> 4x self tapping screw M2x10 <br> design by Petr Kašpar</a></td>
-    <td></td>
+   <td> <a href="./stls/1_toolhead_entry_sensors/cw2_latch.stl">Latch</a> <br> <a href="./stls/1_toolhead_entry_sensors/cw2_body.stl">Body</a> <br> <a href="./stls/1_toolhead_entry_sensors/cw2_plate.stl">Plate</a><br>additional items: <br> 1x ECAS <br> 2x D2F-5 <br>2x ball 5,5mm <br> 4x self tapping screw M2x10 <br> design by Petr Kašpar</a></td>
+    <td> <a href="./stls/2_toolhead_sensor/cw2_body.stl>Body</a> <br> <a href="./stls/1_toolhead_entry_sensors/cw2_latch.stl">Latch</a> <br> design by Garth Snyder</td>
     <td></td>
     <td></td>
   </tr>
@@ -74,7 +74,7 @@ This setup has no sensors and is thus not recommended but it can be used if you 
     <td></td>
   </tr>
 </table>
-- [Main Body](./stls/option2/cw2_main_body_with_ECAS_and_sensor.stl) + [latch](./stls/misc/[a]_latch.stl) by [Garth Snyder](https://github.com/GarthSnyder)
+
 
 - [Main Body](./stls/option4/cw2_main_body_with_ECAS.stl) + [latch](./stls/misc/[a]_latch.stl) by [Garth Snyder](https://github.com/GarthSnyder)
 
