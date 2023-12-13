@@ -6,7 +6,7 @@ This page explores the various options available for Toolhead Filament detection
 > **Secured bowden**: It is important to ensure the bowden tube can't accidently separate from either the MMU or the toolhead. This is essential when opting for no toolhead sensors. We recommend secure fastening using a Push-Fit or ECAS connection. We wish to highlight that there are certain toolheads, such as the stock CW2, where the Bowden tube is simply inserted without any additional securing mechanism. Such setups present a heightened risk of the bowden tube dislodging from its holder and thus we offer a no-sensor version of these toolheads.
 
 > [!NOTE]  
-> **Using a filament cutter toolhead**: For users who have integrated the ERF filament cutter into their systems, please refer to the toolhead modifications outlined in then [ERF Filament Cutter](../ERF_Filament_Cutter) section where you will find a similar set of toolhead modifications but including the cutting option.
+> **Using a filament cutter toolhead**: For users who have integrated the ERF filament cutter into their systems, please refer to the toolhead modifications outlined in then [ERF Filament Cutter](../ERF_Filament_Cutter/README.md) section where you will find a similar set of toolhead modifications but including the cutting option.
 
 <br>
 
