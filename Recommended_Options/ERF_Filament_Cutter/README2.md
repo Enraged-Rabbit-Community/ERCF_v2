@@ -15,21 +15,9 @@
 ![image](Assets/ERF2.png)
 
 ## Toolheads
+Currently ERF is only available for the Stealthburner toolhead. We hope to offer other options in the future. When choosing toolhead sensors refer to the explanation of options [here](/Recommended_Options/Toolhead_Modifications/README.md)
 
-#### StealthBurner CW2 (with various sensor options)
-- SB_CW2_Main_Body_Cutting_With_2xD2F_ECAS.stl (Cutter + Entry Sensor + Toolhead Sensor + ECAS)
-- SB_CW2_Main_Body_Cutting_With_ECAS.stl (Cutter + ECAS)
-- SB_CW2_Main_Body_Cutting_With_Entry_D2F_ECAS.stl (Cutter + Entry Sensor + ECAS)
-- SB_CW2_Main_Body_Cutting_With_Toolhead_D2F_EBB_ECAS.stl (Cutter + Toolhead Sensor + EBB board + ECAS)
-  - Credit: [juliusjj25](https://github.com/juliusjj25)
-
-#### LGX Lite
-- SB_LGX_Lite_Main_Body_Cutting.stl
-  - Credit: [tommorox234](https://www.printables.com/de/model/576122-lgx-lite-stealthburner-filament-cutter)
-
-<br>
-
-## Supported Hotends
+### Supported Extruders for StealthBurner
 
 <table>
   <tr>
@@ -38,7 +26,39 @@
     <th>Credit</th>
   </tr>
   <tr>
-    <td>V6-R6</td>
+    <td>Clockwork2 (CW2)</td>
+    <td>
+      <ul>
+        <li><b>1) Cutter + Entry Sensor + Toolhead Sensor + ECAS</b> <br> SB_CW2_Main_Body_Cutting_With_2xD2F_ECAS.stl
+        <li><b>2) Cutter + Toolhead Sensor + EBB board + ECAS</b> <br> SB_CW2_Main_Body_Cutting_With_Toolhead_D2F_EBB_ECAS.stl
+        <li><b>3) Cutter + Entry Sensor + ECAS</b> <br> SB_CW2_Main_Body_Cutting_With_Entry_D2F_ECAS.stl
+        <li><b>4) Cutter + ECAS</b> <br> SB_CW2_Main_Body_Cutting_With_ECAS.stl
+      </ul>
+    </td>
+    <td>Credit: <a href="https://github.com/juliusjj25">juliusjj25</a></td>
+  </tr>
+
+  <tr>
+    <td>LGX Lite</td>
+    <td>
+      <ul>
+        <li><b>4) Cutter + ECAS</b> <br> SB_LGX_Lite_Main_Body_Cutting.stl
+      </ul>
+    </td>
+    <td>Credit: <a href="https://www.printables.com/de/model/576122-lgx-lite-stealthburner-filament-cutter">tommorox234</a></td>
+  </tr>
+</table>
+
+### Supported Hotends for StealthBurner
+
+<table>
+  <tr>
+    <th>Hotend</th>
+    <th>STLs</th>
+    <th>Credit</th>
+  </tr>
+  <tr>
+    <td>V6-R6<br><a href="Stls/Hotends/V6_R6/">Repo</a></td>
     <td>
       <ul>
         <li>SB_V6_R6_Cutting_Printhead_Back.stl
@@ -48,7 +68,7 @@
     <td>ERCFv2 Team</td>
   </tr>
   <tr>
-    <td>Rapido</td>
+    <td>Rapido<br><a href="Stls/Hotends/Rapido/">Repo</a></td>
     <td>
       <ul>
         <li>SB_Rapido_TH_Cutting_Printhead_Rear.stl
@@ -60,7 +80,7 @@
     </td>
   </tr>
   <tr>
-    <td>Dragon</td>
+    <td>Dragon<br><a href="Stls/Hotends/Dragon/">Repo</a></td>
     <td>
       <ul>
         <li>SB_Dragon_Cutting_Printhead_Back.stl
@@ -70,7 +90,7 @@
     <td></td>
   </tr>
   <tr>
-    <td>Revo Voron</td>
+    <td>Revo Voron<br><a href="Stls/Hotends/Revo/">Repo</a></td>
     <td>
       <ul>
         <li>SB_Revo_Voron_Cutting_Printhead_Back.stl
@@ -80,7 +100,7 @@
     <td> Credit: Russell Gower </td>
   </tr>
   <tr>
-    <td>Bambu</td>
+    <td>Bambu<br><a href="Stls/Hotends/Bambu/">Repo</a></td>
     <td>
       <ul>
         <li>SB_Bambu_Cutting_Printhead_Back.stl
@@ -92,7 +112,7 @@
     <td>Credit: Jakub Kadlec (Facebook)</td>
   </tr>
   <tr>
-    <td>Slice Mosquito</td>
+    <td>Slice Mosquito<br><a href="Stls/Hotends/Mosquito/">Repo</a></td>
     <td>
       <ul>
         <li>Slice_Mosquito_Cutting_Printhead_Front_And_Rear.stl
