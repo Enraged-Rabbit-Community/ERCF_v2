@@ -52,7 +52,7 @@ There are a rapidly growing list of MMUs in the market place from the mass produ
 **[ERCF](#enraged-rabbit-carrot-feeder-ercf)**<br>
 **[ERCT](#enraged-rabbit-cotton-tail-erct)**<br>
 **[ERF](#enraged-rabbit-filametrix-erf)**<br>
-**[Toolhead Sensors](#toolhead-sensors)**<br>
+**[Toolhead Sensor Modifications](#toolhead-sensor-modifications)**<br>
 **[Firmware](#firmware)**<br>
 **[Documentation](#documentation)**<br>
 **[BOM](#bom)**<br>
