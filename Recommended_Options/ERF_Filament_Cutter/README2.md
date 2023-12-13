@@ -55,7 +55,9 @@
         <li>SB_Rapido_TH_Cutting_Printhead_Front.stl
       </ul>
     </td>
-    <td>Credit: [juliusjj25](https://github.com/juliusjj25)</td>
+    <td>
+      <p>Credit: <a href="https://github.com/juliusjj25">juliusjj25</a>
+    </td>
   </tr>
   <tr>
     <td>Dragon</td>
@@ -75,7 +77,7 @@
         <li>SB_Revo_Voron_Cutting_Printhead_Front.stl
       </ul>
     </td>
-    <td>Credit: Russell Gower</td>
+    <td> Credit: Russell Gower </td>
   </tr>
   <tr>
     <td>Bambu</td>
@@ -87,17 +89,16 @@
         <li>SB_Bambu_Adaptor_M5_Nut.stl
       </ul>
     </td>
-    <td>Credit: "Jakub Kadlec" from Facebook</td>
+    <td>Credit: Jakub Kadlec (Facebook)</td>
   </tr>
   <tr>
     <td>Slice Mosquito</td>
-    <td></td>
     <td>
       <ul>
         <li>Slice_Mosquito_Cutting_Printhead_Front_And_Rear.stl
       </ul>
     </td>
-    <td>Credit: [MakeAUsername_285162](https://www.printables.com/de/model/614813-filametrix-mod-for-slice-engingeering-mosquito-hot)</td>
+    <td>Credit: <a href="https://www.printables.com/de/model/614813-filametrix-mod-for-slice-engingeering-mosquito-hot">MakeAUsername_285162</a></td>
   </tr>
 </table>
 </details>
@@ -115,7 +116,6 @@ Filametrix [in action](https://www.youtube.com/watch?v=tfMZWQRqtvY)
 <br>
 
 > [!NOTE]  
-> - @sorted, the project lead for this wants to recognise the inspiration that came from Bambu Labs and a design by [@pure100kim](https://github.com/pure100kim/ERCF_Filament_Cutting_MOD)
 > - You will need to use one of the ADXL mounting threads
 > - Careful placement of the cutting point will minimize impact (if any) to build area.  Note that a gantry servo option is available for operating the "Depressor Pin" to ensure no impact
 
