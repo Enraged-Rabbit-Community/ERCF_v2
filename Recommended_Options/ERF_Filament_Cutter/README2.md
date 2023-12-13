@@ -15,7 +15,7 @@
 ![image](Assets/ERF2.png)
 
 ## Toolheads
-Currently ERF is only available for the Stealthburner toolhead. We hope to offer other options in the future. When choosing toolhead sensors refer to the explanation of options [here](/Recommended_Options/Toolhead_Modifications/README.md)
+Currently ERF is only available for the Stealthburner toolhead. We hope to offer other options in the future. When choosing toolhead sensors refer to the explanation of options [here](/Recommended_Options/Toolhead_Modifications/README.md#possible-options-explained).
 
 ### Supported Extruders for StealthBurner
 
@@ -29,10 +29,10 @@ Currently ERF is only available for the Stealthburner toolhead. We hope to offer
     <td>Clockwork2 (CW2)</td>
     <td>
       <ul>
-        <li><b>1) Cutter + Entry Sensor + Toolhead Sensor + ECAS</b> <br> SB_CW2_Main_Body_Cutting_With_2xD2F_ECAS.stl
-        <li><b>2) Cutter + Toolhead Sensor + EBB board + ECAS</b> <br> SB_CW2_Main_Body_Cutting_With_Toolhead_D2F_EBB_ECAS.stl
-        <li><b>3) Cutter + Entry Sensor + ECAS</b> <br> SB_CW2_Main_Body_Cutting_With_Entry_D2F_ECAS.stl
-        <li><b>4) Cutter + ECAS</b> <br> SB_CW2_Main_Body_Cutting_With_ECAS.stl
+        <li><b>Cutter + Entry Sensor + Toolhead Sensor + ECAS</b> <br> SB_CW2_Main_Body_Cutting_With_2xD2F_ECAS.stl
+        <li><b>Cutter + Toolhead Sensor + ECAS (EBB Board)</b> <br> SB_CW2_Main_Body_Cutting_With_Toolhead_D2F_EBB_ECAS.stl
+        <li><b>Cutter + Entry Sensor + ECAS</b> <br> SB_CW2_Main_Body_Cutting_With_Entry_D2F_ECAS.stl
+        <li><b>Cutter + ECAS</b> <br> SB_CW2_Main_Body_Cutting_With_ECAS.stl
       </ul>
     </td>
     <td>Credit: <a href="https://github.com/juliusjj25">juliusjj25</a></td>
@@ -42,7 +42,7 @@ Currently ERF is only available for the Stealthburner toolhead. We hope to offer
     <td>LGX Lite</td>
     <td>
       <ul>
-        <li><b>4) Cutter + ECAS</b> <br> SB_LGX_Lite_Main_Body_Cutting.stl
+        <li><b>Cutter + ECAS</b> <br> SB_LGX_Lite_Main_Body_Cutting.stl
       </ul>
     </td>
     <td>Credit: <a href="https://www.printables.com/de/model/576122-lgx-lite-stealthburner-filament-cutter">tommorox234</a></td>
