@@ -14,32 +14,32 @@ _____________________________
 **1. Toolhead and Entry Sensor**  
 This setup allows the firmware (Happy Hare) to quickly load bowden and optionally home prior to extruder, then home to toolhead sensor before loading to the nozzle. The entry sensor also allow for easier calibration of the bowden length.  The twin sensors also allows for precise location of the filament in an error situation which increases the chances of automatic recovery. The downside is that you need two switch inputs to your MCU. **This is the luxury option.**  
    
-✔ smooth bowden loading
-✔ precise extruder loading
+✔ smooth bowden loading<br>
+✔ precise extruder loading<br>
 ✔ great error recovery (excellent through precise filament location)
 _____________________________
 
 **2. Toolhead Sensor only**  
 With this setup the firmware can quickly load close to the nozzle and then precisely home to the toolhead sensor inside the extruder. The presence of the toolhead sensor is highly valuable in a MMU so the firmware allowing detection of correct behavior, smooth loading and auto recovery. This is usually an easy setup to accomodate and many toolhead boards or MCUs provide for this input. This option has a small possibliy of the filament not being detected as trapped between extruder and sensor but this is rarely a problem in practive. **This is the most common recommended option.**  
   
-✔ smooth bowden loading
-✔ precise extruder loading
+✔ smooth bowden loading<br>
+✔ precise extruder loading<br>
 ✔ good error recovery (with in-extruder detection)
 _____________________________
 
 **3. Entry Sensor only**  
 With this setup the firmware can quickly load the bowden and home to a point close to the nozzle. Because the filament has not yet passed into the extruder there are inaccuracies that can occur during this transistion. Also this option has no way of knowing the filament is inside the extruder in error recovery situations and thus relies on additional user interaction.
      
-✔ smooth bowden loading
-✘ precise extruder loading
+✔ smooth bowden loading<br>
+✘ precise extruder loading<br>
 ✘ good error recovery (no way to determine if filament is inside extruder)
 _____________________________
 
 **4. No Sensor**  
 This setup has no sensors and is thus not recommended but it can be used if you have not other options with Happy Hare. It does include a secure bowden connection (ECAS or push fit) which is essential because the filament will be colliding with the extruder entrance. **This works but is not recommended.**  
   
-✘ smooth bowden loading (this system relies on collision detection when the filament hits the extruder)
-✘ precise extruder loading
+✘ smooth bowden loading (this system relies on collision detection when the filament hits the extruder)<br>
+✘ precise extruder loading<br>
 ✘ good error recovery (there is no way to assertain the filament position)
 _____________________________
  
