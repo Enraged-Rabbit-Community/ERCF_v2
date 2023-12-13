@@ -15,49 +15,122 @@
 ![image](Assets/ERF2.png)
 
 ## Toolheads
+Currently ERF is only available for the Stealthburner toolhead. We hope to offer other options in the future. When choosing toolhead sensors refer to the explanation of options [here](/Recommended_Options/Toolhead_Modifications/README.md#possible-options-explained).
 
-#### StealthBurner CW2 (with various sensor options)
-- SB_CW2_Main_Body_Cutting_With_2xD2F_ECAS.stl (Cutter + Entry Sensor + Toolhead Sensor + ECAS)
-- SB_CW2_Main_Body_Cutting_With_ECAS.stl (Cutter + ECAS)
-- SB_CW2_Main_Body_Cutting_With_Entry_D2F_ECAS.stl (Cutter + Entry Sensor + ECAS)
-- SB_CW2_Main_Body_Cutting_With_Toolhead_D2F_EBB_ECAS.stl (Cutter + Toolhead Sensor + EBB board + ECAS)
-  - Credit: [juliusjj25](https://github.com/juliusjj25)
+### Supported Extruders for StealthBurner
 
-#### LGX Lite
-- SB_LGX_Lite_Main_Body_Cutting.stl
-  - Credit: [tommorox234](https://www.printables.com/de/model/576122-lgx-lite-stealthburner-filament-cutter)
+<table>
+  <tr>
+    <th>Hotend</th>
+    <th>STLs</th>
+    <th>Credit</th>
+  </tr>
+  <tr>
+    <td>Clockwork2 (CW2)</td>
+    <td>
+      <ul>
+        <li><b>Cutter + Entry Sensor + Toolhead Sensor + ECAS</b> <br> SB_CW2_Main_Body_Cutting_With_2xD2F_ECAS.stl
+        <li><b>Cutter + Toolhead Sensor + ECAS (EBB Board)</b> <br> SB_CW2_Main_Body_Cutting_With_Toolhead_D2F_EBB_ECAS.stl
+        <li><b>Cutter + Entry Sensor + ECAS</b> <br> SB_CW2_Main_Body_Cutting_With_Entry_D2F_ECAS.stl
+        <li><b>Cutter + ECAS</b> <br> SB_CW2_Main_Body_Cutting_With_ECAS.stl
+      </ul>
+    </td>
+    <td>Credit: <a href="https://github.com/juliusjj25">juliusjj25</a></td>
+  </tr>
+  <tr>
+    <td>Clockwork2 (CW2)</td>
+    <td>
+      <ul>
+        <li><b>Alternative Cutter + Entry Sensor + Toolhead Sensor + ECAS</b> <br> SB_CW2_Main_Body_Cutting_With_2xD2F_ECAS_Petr.stl
+      </ul>
+    </td>
+    <td>Credit: <a href="https://www.printables.com/model/625438-stealthburner-cw2-filament-sensors-with-ecas-latch">Petr Kašpar</a></td>
+  </tr>
 
-<br>
+  <tr>
+    <td>LGX Lite</td>
+    <td>
+      <ul>
+        <li><b>Cutter + ECAS</b> <br> SB_LGX_Lite_Main_Body_Cutting.stl
+      </ul>
+    </td>
+    <td>Credit: <a href="https://www.printables.com/de/model/576122-lgx-lite-stealthburner-filament-cutter">tommorox234</a></td>
+  </tr>
+</table>
 
-## Supported Hotends
+### Supported Hotends for StealthBurner
 
-#### V6-R6
-- SB_V6_R6_Cutting_Printhead_Back.stl
-- SB_V6_R6_Cutting_Printhead_Front.stl
-  
-#### Rapido
-- SB_Rapido_TH_Cutting_Printhead_Rear.stl
-- SB_Rapido_TH_Cutting_Printhead_Front.stl
-  - Credit: [juliusjj25](https://github.com/juliusjj25)
-
-#### Dragon
-- SB_Dragon_Cutting_Printhead_Back.stl
-- SB_Dragon_Cutting_Printhead_Front.stl
-
-#### Voron Revo
-- SB_Revo_Voron_Cutting_Printhead_Back.stl
-- SB_Revo_Voron_Cutting_Printhead_Front.stl
-  - Credit: Russell Gower
-
-#### Bambu
-- SB_Bambu_Cutting_Printhead_Back.stl
-- SB_Bambu_Cutting_Printhead_Front.stl
-- Bambu_Adapter
-   - Credit: "Jakub Kadlec" from Facebook
-
-#### Mosquito (Slice Engingeering)
-- Slice_Mosquito_Cutting_Printhead_Front_And_Rear.stl
-  - Credit: [MakeAUsername_285162](https://www.printables.com/de/model/614813-filametrix-mod-for-slice-engingeering-mosquito-hot)
+<table>
+  <tr>
+    <th>Hotend</th>
+    <th>STLs</th>
+    <th>Credit</th>
+  </tr>
+  <tr>
+    <td>V6-R6<br><a href="Stls/Hotends/V6_R6/">Repo</a></td>
+    <td>
+      <ul>
+        <li>SB_V6_R6_Cutting_Printhead_Back.stl
+        <li>SB_V6_R6_Cutting_Printhead_Front.stl
+      </ul>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Rapido<br><a href="Stls/Hotends/Rapido/">Repo</a></td>
+    <td>
+      <ul>
+        <li>SB_Rapido_TH_Cutting_Printhead_Rear.stl
+        <li>SB_Rapido_TH_Cutting_Printhead_Front.stl
+      </ul>
+    </td>
+    <td>
+      <p>Credit: <a href="https://github.com/juliusjj25">juliusjj25</a>
+    </td>
+  </tr>
+  <tr>
+    <td>Dragon<br><a href="Stls/Hotends/Dragon/">Repo</a></td>
+    <td>
+      <ul>
+        <li>SB_Dragon_Cutting_Printhead_Back.stl
+        <li>SB_Dragon_Cutting_Printhead_Front.stl
+      </ul>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Revo Voron<br><a href="Stls/Hotends/Revo/">Repo</a></td>
+    <td>
+      <ul>
+        <li>SB_Revo_Voron_Cutting_Printhead_Back.stl
+        <li>SB_Revo_Voron_Cutting_Printhead_Front.stl
+      </ul>
+    </td>
+    <td> Credit: Russell Gower </td>
+  </tr>
+  <tr>
+    <td>Bambu<br><a href="Stls/Hotends/Bambu/">Repo</a></td>
+    <td>
+      <ul>
+        <li>SB_Bambu_Cutting_Printhead_Back.stl
+        <li>SB_Bambu_Cutting_Printhead_Front.stl
+        <li>SB_Bambu_Adaptor.stl
+        <li>SB_Bambu_Adaptor_M5_Nut.stl
+      </ul>
+    </td>
+    <td>Credit: Jakub Kadlec (Facebook)</td>
+  </tr>
+  <tr>
+    <td>Slice Mosquito<br><a href="Stls/Hotends/Mosquito/">Repo</a></td>
+    <td>
+      <ul>
+        <li>Slice_Mosquito_Cutting_Printhead_Front_And_Rear.stl
+      </ul>
+    </td>
+    <td>Credit: <a href="https://www.printables.com/de/model/614813-filametrix-mod-for-slice-engingeering-mosquito-hot">MakeAUsername_285162</a></td>
+  </tr>
+</table>
+</details>
 
 <br>
 
@@ -72,7 +145,6 @@ Filametrix [in action](https://www.youtube.com/watch?v=tfMZWQRqtvY)
 <br>
 
 > [!NOTE]  
-> - @sorted, the project lead for this wants to recognise the inspiration that came from Bambu Labs and a design by [@pure100kim](https://github.com/pure100kim/ERCF_Filament_Cutting_MOD)
 > - You will need to use one of the ADXL mounting threads
 > - Careful placement of the cutting point will minimize impact (if any) to build area.  Note that a gantry servo option is available for operating the "Depressor Pin" to ensure no impact
 
