@@ -105,7 +105,7 @@ When an MMU changes tool the unloaded filament needs to be thoughtfully managed 
 ERCT also incorporates a neopixel on each gate that, when driven by the Happy Hare firmware, provides both functional feedback as well as the necessary "bling".  Enjoy!
 <p>
 
-[Read more](Recommended_Options/ERCT_Buffer/ERCT.md)
+[Read more](Recommended_Options/ERCT_Buffer/README.md)
 </td>
 </tr>
 </table>
@@ -122,7 +122,7 @@ Before the MMU can unload a filament it must prepare the tip so that it can be c
 ERF also supports an optional servo operated ganrtry activation pin so no print area is lost with this addition. ERF designs also include the recommended integrated toolhead sensor
 <p>
 
-[Read more](Recommended_Options/ERF_Filament_Cutter/ERF.md)
+[Read more](Recommended_Options/ERF_Filament_Cutter/README.md)
 </td>
 <td width=30%><img src="Recommended_Options/ERF_Filament_Cutter/Assets/ERF.png" alt='ERF'></td>
 </tr>
@@ -130,14 +130,14 @@ ERF also supports an optional servo operated ganrtry activation pin so no print 
 
 <br>
 
-### Toolhead Sensors
+### Toolhead Sensor Modifications
 <table>
 <tr>
 <td>
 ERCF can be operated without a toolhead sensor (filament detection) in the toolhead but it is **not recommended**. A toolhead sensor provides an accurate homing point very close to the nozzle but also adds reliability to the tool change process. ERCF includes a set of toolhead sensor modifications for popular extruders. These work reliably through coupling a microswitch to the filament path.
 <p>
 
-[Read more](Recommended_Options/Toolhead_Sensor/README.md)
+[Read more](Recommended_Options/Toolhead_Modifications/README.md)
 </td>
 </tr>
 </table>
