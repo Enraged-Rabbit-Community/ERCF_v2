@@ -65,7 +65,7 @@ Currently ERF is only available for the Stealthburner toolhead. We hope to offer
         <li>SB_V6_R6_Cutting_Printhead_Front.stl
       </ul>
     </td>
-    <td>ERCFv2 Team</td>
+    <td></td>
   </tr>
   <tr>
     <td>Rapido<br><a href="Stls/Hotends/Rapido/">Repo</a></td>
