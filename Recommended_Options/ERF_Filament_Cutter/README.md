@@ -17,7 +17,7 @@
 ## Toolheads
 Currently ERF is only available for the Stealthburner toolhead. We hope to offer other options in the future. When choosing toolhead sensors "types" refer to the explanation of options [here](/Recommended_Options/Toolhead_Modifications/README.md#possible-options-explained).
 
-### Supported Extruders for StealthBurner
+### Supported Extruders for StealthBurner and Sensor Options
 <table>
   <tr>
     <th>Extruder</th>
@@ -25,6 +25,13 @@ Currently ERF is only available for the Stealthburner toolhead. We hope to offer
     <th>STLs</th>
     <th>Credit</th>
   </tr>
+  <tr>
+    <td>Clockwork2 (CW2)</td>
+    <td>1_Toolhead_And_Entry_Sensors</td>
+    <td><a href="1_Toolhead_And_Entry_Sensors/SB_CW2_Body_petr.stl">Body</a></td>
+    <td>Credit: <a href="https://www.printables.com/model/625438-stealthburner-cw2-filament-sensors-with-ecas-latch">Petr Kašpar</a></td>
+  </tr>
+
   <tr>
     <td rowspan="4">Clockwork2 (CW2)</td>
     <td>1_Toolhead_And_Entry_Sensors</td>
@@ -42,13 +49,6 @@ Currently ERF is only available for the Stealthburner toolhead. We hope to offer
   <tr>
     <td>4_No_Sensors</td>
     <td><a href="4_Entry_Sensor/SB_CW2_Body.stl">Body</a></td>
-  </tr>
-
-  <tr>
-    <td>Clockwork2 (CW2)</td>
-    <td>1_Toolhead_And_Entry_Sensors</td>
-    <td><a href="1_Toolhead_And_Entry_Sensors/SB_CW2_Body_petr.stl">Body</a></td>
-    <td>Credit: <a href="https://www.printables.com/model/625438-stealthburner-cw2-filament-sensors-with-ecas-latch">Petr Kašpar</a></td>
   </tr>
 
   <tr>
@@ -159,7 +159,7 @@ Filametrix [in action](https://www.youtube.com/watch?v=tfMZWQRqtvY)
 - 1x SB Main body Cutting with ECAS (with selected sensors)
 - 1x SB motor plate (as Stealthburner has seen a small update the newest plate does not fit anymore. So please use the one from this git)
 - 1x SB Latch ECAS
-- 1x Cutting Rrm
+- 1x Cutting Arm
 - 1x Knife Holder
 
 #### Cutting point on gantry
