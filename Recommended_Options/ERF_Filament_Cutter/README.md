@@ -45,6 +45,13 @@ Currently ERF is only available for the Stealthburner toolhead. We hope to offer
   </tr>
 
   <tr>
+    <td>Clockwork2 (CW2)</td>
+    <td>1_Toolhead_And_Entry_Sensors</td>
+    <td><a href="1_Toolhead_And_Entry_Sensors/SB_CW2_Body_petr.stl">Body</a></td>
+    <td>Credit: <a href="https://www.printables.com/model/625438-stealthburner-cw2-filament-sensors-with-ecas-latch">Petr Kašpar</a></td>
+  </tr>
+
+  <tr>
     <td>LGX Lite</td>
     <td>4_No_Sensors</td>
     <td><a href="4_No_Sensors/SB_LGX_Lite_Body.stl">Body</a></td>
