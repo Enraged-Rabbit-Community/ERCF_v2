@@ -48,7 +48,7 @@ _____________________________
 ## Recommend Mods
 Here are the STLs for popular Toolhead/Extruder combinations.  Note that this is a compiled list and we invite you to help flesh out the rest...
 
-<details>
+<details open>
 <summary><strong>Expand for Stealthburner Options</strong></summary>
 <table>
   <tr>
