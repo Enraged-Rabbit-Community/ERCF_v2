@@ -25,21 +25,28 @@ Currently ERF is only available for the Stealthburner toolhead. We hope to offer
 
 <table>
   <tr>
-    <th>Hotend</th>
+    <th>Extruder</th>
+    <th>Sensors</th>
     <th>STLs</th>
     <th>Credit</th>
   </tr>
   <tr>
-    <td>Clockwork2 (CW2)</td>
-    <td>
-      <ul>
-        <li><b>1_Toolhead_And_Entry_Sensors</b> <br> <a href="1_Toolhead_And_Entry_Sensors/SB_CW2_Body.stl">Body</a>
-        <li><b>2_Toolhead_Sensor (EBB Board)</b> <br> <a href="2_Toolhead_Sensor/SB_CW2_Body.stl">Body</a>
-        <li><b>3_Entry_Sensor</b> <br> <a href="3_Entry_Sensor/SB_CW2_Body.stl">Body</a>
-        <li><b>4_No_Sensors</b> <br> <a href="4_No_Sensors/SB_CW2_Body.stl">Body</a>
-      </ul>
-    </td>
-    <td>Credit: <a href="https://github.com/juliusjj25">juliusjj25</a></td>
+    <td rowspan="4">Clockwork2 (CW2)</td>
+    <td>1_Toolhead_And_Entry_Sensors</td>
+    <td><a href="1_Toolhead_And_Entry_Sensors/SB_CW2_Body.stl">Body</a></td>
+    <td rowspan="4">Credit: <a href="https://github.com/juliusjj25">juliusjj25</a></td>
+  </tr>
+  <tr>
+    <td>2_Toolhead_Sensor (EBB Board)</td>
+    <td><a href="2_Toolhead_Sensor/SB_CW2_Body.stl">Body</a></td>
+  </tr>
+  <tr>
+    <td>3_Entry_Sensor</td>
+    <td><a href="3_Entry_Sensor/SB_CW2_Body.stl">Body</a></td>
+  </tr>
+  <tr>
+    <td>4_No_Sensors</td>
+    <td><a href="4_Entry_Sensor/SB_CW2_Body.stl">Body</a></td>
   </tr>
 
   <tr>
