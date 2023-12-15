@@ -15,18 +15,13 @@
 ![image](Assets/ERF2.png)
 
 ## Toolheads
-Currently ERF is only available for the Stealthburner toolhead. We hope to offer other options in the future. When choosing toolhead sensors refer to the explanation of options [here](/Recommended_Options/Toolhead_Modifications/README.md#possible-options-explained).
+Currently ERF is only available for the Stealthburner toolhead. We hope to offer other options in the future. When choosing toolhead sensors "types" refer to the explanation of options [here](/Recommended_Options/Toolhead_Modifications/README.md#possible-options-explained).
 
 ### Supported Extruders for StealthBurner
-1_Toolhead_And_Entry_Sensors
-2_Toolhead_Sensor
-3_Entry_Sensor
-4_No_Sensors
-
 <table>
   <tr>
     <th>Extruder</th>
-    <th>Sensors</th>
+    <th>Sensor Option</th>
     <th>STLs</th>
     <th>Credit</th>
   </tr>
@@ -51,11 +46,8 @@ Currently ERF is only available for the Stealthburner toolhead. We hope to offer
 
   <tr>
     <td>LGX Lite</td>
-    <td>
-      <ul>
-        <li><b>4_No_Sensors</b> <br> <a href="4_No_Sensors/SB_LGX_Lite_Body.stl">Body</a>
-      </ul>
-    </td>
+    <td>4_No_Sensors</td>
+    <td><a href="4_No_Sensors/SB_LGX_Lite_Body.stl">Body</a></td>
     <td>Credit: <a href="https://www.printables.com/de/model/576122-lgx-lite-stealthburner-filament-cutter">tommorox234</a></td>
   </tr>
 </table>
