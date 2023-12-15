@@ -26,13 +26,6 @@ Currently ERF is only available for the Stealthburner toolhead. We hope to offer
     <th>Credit</th>
   </tr>
   <tr>
-    <td>Clockwork2 (CW2)</td>
-    <td>1_Toolhead_And_Entry_Sensors</td>
-    <td><a href="Stls/1_Toolhead_And_Entry_Sensors/SB_CW2_Body_petr.stl">Body</a></td>
-    <td>Credit: <a href="https://www.printables.com/model/625438-stealthburner-cw2-filament-sensors-with-ecas-latch">Petr Kašpar</a></td>
-  </tr>
-
-  <tr>
     <td rowspan="4">Clockwork2 (CW2)</td>
     <td>1_Toolhead_And_Entry_Sensors</td>
     <td><a href="Stls/1_Toolhead_And_Entry_Sensors/SB_CW2_Body.stl">Body</a></td>
