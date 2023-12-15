@@ -28,33 +28,33 @@ Currently ERF is only available for the Stealthburner toolhead. We hope to offer
   <tr>
     <td>Clockwork2 (CW2)</td>
     <td>1_Toolhead_And_Entry_Sensors</td>
-    <td><a href="1_Toolhead_And_Entry_Sensors/SB_CW2_Body_petr.stl">Body</a></td>
+    <td><a href="Stls/1_Toolhead_And_Entry_Sensors/SB_CW2_Body_petr.stl">Body</a></td>
     <td>Credit: <a href="https://www.printables.com/model/625438-stealthburner-cw2-filament-sensors-with-ecas-latch">Petr Kašpar</a></td>
   </tr>
 
   <tr>
     <td rowspan="4">Clockwork2 (CW2)</td>
     <td>1_Toolhead_And_Entry_Sensors</td>
-    <td><a href="1_Toolhead_And_Entry_Sensors/SB_CW2_Body.stl">Body</a></td>
+    <td><a href="Stls/1_Toolhead_And_Entry_Sensors/SB_CW2_Body.stl">Body</a></td>
     <td rowspan="4">Credit: <a href="https://github.com/juliusjj25">juliusjj25</a></td>
   </tr>
   <tr>
     <td>2_Toolhead_Sensor (EBB Board)</td>
-    <td><a href="2_Toolhead_Sensor/SB_CW2_Body.stl">Body</a></td>
+    <td><a href="Stls/2_Toolhead_Sensor/SB_CW2_Body_EBB.stl">Body</a></td>
   </tr>
   <tr>
     <td>3_Entry_Sensor</td>
-    <td><a href="3_Entry_Sensor/SB_CW2_Body.stl">Body</a></td>
+    <td><a href="Stls/3_Entry_Sensor/SB_CW2_Body.stl">Body</a></td>
   </tr>
   <tr>
     <td>4_No_Sensors</td>
-    <td><a href="4_Entry_Sensor/SB_CW2_Body.stl">Body</a></td>
+    <td><a href="Stls/4_Entry_Sensor/SB_CW2_Body.stl">Body</a></td>
   </tr>
 
   <tr>
     <td>LGX Lite</td>
     <td>4_No_Sensors</td>
-    <td><a href="4_No_Sensors/SB_LGX_Lite_Body.stl">Body</a></td>
+    <td><a href="Stls/4_No_Sensors/SB_LGX_Lite_Body.stl">Body</a></td>
     <td>Credit: <a href="https://www.printables.com/de/model/576122-lgx-lite-stealthburner-filament-cutter">tommorox234</a></td>
   </tr>
 </table>
