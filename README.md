@@ -48,6 +48,7 @@ There are a rapidly growing list of MMUs in the market place from the mass produ
 **[Documentation](#documentation)**<br>
 **[BOM](#bom)**<br>
 **[CAD](#cad)**<br>
+**[FAQ](#faq)**<br>
 **[Acknowledgements](#acknowledgements)**<br>
 **[Vendors](#vendors)**<br>
 **[Changelog](#changelog)**<br>
@@ -203,6 +204,11 @@ A lot of work has gone into creating a quality CAD model of the project carefull
 
 <br>
 
+## FAQ
+ERCF v2 is currently in the RC1 phase.  That means that we hope the BOM and parts are complete but there are still some areas of polish needed: documentation, kit availability, etc.  Therefore we're sure there will be lots of questions.  To avoid repetition on the various support channels you can find a list of [frequently asked questions](FAQ.md) here.  If something isn't answered the best place to go is the primary [Voron #ercf_questions](https://discord.com/channels/460117602945990666/909743915475816458) Discord server
+
+<br>
+
 ## Acknowledgements
 Most importantly let me introduce the development, test and doc team.  A project like this doesn't happen without many hundreds of hours of volunteer effort and all of these folks are truely awesome.  Please give some :clap: :clap: :clap:
 <ul>
@@ -217,6 +223,8 @@ Most importantly let me introduce the development, test and doc team.  A project
   <li>@gsx8299 (Test Builder Extraordinaire)
   <li>@sorted (Filametix "don't get enraged" filament cutting system)
   <li>@kierantheman (Mr ThumperBlocks)
+  <li>@kierantheman (Mr ThumperBlocks)
+  <li>@Fragmon (Videographer)
 </ul>
 
 <br>
