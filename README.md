@@ -33,7 +33,7 @@ An expandable MMU for Klipper based 3D-Printers
 This is a community born project and major update to the Voron ERCF MMU that was started a couple of years ago by Ette.  It is endorsed by Ette and the guiding philosophy wasn't to start again with a new MMU design but to refine what has already proven to be a very capable machine and push it to be the best it can be by simplifying problematic construction, improving reliability and aligning as close as possible to v1.1 BOM. However the project includes an all new optional integrated filament buffer system (ERCT), filament cutter option (ERF), a collection of recommended toolhead sensor modifications and a bit of Bling! It fully leverages the Happy Hare firmware MMU control software with Klipper Screen entensions.
 <p>
   
-There are a rapidly growing list of MMUs in the market place from the mass produced "Fords" who pioneered the market to the "Toyota" that are more recent efficient engineering feat but somehow lack soul. We consider ERCFv2 the "BMW" - a little over engineered perhaps but distinctively cool and you feel good driving it.  We hope you enjoy! [Teaser Video](https://www.youtube.com/watch?v=U2QwvPacIUk)
+There are a rapidly growing list of MMUs in the market place from the mass produced "Fords" who pioneered the market to the "Toyota" that are more recent efficient engineering feat but somehow lack soul. We consider ERCFv2 the "BMW" - a little over engineered perhaps but distinctively cool and you feel good driving it.  We hope you enjoy! &nbsp;&nbsp; [Teaser](https://www.youtube.com/watch?v=U2QwvPacIUk) &nbsp;&nbsp; [Video](https://www.youtube.com/watch?v=EJCPerBsM3Q)
 </td>
 </tr>
 </table>
