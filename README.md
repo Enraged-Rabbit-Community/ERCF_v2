@@ -195,7 +195,7 @@ You can find a Bill of Material for the project and options here. Note that the 
 A lot of work has gone into creating a quality CAD model of the project carefully organized into folders that match the documentation!  It is hightly recommended that you open the CAD and hide every folder and then expose them one at a time as you work through the build.
 <p>
 
-[Master CAD](CAD/ERCF_v2.step)
+[Master CAD](CAD)
 </td>
 <td width=30%><img src="Assets/CAD.png" alt='ERCF Master CAD'></td>
 </tr>
