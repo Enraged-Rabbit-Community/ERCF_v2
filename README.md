@@ -97,7 +97,7 @@ When an MMU changes tool, the unloaded filament needs to be thoughtfully managed
 ERCT includes a pregate filament sensor to more reliably manage endless spools. It also incorporates a NEOpixel on each gate that, when driven by the Happy Hare firmware, provides functional feedback and the necessary "bling!" Enjoy!
 <p>
 
-[Read more](Recommended_Options/ERCT_Buffer/README.md)
+[Read more](Recommended_Options/ERCT_Buffer/README.md) &nbsp;&nbsp; [Build Manual](Documentation/ERCT_Manual.pdf)
 </td>
 </tr>
 </table>
