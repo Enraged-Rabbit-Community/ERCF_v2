@@ -90,10 +90,10 @@ There are a rapidly growing list of MMUs in the market place from the mass produ
 <tr>
 <td width=30%><img src="Recommended_Options/ERCT_Buffer/Assets/heroimage_ERCT.png" alt='ERCT'></td>
 <td>
-When an MMU changes tool the unloaded filament needs to be thoughtfully managed so that is doesn't tangle. The Enraged Rabbit Cotton Tail (ERCT) buffer system is designed to attach directly to ERCF V2. It is a passive system that optimizes space and is also designed to reduce resistance in the filament path, creating a consistent system for calibration.
+When an MMU changes tool, the unloaded filament needs to be thoughtfully managed so that it doesn't tangle. The Enraged Rabbit Cotton Tail (ERCT) buffer system is designed to attach directly to ERCF V2. It is a passive system that optimizes space and is also designed to reduce resistance in the filament path, creating a consistent system for calibration.
 <p>
 
-ERCT also incorporates a neopixel on each gate that, when driven by the Happy Hare firmware, provides both functional feedback as well as the necessary "bling".  Enjoy!
+ERCT includes a pregate filament sensor to more reliably manage endless spools. It also incorporates a NEOpixel on each gate that, when driven by the Happy Hare firmware, provides functional feedback and the necessary "bling!" Enjoy!
 <p>
 
 [Read more](Recommended_Options/ERCT_Buffer/README.md)
