@@ -166,7 +166,7 @@ Happy Hare provides an easy installation script which has knowledge of recommend
 Building something as complex as an MMU is a challenging undertaking but ERCFv2 project contains an amazingly detailed and illustrated manual with step-by-step instructions.  We have tried to make the process similar to fitting together a jigsaw puzzle, albeit with a few optional pieces.
 <p>
 
-[ERCFv2 PDF Manual](Documentation/ERCF_v2_Manual.pdf)
+[ERCFv2 PDF Manual](Documentation/ERCF_v2_Manual.pdf) &nbsp;&nbsp; [ERCT PDF Manual](Documentation/ERCT_Manual.pdf)
 </td>
 <td width=30%><img src="Assets/Manual_Page.png" alt='ERCF Manual'></td>
 </tr>
