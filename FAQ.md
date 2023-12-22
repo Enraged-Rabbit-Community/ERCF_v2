@@ -13,7 +13,7 @@ ERF (Enraged Rabbit Filametrix) has been developed and optimized to work with ER
 Enraged Rabbit Cotton Tail (ERCT) has been specifically designed to give the best multi-filament experience for V2; however, it is completely modular and optional for your build. You can choose to use other buffer designs; our software design is flexible. One of the stand-out features of ERCT is the ability to use a pre-gate sensor, which is designed specifically to improve Endless Spool performance.
 
 ### Q5. Do I have to order a kit, or can I self-source this? Is there a BOM?
-Kits will be available in the 1st quarter of 2024. Our BOM will list all the parts needed with a wizard to help you customize the kit to your requirements. The BOM will be found through our GitHub listing with links to vendors who can provide parts for self-sourcing.
+Kits are expected to be available in the 1st quarter of 2024. Our BOM will list all the parts needed with a wizard to help you customize the kit to your requirements. The BOM will be found through our GitHub listing with links to vendors who can provide parts for self-sourcing.
 
 ### Q6. When and where will the v2 BOM be located? Is it with the same BOM as V1.1?
 The V2 BOM will located on the GitHub page after RC1 has been released. This will be at a new location, not the old ERCF V1.1 site.
@@ -22,7 +22,7 @@ The V2 BOM will located on the GitHub page after RC1 has been released. This wil
 Initially, ERCF V2 will be released with ERF (Filametrix) for Voron Stealthburner CW2 toolheads. Active development and collection of many popular hotends to companion with it is underway and will be part of the GitHub Repository. Alternative extruders are also being developed or being sourced with a cutting head. ERCF V2 also supports sensorless systems but is less reliable than a filament-cutting solution.
 
 ### Q8. Is the BTT MMB board required, or will older Easy BRD still work with V2? 
-BTT MMB is the new standard and recommended board for V2. Easy BRD and alternatives will work for most of V2's features, but some of the new features, like pregate sensors and, in some cases, RGB lighting, will require the BTT MMB board to operate fully.
+BTT MMB is the new standard and recommended board for V2. Easy BRD and alternatives will work for most of V2's features, but some of the new features, like pregate sensors and, in some cases, RGB lighting, will require a board with enough endstop and LED inputs to operate fully.
 
 ### Q9. Where can I get support for my ERCF V2 build?
 ERCF V2 is built on a community of supporters and other experienced builders. Visit [VoronDesign #ercf_questions](https://discord.com/channels/460117602945990666/909743915475816458) Discord server for any questions and support issues where members of the V2 team as well as the community is there to help.
