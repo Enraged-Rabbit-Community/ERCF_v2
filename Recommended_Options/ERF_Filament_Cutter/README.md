@@ -41,7 +41,7 @@ Currently ERF is only available for the Stealthburner toolhead. We hope to offer
   </tr>
   <tr>
     <td>4_No_Sensors</td>
-    <td><a href="Stls/4_Entry_Sensor/SB_CW2_Body.stl">Body</a></td>
+    <td><a href="Stls/4_No_Sensors/SB_CW2_Body.stl">Body</a></td>
   </tr>
 
   <tr>
