@@ -1,10 +1,10 @@
 # ERCF v2 FAQ
 
 ### Q1. Will there be kits available for ERCF V2, and where can we get them?
-LDO and  a number of vendors will have kits available for ordering in the coming months. Full kits will be available sometime late 1st quarter of 2024.
+LDO and  a number of vendors will have kits available for ordering in the coming months. Full kits will be available sometime in late 1st quarter of 2024.
 
 ### Q2. I bought an ERCF v1.1 kit. Will this be compatible?
-ERCF v1.1 kits will be compatible with V2 with some additional hardware and fastener kits. We have made every effort to utilize as much of the original kit as possible. Upgrade kits will be available at various select vendors in the coming months.
+ERCF v1.1 kits will be compatible with V2 with some additional hardware and fastener kits. We have made every effort to utilize as much of the original kit as possible. Upgrade kits will be available at various select vendors in the coming months. Be aware the kits will be less a single channel for the V2 upgrade to accommodate the wider filament blocks.
 
 ### Q3. Will ERCF come with a filament cutter?
 ERF (Enraged Rabbit Filametrix) has been developed and optimized to work with ERCF V2. Although dozens of toolhead designs exist, the initial launch will be based on the Voron Stealthburner with Clockwork 2. There are numerous versions of toolheads, and the library of STLs will be expanding to support the greater community. We also encourage the public to develop and test their versions and to submit them to be included in our collection. More extruders are being actively developed and will be released in the coming months.
