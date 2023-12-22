@@ -9,7 +9,7 @@
 
 The Enraged Rabbit Cotton Tail (ERCT) buffer system is designed to attach directly to ERCF V2. It is also designed to reduce as much resistance as possible in the filament path, creating a consistent system for calibration.
 
-This system is also designed to reduce the buffer length, while the loops are defined by the amount of tube you use from the encoder to the tool head. This is calculated by the total Bowden tube length divided by 225. Future QoL is also in the works to allow for illuminated coupler blocks to indicate filament states.
+This system is also designed to reduce the buffer length, while the loops are defined by the amount of tube you use from the encoder to the tool head. This is calculated by the total Bowden tube length divided by 225.  QoL features also allow for illuminated coupler blocks to indicate filament states.
 
 **Features include:**
 
