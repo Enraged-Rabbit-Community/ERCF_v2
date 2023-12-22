@@ -215,7 +215,6 @@ Most importantly let me introduce the development, test and doc team.  A project
   <li>@gsx8299 (Test Builder Extraordinaire)
   <li>@sorted (Filametix "don't get enraged" filament cutting system)
   <li>@kierantheman (Mr ThumperBlocks)
-  <li>@kierantheman (Mr ThumperBlocks)
   <li>@Fragmon (Videographer)
 </ul>
 
