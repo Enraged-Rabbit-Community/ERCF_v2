@@ -89,7 +89,7 @@ When an MMU changes tool, the unloaded filament needs to be thoughtfully managed
 ERCT includes a pregate filament sensor to more reliably manage endless spools. It also incorporates a NEOpixel on each gate that, when driven by the Happy Hare firmware, provides functional feedback and the necessary "bling!" Enjoy!
 <p>
 
-[Read more](Recommended_Options/ERCT_Buffer/README.md) &nbsp;&nbsp; [Build Manual](Documentation/ERCT_Manual.pdf)
+[Read more](Recommended_Options/ERCT_Buffer/README.md) &nbsp;&nbsp; Videos: [Rear Loading](https://youtu.be/9jzB5Un6HKo) [Front Loading](https://youtu.be/GlSXtUkd-b8)
 </td>
 </tr>
 </table>
@@ -144,7 +144,7 @@ ERCF is designed to be used with the Happy Hare MMU firmware for Klipper which a
 Happy Hare provides an easy installation script which has knowledge of recommended settings and will greatly accelarate the setup process.
 <p>
 
-[Happy Hare](https://github.com/moggieuk/Happy-Hare) &nbsp;&nbsp; [KlipperScreen](https://github.com/moggieuk/KlipperScreen-Happy-Hare-Edition)
+[Happy Hare](https://github.com/moggieuk/Happy-Hare/doc/ercf_v2.md) &nbsp;&nbsp; [KlipperScreen](https://github.com/moggieuk/KlipperScreen-Happy-Hare-Edition)
 </td>
 </tr>
 </table>
@@ -158,7 +158,7 @@ Happy Hare provides an easy installation script which has knowledge of recommend
 Building something as complex as an MMU is a challenging undertaking but ERCFv2 project contains an amazingly detailed and illustrated manual with step-by-step instructions.  We have tried to make the process similar to fitting together a jigsaw puzzle, albeit with a few optional pieces.
 <p>
 
-[ERCFv2 PDF Manual](Documentation/ERCF_v2_Manual.pdf) &nbsp;&nbsp; [ERCT PDF Manual](Documentation/ERCT_Manual.pdf)
+[ERCFv2 PDF Manual](Documentation/ERCF_v2_Manual.pdf)
 </td>
 <td width=30%><img src="Assets/Manual_Page.png" alt='ERCF Manual'></td>
 </tr>
