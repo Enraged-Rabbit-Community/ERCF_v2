@@ -32,3 +32,7 @@ Yes, a build guide is available in PDF format on the GitHub repository.
 
 ### Q11. Will ERCF V2 work with other non-Voron printers?
 ERCF V2 currently works with most Klipper-based printers. The current exceptions are sandboxed builds of Klipper made proprietary by some companies and do not have the ability to add third-party software. Consult your product's support pages to see if there are ways to add third-party add ons, which may allow you to install the necessary software for ERCF V2 to work with your printer.
+
+### Q13. I built a V1.1 with the commonly recommended mods (Binky Encoder, Springy Selector, Sturdy Bunny Frame, Triple-Decky Filament Blocks). Are any of these parts reused in the final ERCFv2?
+ERCF V2 was built from the ideas and improvements that these V1.1 mods brought to the original ERCF project. However, in most cases, the parts are not 100% identical and should not be reused unless specifically noted in the build guide (i.e., Gearbox Motor Arm is the same as the V1.1 part at time of writing). The ERCFv2 team cannot guarantee that parts from outside the ERCFv2 repo will match the final V2 parts.
+A notable exception to this is the Triple-Decky C7.0 Filament Block. These are the final filament blocks used in ERCFv2 and if you have printed them already you may reuse them!
