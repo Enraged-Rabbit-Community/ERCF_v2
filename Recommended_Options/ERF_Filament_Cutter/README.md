@@ -93,6 +93,16 @@ Currently ERF is only available for the Stealthburner toolhead. We hope to offer
     <td></td>
   </tr>
   <tr>
+    <td>Crazy Dragon<br><a href="Stls/Hotends/Crazy_Dragon/">Repo</a></td>
+    <td>
+      <ul>
+        <li>SB_Dragon_Cutting_Printhead_Back.stl
+        <li>SB_Dragon_Cutting_Printhead_Front.stl
+      </ul>
+    </td>
+    <td>Credit: <a href="https://github.com/tinyfluffs">Ella Fox</a></td>
+  </tr>
+  <tr>
     <td>Revo Voron<br><a href="Stls/Hotends/Revo/">Repo</a></td>
     <td>
       <ul>
