@@ -141,7 +141,7 @@ Pellet purge system to remove the need for the wipe tower. Stay tuned.
 ERCF is designed to be used with the Happy Hare MMU firmware for Klipper which adds a set of klipper extensions for configuration setup, testing and operation of ERCF. These commands are available through the command line or macros but are perhaps best operated with an interactive UI with the optional KlipperScreen extension.
 <p>
 
-Happy Hare provides an easy installation script which has knowledge of recommended settings and will greatly accelarate the setup process.
+Happy Hare provides an easy installation script which has knowledge of recommended settings and will greatly accelerate the setup process.
 <p>
 
 [Happy Hare](https://github.com/moggieuk/Happy-Hare/doc/ercf_v2.md) &nbsp;&nbsp; [KlipperScreen](https://github.com/moggieuk/KlipperScreen-Happy-Hare-Edition)
