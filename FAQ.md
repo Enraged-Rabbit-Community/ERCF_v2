@@ -32,3 +32,7 @@ Yes, a build guide is available in PDF format on the GitHub repository.
 
 ### Q11. Will ERCF V2 work with other non-Voron printers?
 ERCF V2 currently works with most Klipper-based printers. The current exceptions are sandboxed builds of Klipper made proprietary by some companies and do not have the ability to add third-party software. Consult your product's support pages to see if there are ways to add third-party add ons, which may allow you to install the necessary software for ERCF V2 to work with your printer.
+
+### Q12. I modified by V1.1 with TripleDecky, SturdyBunny, Springy, etc.  Do I already have a ERCFv2?
+No. While ERCFv2 incorporates many "beta" modification projects from the team, it also includes many refinements, some subtle and some not.  These changes were all necessary to guarantee ERCFv2 would work together.  The only exception to this is that TripleDecky C7.0 filament blocks are identical to those in ERCFv2.  Other than those you are strongly encouraged to reprint and re-build to ensure you have a supported platform. In addition Happy Hare, with a vendor and version set to "ERCF" and "2.0" will correctly support ERCFv2 but this mode will not necessarily work with a heavily modified v.1.
+
