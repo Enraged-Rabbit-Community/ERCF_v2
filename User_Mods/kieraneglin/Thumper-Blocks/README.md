@@ -62,7 +62,7 @@ Thumper Blocks are 3-level filament blocks for the ERCF. Their job is threefold:
 ### Thicker
 
 - The official block of the ERCF v2 spec
-- Has width compatibility with Triple-Decky so accessories (such as the ERCP filament buffer) will fit
+- Has width compatibility with Triple-Decky so accessories (such as the ERCT filament buffer) will fit
 - **Use this if you're using ERCF v2 hardware OR you want to upgrade a v1 to an offical v2 but you don't mind losing a filament block**
 
 ### Thinner
@@ -206,7 +206,7 @@ If you have a question, I'm @kierantheman in the Voron Discord. If there's some 
 
 [Creative Commons (4.0 International License) Attribution](https://creativecommons.org/licenses/by/4.0/)
 
-Previous versions were licensed under CC-NC and, although works are beholden to the license they are released under, consider this message approval to use any works within this repository under the CC - Attribution license outlined above. 
+Previous versions were licensed under CC-NC and, although works are beholden to the license they are released under, consider this message approval to use any works within this repository under the CC - Attribution license outlined above.
 
 [triple-decky]: https://github.com/gneu42/Triple-Decky
 [springy]: https://github.com/moggieuk/ERCF-Springy
