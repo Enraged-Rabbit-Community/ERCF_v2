@@ -70,7 +70,7 @@ Thumper Blocks are 3-level filament blocks for the ERCF. Their job is threefold:
 - 1.75mm thinner per-block than the Thicker model
 - Does not remove a block when using ERCF v1 hardware
 - Does not conform to the ERCF v2 spec - the filament bypass and some accessories will not fit
-- **Use this if you're on ERCF v1 hardware and you don't want to lose a filament block**
+- **Use this if you're on ERCF v1 hardware and you don't want to lose a filament block BUT you don't mind potentially losing compatibility with ERCFv2 accessories**
 
 ## BOM
 
