@@ -20,3 +20,5 @@ Orca Slicer Settings
 
 [Orca Slicer #7.pdf](https://github.com/Enraged-Rabbit-Community/ERCF_v2/files/13868426/Orca.Slicer.7.pdf)
 
+
+![Screenshot 2024-01-09 182224](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/4144b86c-4930-4345-aaa1-e522c36eeef0)
