@@ -229,7 +229,7 @@ Most importantly let me introduce the development, test and doc team.  A project
 These kits and specialty parts have been checked by us and meet good quality standards:
 <ul>
   <li> Pending Certification - LDO Motors
-  </li>
+  </li><br>
   <p>
   A list of more official and certified vendors is on the way... stay tuned!
 </td>
