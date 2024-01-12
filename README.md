@@ -230,8 +230,7 @@ These kits and specialty parts have been checked by us and meet good quality sta
 <ul>
   <li> Pending Certification - LDO Motors
   </li>
-  <li>List of official and certified vendors on the way... stay tuned!
-  </li>
+  A list of more official and certified vendors is on the way... stay tuned!
 </td>
 </tr>
 </table>
