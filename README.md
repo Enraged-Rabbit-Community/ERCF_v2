@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-An expandable MMU for Klipper based 3D-Printers
+An expandable MMU for Klipper-based 3D-Printers
 </p>
 
 <p align="center">
@@ -22,10 +22,10 @@ An expandable MMU for Klipper based 3D-Printers
 <tr>
 <td width=30%><img src="/Assets/Enraged_Rabbit_v2.png" alt='RabbitV2'></td>
 <td>
-This is a community born project and major update to the Voron ERCF MMU that was started a couple of years ago by Ette.  It is endorsed by Ette and the guiding philosophy wasn't to start again with a new MMU design but to refine what has already proven to be a very capable machine and push it to be the best it can be by simplifying problematic construction, improving reliability and aligning as close as possible to v1.1 BOM. However the project includes an all new optional integrated filament buffer system (ERCT), filament cutter option (ERF), a collection of recommended toolhead sensor modifications and a bit of Bling! It fully leverages the Happy Hare firmware MMU control software with Klipper Screen entensions.
+This is a community-born project and a major update to the Voron ERCF MMU that was started a couple of years ago by Ette.  It is endorsed by Ette, and the guiding philosophy wasn't to start again with a new MMU design but to refine what has already proven to be a very capable machine and push it to be the best it can be by simplifying problematic construction, improving reliability and aligning as close as possible to v1.1 BOM. However, the project includes an all-new optional integrated filament buffer system (ERCT), filament cutter option (ERF), a collection of recommended tool head sensor modifications and a bit of Bling! It fully leverages the Happy Hare firmware MMU control software with Klipper Screen extensions.
 <p>
   
-There are a rapidly growing list of MMUs in the market place from the mass produced "Fords" who pioneered the market to the "Toyota" that are more recent efficient engineering feat but somehow lack soul. We consider ERCFv2 the "BMW" - a little over engineered perhaps but distinctively cool and you feel good driving it.  We hope you enjoy! &nbsp;&nbsp; Videos: [Teaser](https://www.youtube.com/watch?v=U2QwvPacIUk) &nbsp; [Release](https://www.youtube.com/watch?v=EJCPerBsM3Q)
+There is a rapidly growing list of MMUs in the marketplace, from the mass-produced "Fords" who pioneered the market to the "Toyota" that are more recent efficient engineering feat but somehow lacked soul. We consider ERCFv2 the "BMW" - a little over-engineered perhaps but distinctively cool, and you feel good driving it.  We hope you enjoy it! &nbsp;&nbsp; Videos: [Teaser](https://www.youtube.com/watch?v=U2QwvPacIUk) &nbsp; [Release](https://www.youtube.com/watch?v=EJCPerBsM3Q)
 </td>
 </tr>
 </table>
@@ -55,7 +55,7 @@ There are a rapidly growing list of MMUs in the market place from the mass produ
 ## Enraged Rabbit Carrot Feeder (ERCF)
 <table>
 <tr>
-<td width=45%><img src="/Assets/ERCFv2.png">An MMU or Multimaterial Unit/Upgrade allows for the automatic change of filaments on your 3D printer.  You can use it to create beautiful multi-colored prints or, if you're lazy, simply to avoid loading filament by hand. If you are familar with ERCF v1.1 this will serve as an overview of updates:</td>
+<td width=45%><img src="/Assets/ERCFv2.png">An MMU or Multimaterial Unit/Upgrade allows for the automatic change of filaments on your 3D printer.  You can use it to create beautiful multi-colored prints or, if you're lazy, simply to avoid loading filament by hand. If you are familiar with ERCF v1.1, this will serve as an overview of updates:</td>
 <td>
 <ol>
   <li>Sturdy backbone - no more flex
@@ -68,7 +68,7 @@ There are a rapidly growing list of MMUs in the market place from the mass produ
   <li>High Quality Step-by-step CAD
   <li>New integrated passive buffer system (Cotton Tail)
   <li>Perfect tips with Filametrix Filament cutter
-  <li>Functional and asthetic LED status indication
+  <li>Functional and aesthetic LED status indication
 </ol>
 </td>
 </tr>
@@ -100,7 +100,7 @@ ERCT includes a pregate filament sensor to more reliably manage endless spools. 
 <table>
 <tr>
 <td>
-Before the MMU can unload a filament it must prepare the tip so that it can be cleanly loaded next time.  This tip forming process is very difficult to tune and varies based on material type, temperature, hotend type and even weather!  Introducing Enraged Rabbit Filametrix (ERF) filament cutting system.  This lightweight addition to your Stealthburner toolhead adds a cutting blade.  When retracting the problematic tip of the filament is simply cut off for perfect tips and no jams.
+Before the MMU can unload a filament, the tip must be prepared so that it can be cleanly loaded next time.  This tip-forming process is very difficult to tune and varies based on material type, temperature, hotend type and even weather!  Introducing Enraged Rabbit Filametrix (ERF) filament cutting system.  This lightweight addition to your Stealthburner toolhead adds a cutting blade.  When retracting, the problematic tip of the filament is simply cut off for perfect tips and no jams.
 <p>
 
 ERF also supports an optional servo operated ganrtry activation pin so no print area is lost with this addition. ERF designs also include the recommended integrated toolhead sensor
