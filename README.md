@@ -155,7 +155,7 @@ Happy Hare provides an easy installation script which has knowledge of recommend
 <table>
 <tr>
 <td>
-Building something as complex as an MMU is a challenging undertaking but ERCFv2 project contains an amazingly detailed and illustrated manual with step-by-step instructions.  We have tried to make the process similar to fitting together a jigsaw puzzle, albeit with a few optional pieces.
+Building something as complex as an MMU is a challenging undertaking, but the ERCFv2 project contains an amazingly detailed and illustrated manual with step-by-step instructions.  We have tried to make the process similar to fitting together a jigsaw puzzle, albeit with a few optional pieces.
 <p>
 
 [ERCFv2 PDF Manual](Documentation/ERCF_v2_Manual.pdf)
@@ -230,6 +230,7 @@ These kits and specialty parts have been checked by us and meet good quality sta
 <ul>
   <li> Pending Certification - LDO Motors
   </li>
+  <p>
   A list of more official and certified vendors is on the way... stay tuned!
 </td>
 </tr>
