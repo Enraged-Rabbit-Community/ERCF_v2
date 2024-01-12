@@ -171,8 +171,9 @@ Building something as complex as an MMU is a challenging undertaking but ERCFv2 
 <tr>
 <td width=30%><img src="Assets/BOM.png" alt='ERCF Project BOM'></td>
 <td>
-You can find a Bill of Materials and a convenient printed parts tracker for the project and options here. Note that the BOM also contains an upgrade list for those of you wanting to use your existing ERCF v1.1 kits. Please make a copy and edit the "Filament Blocks #" to be the number of gates for your build.  This can be any number but we encourage kit vendors to use 4/8/12 as size variations. Note that there are separate columns for core ERCF, the optional ERCT and ERF options as well as the suggested "extras"
+You can find a Bill of Materials (BOM) and a convenient printed parts tracker for the project and options here. Note that the BOM also contains an upgrade list for those of you who want to use your existing ERCF v1.1 kits. Please make a copy and edit the "Filament Blocks #" to be the number of gates for your build.  This can be any number, but we encourage kit vendors to use 4/8/12 as size variations. Note that there are separate columns for core ERCF, the optional ERCT and ERF options, as well as the suggested "extras"
 <p>
+Please be aware that the BOM is strictly for reference. The recommended parts can be exchanged for other similar quality parts. Manufacturers who use the BOM as a reference must submit an application for certification before selling them as ERCF V2 kits. Please contact us for certification.
 
 [BOM](https://docs.google.com/spreadsheets/d/1HtVIu4yqzS6xJQr63-JKtMAh4Xq7wbtWPFeuiCnrnnE) &nbsp;&nbsp; [Printed Parts Tracker](https://docs.google.com/spreadsheets/d/1h1bJurR6Z8Ou36c5U9cWmqI86tXKlWrcZrWrHgGN13A)
 </td>
@@ -185,7 +186,7 @@ You can find a Bill of Materials and a convenient printed parts tracker for the 
 <table>
 <tr>
 <td>
-A lot of work has gone into creating a quality CAD model of the project carefully organized into folders that match the documentation!  It is hightly recommended that you open the CAD and hide every folder and then expose them one at a time as you work through the build.
+A lot of work has gone into creating a quality CAD model of the project, carefully organized into folders that match the documentation!  It is highly recommended that you open the CAD and hide every folder and then expose them one at a time as you work through the build.
 <p>
 
 [Master CAD](CAD)
@@ -197,7 +198,7 @@ A lot of work has gone into creating a quality CAD model of the project carefull
 <br>
 
 ## FAQ
-ERCF v2 is currently in the RC1 phase.  That means that we hope the BOM and parts are complete but there are still some areas of polish needed: documentation, kit availability, etc.  Therefore we're sure there will be lots of questions.  To avoid repetition on the various support channels you can find a list of [frequently asked questions](FAQ.md) here.  If something isn't answered the best place to go is the primary [Voron #ercf_questions](https://discord.com/channels/460117602945990666/909743915475816458) Discord server
+ERCF v2 is currently in the RC1 phase.  That means that we hope the BOM and parts are complete, but there are still some areas of polish needed: documentation, kit availability, etc. Therefore, we're sure there will be lots of questions.  To avoid repetition on the various support channels, you can find a list of [frequently asked questions](FAQ.md) here.  If something isn't answered the best place to go is the primary [Voron #ercf_questions](https://discord.com/channels/460117602945990666/909743915475816458) Discord server
 
 <br>
 
@@ -209,7 +210,7 @@ Most importantly let me introduce the development, test and doc team.  A project
   <li>@sneakytreesnake V2.3804 (The project backbone!)
   <li>@mneuhaus VT.483 (Mr Binky)
   <li>@Miriax (Designer & Doc Demon)
-  <li>@kinematicdigit (Mr Cotton Tail & Doc Illustrator)
+  <li>@kinematicdigit VS.744 (Mr Cotton Tail & Doc Illustrator)
   <li>@ningpj (Tester, Breaker & Documenter)
   <li>@fizzy (King of CAD)
   <li>@gsx8299 (Test Builder Extraordinaire)
@@ -227,6 +228,8 @@ Most importantly let me introduce the development, test and doc team.  A project
 <td>
 These kits and specialty parts have been checked by us and meet good quality standards:
 <ul>
+  <li> Pending Certification - LDO Motors
+  </li>
   <li>List of official and certified vendors on the way... stay tuned!
   </li>
 </td>
