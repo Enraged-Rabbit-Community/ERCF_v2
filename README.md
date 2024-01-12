@@ -227,14 +227,14 @@ Most importantly let me introduce the development, test and doc team.  A project
 <td>
 These kits and specialty parts have been checked by us and meet good quality standards:
 <ul>
-  <li>On the way... stay tuned!
+  <li>List of official and certified vendors on the way... stay tuned!
   </li>
 </td>
 </tr>
 </table>
 
 **Manufacturers:**
-_If you want to be included, please contact us. We are happy to validate your kit/parts and then add you to the list..._
+_If you want to be included, please contact us. We are happy to validate your kit/parts and then add you to the list._
 
 <br>
 
