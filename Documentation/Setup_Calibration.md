@@ -2,19 +2,22 @@
 
 
 ## Step 1. Install Happy Hare software
-Please follow the [install guide for Happy Hare](https://github.com/moggieuk/Happy-Hare/tree/main?tab=readme-ov-file#---installation).
+Please follow the [install guide for Happy Hare](https://github.com/moggieuk/Happy-Hare/tree/main?tab=readme-ov-file#---installation)
 
+> [!NOTE]  
+> This guide assume Happy Hare v2.4 (other versions may differ slightly)
 
 ## Step 2. Validate your hardware configuration
 
 ### Location of configuration files
-The Klipper configuration files for Happy Hare are modular and can be found in this layout in the Klipper config directory:
+The Klipper configuration files for Happy Hare are modular and can be found in this layout in the Klipper config directory (HHv2.4):
 
 ```yml
 mmu/
   base/
     mmu.cfg
-    mmu_filametrix.cfg
+    mmu_cut_tip.cfg
+    mmu_form_tip.cfg
     mmu_hardware.cfg
     mmu_software.cfg
     mmu_sequence.cfg
@@ -35,12 +38,8 @@ This makes the minimal include into your printer.cfg easy: `[include mmu/base/*.
 ### a) MCU and Pin Validation (mmu.cfg)
 The `mmu.cfg` file is part of the hardware configuration but defines aliases for all of the pins used in `mmu_hardware.cfg`. The benefit of this is that configuration frameworks like [Klippain](https://github.com/Frix-x/klippain) can more easily incorporate. It is also in keeping with an organized modular layout.
 
-<br>
-
 ### b) Hardware Configuration (mmu_hardware.cfg):
 This can be daunting but the interactive installer will make the process easier for common mcu's designed for a MMU (e.g. ERCF EASY-BRD, Burrows ERB, etc) and perform most of the setup for you. A few tweaks remain and include the setting of endstop options, optional extruder "touch" homing as the usual pin invert checking, etc.
-
-Endstop setup and options can be [found here](#---endstops-and-mmu-movement)
 
 Note that all sensors can be setup with a simple section in `mmu_hardware.cfg`.  This ensures things are setup correctly and only requires you to supply the pins:
 ```yml
@@ -48,22 +47,29 @@ Note that all sensors can be setup with a simple section in `mmu_hardware.cfg`. 
 # Define the pins for optional sensors in the filament path. All but the pre-gate sensors will be automatically setup as
 # both endstops (for homing) and sensors for visibility purposes.
 #
-# pre_gate_switch_pin_X: pre-gate sensor detects filament at entry to MMU. X=gate number (0..N)
-# toolhead_switch_pin: 'toolhead' sensor detects filament after extruder entry
-# extruder_switch_pin: 'extruder' sensor detects filament just before the extruder entry
-# gate_switch_pin: shared 'gate' sensor detects filament at the gate of the MMU (alternative to encoder)
+# 'pre_gate_switch_pin_X' .. 'mmu_pre_gate_X` sensor detects filament at entry to MMU. X=gate number (0..N)
+# 'gate_switch_pin'       .. 'mmu_gate' sensor detects filament at the gate of the MMU
+# 'toolhead_switch_pin'   .. 'toolhead' sensor detects filament after extruder entry
+# 'extruder_switch_pin'   .. 'extruder' sensor detects filament just before the extruder entry
 #
-# Uncomment sensors that are fitted
+# Sync motor feedback will typically have a tension switch (more important) or both tension and compression
+# 'sync_feedback_tension_pin'     .. pin for switch activated when filament is under tension
+# 'sync_feedback_compression_pin' .. pin for switch activated when filament is under compression
+#
+# Simply define pins for any sensor you want to enable, if pin is not set (or the alias is empty) it will be ignored (can also comment out)
 #
 [mmu_sensors]
-pre_gate_switch_pin_0: mmu:MMU_SEL_ENDSTOP
-pre_gate_switch_pin_1: mmu:MMU_SEL_ENDSTOP
-pre_gate_switch_pin_2: mmu:MMU_SEL_ENDSTOP
-pre_gate_switch_pin_3: mmu:MMU_SEL_ENDSTOP
+pre_gate_switch_pin_0: ^mmu:MMU_PRE_GATE_0
+pre_gate_switch_pin_1: ^mmu:MMU_PRE_GATE_1
+pre_gate_switch_pin_2: ^mmu:MMU_PRE_GATE_2
+pre_gate_switch_pin_3: ^mmu:MMU_PRE_GATE_3
 
-gate_switch_pin: mmu:MMU_SEL_ENDSTOP
-extruder_switch_pin: mmu:MMU_SEL_ENDSTOP
-toolhead_switch_pin: PG13
+gate_switch_pin: ^mmu:MMU_GATE_SENSOR
+extruder_switch_pin:
+toolhead_switch_pin:
+
+sync_feedback_tension_pin:
+sync_feedback_compression_pin:
 ```
 
 <br>
@@ -168,9 +174,10 @@ encoder_pin: ^mmu:MMU_ENCODER
 
 <br>
 
-Attaching the Servo Arm (Finally!)
+## Step 6. Attaching the Servo Arm (Finally!)
 
-NOTE: this guide assumes you are using a Savox Servo. If you are using an MG90S or other servo, the angles you need to use will be different!
+> [!NOTE]  
+> This guide assumes you are using a Savox Servo. If you are using an MG90S or other servo, the angles you need to use will be different!
 
 Run the command `MMU_SERVO POS=UP` prior to attaching the servo arm. When attaching the arm, do not twist the servo output shaft, or you will need to run the command again. As you attach the servo arm, you want it to be aligned as close to the body of the servo as possible given the position of the servo output shaft.
 
@@ -182,10 +189,29 @@ Once you've got the angle correct, save it to you `mmu_parameters.cfg` as `servo
 Run the command `MMU_SERVO POS=MOVE`.  Servo will move to "move" position in the "cutout" on the top hat that allows for free movement. If the angle is not correct then use `MMU_SERVO ANGLE=30` (for Savox, 140 for MG90S) to try angles close to current move angle to get exacly the right position.
 Once you've got the angle correct, save it to you `mmu_parameters.cfg` as `servo_move_angle` on line 50.
 
-Restart Klipper. 
+*RESTART KLIPPER* 
 
 Put another way, the default installer will get you values close to correct, but you must fine tune these three positions.
 
-Note: If servo moves in the wrong direction it is likely you picked the wrong servo when running the Happy Hare installer.... remove servo arm, read the notes in mmu_parameters.cfg, correct starting servo angles, restart klipper, and try again.
+Note: If servo moves in the wrong direction it is likely you picked the wrong servo when running the Happy Hare installer.... remove servo arm, read the notes in mmu_parameters.cfg, correct starting servo angles, *RESTART KLIPPER*, and try again.
+
+> [!TIP]  
+> As of HHv2.4 the servo calibration can be performed without klipper restart.  The procedure is documented in the Happy Hare doc, but briefly:
+```yml
+MMU_SERVO POS=up
+  # Assume the position isn't quite right
+MMU_SERVO
+Current servo angle: 125, Positions: {'down': 110, 'up': 125, 'move': 110}
+  # Without arguments you can view the current angles
+MMU_SERVO ANGLE=128
+  # Tweak until you are happy with position
+MMU_SERVO POS=up SAVE=1
+  # Save the current angle (128) for the "up" position
+```
+
+Repeat for the three positions:
+* up   = tool is selected and filament is allowed to freely move through gate
+* down = to grip filament
+* move = ready the servo for selector move (optional - defaults to up)
 
 Further calibration steps and instructions can be found in the [Happy Hare repo](https://github.com/moggieuk/Happy-Hare?tab=readme-ov-file#---setup-and-calibration).
