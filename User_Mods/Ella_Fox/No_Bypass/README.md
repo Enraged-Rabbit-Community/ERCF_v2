@@ -22,7 +22,7 @@ Generally, you will need to supply the following to your mmu_parameters. It migh
 cad_gate0_pos: 4.0			# Approximate distance from endstop to first gate. Used for rough calibration only
 cad_gate_width: 23.0			# Width of each gate
 cad_bypass_offset: 0			# Distance from limit of travel back to the bypass (ERCF v2.0)
-cad_last_gate_offset: 0.72		# Distance from limit of travel back to last gate
+cad_last_gate_offset: 14.4		# Distance from limit of travel back to last gate
 cad_selector_tolerance: 10.0 		# How much extra selector movement to allow
 
 encoder_default_resolution: 0.95833 # Binky 12 tooth disc with BMG gear
