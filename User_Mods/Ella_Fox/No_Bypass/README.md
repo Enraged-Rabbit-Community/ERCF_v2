@@ -11,3 +11,5 @@ Identical to V2 BOM, minus 1x ECAS fitting.
 
 At present, it is recommended to setup Happy Hare as a custom MMU, since ERCF v2 expects a bypass block.
 It might be necessary to tune these settings. Additionally, set `cad_bypass_offset: 0` in your mmu_parameters config file.
+
+![Render](Assets/no_bypass.png)
