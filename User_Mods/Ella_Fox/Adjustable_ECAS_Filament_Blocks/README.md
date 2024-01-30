@@ -7,9 +7,9 @@ Try printing these modified filament path pieces if you run into issues where yo
 You should start with T0, as this will be sufficient for most people, then work your way down if you still have issues.
 
 * **ERCF Default:** 8.45mm
-* **T0 - Snug:**: 8.38mm
+* **T0 - Snug:** 8.38mm
 * **T1 - Tight:** 8.36mm
 * **T2 - Tighter:** 8.34mm
-* **T3  - Tightest:** 8.32mm
+* **T3 - Tightest:** 8.32mm
 
 ![Render](Assets/adjustable_ecas_filament_blocks.png)
