@@ -226,10 +226,23 @@ Most importantly let me introduce the development, test and doc team.  A project
 <tr>
 <td width=25%><img src="Assets/Certified.jpg" alt='Vendor Certification'></td>
 <td>
-These kits and specialty parts will have been checked by us and meet good quality standards. Pending Certification means it has met our first pass inspection and in the process of being verified as a V2 kit. <strong>WE DO NOT RECOMMEND PURCHASING KITS WITHOUT THE CERTIFICATION BY US. PLEASE CHECK BACK HERE FOR THE LIST OF AUTHORIZED VENDORS AND MANUFACTURERS</strong>:
+These kits and specialty parts will have been checked by us and meet good quality standards. Pending Certification means it has met our first pass inspection and in the process of being verified as a V2 kit. <strong>WE DO NOT RECOMMEND PURCHASING KITS WITHOUT THE CERTIFICATION BY US. PLEASE CHECK BACK HERE FOR THE LIST OF AUTHORIZED VENDORS AND MANUFACTURERS</strong>:<br>
+<p>
 <ul>
   <li> Pending Certification - LDO Motors
-  </li><br>
+  </li>
+  <li> Application Under Review - Triangle Labs
+  </li>
+  <li> Application Under Review - Siboor
+  </li>
+  <li> Application Under Review - Seleadlabs
+  </li>
+  <li> Application Under Review - Makerpanda
+  </li>
+  
+  
+  
+  <br>
   <p>
   A list of more official and certified vendors is on the way... stay tuned!
 </td>
