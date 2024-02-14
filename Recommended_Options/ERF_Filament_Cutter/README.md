@@ -28,7 +28,10 @@ Currently ERF is only available for the Stealthburner toolhead. We hope to offer
   <tr>
     <td rowspan="4">Clockwork2 (CW2)</td>
     <td>1_Toolhead_And_Entry_Sensors</td>
-    <td><a href="Stls/1_Toolhead_And_Entry_Sensors/CW2 Mod/SB_CW2_Body_2 Sensor_HARKPCB.stl">Body</a></td>
+    <td><p><a href="Stls/1_Toolhead_And_Entry_Sensors/CW2 Mod/SB_CW2_Body_2 Sensor_HARKPCB.stl">Body</a></p>
+        <p><a href="Stls/1_Toolhead_And_Entry_Sensors/CW2 Mod/SB_CW2_Motor_Plate.stl">Motor Plate</a></p>
+        <p><a href="Stls/1_Toolhead_And_Entry_Sensors/CW2 Mod/[a]_SB_Latch_ECAS.stl">Latch</a></p>
+    </td>
     <td rowspan="4">Credit: <a href="https://github.com/juliusjj25">juliusjj25</a></td>
   </tr>
   <tr>
