@@ -85,25 +85,25 @@ Currently ERF is only available for the Stealthburner toolhead. We hope to offer
 		<tr>
 			<td colspan="1" rowspan="8" style="vertical-align:middle">Galileo 2 Extruder (G2E)</td>
 			<td rowspan="2" style="vertical-align:middle">1_Toolhead_And_Entry_Sensors</td>
-			<td style="vertical-align: middle; text-align: center;"><a href="http://Recommended_Options/ERF_Filament_Cutter/Stls/1_Toolhead_And_Entry_Sensors/G2E Mod/G2E_Filametrix_Extruder_Front_2_Sensor_HARTKPCB.stl">Front</a></td>
+			<td style="vertical-align: middle; text-align: center;"><a href="Stls/1_Toolhead_And_Entry_Sensors/G2E Mod/G2E_Filametrix_Extruder_Front_2_Sensor_HARTKPCB.stl">Front</a></td>
 			<td colspan="1" rowspan="8" style="vertical-align:middle">Credit:&nbsp;<a href="https://github.com/IRTrail/G2E-Filametrix">IRTrail</a></td>
 		</tr>
 		<tr>
-			<td style="vertical-align: middle; text-align: center;"><a href="http://Recommended_Options/ERF_Filament_Cutter/Stls/1_Toolhead_And_Entry_Sensors/G2E Mod/G2E_Filametrix_Extruder_Rear.stl">Rear</a></td>
+			<td style="vertical-align: middle; text-align: center;"><a href="Stls/1_Toolhead_And_Entry_Sensors/G2E Mod/G2E_Filametrix_Extruder_Rear.stl">Rear</a></td>
 		</tr>
 		<tr>
 			<td rowspan="2" style="vertical-align:middle">2_Toolhead_Sensor</td>
-			<td style="vertical-align: middle; text-align: center;"><a href="http://Recommended_Options/ERF_Filament_Cutter/Stls/2_Toolhead_Sensor/G2E Mod/G2E_Filametrix_Extruder_Front_1_Sensor_HARTKPCB.STL">Front</a></td>
+			<td style="vertical-align: middle; text-align: center;"><a href="Stls/2_Toolhead_Sensor/G2E Mod/G2E_Filametrix_Extruder_Front_1_Sensor_HARTKPCB.STL">Front</a></td>
 		</tr>
 		<tr>
-			<td style="vertical-align: middle; text-align: center;"><a href="http://Recommended_Options/ERF_Filament_Cutter/Stls/2_Toolhead_Sensor/G2E Mod/G2E_Filametrix_Extruder_Rear.stl">Rear</a></td>
+			<td style="vertical-align: middle; text-align: center;"><a href="Stls/2_Toolhead_Sensor/G2E Mod/G2E_Filametrix_Extruder_Rear.stl">Rear</a></td>
 		</tr>
 		<tr>
 			<td rowspan="2" style="vertical-align:middle">4_No_Sensors</td>
-			<td style="vertical-align: middle; text-align: center;"><a href="http://Recommended_Options/ERF_Filament_Cutter/Stls/4_No_Sensors/G2E Mod/G2E_Filametrix_No_Sensor_Front_HARTKPCB.STL">Front</a></td>
+			<td style="vertical-align: middle; text-align: center;"><a href="Stls/4_No_Sensors/G2E Mod/G2E_Filametrix_No_Sensor_Front_HARTKPCB.STL">Front</a></td>
 		</tr>
 		<tr>
-			<td style="vertical-align: middle; text-align: center;"><a href="http://Recommended_Options/ERF_Filament_Cutter/Stls/4_No_Sensors/G2E Mod/G2E_Filametrix_Extruder_Rear.stl">Rear</a></td>
+			<td style="vertical-align: middle; text-align: center;"><a href="Stls/4_No_Sensors/G2E Mod/G2E_Filametrix_Extruder_Rear.stl">Rear</a></td>
 		</tr>
 	</tbody>
 </table>
