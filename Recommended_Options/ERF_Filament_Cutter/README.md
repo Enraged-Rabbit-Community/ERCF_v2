@@ -19,54 +19,102 @@ Currently ERF is only available for the Stealthburner toolhead. We hope to offer
 
 ### Supported Extruders for StealthBurner and Sensor Options
 <table>
-  <tr>
-    <th>Extruder</th>
-    <th>Sensor Option</th>
-    <th>STLs</th>
-    <th>Credit</th>
-  </tr>
-  <tr>
-    <td rowspan="4">Clockwork2 (CW2)</td>
-    <td>1_Toolhead_And_Entry_Sensors</td>
-    <td>
-        <p><a href="Stls/1_Toolhead_And_Entry_Sensors/CW2 Mod/SB_CW2_Body_2 Sensor_HARKPCB.stl">Body</a></p>
-        <p><a href="Stls/1_Toolhead_And_Entry_Sensors/CW2 Mod/SB_CW2_Motor_Plate.stl">Motor Plate</a></p>
-        <p><a href="Stls/1_Toolhead_And_Entry_Sensors/CW2 Mod/[a]_SB_Latch_ECAS.stl">Latch</a></p>
-    </td>
-    <td rowspan="4">Credit: <a href="https://github.com/juliusjj25">juliusjj25</a></td>
-  </tr>
-  <tr>
-    <td>2_Toolhead_Sensor (EBB Board)</td>
-    <td>
-        <p><a href="Stls/2_Toolhead_Sensor/CW2 Mod/SB_CW2_Body_Toolhead Sensor_HARTKPCB.stl">Body</a></p>
-        <p><a href="Stls/2_Toolhead_Sensor/CW2 Mod/SB_CW2_Motor_Plate.stl">Motor Plate</a></p>
-        <p><a href="Stls/2_Toolhead_Sensor/CW2 Mod/[a]_SB_Latch_ECAS.stl">Latch</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td>3_Entry_Sensor</td>
-    <td>
-        <p><a href="Stls/3_Entry_Sensor/CW2 Mod/SB_CW2_Body_Entry Sensor_HARTKPCB.stl">Body</a></p>
-        <p><a href="Stls/3_Entry_Sensor/CW2 Mod/SB_CW2_Motor_Plate.stl">Motor Plate</a></p>
-        <p><a href="Stls/3_Entry_Sensor/CW2 Mod/[a]_SB_Latch_ECAS.stl">Latch</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td>4_No_Sensors</td>
-    <td>
-        <p><a href="Stls/4_No_Sensors/CW2 Mod/SB_CW2_Body_No sensor_HARKPCB.stl">Body</a></p>
-        <p><a href="Stls/4_No_Sensors/CW2 Mod/SB_CW2_Motor_Plate.stl">Motor Plate</a></p>
-        <p><a href="Stls/4_No_Sensors/CW2 Mod/[a]_SB_Latch_ECAS.stl">Latch</a></p>
-    </td>
-  </tr>
-
-  <tr>
-    <td>LGX Lite</td>
-    <td>4_No_Sensors</td>
-    <td><a href="Stls/4_No_Sensors/LGX Lite Mod/SB_LGX Lite_Body.stl">Body</a></td>
-    <td>Credit: <a href="https://www.printables.com/de/model/576122-lgx-lite-stealthburner-filament-cutter">tommorox234</a></td>
-  </tr>
+	<tbody>
+		<tr>
+			<th style="text-align:center; vertical-align:middle">Extruder</th>
+			<th style="text-align:center; vertical-align:middle">Sensor Option</th>
+			<th style="text-align:center; vertical-align:middle">STLs</th>
+			<th style="text-align:center; vertical-align:middle">Credit</th>
+		</tr>
+		<tr>
+			<td rowspan="12" style="vertical-align:middle">Clockwork2 (CW2)</td>
+			<td rowspan="3" style="vertical-align:middle">1_Toolhead_And_Entry_Sensors</td>
+			<td style="text-align:center; vertical-align:middle">
+			<p><a href="Stls/1_Toolhead_And_Entry_Sensors/CW2 Mod/SB_CW2_Body_2 Sensor_HARKPCB.stl">Body</a></p>
+			</td>
+			<td rowspan="12" style="vertical-align:middle">Credit: <a href="https://github.com/juliusjj25">juliusjj25</a></td>
+		</tr>
+		<tr>
+			<td style="text-align:center; vertical-align:middle"><a href="Stls/1_Toolhead_And_Entry_Sensors/CW2 Mod/SB_CW2_Motor_Plate.stl">Motor Plate</a></td>
+		</tr>
+		<tr>
+			<td style="text-align:center; vertical-align:middle"><a href="Stls/1_Toolhead_And_Entry_Sensors/CW2 Mod/[a]_SB_Latch_ECAS.stl">Latch</a></td>
+		</tr>
+		<tr>
+			<td rowspan="3" style="vertical-align:middle">2_Toolhead_Sensor</td>
+			<td style="text-align:center; vertical-align:middle">
+			<p><a href="Stls/2_Toolhead_Sensor/CW2 Mod/SB_CW2_Body_Toolhead Sensor_HARTKPCB.stl">Body</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center; vertical-align:middle"><a href="Stls/2_Toolhead_Sensor/CW2 Mod/SB_CW2_Motor_Plate.stl">Motor Plate</a></td>
+		</tr>
+		<tr>
+			<td style="text-align:center; vertical-align:middle"><a href="Stls/2_Toolhead_Sensor/CW2 Mod/[a]_SB_Latch_ECAS.stl">Latch</a></td>
+		</tr>
+		<tr>
+			<td rowspan="3" style="vertical-align:middle">3_Entry_Sensor</td>
+			<td style="text-align:center; vertical-align:middle">
+			<p><a href="Stls/3_Entry_Sensor/CW2 Mod/SB_CW2_Body_Entry Sensor_HARTKPCB.stl">Body</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center; vertical-align:middle"><a href="Stls/3_Entry_Sensor/CW2 Mod/SB_CW2_Motor_Plate.stl">Motor Plate</a></td>
+		</tr>
+		<tr>
+			<td style="text-align:center; vertical-align:middle"><a href="Stls/3_Entry_Sensor/CW2 Mod/[a]_SB_Latch_ECAS.stl">Latch</a></td>
+		</tr>
+		<tr>
+			<td rowspan="3" style="vertical-align:middle">4_No_Sensors</td>
+			<td style="text-align:center; vertical-align:middle">
+			<p><a href="Stls/4_No_Sensors/CW2 Mod/SB_CW2_Body_No sensor_HARKPCB.stl">Body</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center; vertical-align:middle"><a href="Stls/4_No_Sensors/CW2 Mod/SB_CW2_Motor_Plate.stl">Motor Plate</a></td>
+		</tr>
+		<tr>
+			<td style="text-align:center; vertical-align:middle"><a href="Stls/4_No_Sensors/CW2 Mod/[a]_SB_Latch_ECAS.stl">Latch</a></td>
+		</tr>
+		<tr>
+			<td style="vertical-align:middle">LGX Lite</td>
+			<td style="vertical-align:middle">4_No_Sensors</td>
+			<td style="text-align:center; vertical-align:middle"><a href="Stls/4_No_Sensors/LGX Lite Mod/SB_LGX Lite_Body.stl">Body</a></td>
+			<td style="vertical-align:middle">Credit: <a href="https://www.printables.com/de/model/576122-lgx-lite-stealthburner-filament-cutter">tommorox234</a></td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="8" style="vertical-align:middle">Galileo 2 Extruder (G2E)</td>
+			<td rowspan="2" style="vertical-align:middle">1_Toolhead_And_Entry_Sensors</td>
+			<td style="vertical-align: middle; text-align: center;"><a href="http://Recommended_Options/ERF_Filament_Cutter/Stls/1_Toolhead_And_Entry_Sensors/G2E Mod/G2E_Filametrix_Extruder_Front_2_Sensor_HARTKPCB.stl">Front</a></td>
+			<td colspan="1" rowspan="8" style="vertical-align:middle">Credit:&nbsp;<a href="https://github.com/IRTrail/G2E-Filametrix">IRTrail</a></td>
+		</tr>
+		<tr>
+			<td style="vertical-align: middle; text-align: center;"><a href="http://Recommended_Options/ERF_Filament_Cutter/Stls/1_Toolhead_And_Entry_Sensors/G2E Mod/G2E_Filametrix_Extruder_Rear.stl">Rear</a></td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="vertical-align:middle">2_Toolhead_Sensor</td>
+			<td style="vertical-align: middle; text-align: center;"><a href="http://Recommended_Options/ERF_Filament_Cutter/Stls/2_Toolhead_Sensor/G2E Mod/G2E_Filametrix_Extruder_Front_1_Sensor_HARTKPCB.STL">Front</a></td>
+		</tr>
+		<tr>
+			<td style="vertical-align: middle; text-align: center;"><a href="http://Recommended_Options/ERF_Filament_Cutter/Stls/2_Toolhead_Sensor/G2E Mod/G2E_Filametrix_Extruder_Rear.stl">Rear</a></td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="vertical-align:middle">3_Entry_Sensor</td>
+			<td style="vertical-align: middle; text-align: center;">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="vertical-align: middle; text-align: center;">&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="vertical-align:middle">4_No_Sensors</td>
+			<td style="vertical-align: middle; text-align: center;"><a href="http://Recommended_Options/ERF_Filament_Cutter/Stls/4_No_Sensors/G2E Mod/G2E_Filametrix_No_Sensor_Front_HARTKPCB.STL">Front</a></td>
+		</tr>
+		<tr>
+			<td style="vertical-align: middle; text-align: center;"><a href="http://Recommended_Options/ERF_Filament_Cutter/Stls/4_No_Sensors/G2E Mod/G2E_Filametrix_Extruder_Rear.stl">Rear</a></td>
+		</tr>
+	</tbody>
 </table>
+
 
 ### Supported Hotends for StealthBurner
 
