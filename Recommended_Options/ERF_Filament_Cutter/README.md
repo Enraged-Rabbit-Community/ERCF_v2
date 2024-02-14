@@ -28,26 +28,26 @@ Currently ERF is only available for the Stealthburner toolhead. We hope to offer
   <tr>
     <td rowspan="4">Clockwork2 (CW2)</td>
     <td>1_Toolhead_And_Entry_Sensors</td>
-    <td><a href="Stls/1_Toolhead_And_Entry_Sensors/SB_CW2_Body.stl">Body</a></td>
+    <td><a href="Stls/1_Toolhead_And_Entry_Sensors/CW2 Mod/SB_CW2_Body_2 Sensor_HARKPCB.stl">Body</a></td>
     <td rowspan="4">Credit: <a href="https://github.com/juliusjj25">juliusjj25</a></td>
   </tr>
   <tr>
     <td>2_Toolhead_Sensor (EBB Board)</td>
-    <td><a href="Stls/2_Toolhead_Sensor/SB_CW2_Body_EBB.stl">Body</a></td>
+    <td><a href="Stls/2_Toolhead_Sensor/CW2 Mod/SB_CW2_Body_Toolhead Sensor_HARTKPCB.stl">Body</a></td>
   </tr>
   <tr>
     <td>3_Entry_Sensor</td>
-    <td><a href="Stls/3_Entry_Sensor/SB_CW2_Body.stl">Body</a></td>
+    <td><a href="Stls/3_Entry_Sensor/CW2 Mod/SB_CW2_Body_Entry Sensor_HARTKPCB.stl">Body</a></td>
   </tr>
   <tr>
     <td>4_No_Sensors</td>
-    <td><a href="Stls/4_No_Sensors/SB_CW2_Body.stl">Body</a></td>
+    <td><a href="Stls/4_No_Sensors/CW2 Mod/SB - CW2 - Body - No sensor - HARKPCB.stl">Body</a></td>
   </tr>
 
   <tr>
     <td>LGX Lite</td>
     <td>4_No_Sensors</td>
-    <td><a href="Stls/4_No_Sensors/SB_LGX_Lite_Body.stl">Body</a></td>
+    <td><a href="Stls/4_No_Sensors/LGX Lite Mod/SB_LGX Lite_Body.stl">Body</a></td>
     <td>Credit: <a href="https://www.printables.com/de/model/576122-lgx-lite-stealthburner-filament-cutter">tommorox234</a></td>
   </tr>
 </table>
