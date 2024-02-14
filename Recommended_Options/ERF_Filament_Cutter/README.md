@@ -53,7 +53,11 @@ Currently ERF is only available for the Stealthburner toolhead. We hope to offer
   </tr>
   <tr>
     <td>4_No_Sensors</td>
-    <td><a href="Stls/4_No_Sensors/CW2 Mod/SB - CW2 - Body - No sensor - HARKPCB.stl">Body</a></td>
+    <td>
+        <p><a href="Stls/4_No_Sensors/CW2 Mod/SB_CW2_Body - No sensor - HARKPCB.stl">Body</a></p>
+        <p><a href="Stls/4_No_Sensors/CW2 Mod/SB_CW2_Motor_Plate.stl">Motor Plate</a></p>
+        <p><a href="Stls/4_No_Sensors/CW2 Mod/[a]_SB_Latch_ECAS.stl">Latch</a></p>
+    </td>
   </tr>
 
   <tr>
