@@ -99,13 +99,6 @@ Currently ERF is only available for the Stealthburner toolhead. We hope to offer
 			<td style="vertical-align: middle; text-align: center;"><a href="http://Recommended_Options/ERF_Filament_Cutter/Stls/2_Toolhead_Sensor/G2E Mod/G2E_Filametrix_Extruder_Rear.stl">Rear</a></td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="vertical-align:middle">3_Entry_Sensor</td>
-			<td style="vertical-align: middle; text-align: center;">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="vertical-align: middle; text-align: center;">&nbsp;</td>
-		</tr>
-		<tr>
 			<td rowspan="2" style="vertical-align:middle">4_No_Sensors</td>
 			<td style="vertical-align: middle; text-align: center;"><a href="http://Recommended_Options/ERF_Filament_Cutter/Stls/4_No_Sensors/G2E Mod/G2E_Filametrix_No_Sensor_Front_HARTKPCB.STL">Front</a></td>
 		</tr>
