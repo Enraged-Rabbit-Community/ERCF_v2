@@ -112,74 +112,136 @@ Currently ERF is only available for the Stealthburner toolhead. We hope to offer
 ### Supported Hotends for StealthBurner
 
 <table>
-  <tr>
-    <th>Hotend</th>
-    <th>STLs</th>
-    <th>Credit</th>
-  </tr>
-  <tr>
-    <td>V6-R6<br><a href="Stls/Hotends/V6_R6/">Repo</a></td>
-    <td>
-      <ul>
-        <li>SB_V6_R6_Cutting_Printhead_Back.stl
-        <li>SB_V6_R6_Cutting_Printhead_Front.stl
-      </ul>
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Rapido<br><a href="Stls/Hotends/Rapido/">Repo</a></td>
-    <td>
-      <ul>
-        <li>SB_Rapido_TH_Cutting_Printhead_Rear.stl
-        <li>SB_Rapido_TH_Cutting_Printhead_Front.stl
-      </ul>
-    </td>
-    <td>
-      <p>Credit: <a href="https://github.com/juliusjj25">juliusjj25</a>
-    </td>
-  </tr>
-  <tr>
-    <td>Dragon<br><a href="Stls/Hotends/Dragon/">Repo</a></td>
-    <td>
-      <ul>
-        <li>SB_Dragon_Cutting_Printhead_Back.stl
-        <li>SB_Dragon_Cutting_Printhead_Front.stl
-      </ul>
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Revo Voron<br><a href="Stls/Hotends/Revo/">Repo</a></td>
-    <td>
-      <ul>
-        <li>SB_Revo_Voron_Cutting_Printhead_Back.stl
-        <li>SB_Revo_Voron_Cutting_Printhead_Front.stl
-      </ul>
-    </td>
-    <td> Credit: Russell Gower </td>
-  </tr>
-  <tr>
-    <td>Bambu<br><a href="Stls/Hotends/Bambu/">Repo</a></td>
-    <td>
-      <ul>
-        <li>SB_Bambu_Cutting_Printhead_Back.stl
-        <li>SB_Bambu_Cutting_Printhead_Front.stl
-        <li>SB_Bambu_Adaptor.stl
-        <li>SB_Bambu_Adaptor_M5_Nut.stl
-      </ul>
-    </td>
-    <td>Credit: Jakub Kadlec (Facebook)</td>
-  </tr>
-  <tr>
-    <td>Slice Mosquito<br><a href="Stls/Hotends/Mosquito/">Repo</a></td>
-    <td>
-      <ul>
-        <li>Slice_Mosquito_Cutting_Printhead_Front_And_Rear.stl
-      </ul>
-    </td>
-    <td>Credit: <a href="https://www.printables.com/de/model/614813-filametrix-mod-for-slice-engingeering-mosquito-hot">MakeAUsername_285162</a></td>
-  </tr>
+	<tbody>
+		<tr>
+			<th>Hotend</th>
+			<th>Extruder</th>
+			<th>STLs</th>
+			<th>Credit</th>
+		</tr>
+		<tr>
+			<td>V6-R6</td>
+			<td>CW2</td>
+			<td>
+			<ul>
+				<li><a href="http://Stls/5_Printheads/CW2 Mod Variants/V6_R6/SB_V6_R6_Cutting_Printhead_Back.stl">SB_V6_R6_Cutting_Printhead_Back.stl</a></li>
+				<li><a href="https://Stls/5_Printheads/CW2 Mod Variants/V6_R6/SB_V6_R6_Cutting_Printhead_Front.stl">SB_V6_R6_Cutting_Printhead_Front.stl</a></li>
+			</ul>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Rapido</td>
+			<td>CW2</td>
+			<td>
+			<ul>
+				<li><a href="http://Recommended_Options/ERF_Filament_Cutter/Stls/5_Printheads/CW2 Mod Variants/Rapido/SB_Rapido_TH_Cutting_Printhead_Rear.stl">SB_Rapido_TH_Cutting_Printhead_Rear.stl</a></li>
+				<li><a href="http://Stls/5_Printheads/CW2 Mod Variants/Rapido/SB_Rapido_TH_Cutting_Printhead_Front.stl">SB_Rapido_TH_Cutting_Printhead_Front.stl</a></li>
+			</ul>
+			</td>
+			<td>
+			<p>Credit: <a href="https://github.com/juliusjj25">juliusjj25</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td>G2E</td>
+			<td>
+			<ul>
+				<li><a href="Stls/5_Printheads/G2E Mod Variants/Rapido/G2E_SB_Rapido_Rear.STL">G2E_SB_Rapido_Rear.STL</a></li>
+				<li><a href="Stls/5_Printheads/G2E Mod Variants/Rapido/G2E_SB_Rapido_Front.STL">G2E_SB_Rapido_Front.STL</a></li>
+			</ul>
+			</td>
+			<td>Credit:&nbsp;<a href="https://github.com/IRTrail/G2E-Filametrix">IRTrail</a></td>
+		</tr>
+		<tr>
+			<td rowspan="2">Dragon</td>
+			<td>CW2</td>
+			<td>
+			<ul>
+				<li><a href="http://Stls/5_Printheads/CW2 Mod Variants/Dragon/SB_Dragon_Cutting_Printhead_Back.stl">SB_Dragon_Cutting_Printhead_Back.stl</a></li>
+				<li><a href="http://Stls/5_Printheads/CW2 Mod Variants/Dragon/SB_Dragon_Cutting_Printhead_Front.stl">SB_Dragon_Cutting_Printhead_Front.stl</a></li>
+			</ul>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>G2E</td>
+			<td>
+			<ul>
+				<li><a href="Stls/5_Printheads/G2E Mod Variants/Dragon/G2E_SB_Dragon_Rear.STL">G2E_SB_Dragon_Rear.STL</a></li>
+				<li><a href="http://Stls/5_Printheads/G2E Mod Variants/Dragon/G2E_SB_Dragon_Front.STL">G2E_SB_Dragon_Front.STL</a></li>
+			</ul>
+			</td>
+			<td>Credit:&nbsp;<a href="https://github.com/IRTrail/G2E-Filametrix">IRTrail</a></td>
+		</tr>
+		<tr>
+			<td>Revo Voron</td>
+			<td>CW2</td>
+			<td>
+			<ul>
+				<li><a href="http://Stls/5_Printheads/CW2 Mod Variants/Revo/SB_Revo_Voron_Cutting_Printhead_Back.stl">SB_Revo_Voron_Cutting_Printhead_Back.stl</a></li>
+				<li><a href="Stls/5_Printheads/CW2 Mod Variants/Revo/SB_Revo_Voron_Cutting_Printhead_Front.stl">SB_Revo_Voron_Cutting_Printhead_Front.stl</a></li>
+			</ul>
+			</td>
+			<td>Credit: Russell Gower</td>
+		</tr>
+		<tr>
+			<td>Bambu</td>
+			<td>CW2</td>
+			<td>
+			<ul>
+				<li><a href="Stls/5_Printheads/CW2 Mod Variants/Bambu/SB_Bambu_Cutting_Printhead_Back.stl">SB_Bambu_Cutting_Printhead_Back.stl</a></li>
+				<li><a href="Stls/5_Printheads/CW2 Mod Variants/Bambu/SB_Bambu_Cutting_Printhead_Front.stl">SB_Bambu_Cutting_Printhead_Front.stl</a></li>
+				<li><a href="http://Stls/5_Printheads/CW2 Mod Variants/Bambu/Bambu_Adapter.stl">SB_Bambu_Adaptor.stl</a></li>
+				<li><a href="http://Stls/5_Printheads/CW2 Mod Variants/Bambu/Bambu_Adapter_M5_Nut.stl">SB_Bambu_Adaptor_M5_Nut.stl</a></li>
+			</ul>
+			</td>
+			<td>Credit: Jakub Kadlec (Facebook)</td>
+		</tr>
+		<tr>
+			<td>Slice Mosquito</td>
+			<td>CW2</td>
+			<td>
+			<ul>
+				<li><a href="http://Stls/5_Printheads/CW2 Mod Variants/Mosquito/Slice_Mosquito_Cutting_Printhead_Front_And_Rear.STL">Slice_Mosquito_Cutting_Printhead_Front_And_Rear.stl</a></li>
+			</ul>
+			</td>
+			<td>Credit: <a href="https://www.printables.com/de/model/614813-filametrix-mod-for-slice-engingeering-mosquito-hot">MakeAUsername_285162</a></td>
+		</tr>
+		<tr>
+			<td>Rapido UHF</td>
+			<td>G2E</td>
+			<td>
+			<ul>
+				<li><a href="http://Stls/5_Printheads/G2E Mod Variants/Rapido_UHF/G2E_SB_Rapido_Rear.STL">G2E_SB_Rapido_Rear.STL</a></li>
+				<li><a href="http://Stls/5_Printheads/G2E Mod Variants/Rapido_UHF/G2E_SB_Rapido_UHF_Front.STL">G2E_SB_Rapido_UHF_Front.STL</a></li>
+			</ul>
+			</td>
+			<td>Credit:&nbsp;<a href="https://github.com/IRTrail/G2E-Filametrix">IRTrail</a></td>
+		</tr>
+		<tr>
+			<td>Rapido 2</td>
+			<td>G2E</td>
+			<td>
+			<ul>
+				<li><a href="http://Stls/5_Printheads/G2E Mod Variants/Rapido_2/G2E_SB_Rapido_2_Rear.STL">G2E_SB_Rapido_2_Rear.STL</a></li>
+				<li><a href="http://Stls/5_Printheads/G2E Mod Variants/Rapido_2/G2E_SB_Rapido_2_Front.STL">G2E_SB_Rapido_2_Front.STL</a></li>
+			</ul>
+			</td>
+			<td>Credit:&nbsp;<a href="https://github.com/IRTrail/G2E-Filametrix">IRTrail</a></td>
+		</tr>
+		<tr>
+			<td>Rapido 2 UHF</td>
+			<td>G2E</td>
+			<td>
+			<ul>
+				<li><a href="http://Stls/5_Printheads/G2E Mod Variants/Rapido_2_UHF/G2E_SB_Rapido_2_Rear.STL">G2E_SB_Rapido_2_Rear.STL</a></li>
+				<li><a href="http://Stls/5_Printheads/G2E Mod Variants/Rapido_2_UHF/G2E_SB_Rapido_2_UHF_Front.STL">G2E_SB_Rapido_2_UHF_Front.STL</a></li>
+			</ul>
+			</td>
+			<td>Credit:&nbsp;<a href="https://github.com/IRTrail/G2E-Filametrix">IRTrail</a></td>
+		</tr>
+	</tbody>
 </table>
 </details>
 
