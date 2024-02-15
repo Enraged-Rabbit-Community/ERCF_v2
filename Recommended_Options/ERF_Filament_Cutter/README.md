@@ -305,10 +305,10 @@ Filametrix [in action](https://www.youtube.com/watch?v=tfMZWQRqtvY)
 
 Make sure `toolhead_extruder_to_nozzle` and `toolhead_sensor_to_nozzle` are set to your particular toolhead as per the Happy Hare documentation.
 
-`force_form_tip_standalone: 1` this tell Happy Hare to always use the tip cutting macro.
+`force_form_tip_standalone: 1` this tell Happy Hare to always use the tip cutting macro.  
 
 > [!IMPORTANT]  
-> Make sure you turn off tip forming or any extruder movements in your slicer - the slicer must not take any part in the filament swap. It should pick up when purging the new filament to the purge block.
+> Make sure you turn off tip forming or any extruder movements in your slicer - the slicer must not take any part in the filament swap. It should pick up when purging the new filament to the purge block. See [Happy Hare's slicer setup guide](https://github.com/moggieuk/Happy-Hare/blob/main/doc/toolchange_movement.md#turning-off-slicer-tip-forming).  
 
 
 ### In mmu_filamentix.cfg:
