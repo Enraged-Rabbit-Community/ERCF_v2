@@ -135,8 +135,8 @@ Currently ERF is only available for the Stealthburner toolhead with Clockwork 2 
 			<td>CW2</td>
 			<td>
 			<ul>
-				<li><a href="Stls/5_Printheads/CW2 Mod Variants/Rapido/SB_Rapido_TH_Cutting_Printhead_Rear.stl">SB_Rapido_TH_Cutting_Printhead_Rear.stl</a></li>
-				<li><a href="Stls/5_Printheads/CW2 Mod Variants/Rapido/SB_Rapido_TH_Cutting_Printhead_Front.stl">SB_Rapido_TH_Cutting_Printhead_Front.stl</a></li>
+				<li><a href="Stls/5_Printheads/CW2_Mod_Variants/Rapido/SB_Rapido_TH_Cutting_Printhead_Rear.stl">SB_Rapido_TH_Cutting_Printhead_Rear.stl</a></li>
+				<li><a href="Stls/5_Printheads/CW2_Mod_Variants/Rapido/SB_Rapido_TH_Cutting_Printhead_Front.stl">SB_Rapido_TH_Cutting_Printhead_Front.stl</a></li>
 			</ul>
 			</td>
 			<td>
@@ -147,8 +147,8 @@ Currently ERF is only available for the Stealthburner toolhead with Clockwork 2 
 			<td>G2E</td>
 			<td>
 			<ul>
-				<li><a href="Stls/5_Printheads/G2E Mod Variants/Rapido/G2E_SB_Rapido_Rear.STL">G2E_SB_Rapido_Rear.STL</a></li>
-				<li><a href="Stls/5_Printheads/G2E Mod Variants/Rapido/G2E_SB_Rapido_Front.STL">G2E_SB_Rapido_Front.STL</a></li>
+				<li><a href="Stls/5_Printheads/G2E_Mod_Variants/Rapido/G2E_SB_Rapido_Rear.STL">G2E_SB_Rapido_Rear.STL</a></li>
+				<li><a href="Stls/5_Printheads/G2E_Mod_Variants/Rapido/G2E_SB_Rapido_Front.STL">G2E_SB_Rapido_Front.STL</a></li>
 			</ul>
 			</td>
 			<td>Credit:&nbsp;<a href="https://github.com/IRTrail/G2E-Filametrix">IRTrail</a></td>
@@ -158,8 +158,8 @@ Currently ERF is only available for the Stealthburner toolhead with Clockwork 2 
 			<td>CW2</td>
 			<td>
 			<ul>
-				<li><a href="Stls/5_Printheads/CW2 Mod Variants/Dragon/SB_Dragon_Cutting_Printhead_Back.stl">SB_Dragon_Cutting_Printhead_Back.stl</a></li>
-				<li><a href="Stls/5_Printheads/CW2 Mod Variants/Dragon/SB_Dragon_Cutting_Printhead_Front.stl">SB_Dragon_Cutting_Printhead_Front.stl</a></li>
+				<li><a href="Stls/5_Printheads/CW2_Mod_Variants/Dragon/SB_Dragon_Cutting_Printhead_Back.stl">SB_Dragon_Cutting_Printhead_Back.stl</a></li>
+				<li><a href="Stls/5_Printheads/CW2_Mod_Variants/Dragon/SB_Dragon_Cutting_Printhead_Front.stl">SB_Dragon_Cutting_Printhead_Front.stl</a></li>
 			</ul>
 			</td>
 			<td>&nbsp;</td>
@@ -168,8 +168,8 @@ Currently ERF is only available for the Stealthburner toolhead with Clockwork 2 
 			<td>G2E</td>
 			<td>
 			<ul>
-				<li><a href="Stls/5_Printheads/G2E Mod Variants/Dragon/G2E_SB_Dragon_Rear.STL">G2E_SB_Dragon_Rear.STL</a></li>
-				<li><a href="Stls/5_Printheads/G2E Mod Variants/Dragon/G2E_SB_Dragon_Front.STL">G2E_SB_Dragon_Front.STL</a></li>
+				<li><a href="Stls/5_Printheads/G2E_Mod_Variants/Dragon/G2E_SB_Dragon_Rear.STL">G2E_SB_Dragon_Rear.STL</a></li>
+				<li><a href="Stls/5_Printheads/G2E_Mod_Variants/Dragon/G2E_SB_Dragon_Front.STL">G2E_SB_Dragon_Front.STL</a></li>
 			</ul>
 			</td>
 			<td>Credit:&nbsp;<a href="https://github.com/IRTrail/G2E-Filametrix">IRTrail</a></td>
@@ -179,8 +179,8 @@ Currently ERF is only available for the Stealthburner toolhead with Clockwork 2 
 			<td>CW2</td>
 			<td>
 			<ul>
-				<li><a href="Stls/5_Printheads/CW2 Mod Variants/Revo/SB_Revo_Voron_Cutting_Printhead_Back.stl">SB_Revo_Voron_Cutting_Printhead_Back.stl</a></li>
-				<li><a href="Stls/5_Printheads/CW2 Mod Variants/Revo/SB_Revo_Voron_Cutting_Printhead_Front.stl">SB_Revo_Voron_Cutting_Printhead_Front.stl</a></li>
+				<li><a href="Stls/5_Printheads/CW2_Mod_Variants/Revo/SB_Revo_Voron_Cutting_Printhead_Back.stl">SB_Revo_Voron_Cutting_Printhead_Back.stl</a></li>
+				<li><a href="Stls/5_Printheads/CW2_Mod_Variants/Revo/SB_Revo_Voron_Cutting_Printhead_Front.stl">SB_Revo_Voron_Cutting_Printhead_Front.stl</a></li>
 			</ul>
 			</td>
 			<td>Credit: Russell Gower</td>
@@ -190,10 +190,10 @@ Currently ERF is only available for the Stealthburner toolhead with Clockwork 2 
 			<td>CW2</td>
 			<td>
 			<ul>
-				<li><a href="Stls/5_Printheads/CW2 Mod Variants/Bambu/SB_Bambu_Cutting_Printhead_Back.stl">SB_Bambu_Cutting_Printhead_Back.stl</a></li>
-				<li><a href="Stls/5_Printheads/CW2 Mod Variants/Bambu/SB_Bambu_Cutting_Printhead_Front.stl">SB_Bambu_Cutting_Printhead_Front.stl</a></li>
-				<li><a href="Stls/5_Printheads/CW2 Mod Variants/Bambu/Bambu_Adapter.stl">SB_Bambu_Adaptor.stl</a></li>
-				<li><a href="Stls/5_Printheads/CW2 Mod Variants/Bambu/Bambu_Adapter_M5_Nut.stl">SB_Bambu_Adaptor_M5_Nut.stl</a></li>
+				<li><a href="Stls/5_Printheads/CW2_Mod_Variants/Bambu/SB_Bambu_Cutting_Printhead_Back.stl">SB_Bambu_Cutting_Printhead_Back.stl</a></li>
+				<li><a href="Stls/5_Printheads/CW2_Mod_Variants/Bambu/SB_Bambu_Cutting_Printhead_Front.stl">SB_Bambu_Cutting_Printhead_Front.stl</a></li>
+				<li><a href="Stls/5_Printheads/CW2_Mod_Variants/Bambu/Bambu_Adapter.stl">SB_Bambu_Adaptor.stl</a></li>
+				<li><a href="Stls/5_Printheads/CW2_Mod_Variants/Bambu/Bambu_Adapter_M5_Nut.stl">SB_Bambu_Adaptor_M5_Nut.stl</a></li>
 			</ul>
 			</td>
 			<td>Credit: Jakub Kadlec (Facebook)</td>
@@ -203,7 +203,7 @@ Currently ERF is only available for the Stealthburner toolhead with Clockwork 2 
 			<td>CW2</td>
 			<td>
 			<ul>
-				<li><a href="Stls/5_Printheads/CW2 Mod Variants/Mosquito/Slice_Mosquito_Cutting_Printhead_Front_And_Rear.STL">Slice_Mosquito_Cutting_Printhead_Front_And_Rear.stl</a></li>
+				<li><a href="Stls/5_Printheads/CW2_Mod_Variants/Mosquito/Slice_Mosquito_Cutting_Printhead_Front_And_Rear.STL">Slice_Mosquito_Cutting_Printhead_Front_And_Rear.stl</a></li>
 			</ul>
 			</td>
 			<td>Credit: <a href="https://www.printables.com/de/model/614813-filametrix-mod-for-slice-engingeering-mosquito-hot">MakeAUsername_285162</a></td>
@@ -213,8 +213,8 @@ Currently ERF is only available for the Stealthburner toolhead with Clockwork 2 
 			<td>G2E</td>
 			<td>
 			<ul>
-				<li><a href="Stls/5_Printheads/G2E Mod Variants/Rapido_UHF/G2E_SB_Rapido_Rear.STL">G2E_SB_Rapido_Rear.STL</a></li>
-				<li><a href="Stls/5_Printheads/G2E Mod Variants/Rapido_UHF/G2E_SB_Rapido_UHF_Front.STL">G2E_SB_Rapido_UHF_Front.STL</a></li>
+				<li><a href="Stls/5_Printheads/G2E_Mod_Variants/Rapido_UHF/G2E_SB_Rapido_Rear.STL">G2E_SB_Rapido_Rear.STL</a></li>
+				<li><a href="Stls/5_Printheads/G2E_Mod_Variants/Rapido_UHF/G2E_SB_Rapido_UHF_Front.STL">G2E_SB_Rapido_UHF_Front.STL</a></li>
 			</ul>
 			</td>
 			<td>Credit:&nbsp;<a href="https://github.com/IRTrail/G2E-Filametrix">IRTrail</a></td>
@@ -224,8 +224,8 @@ Currently ERF is only available for the Stealthburner toolhead with Clockwork 2 
 			<td>G2E</td>
 			<td>
 			<ul>
-				<li><a href="Stls/5_Printheads/G2E Mod Variants/Rapido_2/G2E_SB_Rapido_2_Rear.STL">G2E_SB_Rapido_2_Rear.STL</a></li>
-				<li><a href="Stls/5_Printheads/G2E Mod Variants/Rapido_2/G2E_SB_Rapido_2_Front.STL">G2E_SB_Rapido_2_Front.STL</a></li>
+				<li><a href="Stls/5_Printheads/G2E_Mod_Variants/Rapido_2/G2E_SB_Rapido_2_Rear.STL">G2E_SB_Rapido_2_Rear.STL</a></li>
+				<li><a href="Stls/5_Printheads/G2E_Mod_Variants/Rapido_2/G2E_SB_Rapido_2_Front.STL">G2E_SB_Rapido_2_Front.STL</a></li>
 			</ul>
 			</td>
 			<td>Credit:&nbsp;<a href="https://github.com/IRTrail/G2E-Filametrix">IRTrail</a></td>
@@ -235,8 +235,8 @@ Currently ERF is only available for the Stealthburner toolhead with Clockwork 2 
 			<td>G2E</td>
 			<td>
 			<ul>
-				<li><a href="Stls/5_Printheads/G2E Mod Variants/Rapido_2_UHF/G2E_SB_Rapido_2_Rear.STL">G2E_SB_Rapido_2_Rear.STL</a></li>
-				<li><a href="Stls/5_Printheads/G2E Mod Variants/Rapido_2_UHF/G2E_SB_Rapido_2_UHF_Front.STL">G2E_SB_Rapido_2_UHF_Front.STL</a></li>
+				<li><a href="Stls/5_Printheads/G2E_Mod_Variants/Rapido_2_UHF/G2E_SB_Rapido_2_Rear.STL">G2E_SB_Rapido_2_Rear.STL</a></li>
+				<li><a href="Stls/5_Printheads/G2E_Mod_Variants/Rapido_2_UHF/G2E_SB_Rapido_2_UHF_Front.STL">G2E_SB_Rapido_2_UHF_Front.STL</a></li>
 			</ul>
 			</td>
 			<td>Credit:&nbsp;<a href="https://github.com/IRTrail/G2E-Filametrix">IRTrail</a></td>
