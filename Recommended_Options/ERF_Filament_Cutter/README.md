@@ -30,51 +30,51 @@ Currently ERF is only available for the Stealthburner toolhead with Clockwork 2 
 			<td rowspan="12" style="vertical-align:middle">Clockwork2 (CW2)</td>
 			<td rowspan="3" style="vertical-align:middle">1_Toolhead_And_Entry_Sensors</td>
 			<td style="text-align:center; vertical-align:middle">
-			<p><a href="Stls/1_Toolhead_And_Entry_Sensors/CW2 Mod/SB_CW2_Body_2 Sensor_HARKPCB.stl">Body</a></p>
+			<p><a href="Stls/1_Toolhead_And_Entry_Sensors/CW2_Mod/SB_CW2_Body_2 Sensor_HARKPCB.stl">Body</a></p>
 			</td>
 			<td rowspan="12" style="vertical-align:middle">Credit: <a href="https://github.com/juliusjj25">juliusjj25</a></td>
 		</tr>
 		<tr>
-			<td style="text-align:center; vertical-align:middle"><a href="Stls/1_Toolhead_And_Entry_Sensors/CW2 Mod/SB_CW2_Motor_Plate.stl">Motor Plate</a></td>
+			<td style="text-align:center; vertical-align:middle"><a href="Stls/1_Toolhead_And_Entry_Sensors/CW2_Mod/SB_CW2_Motor_Plate.stl">Motor Plate</a></td>
 		</tr>
 		<tr>
-			<td style="text-align:center; vertical-align:middle"><a href="Stls/1_Toolhead_And_Entry_Sensors/CW2 Mod/[a]_SB_Latch_ECAS.stl">Latch</a></td>
+			<td style="text-align:center; vertical-align:middle"><a href="Stls/1_Toolhead_And_Entry_Sensors/CW2_Mod/[a]_SB_Latch_ECAS.stl">Latch</a></td>
 		</tr>
 		<tr>
 			<td rowspan="3" style="vertical-align:middle">2_Toolhead_Sensor</td>
 			<td style="text-align:center; vertical-align:middle">
-			<p><a href="Stls/2_Toolhead_Sensor/CW2 Mod/SB_CW2_Body_Toolhead_Sensor_HARTKPCB.stl">Body</a></p>
+			<p><a href="Stls/2_Toolhead_Sensor/CW2_Mod/SB_CW2_Body_Toolhead_Sensor_HARTKPCB.stl">Body</a></p>
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center; vertical-align:middle"><a href="Stls/2_Toolhead_Sensor/CW2 Mod/SB_CW2_Motor_Plate.stl">Motor Plate</a></td>
+			<td style="text-align:center; vertical-align:middle"><a href="Stls/2_Toolhead_Sensor/CW2_Mod/SB_CW2_Motor_Plate.stl">Motor Plate</a></td>
 		</tr>
 		<tr>
-			<td style="text-align:center; vertical-align:middle"><a href="Stls/2_Toolhead_Sensor/CW2 Mod/[a]_SB_Latch_ECAS.stl">Latch</a></td>
+			<td style="text-align:center; vertical-align:middle"><a href="Stls/2_Toolhead_Sensor/CW2_Mod/[a]_SB_Latch_ECAS.stl">Latch</a></td>
 		</tr>
 		<tr>
 			<td rowspan="3" style="vertical-align:middle">3_Entry_Sensor</td>
 			<td style="text-align:center; vertical-align:middle">
-			<p><a href="Stls/3_Entry_Sensor/CW2 Mod/SB_CW2_Body_Entry_Sensor_HARTKPCB.stl">Body</a></p>
+			<p><a href="Stls/3_Entry_Sensor/CW2_Mod/SB_CW2_Body_Entry_Sensor_HARTKPCB.stl">Body</a></p>
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center; vertical-align:middle"><a href="Stls/3_Entry_Sensor/CW2 Mod/SB_CW2_Motor_Plate.stl">Motor Plate</a></td>
+			<td style="text-align:center; vertical-align:middle"><a href="Stls/3_Entry_Sensor/CW2_Mod/SB_CW2_Motor_Plate.stl">Motor Plate</a></td>
 		</tr>
 		<tr>
-			<td style="text-align:center; vertical-align:middle"><a href="Stls/3_Entry_Sensor/CW2 Mod/[a]_SB_Latch_ECAS.stl">Latch</a></td>
+			<td style="text-align:center; vertical-align:middle"><a href="Stls/3_Entry_Sensor/CW2_Mod/[a]_SB_Latch_ECAS.stl">Latch</a></td>
 		</tr>
 		<tr>
 			<td rowspan="3" style="vertical-align:middle">4_No_Sensors</td>
 			<td style="text-align:center; vertical-align:middle">
-			<p><a href="Stls/4_No_Sensors/CW2 Mod/SB_CW2_Body_No sensor_HARKPCB.stl">Body</a></p>
+			<p><a href="Stls/4_No_Sensors/CW2_Mod/SB_CW2_Body_No sensor_HARKPCB.stl">Body</a></p>
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center; vertical-align:middle"><a href="Stls/4_No_Sensors/CW2 Mod/SB_CW2_Motor_Plate.stl">Motor Plate</a></td>
+			<td style="text-align:center; vertical-align:middle"><a href="Stls/4_No_Sensors/CW2_Mod/SB_CW2_Motor_Plate.stl">Motor Plate</a></td>
 		</tr>
 		<tr>
-			<td style="text-align:center; vertical-align:middle"><a href="Stls/4_No_Sensors/CW2 Mod/[a]_SB_Latch_ECAS.stl">Latch</a></td>
+			<td style="text-align:center; vertical-align:middle"><a href="Stls/4_No_Sensors/CW2_Mod/[a]_SB_Latch_ECAS.stl">Latch</a></td>
 		</tr>
 		<tr>
 			<td style="vertical-align:middle">LGX Lite</td>
@@ -85,25 +85,25 @@ Currently ERF is only available for the Stealthburner toolhead with Clockwork 2 
 		<tr>
 			<td colspan="1" rowspan="8" style="vertical-align:middle">Galileo 2 Extruder (G2E)</td>
 			<td rowspan="2" style="vertical-align:middle">1_Toolhead_And_Entry_Sensors</td>
-			<td style="vertical-align: middle; text-align: center;"><a href="Stls/1_Toolhead_And_Entry_Sensors/G2E Mod/G2E_Filametrix_Extruder_Front_2_Sensor_HARTKPCB.stl">Front</a></td>
+			<td style="vertical-align: middle; text-align: center;"><a href="Stls/1_Toolhead_And_Entry_Sensors/G2E_Mod/G2E_Filametrix_Extruder_Front_2_Sensor_HARTKPCB.stl">Front</a></td>
 			<td colspan="1" rowspan="8" style="vertical-align:middle">Credit:&nbsp;<a href="https://github.com/IRTrail/G2E-Filametrix">IRTrail</a></td>
 		</tr>
 		<tr>
-			<td style="vertical-align: middle; text-align: center;"><a href="Stls/1_Toolhead_And_Entry_Sensors/G2E Mod/G2E_Filametrix_Extruder_Rear.stl">Rear</a></td>
+			<td style="vertical-align: middle; text-align: center;"><a href="Stls/1_Toolhead_And_Entry_Sensors/G2E_Mod/G2E_Filametrix_Extruder_Rear.stl">Rear</a></td>
 		</tr>
 		<tr>
 			<td rowspan="2" style="vertical-align:middle">2_Toolhead_Sensor</td>
-			<td style="vertical-align: middle; text-align: center;"><a href="Stls/2_Toolhead_Sensor/G2E Mod/G2E_Filametrix_Extruder_Front_1_Sensor_HARTKPCB.STL">Front</a></td>
+			<td style="vertical-align: middle; text-align: center;"><a href="Stls/2_Toolhead_Sensor/G2E_Mod/G2E_Filametrix_Extruder_Front_1_Sensor_HARTKPCB.STL">Front</a></td>
 		</tr>
 		<tr>
-			<td style="vertical-align: middle; text-align: center;"><a href="Stls/2_Toolhead_Sensor/G2E Mod/G2E_Filametrix_Extruder_Rear.stl">Rear</a></td>
+			<td style="vertical-align: middle; text-align: center;"><a href="Stls/2_Toolhead_Sensor/G2E_Mod/G2E_Filametrix_Extruder_Rear.stl">Rear</a></td>
 		</tr>
 		<tr>
 			<td rowspan="2" style="vertical-align:middle">4_No_Sensors</td>
-			<td style="vertical-align: middle; text-align: center;"><a href="Stls/4_No_Sensors/G2E Mod/G2E_Filametrix_No_Sensor_Front_HARTKPCB.STL">Front</a></td>
+			<td style="vertical-align: middle; text-align: center;"><a href="Stls/4_No_Sensors/G2E_Mod/G2E_Filametrix_No_Sensor_Front_HARTKPCB.STL">Front</a></td>
 		</tr>
 		<tr>
-			<td style="vertical-align: middle; text-align: center;"><a href="Stls/4_No_Sensors/G2E Mod/G2E_Filametrix_Extruder_Rear.stl">Rear</a></td>
+			<td style="vertical-align: middle; text-align: center;"><a href="Stls/4_No_Sensors/G2E_Mod/G2E_Filametrix_Extruder_Rear.stl">Rear</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -133,8 +133,8 @@ Switch to WYSIWYG editor
 			<td>CW2</td>
 			<td>
 			<ul>
-				<li><a href="http://Stls/5_Printheads/CW2 Mod Variants/V6_R6/SB_V6_R6_Cutting_Printhead_Back.stl">SB_V6_R6_Cutting_Printhead_Back.stl</a></li>
-				<li><a href="https://Stls/5_Printheads/CW2 Mod Variants/V6_R6/SB_V6_R6_Cutting_Printhead_Front.stl">SB_V6_R6_Cutting_Printhead_Front.stl</a></li>
+				<li><a href="http://Stls/5_Printheads/CW2_Mod_Variants/V6_R6/SB_V6_R6_Cutting_Printhead_Back.stl">SB_V6_R6_Cutting_Printhead_Back.stl</a></li>
+				<li><a href="https://Stls/5_Printheads/CW2_Mod_Variants/V6_R6/SB_V6_R6_Cutting_Printhead_Front.stl">SB_V6_R6_Cutting_Printhead_Front.stl</a></li>
 			</ul>
 			</td>
 			<td>&nbsp;</td>
@@ -144,8 +144,8 @@ Switch to WYSIWYG editor
 			<td>CW2</td>
 			<td>
 			<ul>
-				<li><a href="http://Recommended_Options/ERF_Filament_Cutter/Stls/5_Printheads/CW2 Mod Variants/Rapido/SB_Rapido_TH_Cutting_Printhead_Rear.stl">SB_Rapido_TH_Cutting_Printhead_Rear.stl</a></li>
-				<li><a href="http://Stls/5_Printheads/CW2 Mod Variants/Rapido/SB_Rapido_TH_Cutting_Printhead_Front.stl">SB_Rapido_TH_Cutting_Printhead_Front.stl</a></li>
+				<li><a href="http://Recommended_Options/ERF_Filament_Cutter/Stls/5_Printheads/CW2_Mod_Variants/Rapido/SB_Rapido_TH_Cutting_Printhead_Rear.stl">SB_Rapido_TH_Cutting_Printhead_Rear.stl</a></li>
+				<li><a href="http://Stls/5_Printheads/CW2_Mod_Variants/Rapido/SB_Rapido_TH_Cutting_Printhead_Front.stl">SB_Rapido_TH_Cutting_Printhead_Front.stl</a></li>
 			</ul>
 			</td>
 			<td>
@@ -156,8 +156,8 @@ Switch to WYSIWYG editor
 			<td>G2E</td>
 			<td>
 			<ul>
-				<li><a href="Stls/5_Printheads/G2E Mod Variants/Rapido/G2E_SB_Rapido_Rear.STL">G2E_SB_Rapido_Rear.STL</a></li>
-				<li><a href="Stls/5_Printheads/G2E Mod Variants/Rapido/G2E_SB_Rapido_Front.STL">G2E_SB_Rapido_Front.STL</a></li>
+				<li><a href="Stls/5_Printheads/G2E_Mod_Variants/Rapido/G2E_SB_Rapido_Rear.STL">G2E_SB_Rapido_Rear.STL</a></li>
+				<li><a href="Stls/5_Printheads/G2E_Mod_Variants/Rapido/G2E_SB_Rapido_Front.STL">G2E_SB_Rapido_Front.STL</a></li>
 			</ul>
 			</td>
 			<td>Credit:&nbsp;<a href="https://github.com/IRTrail/G2E-Filametrix">IRTrail</a></td>
@@ -167,8 +167,8 @@ Switch to WYSIWYG editor
 			<td>CW2</td>
 			<td>
 			<ul>
-				<li><a href="http://Stls/5_Printheads/CW2 Mod Variants/Dragon/SB_Dragon_Cutting_Printhead_Back.stl">SB_Dragon_Cutting_Printhead_Back.stl</a></li>
-				<li><a href="http://Stls/5_Printheads/CW2 Mod Variants/Dragon/SB_Dragon_Cutting_Printhead_Front.stl">SB_Dragon_Cutting_Printhead_Front.stl</a></li>
+				<li><a href="http://Stls/5_Printheads/CW2_Mod_Variants/Dragon/SB_Dragon_Cutting_Printhead_Back.stl">SB_Dragon_Cutting_Printhead_Back.stl</a></li>
+				<li><a href="http://Stls/5_Printheads/CW2_Mod_Variants/Dragon/SB_Dragon_Cutting_Printhead_Front.stl">SB_Dragon_Cutting_Printhead_Front.stl</a></li>
 			</ul>
 			</td>
 			<td>&nbsp;</td>
@@ -177,8 +177,8 @@ Switch to WYSIWYG editor
 			<td>G2E</td>
 			<td>
 			<ul>
-				<li><a href="Stls/5_Printheads/G2E Mod Variants/Dragon/G2E_SB_Dragon_Rear.STL">G2E_SB_Dragon_Rear.STL</a></li>
-				<li><a href="http://Stls/5_Printheads/G2E Mod Variants/Dragon/G2E_SB_Dragon_Front.STL">G2E_SB_Dragon_Front.STL</a></li>
+				<li><a href="Stls/5_Printheads/G2E_Mod_Variants/Dragon/G2E_SB_Dragon_Rear.STL">G2E_SB_Dragon_Rear.STL</a></li>
+				<li><a href="http://Stls/5_Printheads/G2E_Mod_Variants/Dragon/G2E_SB_Dragon_Front.STL">G2E_SB_Dragon_Front.STL</a></li>
 			</ul>
 			</td>
 			<td>Credit:&nbsp;<a href="https://github.com/IRTrail/G2E-Filametrix">IRTrail</a></td>
@@ -188,8 +188,8 @@ Switch to WYSIWYG editor
 			<td>CW2</td>
 			<td>
 			<ul>
-				<li><a href="http://Stls/5_Printheads/CW2 Mod Variants/Revo/SB_Revo_Voron_Cutting_Printhead_Back.stl">SB_Revo_Voron_Cutting_Printhead_Back.stl</a></li>
-				<li><a href="Stls/5_Printheads/CW2 Mod Variants/Revo/SB_Revo_Voron_Cutting_Printhead_Front.stl">SB_Revo_Voron_Cutting_Printhead_Front.stl</a></li>
+				<li><a href="http://Stls/5_Printheads/CW2_Mod_Variants/Revo/SB_Revo_Voron_Cutting_Printhead_Back.stl">SB_Revo_Voron_Cutting_Printhead_Back.stl</a></li>
+				<li><a href="Stls/5_Printheads/CW2_Mod_Variants/Revo/SB_Revo_Voron_Cutting_Printhead_Front.stl">SB_Revo_Voron_Cutting_Printhead_Front.stl</a></li>
 			</ul>
 			</td>
 			<td>Credit: Russell Gower</td>
@@ -199,10 +199,10 @@ Switch to WYSIWYG editor
 			<td>CW2</td>
 			<td>
 			<ul>
-				<li><a href="Stls/5_Printheads/CW2 Mod Variants/Bambu/SB_Bambu_Cutting_Printhead_Back.stl">SB_Bambu_Cutting_Printhead_Back.stl</a></li>
-				<li><a href="Stls/5_Printheads/CW2 Mod Variants/Bambu/SB_Bambu_Cutting_Printhead_Front.stl">SB_Bambu_Cutting_Printhead_Front.stl</a></li>
-				<li><a href="http://Stls/5_Printheads/CW2 Mod Variants/Bambu/Bambu_Adapter.stl">SB_Bambu_Adaptor.stl</a></li>
-				<li><a href="http://Stls/5_Printheads/CW2 Mod Variants/Bambu/Bambu_Adapter_M5_Nut.stl">SB_Bambu_Adaptor_M5_Nut.stl</a></li>
+				<li><a href="Stls/5_Printheads/CW2_Mod_Variants/Bambu/SB_Bambu_Cutting_Printhead_Back.stl">SB_Bambu_Cutting_Printhead_Back.stl</a></li>
+				<li><a href="Stls/5_Printheads/CW2_Mod_Variants/Bambu/SB_Bambu_Cutting_Printhead_Front.stl">SB_Bambu_Cutting_Printhead_Front.stl</a></li>
+				<li><a href="http://Stls/5_Printheads/CW2_Mod_Variants/Bambu/Bambu_Adapter.stl">SB_Bambu_Adaptor.stl</a></li>
+				<li><a href="http://Stls/5_Printheads/CW2_Mod_Variants/Bambu/Bambu_Adapter_M5_Nut.stl">SB_Bambu_Adaptor_M5_Nut.stl</a></li>
 			</ul>
 			</td>
 			<td>Credit: Jakub Kadlec (Facebook)</td>
@@ -212,7 +212,7 @@ Switch to WYSIWYG editor
 			<td>CW2</td>
 			<td>
 			<ul>
-				<li><a href="http://Stls/5_Printheads/CW2 Mod Variants/Mosquito/Slice_Mosquito_Cutting_Printhead_Front_And_Rear.STL">Slice_Mosquito_Cutting_Printhead_Front_And_Rear.stl</a></li>
+				<li><a href="http://Stls/5_Printheads/CW2_Mod_Variants/Mosquito/Slice_Mosquito_Cutting_Printhead_Front_And_Rear.STL">Slice_Mosquito_Cutting_Printhead_Front_And_Rear.stl</a></li>
 			</ul>
 			</td>
 			<td>Credit: <a href="https://www.printables.com/de/model/614813-filametrix-mod-for-slice-engingeering-mosquito-hot">MakeAUsername_285162</a></td>
@@ -222,8 +222,8 @@ Switch to WYSIWYG editor
 			<td>G2E</td>
 			<td>
 			<ul>
-				<li><a href="http://Stls/5_Printheads/G2E Mod Variants/Rapido_UHF/G2E_SB_Rapido_Rear.STL">G2E_SB_Rapido_Rear.STL</a></li>
-				<li><a href="http://Stls/5_Printheads/G2E Mod Variants/Rapido_UHF/G2E_SB_Rapido_UHF_Front.STL">G2E_SB_Rapido_UHF_Front.STL</a></li>
+				<li><a href="http://Stls/5_Printheads/G2E_Mod_Variants/Rapido_UHF/G2E_SB_Rapido_Rear.STL">G2E_SB_Rapido_Rear.STL</a></li>
+				<li><a href="http://Stls/5_Printheads/G2E_Mod_Variants/Rapido_UHF/G2E_SB_Rapido_UHF_Front.STL">G2E_SB_Rapido_UHF_Front.STL</a></li>
 			</ul>
 			</td>
 			<td>Credit:&nbsp;<a href="https://github.com/IRTrail/G2E-Filametrix">IRTrail</a></td>
@@ -233,8 +233,8 @@ Switch to WYSIWYG editor
 			<td>G2E</td>
 			<td>
 			<ul>
-				<li><a href="http://Stls/5_Printheads/G2E Mod Variants/Rapido_2/G2E_SB_Rapido_2_Rear.STL">G2E_SB_Rapido_2_Rear.STL</a></li>
-				<li><a href="http://Stls/5_Printheads/G2E Mod Variants/Rapido_2/G2E_SB_Rapido_2_Front.STL">G2E_SB_Rapido_2_Front.STL</a></li>
+				<li><a href="http://Stls/5_Printheads/G2E_Mod_Variants/Rapido_2/G2E_SB_Rapido_2_Rear.STL">G2E_SB_Rapido_2_Rear.STL</a></li>
+				<li><a href="http://Stls/5_Printheads/G2E_Mod_Variants/Rapido_2/G2E_SB_Rapido_2_Front.STL">G2E_SB_Rapido_2_Front.STL</a></li>
 			</ul>
 			</td>
 			<td>Credit:&nbsp;<a href="https://github.com/IRTrail/G2E-Filametrix">IRTrail</a></td>
@@ -244,8 +244,8 @@ Switch to WYSIWYG editor
 			<td>G2E</td>
 			<td>
 			<ul>
-				<li><a href="http://Stls/5_Printheads/G2E Mod Variants/Rapido_2_UHF/G2E_SB_Rapido_2_Rear.STL">G2E_SB_Rapido_2_Rear.STL</a></li>
-				<li><a href="http://Stls/5_Printheads/G2E Mod Variants/Rapido_2_UHF/G2E_SB_Rapido_2_UHF_Front.STL">G2E_SB_Rapido_2_UHF_Front.STL</a></li>
+				<li><a href="http://Stls/5_Printheads/G2E_Mod_Variants/Rapido_2_UHF/G2E_SB_Rapido_2_Rear.STL">G2E_SB_Rapido_2_Rear.STL</a></li>
+				<li><a href="http://Stls/5_Printheads/G2E_Mod_Variants/Rapido_2_UHF/G2E_SB_Rapido_2_UHF_Front.STL">G2E_SB_Rapido_2_UHF_Front.STL</a></li>
 			</ul>
 			</td>
 			<td>Credit:&nbsp;<a href="https://github.com/IRTrail/G2E-Filametrix">IRTrail</a></td>
@@ -279,9 +279,9 @@ Switch to WYSIWYG editor
 13
             <ul>
 14
-                <li><a href="Stls/5_Printheads/CW2 Mod Variants/V6_R6/SB_V6_R6_Cutting_Printhead_Back.stl">SB_V6_R6_Cutting_Printhead_Back.stl</a></li>
+                <li><a href="Stls/5_Printheads/CW2_Mod_Variants/V6_R6/SB_V6_R6_Cutting_Printhead_Back.stl">SB_V6_R6_Cutting_Printhead_Back.stl</a></li>
 15
-                <li><a href="Stls/5_Printheads/CW2 Mod Variants/V6_R6/SB_V6_R6_Cutting_Printhead_Front.stl">SB_V6_R6_Cutting_Printhead_Front.stl</a></li>
+                <li><a href="Stls/5_Printheads/CW2_Mod_Variants/V6_R6/SB_V6_R6_Cutting_Printhead_Front.stl">SB_V6_R6_Cutting_Printhead_Front.stl</a></li>
 16
             </ul>
 17
@@ -301,9 +301,9 @@ Switch to WYSIWYG editor
 24
             <ul>
 25
-                <li><a href="http://Recommended_Options/ERF_Filament_Cutter/Stls/5_Printheads/CW2 Mod Variants/Rapido/SB_Rapido_TH_Cutting_Printhead_Rear.stl">SB_Rapido_TH_Cutting_Printhead_Rear.stl</a></li>
+                <li><a href="http://Recommended_Options/ERF_Filament_Cutter/Stls/5_Printheads/CW2_Mod_Variants/Rapido/SB_Rapido_TH_Cutting_Printhead_Rear.stl">SB_Rapido_TH_Cutting_Printhead_Rear.stl</a></li>
 26
-                <li><a href="http://Stls/5_Printheads/CW2 Mod Variants/Rapido/SB_Rapido_TH_Cutting_Printhead_Front.stl">SB_Rapido_TH_Cutting_Printhead_Front.stl</a></li>
+                <li><a href="http://Stls/5_Printheads/CW2_Mod Variants/Rapido/SB_Rapido_TH_Cutting_Printhead_Front.stl">SB_Rapido_TH_Cutting_Printhead_Front.stl</a></li>
 27
             </ul>
 28
