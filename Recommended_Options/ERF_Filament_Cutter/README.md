@@ -43,7 +43,7 @@ Currently ERF is only available for the Stealthburner toolhead with Clockwork 2 
 		<tr>
 			<td rowspan="3" style="vertical-align:middle">2_Toolhead_Sensor</td>
 			<td style="text-align:center; vertical-align:middle">
-			<p><a href="Stls/2_Toolhead_Sensor/CW2 Mod/SB_CW2_Body_Toolhead Sensor_HARTKPCB.stl">Body</a></p>
+			<p><a href="Stls/2_Toolhead_Sensor/CW2 Mod/SB_CW2_Body_Toolhead_Sensor_HARTKPCB.stl">Body</a></p>
 			</td>
 		</tr>
 		<tr>
