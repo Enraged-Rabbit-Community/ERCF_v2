@@ -79,7 +79,7 @@ Currently ERF is only available for the Stealthburner toolhead with Clockwork 2 
 		<tr>
 			<td style="vertical-align:middle">LGX Lite</td>
 			<td style="vertical-align:middle">4_No_Sensors</td>
-			<td style="text-align:center; vertical-align:middle"><a href="Stls/4_No_Sensors/LGX Lite Mod/SB_LGX Lite_Body.stl">Body</a></td>
+			<td style="text-align:center; vertical-align:middle"><a href="Stls/4_No_Sensors/LGX_Lite_Mod/SB_LGX Lite_Body.stl">Body</a></td>
 			<td style="vertical-align:middle">Credit: <a href="https://www.printables.com/de/model/576122-lgx-lite-stealthburner-filament-cutter">tommorox234</a></td>
 		</tr>
 		<tr>
