@@ -111,15 +111,6 @@ Currently ERF is only available for the Stealthburner toolhead with Clockwork 2 
 
 ### Supported Hotends for StealthBurner
 
-COOKIE SETTINGS
-Online HTML Editor
-powered by CKEditor
-
-Online HTML editor user guideReal-time collaboration editor user guide
-Online HTML Editor
-Real-time collaboration editor
-
-Switch to WYSIWYG editor
 <table>
 	<tbody>
 		<tr>
@@ -133,8 +124,8 @@ Switch to WYSIWYG editor
 			<td>CW2</td>
 			<td>
 			<ul>
-				<li><a href="http://Stls/5_Printheads/CW2_Mod_Variants/V6_R6/SB_V6_R6_Cutting_Printhead_Back.stl">SB_V6_R6_Cutting_Printhead_Back.stl</a></li>
-				<li><a href="https://Stls/5_Printheads/CW2_Mod_Variants/V6_R6/SB_V6_R6_Cutting_Printhead_Front.stl">SB_V6_R6_Cutting_Printhead_Front.stl</a></li>
+				<li><a href="Recommended_Options/ERF_Filament_Cutter/Stls/5_Printheads/CW2_Mod_Variants/V6_R6/SB_V6_R6_Cutting_Printhead_Back.stl">SB_V6_R6_Cutting_Printhead_Back.stl</a></li>
+				<li><a href="Recommended_Options/ERF_Filament_Cutter/Stls/5_Printheads/CW2_Mod_Variants/V6_R6/SB_V6_R6_Cutting_Printhead_Front.stl">SB_V6_R6_Cutting_Printhead_Front.stl</a></li>
 			</ul>
 			</td>
 			<td>&nbsp;</td>
@@ -144,8 +135,8 @@ Switch to WYSIWYG editor
 			<td>CW2</td>
 			<td>
 			<ul>
-				<li><a href="http://Recommended_Options/ERF_Filament_Cutter/Stls/5_Printheads/CW2_Mod_Variants/Rapido/SB_Rapido_TH_Cutting_Printhead_Rear.stl">SB_Rapido_TH_Cutting_Printhead_Rear.stl</a></li>
-				<li><a href="http://Stls/5_Printheads/CW2_Mod_Variants/Rapido/SB_Rapido_TH_Cutting_Printhead_Front.stl">SB_Rapido_TH_Cutting_Printhead_Front.stl</a></li>
+				<li><a href="http://Recommended_Options/ERF_Filament_Cutter/Stls/5_Printheads/CW2 Mod Variants/Rapido/SB_Rapido_TH_Cutting_Printhead_Rear.stl">SB_Rapido_TH_Cutting_Printhead_Rear.stl</a></li>
+				<li><a href="http://Stls/5_Printheads/CW2 Mod Variants/Rapido/SB_Rapido_TH_Cutting_Printhead_Front.stl">SB_Rapido_TH_Cutting_Printhead_Front.stl</a></li>
 			</ul>
 			</td>
 			<td>
@@ -156,8 +147,8 @@ Switch to WYSIWYG editor
 			<td>G2E</td>
 			<td>
 			<ul>
-				<li><a href="Stls/5_Printheads/G2E_Mod_Variants/Rapido/G2E_SB_Rapido_Rear.STL">G2E_SB_Rapido_Rear.STL</a></li>
-				<li><a href="Stls/5_Printheads/G2E_Mod_Variants/Rapido/G2E_SB_Rapido_Front.STL">G2E_SB_Rapido_Front.STL</a></li>
+				<li><a href="Stls/5_Printheads/G2E Mod Variants/Rapido/G2E_SB_Rapido_Rear.STL">G2E_SB_Rapido_Rear.STL</a></li>
+				<li><a href="Stls/5_Printheads/G2E Mod Variants/Rapido/G2E_SB_Rapido_Front.STL">G2E_SB_Rapido_Front.STL</a></li>
 			</ul>
 			</td>
 			<td>Credit:&nbsp;<a href="https://github.com/IRTrail/G2E-Filametrix">IRTrail</a></td>
@@ -167,8 +158,8 @@ Switch to WYSIWYG editor
 			<td>CW2</td>
 			<td>
 			<ul>
-				<li><a href="http://Stls/5_Printheads/CW2_Mod_Variants/Dragon/SB_Dragon_Cutting_Printhead_Back.stl">SB_Dragon_Cutting_Printhead_Back.stl</a></li>
-				<li><a href="http://Stls/5_Printheads/CW2_Mod_Variants/Dragon/SB_Dragon_Cutting_Printhead_Front.stl">SB_Dragon_Cutting_Printhead_Front.stl</a></li>
+				<li><a href="http://Stls/5_Printheads/CW2 Mod Variants/Dragon/SB_Dragon_Cutting_Printhead_Back.stl">SB_Dragon_Cutting_Printhead_Back.stl</a></li>
+				<li><a href="http://Stls/5_Printheads/CW2 Mod Variants/Dragon/SB_Dragon_Cutting_Printhead_Front.stl">SB_Dragon_Cutting_Printhead_Front.stl</a></li>
 			</ul>
 			</td>
 			<td>&nbsp;</td>
@@ -177,8 +168,8 @@ Switch to WYSIWYG editor
 			<td>G2E</td>
 			<td>
 			<ul>
-				<li><a href="Stls/5_Printheads/G2E_Mod_Variants/Dragon/G2E_SB_Dragon_Rear.STL">G2E_SB_Dragon_Rear.STL</a></li>
-				<li><a href="http://Stls/5_Printheads/G2E_Mod_Variants/Dragon/G2E_SB_Dragon_Front.STL">G2E_SB_Dragon_Front.STL</a></li>
+				<li><a href="Stls/5_Printheads/G2E Mod Variants/Dragon/G2E_SB_Dragon_Rear.STL">G2E_SB_Dragon_Rear.STL</a></li>
+				<li><a href="http://Stls/5_Printheads/G2E Mod Variants/Dragon/G2E_SB_Dragon_Front.STL">G2E_SB_Dragon_Front.STL</a></li>
 			</ul>
 			</td>
 			<td>Credit:&nbsp;<a href="https://github.com/IRTrail/G2E-Filametrix">IRTrail</a></td>
@@ -188,8 +179,8 @@ Switch to WYSIWYG editor
 			<td>CW2</td>
 			<td>
 			<ul>
-				<li><a href="http://Stls/5_Printheads/CW2_Mod_Variants/Revo/SB_Revo_Voron_Cutting_Printhead_Back.stl">SB_Revo_Voron_Cutting_Printhead_Back.stl</a></li>
-				<li><a href="Stls/5_Printheads/CW2_Mod_Variants/Revo/SB_Revo_Voron_Cutting_Printhead_Front.stl">SB_Revo_Voron_Cutting_Printhead_Front.stl</a></li>
+				<li><a href="http://Stls/5_Printheads/CW2 Mod Variants/Revo/SB_Revo_Voron_Cutting_Printhead_Back.stl">SB_Revo_Voron_Cutting_Printhead_Back.stl</a></li>
+				<li><a href="Stls/5_Printheads/CW2 Mod Variants/Revo/SB_Revo_Voron_Cutting_Printhead_Front.stl">SB_Revo_Voron_Cutting_Printhead_Front.stl</a></li>
 			</ul>
 			</td>
 			<td>Credit: Russell Gower</td>
@@ -199,10 +190,10 @@ Switch to WYSIWYG editor
 			<td>CW2</td>
 			<td>
 			<ul>
-				<li><a href="Stls/5_Printheads/CW2_Mod_Variants/Bambu/SB_Bambu_Cutting_Printhead_Back.stl">SB_Bambu_Cutting_Printhead_Back.stl</a></li>
-				<li><a href="Stls/5_Printheads/CW2_Mod_Variants/Bambu/SB_Bambu_Cutting_Printhead_Front.stl">SB_Bambu_Cutting_Printhead_Front.stl</a></li>
-				<li><a href="http://Stls/5_Printheads/CW2_Mod_Variants/Bambu/Bambu_Adapter.stl">SB_Bambu_Adaptor.stl</a></li>
-				<li><a href="http://Stls/5_Printheads/CW2_Mod_Variants/Bambu/Bambu_Adapter_M5_Nut.stl">SB_Bambu_Adaptor_M5_Nut.stl</a></li>
+				<li><a href="Stls/5_Printheads/CW2 Mod Variants/Bambu/SB_Bambu_Cutting_Printhead_Back.stl">SB_Bambu_Cutting_Printhead_Back.stl</a></li>
+				<li><a href="Stls/5_Printheads/CW2 Mod Variants/Bambu/SB_Bambu_Cutting_Printhead_Front.stl">SB_Bambu_Cutting_Printhead_Front.stl</a></li>
+				<li><a href="http://Stls/5_Printheads/CW2 Mod Variants/Bambu/Bambu_Adapter.stl">SB_Bambu_Adaptor.stl</a></li>
+				<li><a href="http://Stls/5_Printheads/CW2 Mod Variants/Bambu/Bambu_Adapter_M5_Nut.stl">SB_Bambu_Adaptor_M5_Nut.stl</a></li>
 			</ul>
 			</td>
 			<td>Credit: Jakub Kadlec (Facebook)</td>
@@ -212,7 +203,7 @@ Switch to WYSIWYG editor
 			<td>CW2</td>
 			<td>
 			<ul>
-				<li><a href="http://Stls/5_Printheads/CW2_Mod_Variants/Mosquito/Slice_Mosquito_Cutting_Printhead_Front_And_Rear.STL">Slice_Mosquito_Cutting_Printhead_Front_And_Rear.stl</a></li>
+				<li><a href="http://Stls/5_Printheads/CW2 Mod Variants/Mosquito/Slice_Mosquito_Cutting_Printhead_Front_And_Rear.STL">Slice_Mosquito_Cutting_Printhead_Front_And_Rear.stl</a></li>
 			</ul>
 			</td>
 			<td>Credit: <a href="https://www.printables.com/de/model/614813-filametrix-mod-for-slice-engingeering-mosquito-hot">MakeAUsername_285162</a></td>
@@ -222,8 +213,8 @@ Switch to WYSIWYG editor
 			<td>G2E</td>
 			<td>
 			<ul>
-				<li><a href="http://Stls/5_Printheads/G2E_Mod_Variants/Rapido_UHF/G2E_SB_Rapido_Rear.STL">G2E_SB_Rapido_Rear.STL</a></li>
-				<li><a href="http://Stls/5_Printheads/G2E_Mod_Variants/Rapido_UHF/G2E_SB_Rapido_UHF_Front.STL">G2E_SB_Rapido_UHF_Front.STL</a></li>
+				<li><a href="http://Stls/5_Printheads/G2E Mod Variants/Rapido_UHF/G2E_SB_Rapido_Rear.STL">G2E_SB_Rapido_Rear.STL</a></li>
+				<li><a href="http://Stls/5_Printheads/G2E Mod Variants/Rapido_UHF/G2E_SB_Rapido_UHF_Front.STL">G2E_SB_Rapido_UHF_Front.STL</a></li>
 			</ul>
 			</td>
 			<td>Credit:&nbsp;<a href="https://github.com/IRTrail/G2E-Filametrix">IRTrail</a></td>
@@ -233,8 +224,8 @@ Switch to WYSIWYG editor
 			<td>G2E</td>
 			<td>
 			<ul>
-				<li><a href="http://Stls/5_Printheads/G2E_Mod_Variants/Rapido_2/G2E_SB_Rapido_2_Rear.STL">G2E_SB_Rapido_2_Rear.STL</a></li>
-				<li><a href="http://Stls/5_Printheads/G2E_Mod_Variants/Rapido_2/G2E_SB_Rapido_2_Front.STL">G2E_SB_Rapido_2_Front.STL</a></li>
+				<li><a href="http://Stls/5_Printheads/G2E Mod Variants/Rapido_2/G2E_SB_Rapido_2_Rear.STL">G2E_SB_Rapido_2_Rear.STL</a></li>
+				<li><a href="http://Stls/5_Printheads/G2E Mod Variants/Rapido_2/G2E_SB_Rapido_2_Front.STL">G2E_SB_Rapido_2_Front.STL</a></li>
 			</ul>
 			</td>
 			<td>Credit:&nbsp;<a href="https://github.com/IRTrail/G2E-Filametrix">IRTrail</a></td>
@@ -244,178 +235,14 @@ Switch to WYSIWYG editor
 			<td>G2E</td>
 			<td>
 			<ul>
-				<li><a href="http://Stls/5_Printheads/G2E_Mod_Variants/Rapido_2_UHF/G2E_SB_Rapido_2_Rear.STL">G2E_SB_Rapido_2_Rear.STL</a></li>
-				<li><a href="http://Stls/5_Printheads/G2E_Mod_Variants/Rapido_2_UHF/G2E_SB_Rapido_2_UHF_Front.STL">G2E_SB_Rapido_2_UHF_Front.STL</a></li>
+				<li><a href="http://Stls/5_Printheads/G2E Mod Variants/Rapido_2_UHF/G2E_SB_Rapido_2_Rear.STL">G2E_SB_Rapido_2_Rear.STL</a></li>
+				<li><a href="http://Stls/5_Printheads/G2E Mod Variants/Rapido_2_UHF/G2E_SB_Rapido_2_UHF_Front.STL">G2E_SB_Rapido_2_UHF_Front.STL</a></li>
 			</ul>
 			</td>
 			<td>Credit:&nbsp;<a href="https://github.com/IRTrail/G2E-Filametrix">IRTrail</a></td>
 		</tr>
 	</tbody>
 </table>
-1
-<table>
-2
-    <tbody>
-3
-        <tr>
-4
-            <th>Hotend</th>
-5
-            <th>Extruder</th>
-6
-            <th>STLs</th>
-7
-            <th>Credit</th>
-8
-        </tr>
-9
-        <tr>
-10
-            <td>V6-R6</td>
-11
-            <td>CW2</td>
-12
-            <td>
-13
-            <ul>
-14
-                <li><a href="Stls/5_Printheads/CW2_Mod_Variants/V6_R6/SB_V6_R6_Cutting_Printhead_Back.stl">SB_V6_R6_Cutting_Printhead_Back.stl</a></li>
-15
-                <li><a href="Stls/5_Printheads/CW2_Mod_Variants/V6_R6/SB_V6_R6_Cutting_Printhead_Front.stl">SB_V6_R6_Cutting_Printhead_Front.stl</a></li>
-16
-            </ul>
-17
-            </td>
-18
-            <td>&nbsp;</td>
-19
-        </tr>
-20
-        <tr>
-21
-            <td rowspan="2">Rapido</td>
-22
-            <td>CW2</td>
-23
-            <td>
-24
-            <ul>
-25
-                <li><a href="http://Recommended_Options/ERF_Filament_Cutter/Stls/5_Printheads/CW2_Mod_Variants/Rapido/SB_Rapido_TH_Cutting_Printhead_Rear.stl">SB_Rapido_TH_Cutting_Printhead_Rear.stl</a></li>
-26
-                <li><a href="http://Stls/5_Printheads/CW2_Mod Variants/Rapido/SB_Rapido_TH_Cutting_Printhead_Front.stl">SB_Rapido_TH_Cutting_Printhead_Front.stl</a></li>
-27
-            </ul>
-28
-            </td>
-29
-            <td>
-30
-            <p>Credit: <a href="https://github.com/juliusjj25">juliusjj25</a></p>
-31
-            </td>
-32
-        </tr>
-33
-        <tr>
-34
-            <td>G2E</td>
-35
-            <td>
-Clean HTML output on the go
-Here are the 2 different WYSIWYG HTML editors available on this website:
-
-• CKEditor 4 with direct access to edit HTML markup
-
-• CKEditor 5 with real-time collaboration and Markdown support.
-
-With both editors, you can create clean HTML output with the easiest WYSIWYG editing possible. If you've already started writing rich-text content, all you have to do is paste it in onlinehtmleditor.dev, make your adjustments, extract HTML output from view-source mode and reuse it anywhere on the web!
-
-More on CKEditor 5
-
-More on CKEditor 4
-
-Easy HTML editing
-CKEditor 4's HTML source code editing feature allows it to be used as an online HTML editor. It includes syntax highlighting to make it easier for you to follow code. It can be forced to accept any type of code includingtags by simply turning off the HTML filtering. You can also switch to WYSIWYG mode anytime to check how your code output looks!
-
-Clean your HTML code
-For situations where you would like to clean and fix up invalid HTML, you can use CKEditor 4's source code editing feature as well. After switching to source code mode, all you have to do is to paste in your HTML and CKEditor 4 will automatically fix it. You can again switch back and forth to WYSIWYG mode anytime to edit content more easily.
-
-Convert Word document and Google Docs to HTML
-CKEditor 4 and CKEditor 5 have excellent copy-paste with constant improvements. Whether you are copy-pasting from Google Docs, Word, Excel or LibreOffice, CKEditor will get you your exact content. This makes it better than any ordinary tool to turn your existing Word and Google Docs and LibreOffice documents to HTML. Simple as, paste your content, and click source code mode to see the HTML output.
-
-
-
-Collaborative writing
-If you're looking for an alternative to Google Docs real-time collaboration, but you also need HTML output, CKEditor 5 is a go! You can use it to comment on selected parts of the content, text, images, tables or suggest edits with its track changes feature.
-
-To collaborate with your colleagues or friends all you have to do is to share the link. Each time you load the page, a special document ID gets attached to the URL. Each document ID and its content stays active for an hour after the last user disconnects from it so you do not immediately lose your content. Also, there isn't a limit for the number of collaborators!
-
-Collaboration makes it easier to create your content quickly and efficiently. With CKEditor 5, where you write, comment, discuss and proofread the content are unified so you don't lose time switching between applications to edit and discuss. If some of your collaborators prefer Markdown, CKEditor 5 has you covered there too!
-
-Learn about CKEditor 5 collaboration features
-
-Why CKEditor?
-WYSIWYG editors in your software often misbehave. This is usually because they are out-of-date or simply are not reliable. Unfortunately, many developers opt for simple, lightweight, do-it-yourself-editors based on assumptions without doing proper research or testing for their individual use case. This leaves the end users frustrated.
-
-However, both CKEditors are built with 16 years of experience in WYSIWYG rich-text editing by a team of 40+ developers. We consistently listen to user concerns, trends, new feature requests to help us build our editors. Architectures that can handle complex structures and the constant improvements makes the editors stronger than any other examples.
-
-The best WYSIWYG Online HTML editor around
-What sets CKEditor apart from other online HTML tools is its originality! There are many websites and articles that include lists of best online HTML editors. What these listicles won't tell you is that although they have different names, many of the mentioned tools are simple implementations of CKEditor!
-
-Now you've found the original online HTML editor! Whether you are looking for a quick online solution or to implement the editor in your own software, CKEditor will always provide you the latest and greatest WYSIWYG features. But if you are looking for some guidance on deciding which editor is the best for you, we can also help with that!
-
-How to choose the perfect editor
-
-Online HTML editor features
-This section presents a whole variety of features that CKEditor has to offer
-Styling and Formatting
-The Basic Styles plugin provides the ability to add some basic text formatting to your document. It adds the Bold, Italic, Underline, Strikethrough, Subscript and Superscript toolbar buttons that apply these styles. If you want to quickly remove basic styles from your document, use the Remove Format button provided by the Remove Format plugin.
-
-Copy Formatting
-The optional Copy Formatting plugin provides the ability to easily copy text formatting from one place in the document and apply it to another. To copy styles, place your cursor inside the text (or select a styled document fragment) and press the button or use the Ctrl+Shift+C keyboard shortcut.
-
-Removing Text Formatting
-The Remove Format plugin provides the ability to quickly remove any text formatting that is applied through inline HTML elements and CSS styles, like basic text styles (bold, italic, etc.), font family and size, text and background colors or styles applied through the Styles drop-down. Note that it does not change text formats applied at block level..
-
-Autoformatting
-The Autoformat feature in CKEditor 5 allows you to quickly apply formatting to the content you are writing. While it can be customized, by default it can be used as an Markdown alternative. For example you bold by typing **text** or __text__ , create bulleted lists with * or -, create headings with #, ## or ###.
-
-Block-Level Text Formats
-The Format plugin provides the ability to add block-level text formatting to your document. It introduces the Paragraph Format toolbar button that applies these text formats. The formats work on block level which means that you do not need to select any text in order to apply them and entire blocks will be affected by your choice.
-
-Tables
-This plugin adds the Table Properties dialog window with support for creating tables and setting basic table properties, such as: number of rows and columns, table width and height, cell padding and spacing, table headers setting, table border size, table alignment on the page and table caption and summary.
-
-Inserting Images
-The default Image plugin supports inserting images into the editor content. This plugin supports left and right alignment. It also allows setting image border as well as pixel-perfect alignment (by setting the horizontal and vertical whitespace). Links can be added to an image easily from the Image Properties dialog. A file manager such as CKFinder can be integrated for image upload and storage support.
-
-Pasting Content from LibreOffice
-The Paste from LibreOffice plugin allows you to paste content from LibreOffice Writer and maintain original content structure and formatting.
-
-Pasting Content from Google Docs
-The Paste from Google Docs plugin allows you to paste content from Google Docs and maintain original content structure and formatting.
-
-Pasting Content from Microsoft Excel
-The Paste from Word plugin allows you to also paste content from Microsoft Excel and maintain original content structure and formatting.
-
-Pasting Content from Microsoft Word
-The Paste from Word plugin allows you to paste content from Microsoft Word and maintain original content structure and formatting. It automatically detects Word content and transforms its structure and formatting to clean HTML.
-
-Source Code Editing
-CKEditor 4 is a WYSIWYG editor, so it makes it easy for end users to work on HTML content without any knowledge of HTML whatsoever. More advanced users, however, sometimes want to access raw HTML source code for their content and CKEditor makes it possible by providing the Source Editing feature.
-
-Code Snippets
-This plugin allows you to insert rich code fragments and see a live preview with highlighted syntax. Its original implementation uses the highlight.js library, but the plugin exposes a convenient interface for hooking any other library, even a server-side one.
-
-Embedding Media Resources
-The Media Embed plugin allow to embed resources (videos, images, tweets, etc.) hosted by other services (like e.g. YouTube, Vimeo, Twitter) in the editor.
-
-Spellcheck on the go
-The SpellCheckAsYouType (SCAYT) plugin provides inline spelling and grammar checking, much like the native browser spell checker, well-integrated with the CKEditor 4 context menu. It uses the WebSpellChecker web services.
-
-Online HTML WYSIWYG Editor © 2024 - all rights reserved.Terms of usePrivacy PolicyCookies policy
-
 
 
 </details>
