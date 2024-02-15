@@ -3,7 +3,7 @@
   <tr>
     <td width=30%><img src="Assets/Filametrix_Logo.png" alt='ER Filametrix'></td>
     <td>
-      This options adds a lightweight filament cutting capability to the Voron Stealthburner CW2 toolhead for perfect filament tips without having to tune the traditional tip forming process. Thanks to contributors it supports a number of different hotends. This can lead to much greater reliability of your MMU.  We hope over time to offer support for additional toolheads.
+      This options adds a lightweight filament cutting capability to the Voron Stealthburner CW2 and G2E (Galileo 2 Extruder) toolhead for perfect filament tips without having to tune the traditional tip forming process. Thanks to contributors it supports a number of different hotends. This can lead to much greater reliability of your MMU.  We hope over time to offer support for additional toolheads.
     </td>
   </tr>
 </table>
@@ -15,7 +15,7 @@
 ![image](Assets/ERF2.png)
 
 ## Toolheads
-Currently ERF is only available for the Stealthburner toolhead. We hope to offer other options in the future. When choosing toolhead sensors "types" refer to the explanation of options [here](/Recommended_Options/Toolhead_Modifications/README.md#possible-options-explained).
+Currently ERF is only available for the Stealthburner toolhead with Clockwork 2 (CW2) or Galileo 2 Extruder (G2E). We hope to offer other options in the future. When choosing toolhead sensors "types" refer to the explanation of options [here](/Recommended_Options/Toolhead_Modifications/README.md#possible-options-explained).
 
 ### Supported Extruders for StealthBurner and Sensor Options
 <table>
@@ -265,14 +265,22 @@ Filametrix [in action](https://www.youtube.com/watch?v=tfMZWQRqtvY)
 
 ## What you need
 ### Print list
-#### Toolhead
-- 1x SB (hotend name) Cutting Printhead Back
-- 1x SB (hotend name) Cutting Printhead Front
-- 1x SB Main body Cutting with ECAS (with selected sensors)
-- 1x SB motor plate (as Stealthburner has seen a small update the newest plate does not fit anymore. So please use the one from this git)
-- 1x SB Latch ECAS
-- 1x Cutting Arm
-- 1x Knife Holder
+#### CW2 Extruder
+- 1x CW2 (hotend name) Cutting Printhead Back
+- 1x CW2 (hotend name) Cutting Printhead Front
+- 1x CW2 Main body Cutting with ECAS (with selected sensors)
+- 1x CW2 motor plate (as Stealthburner has seen a small update the newest plate does not fit anymore. So please use the one from this git)
+- 1x CW2 Latch ECAS
+- 1x CW2 Cutting Arm ([a]_SB_Cutting_Arm.stl)
+- 1x Knife Holder ([a]_ALL_Knife_Holder.stl)
+
+#### G2E Extruder
+- 1x G2E (hotend name) Cutting Printhead Back
+- 1x G2E (hotend name) Cutting Printhead Front
+- 1x G2E Front with ECAS (with selected sensors)
+- 1x G2E Rear
+- 1X G2E Cutting Arm ([a]_G2E_Cutting_Arm.stl)
+- 1x Knife Holder ([a]_ALL_Knife_Holder.stl)
 
 #### Cutting point on gantry
 - 1x Depressor Mount
@@ -281,7 +289,7 @@ Filametrix [in action](https://www.youtube.com/watch?v=tfMZWQRqtvY)
 #### Cutting point on gantry with servo
 - tbd...
 
-### Parts list - considering you already have a Stealthburner with Dragon Hotend
+### Parts list - considering you already have a Stealthburner CW2 with Dragon Hotend
 
 #### Toolhead: 
 - Loctite
@@ -373,7 +381,7 @@ Make sure `toolhead_extruder_to_nozzle` and `toolhead_sensor_to_nozzle` are set 
 > Make sure you turn off tip forming or any extruder movements in your slicer - the slicer must not take any part in the filament swap. It should pick up when purging the new filament to the purge block. See [Happy Hare's slicer setup guide](https://github.com/moggieuk/Happy-Hare/blob/main/doc/toolchange_movement.md#turning-off-slicer-tip-forming).  
 
 
-### In mmu_filamentix.cfg:
+### In mmu_cut_tip.cfg:
 Configure the `_MMU_CUT_TIP` macro variables as per the instructions in the file.
 
 
