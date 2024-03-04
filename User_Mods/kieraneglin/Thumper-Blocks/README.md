@@ -1,9 +1,8 @@
 # ERCF Thumper Blocks (beta)
 
-**Secure Grip for Seamless Printing**
-
 ## Table of Contents
 
+- [Which Block - Thicker or Thinner?](#which-block)
 - [Credit](#credit)
 - [Hardware Requirements](#ercf-requirements)
 - [Thumper or Triple-Decky?](#differences-compared-to-triple-decky)
@@ -22,13 +21,6 @@ The design has performed very well so far, but it's still going to change as we 
 
 This is based heavily off the fantastic [Triple-Decky][triple-decky] project. I've made some improvements based on my own experience and needs, but the core design can be traced back to the original. Thumper Blocks would not exist without the great work of gneu42 or any of the testers/contributors on that project.
 
-Huge thanks to the following on Discord:
-
-- @moggieuk for all their work on the ERCF and Happy Hare
-- @gsx8299 for their relentless testing
-- @sakitume for their testing, feedback, and [sick videos][tb-video]
-- @mneuhaus for testing
-
 ## What is it?
 
 Thumper Blocks are 3-level filament blocks for the ERCF. Their job is threefold:
@@ -46,7 +38,7 @@ Thumper Blocks are 3-level filament blocks for the ERCF. Their job is threefold:
 
 ## Differences compared to Triple-Decky
 
-- Shaves 1.75mm off the width of each block
+- Shaves 1.75mm off the width of each block (on `Thinner` model)
   - This allows the blocks to fit existing hardware and kits without modification or omitting a filament block
   - If you're already set up for Triple-Decky, it reclaims 10.5mm for every 6 blocks. With this, you can add things like a dedicated bypass block
 - Uses an M4 nut for the filament brake instead of a printed part (low friction) or a grub screw (uncommon part)
@@ -64,6 +56,21 @@ Thumper Blocks are 3-level filament blocks for the ERCF. Their job is threefold:
 - Triple-Decky's filament tags will fit in Thumper
 - Removes the need for standalone bearing blocks by integrating bearings into filament blocks
 - The general look, feel, and assembly is very similar to Triple-Decky
+
+## Which Block?
+
+### Thicker
+
+- The official block of the ERCF v2 spec
+- Has width compatibility with Triple-Decky so accessories (such as the ERCT filament buffer) will fit
+- **Use this if you're using ERCF v2 hardware OR you want to upgrade a v1 to an offical v2 but you don't mind losing a filament block**
+
+### Thinner
+
+- 1.75mm thinner per-block than the Thicker model
+- Does not remove a block when using ERCF v1 hardware
+- Does not conform to the ERCF v2 spec - the filament bypass and some accessories will not fit
+- **Use this if you're on ERCF v1 hardware and you don't want to lose a filament block BUT you don't mind potentially losing compatibility with ERCFv2 accessories**
 
 ## BOM
 
@@ -90,8 +97,6 @@ These are made to be printed in ABS and friends (including ASA) and do not requi
   - NOTE: files are made to be printed in their default orientation and without additional supports
 
 ## Assembly
-
-[There's a video now!][tb-video]. This is for Rev 2 but still works as of the current revision. Thank you @sakitume!
 
 These instructions are going to be pretty sparse until something closer to the final design is reached. It's not a difficult assembly, but you can refer to a combination of Triple-Decky and the STEP file to fill in any gaps.
 
@@ -199,11 +204,12 @@ If you have a question, I'm @kierantheman in the Voron Discord. If there's some 
 
 ## License
 
-[Creative Commons (4.0 International License) Attribution-NonCommercial](https://creativecommons.org/licenses/by-nc/4.0/)
+[Creative Commons (4.0 International License) Attribution](https://creativecommons.org/licenses/by/4.0/)
+
+Previous versions were licensed under CC-NC and, although works are beholden to the license they are released under, consider this message approval to use any works within this repository under the CC - Attribution license outlined above.
 
 [triple-decky]: https://github.com/gneu42/Triple-Decky
 [springy]: https://github.com/moggieuk/ERCF-Springy
 [sturdy]: https://github.com/sneakytreesnake/SturdyBunnyProject
 [pika]: https://github.com/geoffrey-young/pika-filament-buffer
 [happy-hare]: https://github.com/moggieuk/Happy-Hare
-[tb-video]: https://www.youtube.com/watch?v=yMhyocX3nrI

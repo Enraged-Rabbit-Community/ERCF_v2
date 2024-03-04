@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-An expandable MMU for Klipper based 3D-Printers
+An expandable MMU for Klipper-based 3D-Printers
 </p>
 
 <p align="center">
@@ -14,6 +14,7 @@ An expandable MMU for Klipper based 3D-Printers
   <a aria-label="Stars" href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/stargazers"><img src="https://img.shields.io/github/stars/Enraged-Rabbit-Community/ERCF_v2?style=flat-square"></a> &nbsp;
   <a aria-label="Forks" href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/network/members"><img src="https://img.shields.io/github/forks/Enraged-Rabbit-Community/ERCF_v2?style=flat-square"></a> &nbsp;
   <a aria-label="License" href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Enraged-Rabbit-Community/ERCF_v2?style=flat-square"></a> &nbsp;
+  <a aria-label="Commits" href=""><img src="https://img.shields.io/github/commit-activity/y/Enraged-Rabbit-Community/ERCF_v2"></a> &nbsp;
 </p>
 
 <br>
@@ -22,10 +23,10 @@ An expandable MMU for Klipper based 3D-Printers
 <tr>
 <td width=30%><img src="/Assets/Enraged_Rabbit_v2.png" alt='RabbitV2'></td>
 <td>
-This is a community born project and major update to the Voron ERCF MMU that was started a couple of years ago by Ette.  It is endorsed by Ette and the guiding philosophy wasn't to start again with a new MMU design but to refine what has already proven to be a very capable machine and push it to be the best it can be by simplifying problematic construction, improving reliability and aligning as close as possible to v1.1 BOM. However the project includes an all new optional integrated filament buffer system (ERCT), filament cutter option (ERF), a collection of recommended toolhead sensor modifications and a bit of Bling! It fully leverages the Happy Hare firmware MMU control software with Klipper Screen entensions.
+This is a community-born project and a major update to the Voron ERCF MMU that was started a couple of years ago by Ette.  It is endorsed by Ette, and the guiding philosophy wasn't to start again with a new MMU design but to refine what has already proven to be a very capable machine and push it to be the best it can be by simplifying problematic construction, improving reliability and aligning as close as possible to v1.1 BOM. However, the project includes an all-new optional integrated filament buffer system (ERCT), filament cutter option (ERF), a collection of recommended tool head sensor modifications and a bit of Bling! It fully leverages the Happy Hare firmware MMU control software with Klipper Screen extensions.
 <p>
   
-There are a rapidly growing list of MMUs in the market place from the mass produced "Fords" who pioneered the market to the "Toyota" that are more recent efficient engineering feat but somehow lack soul. We consider ERCFv2 the "BMW" - a little over engineered perhaps but distinctively cool and you feel good driving it.  We hope you enjoy! &nbsp;&nbsp; Videos: [Teaser](https://www.youtube.com/watch?v=U2QwvPacIUk) &nbsp; [Release](https://www.youtube.com/watch?v=EJCPerBsM3Q)
+There is a rapidly growing list of MMUs in the marketplace, from the mass-produced "Fords" who pioneered the market to the "Toyota" that are more recent efficient engineering feat but somehow lacked soul. We consider ERCFv2 the "BMW" - a little over-engineered perhaps but distinctively cool, and you feel good driving it.  We hope you enjoy it! &nbsp;&nbsp; Videos: [Teaser](https://www.youtube.com/watch?v=U2QwvPacIUk) &nbsp; [Release](https://www.youtube.com/watch?v=EJCPerBsM3Q)
 </td>
 </tr>
 </table>
@@ -55,7 +56,7 @@ There are a rapidly growing list of MMUs in the market place from the mass produ
 ## Enraged Rabbit Carrot Feeder (ERCF)
 <table>
 <tr>
-<td width=45%><img src="/Assets/ERCFv2.png">An MMU or Multimaterial Unit/Upgrade allows for the automatic change of filaments on your 3D printer.  You can use it to create beautiful multi-colored prints or, if you're lazy, simply to avoid loading filament by hand. If you are familar with ERCF v1.1 this will serve as an overview of updates:</td>
+<td width=45%><img src="/Assets/ERCFv2.png">An MMU or Multimaterial Unit/Upgrade allows for the automatic change of filaments on your 3D printer.  You can use it to create beautiful multi-colored prints or, if you're lazy, simply to avoid loading filament by hand. If you are familiar with ERCF v1.1, this will serve as an overview of updates:</td>
 <td>
 <ol>
   <li>Sturdy backbone - no more flex
@@ -68,7 +69,7 @@ There are a rapidly growing list of MMUs in the market place from the mass produ
   <li>High Quality Step-by-step CAD
   <li>New integrated passive buffer system (Cotton Tail)
   <li>Perfect tips with Filametrix Filament cutter
-  <li>Functional and asthetic LED status indication
+  <li>Functional and aesthetic LED status indication
 </ol>
 </td>
 </tr>
@@ -100,7 +101,7 @@ ERCT includes a pregate filament sensor to more reliably manage endless spools. 
 <table>
 <tr>
 <td>
-Before the MMU can unload a filament it must prepare the tip so that it can be cleanly loaded next time.  This tip forming process is very difficult to tune and varies based on material type, temperature, hotend type and even weather!  Introducing Enraged Rabbit Filametrix (ERF) filament cutting system.  This lightweight addition to your Stealthburner toolhead adds a cutting blade.  When retracting the problematic tip of the filament is simply cut off for perfect tips and no jams.
+Before the MMU can unload a filament, the tip must be prepared so that it can be cleanly loaded next time.  This tip-forming process is very difficult to tune and varies based on material type, temperature, hotend type and even weather!  Introducing Enraged Rabbit Filametrix (ERF) filament cutting system.  This lightweight addition to your Stealthburner toolhead adds a cutting blade.  When retracting, the problematic tip of the filament is simply cut off for perfect tips and no jams.
 <p>
 
 ERF also supports an optional servo operated ganrtry activation pin so no print area is lost with this addition. ERF designs also include the recommended integrated toolhead sensor
@@ -141,10 +142,10 @@ Pellet purge system to remove the need for the wipe tower. Stay tuned.
 ERCF is designed to be used with the Happy Hare MMU firmware for Klipper which adds a set of klipper extensions for configuration setup, testing and operation of ERCF. These commands are available through the command line or macros but are perhaps best operated with an interactive UI with the optional KlipperScreen extension.
 <p>
 
-Happy Hare provides an easy installation script which has knowledge of recommended settings and will greatly accelarate the setup process.
+Happy Hare provides an easy installation script which has knowledge of recommended settings and will greatly accelerate the setup process.
 <p>
 
-[Happy Hare](https://github.com/moggieuk/Happy-Hare/doc/ercf_v2.md) &nbsp;&nbsp; [KlipperScreen](https://github.com/moggieuk/KlipperScreen-Happy-Hare-Edition)
+[Happy Hare](https://github.com/moggieuk/Happy-Hare/blob/main/doc/ercf_v2.md) &nbsp;&nbsp; [KlipperScreen](https://github.com/moggieuk/KlipperScreen-Happy-Hare-Edition)
 </td>
 </tr>
 </table>
@@ -155,7 +156,7 @@ Happy Hare provides an easy installation script which has knowledge of recommend
 <table>
 <tr>
 <td>
-Building something as complex as an MMU is a challenging undertaking but ERCFv2 project contains an amazingly detailed and illustrated manual with step-by-step instructions.  We have tried to make the process similar to fitting together a jigsaw puzzle, albeit with a few optional pieces.
+Building something as complex as an MMU is a challenging undertaking, but the ERCFv2 project contains an amazingly detailed and illustrated manual with step-by-step instructions.  We have tried to make the process similar to fitting together a jigsaw puzzle, albeit with a few optional pieces.
 <p>
 
 [ERCFv2 PDF Manual](Documentation/ERCF_v2_Manual.pdf)
@@ -171,8 +172,9 @@ Building something as complex as an MMU is a challenging undertaking but ERCFv2 
 <tr>
 <td width=30%><img src="Assets/BOM.png" alt='ERCF Project BOM'></td>
 <td>
-You can find a Bill of Materials and a convenient printed parts tracker for the project and options here. Note that the BOM also contains an upgrade list for those of you wanting to use your existing ERCF v1.1 kits. Please make a copy and edit the "Filament Blocks #" to be the number of gates for your build.  This can be any number but we encourage kit vendors to use 4/8/12 as size variations. Note that there are separate columns for core ERCF, the optional ERCT and ERF options as well as the suggested "extras"
+You can find a Bill of Materials (BOM) and a convenient printed parts tracker for the project and options here. Note that the BOM also contains an upgrade list for those of you who want to use your existing ERCF v1.1 kits. Please make a copy and edit the "Filament Blocks #" to be the number of gates for your build.  This can be any number, but we encourage kit vendors to use 4/8/12 as size variations. Note that there are separate columns for core ERCF, the optional ERCT and ERF options, as well as the suggested "extras"
 <p>
+Please be aware that the BOM is strictly for reference. The recommended parts can be exchanged for other similar quality parts. Manufacturers who use the BOM as a reference must submit an application for certification before selling them as ERCF V2 kits. Please contact us for certification.
 
 [BOM](https://docs.google.com/spreadsheets/d/1HtVIu4yqzS6xJQr63-JKtMAh4Xq7wbtWPFeuiCnrnnE) &nbsp;&nbsp; [Printed Parts Tracker](https://docs.google.com/spreadsheets/d/1h1bJurR6Z8Ou36c5U9cWmqI86tXKlWrcZrWrHgGN13A)
 </td>
@@ -185,7 +187,7 @@ You can find a Bill of Materials and a convenient printed parts tracker for the 
 <table>
 <tr>
 <td>
-A lot of work has gone into creating a quality CAD model of the project carefully organized into folders that match the documentation!  It is hightly recommended that you open the CAD and hide every folder and then expose them one at a time as you work through the build.
+A lot of work has gone into creating a quality CAD model of the project, carefully organized into folders that match the documentation!  It is highly recommended that you open the CAD and hide every folder and then expose them one at a time as you work through the build.
 <p>
 
 [Master CAD](CAD)
@@ -197,7 +199,7 @@ A lot of work has gone into creating a quality CAD model of the project carefull
 <br>
 
 ## FAQ
-ERCF v2 is currently in the RC1 phase.  That means that we hope the BOM and parts are complete but there are still some areas of polish needed: documentation, kit availability, etc.  Therefore we're sure there will be lots of questions.  To avoid repetition on the various support channels you can find a list of [frequently asked questions](FAQ.md) here.  If something isn't answered the best place to go is the primary [Voron #ercf_questions](https://discord.com/channels/460117602945990666/909743915475816458) Discord server
+ERCF v2 is currently in the RC1 phase.  That means that we hope the BOM and parts are complete, but there are still some areas of polish needed: documentation, kit availability, etc. Therefore, we're sure there will be lots of questions.  To avoid repetition on the various support channels, you can find a list of [frequently asked questions](FAQ.md) here.  If something isn't answered the best place to go is the primary [Voron #ercf_questions](https://discord.com/channels/460117602945990666/909743915475816458) Discord server
 
 <br>
 
@@ -209,7 +211,7 @@ Most importantly let me introduce the development, test and doc team.  A project
   <li>@sneakytreesnake V2.3804 (The project backbone!)
   <li>@mneuhaus VT.483 (Mr Binky)
   <li>@Miriax (Designer & Doc Demon)
-  <li>@kinematicdigit (Mr Cotton Tail & Doc Illustrator)
+  <li>@kinematicdigit VS.744 (Mr Cotton Tail & Doc Illustrator)
   <li>@ningpj (Tester, Breaker & Documenter)
   <li>@fizzy (King of CAD)
   <li>@gsx8299 (Test Builder Extraordinaire)
@@ -225,16 +227,31 @@ Most importantly let me introduce the development, test and doc team.  A project
 <tr>
 <td width=25%><img src="Assets/Certified.jpg" alt='Vendor Certification'></td>
 <td>
-These kits and specialty parts have been checked by us and meet good quality standards:
+These kits and specialty parts will have been checked by us and meet good quality standards. Pending Certification means it has met our first pass inspection and in the process of being verified as a V2 kit. <strong>WE DO NOT RECOMMEND PURCHASING KITS WITHOUT THE CERTIFICATION BY US. PLEASE CHECK BACK HERE FOR THE LIST OF AUTHORIZED VENDORS AND MANUFACTURERS</strong>:<br>
+<p>
 <ul>
-  <li>On the way... stay tuned!
+  <li> Pending Certification - LDO Motors
   </li>
+  <li> Application Under Review - Triangle Labs
+  </li>
+  <li> Application Under Review - Siboor
+  </li>
+  <li> Application Under Review - Seleadlabs
+  </li>
+  <li> Application Under Review - Makerpanda
+  </li>
+  
+  
+  
+  <br>
+  <p>
+  A list of more official and certified vendors is on the way... stay tuned!
 </td>
 </tr>
 </table>
 
 **Manufacturers:**
-_If you want to be included, please contact us. We are happy to validate your kit/parts and then add you to the list..._
+_If you want to be included, please contact us. We are happy to validate your kit/parts and then add you to the list._
 
 <br>
 

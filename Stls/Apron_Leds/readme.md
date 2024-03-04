@@ -31,7 +31,13 @@ The recommended STLs are :
 * Holder can be print in any color. It is not visible.
 * Cover_Bodies should be printed with opaque filament.
 * Cover_lenses should be print with transparent filament.
-
+* Load both files together into the slicer.
+    <p align=center><img src="Images/import.png" width="400" alt="import.png"></p> Answer "Yes" to the mulicolor print dialog box.
+* Select the color of your choice for the body, and transparent for the lens. 
+    <p align=center><img src="Images/color.png" width="400" alt="color.png"></p>
+* Add bottom and top infill pattern settings to the lens, and select concentric(filled) pattern. 
+   <p align=center><img src="Images/infill.png" width="400" alt="infill.png"></p>
+   Slice and print.
 **Installation of the recommended STLs**
 * Cut N individual LED form the strip, and tin all the solder pads.
 * Snap all the holders on the 2020 extrusion under the filament blocks.

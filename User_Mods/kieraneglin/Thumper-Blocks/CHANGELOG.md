@@ -12,6 +12,12 @@ All parts except the latch have been modified and are not compatible with previo
 - Improved magnet fitment on filament path
 - Added channel in base to improve filament feeding reliability
 
+**UPDATE (2024-01-01)**
+
+- Added `Thicker` variant to support ERCF v2 spec
+- The original `Rev 3` is now in the `Thinner` directory
+- The `filament_path` and `base` files are changed and not compatible between variants. The latch and tophat are unchanged.
+
 ## Rev 2 (2023-11-10)
 
 - Updated tophat and filament path to use a two-landing design for the `up` vs. `down` positions. This makes the `up` position more reliable and repeatable. Don't forget to use the Springy servo arms!
