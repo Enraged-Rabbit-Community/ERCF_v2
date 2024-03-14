@@ -83,7 +83,7 @@ filename: /home/pi/printer_data/config/mmu/mmu_vars.cfg
 
 Klipper can only have one `save_variables` file and so if you are already using one you can simply comment out the lines above and Happy Hare will append into your existing "variables" file.
 
-If all other pin's and setup look correct *RESTART KLIPPER* and proceed to step 2.
+If all other pin's and setup look correct *RESTART KLIPPER* and proceed to step 3.
 
 <br>
 
