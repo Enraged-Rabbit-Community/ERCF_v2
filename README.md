@@ -219,38 +219,22 @@ Most importantly let me introduce the development, test and doc team.  A project
   <li>@kierantheman (Mr ThumperBlocks)
   <li>@Fragmon (Videographer)
 </ul>
-
 <br>
 
 ## Vendors
-<table>
-<tr>
-<td width=25%><img src="Assets/Certified.jpg" alt='Vendor Certification'></td>
-<td>
-These kits and specialty parts will have been checked by us and meet good quality standards. Pending Certification means it has met our first pass inspection and in the process of being verified as a V2 kit. <strong>WE DO NOT RECOMMEND PURCHASING KITS WITHOUT THE CERTIFICATION BY US. PLEASE CHECK BACK HERE FOR THE LIST OF AUTHORIZED VENDORS AND MANUFACTURERS</strong>:<br>
-<p>
-<ul>
-  <li> <strong>Certified - Siboor</strong>
-  </li>
-  <li> Pending Certification - LDO Motors
-  </li>
-  <li> Application Under Review - Triangle Labs
-  </li>
-  <li> Application Under Review - Seleadlabs
-  </li>
-  <li> Application Under Review - Makerpanda
-  </li>
-  <li> Application Under Review - Fysetc
-  </li>
-  
-  
-  
-  <br>
-  <p>
-  A list of more official and certified vendors is on the way... stay tuned!
-</td>
-</tr>
-</table>
+
+|   | Certified Vendors |
+|---|-------------------|
+| <img src="Assets/Certified.jpg" alt="Vendor Certification" width="150"> | **Siboor**<br>[Link to the shop](https://s.click.aliexpress.com/e/_DEknOf7)<br>Link to review or building: *follow soon* |
+| <img src="Assets/Certified.jpg" alt="Vendor Certification" width="150"> | **MakerPanda**<br>[Link to the shop](https://de.aliexpress.com/item/1005006445865097.html)<br>Unboxing Video: [Youtube](https://www.youtube.com/watch?v=yu-U9x6rL9E) |
+
+### Vendors Pending Certification
+
+- LDO Motors
+- Triangle Labs
+- Seleadlabs
+- Fysetc
+
 
 **Manufacturers:**
 _If you want to be included, please contact us. We are happy to validate your kit/parts and then add you to the list._
