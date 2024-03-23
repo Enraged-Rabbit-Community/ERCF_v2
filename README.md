@@ -223,22 +223,17 @@ Most importantly let me introduce the development, test and doc team.  A project
 
 ## Vendors
 
-### Certified Vendors
-| <img src="Assets/Certified.jpg" alt="Vendor Certification" width="150" align="left"> | <div align="left">**Siboor**<br>Link to the shop: [Shop](https://s.click.aliexpress.com/e/_DEknOf7)<br>Link to review or building: -follow soon-</div> |
-|---|---|
-| <img src="Assets/Certified.jpg" alt="Vendor Certification" width="150" align="left"> | <div align="left">**MakerPanda**<br>Link to the shop: [Shop](https://de.aliexpress.com/item/1005006445865097.html)<br>Link to the unboxing: [Watch Video](https://www.youtube.com/watch?v=yu-U9x6rL9E)</div> |
+|   | Certified Vendors |
+|---|-------------------|
+| <img src="Assets/Certified.jpg" alt="Vendor Certification" width="150"> | **Siboor**<br>[Link to the shop](https://s.click.aliexpress.com/e/_DEknOf7)<br>Link to review or building: *follow soon* |
+| <img src="Assets/Certified.jpg" alt="Vendor Certification" width="150"> | **MakerPanda**<br>[Link to the shop](https://de.aliexpress.com/item/1005006445865097.html)<br>Unboxing Video: [Youtube](https://www.youtube.com/watch?v=yu-U9x6rL9E) |
 
 ### Vendors Pending Certification
-<div align="left">
 
 - LDO Motors
 - Triangle Labs
 - Seleadlabs
 - Fysetc
-
-</div>
-
-
 
 
 **Manufacturers:**
