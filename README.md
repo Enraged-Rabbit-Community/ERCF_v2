@@ -232,13 +232,13 @@ These kits and specialty parts will have been checked by us and meet good qualit
 <ul>
   <li> <strong>Certified - Siboor</strong>
   </li>
+  <li> <strong>Certified - Triangle Labs</strong>
+  </li>
+  <li> <strong>Certified - Seleadlabs</strong>
+  </li>
+  <li> <strong>Certified -  Makerpanda</strong>
+  </li>
   <li> Pending Certification - LDO Motors
-  </li>
-  <li> Application Under Review - Triangle Labs
-  </li>
-  <li> Application Under Review - Seleadlabs
-  </li>
-  <li> Application Under Review - Makerpanda
   </li>
   <li> Application Under Review - Fysetc
   </li>
