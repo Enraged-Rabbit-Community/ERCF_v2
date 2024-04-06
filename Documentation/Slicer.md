@@ -13,7 +13,8 @@ Orca Slicer Settings
 ![Screenshot 2024-01-09 183159](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/191414f2-da4d-47fc-9d27-a8a6cc271d15)
 
 
-![Screenshot 2024-01-09 183230](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/90810a88-2394-46c7-a878-ed0d9aeebb8a)
+![Screenshot 2024-04-06 005924](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/1b6ae043-1535-4b57-9aaa-13cd1f617173)
+
 
 
 ![Screenshot 2024-01-09 183258](https://github.com/Enraged-Rabbit-Community/ERCF_v2/assets/121695166/91e9169a-475a-4fb4-9d98-f83920f03527)
