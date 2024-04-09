@@ -240,9 +240,10 @@ These kits and specialty parts will have been checked by us and meet good qualit
   </li>
   <li> Pending Certification - LDO Motors
   </li>
-  <li> Application Under Review - Fysetc
+  <li> Application Under Review/Pending Certification - Dodo 3D Labs
   </li>
-  
+  <li> Application Under Review - Fysetc
+  </li> 
   
   
   <br>
