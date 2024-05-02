@@ -215,9 +215,10 @@ Most importantly let me introduce the development, test and doc team.  A project
   <li>@ningpj (Tester, Breaker & Documenter)
   <li>@fizzy (King of CAD)
   <li>@gsx8299 (Test Builder Extraordinaire)
-  <li>@sorted (Filametix "don't get enraged" filament cutting system)
+  <li>@sorted (Filametrix "don't get enraged" filament cutting system)
   <li>@kierantheman (Mr ThumperBlocks)
   <li>@Fragmon (Videographer)
+  <li>@Silverback V2.1356 (Filametrix tester, builder & engineer)
 </ul>
 
 <br>
