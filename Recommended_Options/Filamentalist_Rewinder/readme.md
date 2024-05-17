@@ -61,6 +61,10 @@ This rewinder is "almost" perfect, but not completely perfect.  Things that you 
 
 ## **Part Specific:**
 - Orientation suggestions are relative to the installed assembly orientation and are shown in the slicer images below.
+- There are stls for both 80mm and 100mm wide version and a Fusion 360 parametric CAD model for additional custom widths.  See "Additional Notes/Considerations" point 3 above for more details.
+- There is the option to include a threaded Rim Roller to support O-Ring replacement.  This is like not needed for most people.  See "Drive Roller Assembly" section 3.2 below for more detail.
+- Stl's are provided for optional clip-in style supports where no Base_Plate is needed and the rewinders are easily clipped in and out of (2) 2020 extrusions mounted 170mm center-to-center apart.  This option is highly recommeded if your setup can accomodate this style type of mount.
+- **!! IMPORTANT !!  This design relies on multiple press-fits for bearings, axles, and ECAS fittings.  As a result, printer calibration is important.  A Test_Block stl is included.  It is highly recommended that you print this block first, check fits, and make adjustments to extrusion multipliers and/or slicer scaling if needed before printing the Filamentalist parts.**
   
 <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Logo.png" width="200" height="300">  <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Sliced_(Black)_1.jpg" width="375" height="300">  <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Sliced_(Orange)_1.jpg" width="375" height="300">
 
@@ -230,5 +234,4 @@ V1 - Public release into ERCF V2 RC2 repository
 
 # To DO
 
-1. Include instructions for the alternate tensioner screw mounting direction.
-2. Add cal tool into STL's and instructions up front for checking fit.
+1. 
