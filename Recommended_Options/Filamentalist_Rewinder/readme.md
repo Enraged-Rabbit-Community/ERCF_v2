@@ -227,7 +227,8 @@ gcode:
 
 # Version History
 
-V1 - Public release into ERCF V2 RC2 repository
+V1 - 5/17/24 - Public release into ERCF V2 RC2 repository
+V1.1 - 5/19/24 - Update to CAD and stls for Tensioner Arms to remove potential filament catching point during endless spool ejection
 
 # To DO
 
