@@ -233,6 +233,8 @@ V1 - 5/17/24 - Public release into ERCF V2 RC2 repository
 
 V1.1 - 5/19/24 - Update to CAD and stls for Tensioner Arms to remove potential filament catching point during endless spool ejection
 
+V1.2 - 5/20/24 - Reverted Center_Drive_Roller to cylindrical press fit hole (vs hex of V1 and V1.1).  Revised 608 press fit pockets of Idler_Roller_(male&female) parts for both 80mm and 100mm width versions for improved press fit.
+
 # To DO
 
 1. 
