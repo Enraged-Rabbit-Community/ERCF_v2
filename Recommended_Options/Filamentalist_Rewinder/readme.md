@@ -235,7 +235,9 @@ V1.1 - 5/19/24 - Update to CAD and stls for Tensioner Arms to remove potential f
 
 V1.2 - 5/20/24 - Reverted Center_Drive_Roller to cylindrical press fit hole (vs hex of V1 and V1.1).  Revised 608 press fit pockets of Idler_Roller_(male&female) parts for both 80mm and 100mm width versions for improved press fit.
 
-V1.3 - Added bevel to internal step on  Idler_Roller_(male) part for 80mm and 100mm versions to improve printability.  Updated the .f3dparametric file, step files, and stls for 80mm and 100mm versions.
+V1.3 - 5/20/24 - Added bevel to internal step on  Idler_Roller_(male) part for 80mm and 100mm versions to improve printability.  Updated the .f3dparametric file, step files, and stls for 80mm and 100mm versions.
+
+V1.4 - 5/21/24 - Shortened threads on Idler_Roller_male parts by 1.5mm to remove slight interference.  Updated CAD, 80mm, and 100mm stls.
 
 # To DO
 
