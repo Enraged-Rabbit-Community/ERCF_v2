@@ -9,7 +9,7 @@
 <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Top.jpg" width="450" height="450">
 </p>
 
-See video of 3 rewinders swapping here:  [Filamentalist X6](https://photos.app.goo.gl/hKso7JYPZcdRLKrW8)
+See video of 6 rewinders swapping here (plus Trident Blobifier):  [Filamentalist X6](https://photos.app.goo.gl/hKso7JYPZcdRLKrW8)
 
 # Theory of operation:
 The Filamentalist uses the axial force delivered by the ERCF gear motor along the filament to load and unload to/from the filament spool.  An adjustable spring clamp forces the filament against two o-rings that sit on the drive pulley to create a high traction interface.  A one-way clutch style bearing locks against the drive shaft and rotates the filament spool to take up filament during an unload.  For loading and print extruding, the clutch disengages allowing for effective free-spooling of the filament spool simliar to a roller style spool holder.  For unloading/buffering, some slip will occur between the filament and the o-ring interface and/or the spool rim and the rim roller of the rewinder to account for the varying diameter range of a spool from full to empty (full spool = max slip, empty spool = no/minimal slip).
