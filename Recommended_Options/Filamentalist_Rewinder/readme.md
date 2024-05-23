@@ -1,9 +1,6 @@
-<h1 align="center">The "Filamentalist"</h1>
-
-<h1 align="center">A passive filament driven rewinder/buffer</h1>
-
+<h1 align="center">The "Filamentalist" - A passive filament driven rewinder</h1>
 <p align="center">
-<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Logo.png" width="450" height="525">
+<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_render.png" width="350" height="475">
 </p>
 <p align="center"><img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Front.jpg" width="525" height="450">
 <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Top.jpg" width="450" height="450">
