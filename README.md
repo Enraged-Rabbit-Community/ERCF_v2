@@ -118,9 +118,9 @@ ERF also supports an optional servo operated ganrtry activation pin so no print 
 ### Enraged Rabbit Filamentalist (Passive Rewinder)
 <table>
 <tr>
-<td width=30%><img src="Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_render.png" width="200" alt=`Filamentalist`></td>
+<td width=30%><img src="Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_render.png" width="175" alt=`Filamentalist`></td>
 <td>
-An an alternative option to ERCT, the Filamentalist uses the reverse movement of the MMU gear stepper to rewind the spool! It works remarkably well and is compatible with the modular ERCT pre-gate sensor design so you can still get the filament sensing, automatic loading and LED support.
+An an alternative option to ERCT, the Filamentalist uses the reverse movement of the MMU gear stepper to rewind the spool instead of requiring a buffer! It works remarkably well and is compatible with the modular ERCT pre-gate sensor design so you can still get the filament sensing, automatic loading and LED support.
 <p>
 
 [Read more](Recommended_Options/Filamentalist_Rewinder/README.md)
