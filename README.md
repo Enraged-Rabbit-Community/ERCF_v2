@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="/Assets/Full_CAD.jpg" alt='ERCFv2' width='70%'>
-  <h1 align="center">ERCF v2 - RC1</h1>
+  <h1 align="center">ERCF v2 - RC2</h1>
 </p>
 
 <p align="center">
@@ -209,7 +209,7 @@ A lot of work has gone into creating a quality CAD model of the project, careful
 <br>
 
 ## FAQ
-ERCF v2 is currently in the RC1 phase.  That means that we hope the BOM and parts are complete, but there are still some areas of polish needed: documentation, kit availability, etc. Therefore, we're sure there will be lots of questions.  To avoid repetition on the various support channels, you can find a list of [frequently asked questions](FAQ.md) here.  If something isn't answered the best place to go is the primary [Voron #ercf_questions](https://discord.com/channels/460117602945990666/909743915475816458) Discord server
+ERCF v2 is currently in the RC2 phase.  That means that we hope the BOM and parts are complete, but there are still some areas of polish needed: documentation, kit availability, etc. Therefore, we're sure there will be lots of questions.  To avoid repetition on the various support channels, you can find a list of [frequently asked questions](FAQ.md) here.  If something isn't answered the best place to go is the primary [Voron #ercf_questions](https://discord.com/channels/460117602945990666/909743915475816458) Discord server
 
 <br>
 
