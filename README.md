@@ -115,6 +115,21 @@ ERF also supports an optional servo operated ganrtry activation pin so no print 
 
 <br>
 
+### Enraged Rabbit Filamentalist (Passive Rewinder)
+<table>
+<tr>
+<td width=30%><img src="Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_render.png" width="200" alt=`Filamentalist`></td>
+<td>
+An an alternative option to ERCT, the Filamentalist uses the reverse movement of the MMU gear stepper to rewind the spool! It works remarkably well and is compatible with the modular ERCT pre-gate sensor design so you can still get the filament sensing, automatic loading and LED support.
+<p>
+
+[Read more](Recommended_Options/Filamentalist_Rewinder/README.md)
+</td>
+</tr>
+</table>
+
+<br>
+
 ### Toolhead Sensor Modifications
 <table>
 <tr>
@@ -126,11 +141,6 @@ ERCF can be operated without a toolhead sensor (filament detection) in the toolh
 </td>
 </tr>
 </table>
-
-<br>
-
-### Purge System (ERPS)
-Pellet purge system to remove the need for the wipe tower. Stay tuned.
 
 <br>
 
