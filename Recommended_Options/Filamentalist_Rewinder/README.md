@@ -236,6 +236,8 @@ V1.3 - 5/20/24 - Added bevel to internal step on  Idler_Roller_(male) part for 8
 
 V1.4 - 5/21/24 - Shortened threads on Idler_Roller_male parts by 1.5mm to remove slight interference.  Updated CAD, 80mm, and 100mm stls.
 
+V1.5 - 6/4/24 - Slightly deepened 608 bearing pockets in Idler Roller parts to prevent potential side loading binding due to print/assembly tolerances.  Reprint not required for existing functioning units.
+
 # To DO
 
 1. 
