@@ -244,6 +244,8 @@ V1.5 - 6/4/24 - Slightly deepened 608 bearing pockets in Idler Roller parts to p
 
 V1.6 - 6/12/24 - No mandatory reprints/rebuilds required:  Updated CAD parametric model and 80/100mm step files because two  Tensioner Mount-to-Support holes were getting "buried" in the 100mm version.  Updated the Tensioner_Mount_100mm stl file as well.
 
+V1.7 - 6/13/24 - Opened up c-sunk hole on Tensioner_Arm_Left part pivot screw hole to allow for full seating of a FHCS head and use of a 16mm long screw.  A new stl for Tensioner_Arm_Left ans new f3d and step files are included.
+
 # To DO
 
 1. 
