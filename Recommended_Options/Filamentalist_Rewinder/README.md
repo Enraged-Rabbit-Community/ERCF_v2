@@ -226,6 +226,10 @@ gcode:
 
 # <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Brain_Logo.png" width="50" height="60"> Version History
 
+Versioning convention.  V"X"."Y"
+- "X" represents a major change in form, fit, or function.  An increment in "X" may not require that existing built units undergo rework but the new parts will generally not be compatible with past version rewinders.
+- "Y" represents a "step rev" or minor revision.  These are generally small "tweaks" for improved printability and/or assembly and typically would not require reprint/rework for existing rewinders.  If there are cases where a step rev may incrementally improve function on existing units in the field this will be called out in the releas and on the discord channel.
+
 V1 - 5/17/24 - Public release into ERCF V2 RC2 repository
 
 V1.1 - 5/19/24 - Update to CAD and stls for Tensioner Arms to remove potential filament catching point during endless spool ejection
@@ -237,6 +241,8 @@ V1.3 - 5/20/24 - Added bevel to internal step on  Idler_Roller_(male) part for 8
 V1.4 - 5/21/24 - Shortened threads on Idler_Roller_male parts by 1.5mm to remove slight interference.  Updated CAD, 80mm, and 100mm stls.
 
 V1.5 - 6/4/24 - Slightly deepened 608 bearing pockets in Idler Roller parts to prevent potential side loading binding due to print/assembly tolerances.  Reprint not required for existing functioning units.
+
+V1.6 - 6/12/24 - No mandatory reprints/rebuilds required:  Updated CAD parametric model and 80/100mm step files because two  Tensioner Mount-to-Support holes were getting "buried" in the 100mm version.  Updated the Tensioner_Mount_100mm stl file as well.
 
 # To DO
 
