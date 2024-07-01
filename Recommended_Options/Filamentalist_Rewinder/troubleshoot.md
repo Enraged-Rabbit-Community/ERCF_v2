@@ -29,5 +29,6 @@ If you observe excessive slack, please read the troubleshooting information belo
 **Quality Variations in Components:**
 - **One-Way Bearing and Shaft Compatibility:** Verify that the one-way bearing rotates freely on the shaft. Measure the diameter of the shaft; successful setups typically report diameters between 7.93mm to 7.96mm. If your measurements are close to or exceed 8mm, the shaft may be too large for the bearing.
   - **Adjustment:** Consider lightly sanding the shaft's center to improve the bearing's rotation if it appears too tight.
+  - **5/16" Diameter Axles:**" Purchasing 5/16" diameter shaft or stainless steel tubing has also produced good results
 
 
