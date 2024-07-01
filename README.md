@@ -14,6 +14,7 @@ An expandable MMU for Klipper-based 3D-Printers
   <a aria-label="Stars" href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/stargazers"><img src="https://img.shields.io/github/stars/Enraged-Rabbit-Community/ERCF_v2?style=flat-square"></a> &nbsp;
   <a aria-label="Forks" href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/network/members"><img src="https://img.shields.io/github/forks/Enraged-Rabbit-Community/ERCF_v2?style=flat-square"></a> &nbsp;
   <a aria-label="License" href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Enraged-Rabbit-Community/ERCF_v2?style=flat-square"></a> &nbsp;
+  <a aria-label="Commits" href=""><img src="https://img.shields.io/github/commit-activity/y/Enraged-Rabbit-Community/ERCF_v2"></a> &nbsp;
 </p>
 
 <br>
@@ -214,9 +215,10 @@ Most importantly let me introduce the development, test and doc team.  A project
   <li>@ningpj (Tester, Breaker & Documenter)
   <li>@fizzy (King of CAD)
   <li>@gsx8299 (Test Builder Extraordinaire)
-  <li>@sorted (Filametix "don't get enraged" filament cutting system)
+  <li>@sorted (Filametrix "don't get enraged" filament cutting system)
   <li>@kierantheman (Mr ThumperBlocks)
   <li>@Fragmon (Videographer)
+  <li>@Silverback V2.1356 (Filametrix tester, builder & engineer)
 </ul>
 
 <br>
@@ -226,10 +228,26 @@ Most importantly let me introduce the development, test and doc team.  A project
 <tr>
 <td width=25%><img src="Assets/Certified.jpg" alt='Vendor Certification'></td>
 <td>
-These kits and specialty parts will have been checked by us and meet good quality standards. Pending Certification means it has met our first pass inspection and in the process of being verified as a V2 kit. <strong>WE DO NOT RECOMMEND PURCHASING KITS WITHOUT THE CERTIFICATION BY US. PLEASE CHECK BACK HERE FOR THE LIST OF AUTHORIZED VENDORS AND MANUFACTURERS</strong>:
+These kits and specialty parts will have been checked by us and meet good quality standards. Pending Certification means it has met our first pass inspection and in the process of being verified as a V2 kit. <strong>WE DO NOT RECOMMEND PURCHASING KITS WITHOUT THE CERTIFICATION BY US. PLEASE CHECK BACK HERE FOR THE LIST OF AUTHORIZED VENDORS AND MANUFACTURERS</strong>:<br>
+<p>
 <ul>
+  <li> <strong>Certified - Siboor</strong>
+  </li>
+  <li> <strong>Certified - Triangle Labs</strong>
+  </li>
+  <li> <strong>Certified - Seleadlabs</strong>
+  </li>
+  <li> <strong>Certified -  Makerpanda</strong>
+  </li>
+  <li> <strong>Certified -  Fysetc</strong>
+  </li>
   <li> Pending Certification - LDO Motors
-  </li><br>
+  </li>
+  <li> Application Under Review/Pending Certification - Dodo 3D Labs
+  </li>
+  
+  
+  <br>
   <p>
   A list of more official and certified vendors is on the way... stay tuned!
 </td>
