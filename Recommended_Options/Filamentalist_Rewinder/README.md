@@ -246,6 +246,8 @@ V1.6 - 6/12/24 - No mandatory reprints/rebuilds required:  Updated CAD parametri
 
 V1.7 - 6/13/24 - Opened up c-sunk hole on Tensioner_Arm_Left part pivot screw hole to allow for full seating of a FHCS head and use of a 16mm long screw.  A new stl for Tensioner_Arm_Left ans new f3d and step files are included.
 
+V1.8 - 7/2/24 - Removed notch/gap in axle pressing tool that shouldn't have been there.  80/100mm stl's updated as well as f3d and stp CAD files.
+
 # To DO
 
 1. 
