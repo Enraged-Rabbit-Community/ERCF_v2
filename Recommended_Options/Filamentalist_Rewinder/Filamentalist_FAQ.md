@@ -12,7 +12,6 @@
 
 ## Troubleshooting
 - If you have built the Filamentalist(s) and are having issues with its functioning such as loose loops or gear motor stalling please refer to this [Trouble Shooting Guide](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/troubleshoot.md).  If this doesn't help to resolve your questions you can get help from the many great users at the Filamentalist Discord server here (https://discord.gg/uDcGxukRKd)
-[return to index](#filamentalist-frequently-asked-questions)
 
 ## Dimensions Footprint
 - Length:  186mm
@@ -20,6 +19,7 @@
 - Height:  76mm without optional Base Plate, 79mm with Base Plate
   - Height with 200mm Diameter Spool:  252mm without optional Base Plate, 255 with Base Plate (varies slightly with Rim Roller rubber band thickness)
 - Width:  80mm Axle Version = 81.5mm, 100 mm Axle Version = 100mm
+  
 [return to index](#filamentalist-frequently-asked-questions)
 
 ## Pregate Sensor Solutions
@@ -46,6 +46,7 @@
   https://github.com/gneu42/Triple-Decky/tree/main/STL/ERCF-V2/Rev_C/Rev_C9/Optional%20Pre-gate%20Sensor%20(Experimental)
 
   Similar to the CheeseFrog solution but more complex.  Also requires a teardown/rebuild if added to an existing ERCF.
+  
 [return to index](#filamentalist-frequently-asked-questions)
 
 ## Enclosure Solutions
