@@ -2,7 +2,7 @@
 
 [1. Troubleshooting](#troubleshooting)
 
-[2. Dimensions/Footprint](#dimensions/footprint)
+[2. Dimensions/Footprint](#dimensions-footprint)
 
 [3. Pregate Sensor Solutions](#pregate-sensor-solutions)
 
@@ -11,7 +11,7 @@
 ## Troubleshooting
 - If you have built the Filamentalist(s) and are having issues with its functioning such as loose loops or gear motor stalling please refer to this [Trouble Shooting Guide](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/troubleshoot.md).  If this doesn't help to resolve your questions you can get help from the many great users at the Filamentalist Discord server here (https://discord.gg/uDcGxukRKd)
 
-## Dimensions/Footprint
+## Dimensions Footprint
 - Length:  186mm
   - Length with 200mm Diameter Spool:  202mm
 - Height:  76mm without optional Base Plate, 79mm with Base Plate
