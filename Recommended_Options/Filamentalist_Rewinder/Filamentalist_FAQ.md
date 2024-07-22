@@ -1,19 +1,19 @@
 # Filamentalist Frequently Asked Questions #
 
-[1. Dimensions/Footprint](#1.-dimensions/footprint)
+[1. Dimensions/Footprint](#dimensions/footprint)
 
-[2. Pregate Sensor Solutions](#2.-pregate-sensor-solutions)
+[2. Pregate Sensor Solutions](#pregate-sensor-solutions)
 
 [3. Enclosure Solutions](#enclosure-solutions)
 
-### 1. Dimensions/Footprint
+### Dimensions/Footprint
 - Length:  186mm
   - Length with 200mm Diameter Spool:  202mm
 - Height:  76mm without optional Base Plate, 79mm with Base Plate
   - Height with 200mm Diameter Spool:  252mm without optional Base Plate, 255 with Base Plate (varies slightly with Rim Roller rubber band thickness)
 - Width:  80mm Axle Version = 81.5mm, 100 mm Axle Version = 100mm
 
-### 2. Pregate Sensor Solutions
+### Pregate Sensor Solutions
   # CottonTail Lite: # 
   - Coupler Blocks: https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/ERCT_Buffer/Coupler_Block/Coupler_Block_Lite.stl
   - End Cap Mount:  https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/ERCT_Buffer/Support_Arm/End_Cap_Mount.stl
