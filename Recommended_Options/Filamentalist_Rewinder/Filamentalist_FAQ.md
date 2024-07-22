@@ -1,4 +1,4 @@
-# Filamentalist Frequently Asked Questions #
+# Filamentalist Frequently Asked Questions
 
 [1. Troubleshooting](#troubleshooting)
 
@@ -12,6 +12,7 @@
 
 ## Troubleshooting
 - If you have built the Filamentalist(s) and are having issues with its functioning such as loose loops or gear motor stalling please refer to this [Trouble Shooting Guide](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/troubleshoot.md).  If this doesn't help to resolve your questions you can get help from the many great users at the Filamentalist Discord server here (https://discord.gg/uDcGxukRKd)
+[return to index](#filamentalist-frequently-asked-questions)
 
 ## Dimensions Footprint
 - Length:  186mm
@@ -19,6 +20,7 @@
 - Height:  76mm without optional Base Plate, 79mm with Base Plate
   - Height with 200mm Diameter Spool:  252mm without optional Base Plate, 255 with Base Plate (varies slightly with Rim Roller rubber band thickness)
 - Width:  80mm Axle Version = 81.5mm, 100 mm Axle Version = 100mm
+[return to index](#filamentalist-frequently-asked-questions)
 
 ## Pregate Sensor Solutions
 
@@ -44,6 +46,7 @@
   https://github.com/gneu42/Triple-Decky/tree/main/STL/ERCF-V2/Rev_C/Rev_C9/Optional%20Pre-gate%20Sensor%20(Experimental)
 
   Similar to the CheeseFrog solution but more complex.  Also requires a teardown/rebuild if added to an existing ERCF.
+[return to index](#filamentalist-frequently-asked-questions)
 
 ## Enclosure Solutions
 
@@ -66,9 +69,13 @@
 
 <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/056f07c5e8521a5d036f45ad4861045ddff9ef1a/Recommended_Options/Filamentalist_Rewinder/Assets/Fysetc%20Enclosure.jpg" width="400" height="250">
 
+[return to index](#filamentalist-frequently-asked-questions)
+
 ## Gear Motor Options
 
   It is frequently asked if a NEMA 14 gear motor is strong enough to drive an MMU plus Filamentalist.  The 0.7A Moons NEMA 14 motor that came with my ERCF V1 Blurolls kit worked fine with the ERCF V1 and Filamentalist.  When I upgraded to ERCF V2 the additional resistance that came with the "Springy" version of the selector made the system slightly underpowered with a NEMA 14.  So if a NEMA 14 is what you currently have for your ERCF. TradRack, or other MMU, I suggest you try it before buying a higher torque motor.  If you are building a new MMU then a NEMA 17 along with the 40 tooth gear mod is recommended ( https://www.printables.com/model/692720-ercf-40-tooth-gear-modifiction ).  Some kits come with a 42Ncm NEMA 17.  This combined with the 40T mod should give you sufficient torque to overcome MMU and long bowden tube resistance as well as allowing to run the Filamentalist at 300+mm/s speeds.  If you are buying a new NEMA 17 beow are verified high torque motors (55-59Ncm) that perform well in the needed RPM range for 200-500mm/s load/unload speeds.  There is really no need to go higher than the 55-59Ncm torque range as you will just start grinding grooves in your filament with the MMU gear.
 
 1. 17HE19-2004S from stepperonline.com - 55Ncm (they have a new 17HS19-2004S1 50Ncm version that should be similar to the 17HE19-2004S but a little more powerful)
 2. LDO-42STH48-2504AC - 55Ncm
+
+[return to index](#filamentalist-frequently-asked-questions)
