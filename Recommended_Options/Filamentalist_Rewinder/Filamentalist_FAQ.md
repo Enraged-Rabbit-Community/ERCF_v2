@@ -49,4 +49,11 @@
 
   An elegant passive enclosure/dry box (no heaters or fans) designed to house the Filamentalist passive rewinder.  It is great for a 4-6 channel ERCF (can go to higher channels if desired).  It consists of (4) printed endcaps, (6) pieces of 2020 extrusion cut/ordered to the desired length, and 0.060" (1/16') polycarbonate sheet(s) cut to size.  Details and files here:  https://github.com/SkiBikePrint/ERCF_Mods/tree/main/Filamentalist_Enclosure
 
-  <img src="https://github.com/SkiBikePrint/ERCF_Mods/blob/da3dacf4f50ca5de08879cdd9d0642990da49a36/Filamentalist_Enclosure/Assets/20240619_221414.jpg" width="500" height="350">    
+  <img src="https://github.com/SkiBikePrint/ERCF_Mods/blob/da3dacf4f50ca5de08879cdd9d0642990da49a36/Filamentalist_Enclosure/Assets/20240619_221414.jpg" width="500" height="350">
+
+  ### (Un)original Prusa Drybox
+
+  Box is available here:  https://www.printables.com/model/551828-unoriginal-prusa-drybox .  Delete the rollers and add your own Filamentalist mounting solution.  You may need the rear load option for the Filamentalist
+
+  <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/26b48491a1fce7cc9411857c30e11546146ed1a2/Recommended_Options/Filamentalist_Rewinder/Assets/UnOriginal%20Prusa%20DryBox.jpg" width="300" height="350">
+  (solution/picture courtesy of barsam on Discord)
