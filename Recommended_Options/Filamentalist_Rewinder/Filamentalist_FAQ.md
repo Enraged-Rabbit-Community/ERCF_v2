@@ -1,20 +1,25 @@
 # Filamentalist Frequently Asked Questions #
 
-[1. Dimensions/Footprint](#dimensions/footprint)
+[1. Troubleshooting](#troubleshooting)
 
-[2. Pregate Sensor Solutions](#pregate-sensor-solutions)
+[2. Dimensions/Footprint](#dimensions/footprint)
 
-[3. Enclosure Solutions](#enclosure-solutions)
+[3. Pregate Sensor Solutions](#pregate-sensor-solutions)
 
-### Dimensions/Footprint
+[4. Enclosure Solutions](#enclosure-solutions)
+
+## Troubleshooting
+- If you have built the Filamentalist(s) and are having issues with its functioning such as loose loops or gear motor stalling please refer to this [Trouble Shooting Guide](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/troubleshoot.md).  If this doesn't help to resolve your questions you can get help from the many great users at the Filamentalist Discord server here (https://discord.gg/uDcGxukRKd)
+
+## Dimensions/Footprint
 - Length:  186mm
   - Length with 200mm Diameter Spool:  202mm
 - Height:  76mm without optional Base Plate, 79mm with Base Plate
   - Height with 200mm Diameter Spool:  252mm without optional Base Plate, 255 with Base Plate (varies slightly with Rim Roller rubber band thickness)
 - Width:  80mm Axle Version = 81.5mm, 100 mm Axle Version = 100mm
 
-### Pregate Sensor Solutions
-  # CottonTail Lite: # 
+## Pregate Sensor Solutions
+  ### CottonTail Lite:
   - Coupler Blocks: https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/ERCT_Buffer/Coupler_Block/Coupler_Block_Lite.stl
   - End Cap Mount:  https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/ERCT_Buffer/Support_Arm/End_Cap_Mount.stl
   - End Arm Cap Mount:  https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/ERCT_Buffer/Support_Arm/End_Arm_Cap_Mount.stl
@@ -23,13 +28,12 @@
   
   [Add picture]
 
-  # CheeseFrog's #
+  ### CheeseFrog's
   https://github.com/juliusjj25/ERCF-Pregate-Sensors
   This is what I use.  It is simple and works great.  It requires the "bumped" lever style Omron D2F microswitches.  Great for a new build.  Retrofitting this onto an existing ERCF requires a tear down of the unit to replace the filament path portion of the blocks as well as the latches.  I did it the brute force way and trimmed my existing latches back with clippers and "muscled" the filament path parts out and back in to the blocks.  The brute force approach may not be for everyone!
 
-  # Gneu's Filament Block # 
+  ### Gneu's Filament Block 
   https://github.com/gneu42/Triple-Decky/tree/main/STL/ERCF-V2/Rev_C/Rev_C9/Optional%20Pre-gate%20Sensor%20(Experimental)
 
-  
-  
+    
 ## Enclosure Solutions
