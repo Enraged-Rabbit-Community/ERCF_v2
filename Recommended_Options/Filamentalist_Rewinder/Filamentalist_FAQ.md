@@ -19,6 +19,9 @@
 - Width:  80mm Axle Version = 81.5mm, 100 mm Axle Version = 100mm
 
 ## Pregate Sensor Solutions
+
+  Research the options below and decide what will work best for you.
+  
   ### CottonTail Lite:
   - Coupler Blocks: https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/ERCT_Buffer/Coupler_Block/Coupler_Block_Lite.stl
   - End Cap Mount:  https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/ERCT_Buffer/Support_Arm/End_Cap_Mount.stl
@@ -26,14 +29,18 @@
   - End Arm Cap Mount Extension:  https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/ERCT_Buffer/Support_Arm/End_Arm_Cap_Mount_Extention.stl
   - Electronics Box will Mount to This:  https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/rc2/Stls/Electronics/Universal_Box
   
-  [Add picture]
+  <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/6c7f8dd72794a8ecd0c1e0981dfac9007970ab2d/Recommended_Options/Filamentalist_Rewinder/Assets/CottonTail%20Lite%20Pre-Gate%20Sensors.jpg" width="500" height="350">
 
   ### CheeseFrog's
   https://github.com/juliusjj25/ERCF-Pregate-Sensors
+
   This is what I use.  It is simple and works great.  It requires the "bumped" lever style Omron D2F microswitches.  Great for a new build.  Retrofitting this onto an existing ERCF requires a tear down of the unit to replace the filament path portion of the blocks as well as the latches.  I did it the brute force way and trimmed my existing latches back with clippers and "muscled" the filament path parts out and back in to the blocks.  The brute force approach may not be for everyone!
+  
+  <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/d43d10075f9a9581f6db1cd0bece84393a75faaf/Recommended_Options/Filamentalist_Rewinder/Assets/CheeseFrog%20Sensors.jpg" width="500" height="350">
 
   ### Gneu's Filament Block 
   https://github.com/gneu42/Triple-Decky/tree/main/STL/ERCF-V2/Rev_C/Rev_C9/Optional%20Pre-gate%20Sensor%20(Experimental)
 
-    
+  Similar to the CheeseFrog solution but more complex.  Also requires a teardown/rebuild if added to an existing ERCF.
+
 ## Enclosure Solutions
