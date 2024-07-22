@@ -34,7 +34,7 @@
   ### CheeseFrog's
   https://github.com/juliusjj25/ERCF-Pregate-Sensors
 
-  This is what I use.  It is simple and works great.  It requires the "bumped" lever style Omron D2F microswitches.  Great for a new build.  Retrofitting this onto an existing ERCF requires a tear down of the unit to replace the filament path portion of the blocks as well as the latches.  I did it the brute force way and trimmed my existing latches back with clippers and "muscled" the filament path parts out and back in to the blocks.  The brute force approach may not be for everyone!
+  This is what SkiBikePrint uses (SkiBikeMake on Discord).  It is simple and works great.  It requires the "bumped" lever style Omron D2F microswitches.  Great for a new build.  Retrofitting this onto an existing ERCF requires a tear down of the unit to replace the filament path portion of the blocks as well as the latches.  I did it the brute force way and trimmed my existing latches back with clippers and "muscled" the filament path parts out and back in to the blocks.  The brute force approach may not be for everyone!
   
   <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/d43d10075f9a9581f6db1cd0bece84393a75faaf/Recommended_Options/Filamentalist_Rewinder/Assets/CheeseFrog%20Sensors.jpg" width="500" height="350">
 
@@ -44,3 +44,9 @@
   Similar to the CheeseFrog solution but more complex.  Also requires a teardown/rebuild if added to an existing ERCF.
 
 ## Enclosure Solutions
+
+  ### Filamentalist Enclosure
+
+    - An elegant passive enclosure/dry box (no heaters or fans) designed to house the Filamentalist passive rewinder.  It is great for a 4-6 channel ERCF (can go to higher channels if desired).  It consists of (4) printed endcaps, (6) pieces of 2020 extrusion cut/ordered to the desired length, and 0.060" (1/16') polycarbonate sheet(s) cut to size.  Details and files here:  https://github.com/SkiBikePrint/ERCF_Mods/tree/main/Filamentalist_Enclosure
+
+  <img src="https://github.com/SkiBikePrint/ERCF_Mods/blob/da3dacf4f50ca5de08879cdd9d0642990da49a36/Filamentalist_Enclosure/Assets/20240619_221414.jpg" width="500" height="350">    
