@@ -178,7 +178,7 @@ An alternate method is to rely on spool rim slip against the rollers by running 
 
 # <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Brain_Logo.png" width="50" height="60"> Troubleshooting
 
-Please see [troubleshooting guide](troubleshoot.md), reference the [FAQ](filamentalist_faq.md), or join our discord server (https://discord.gg/uDcGxukRKd) for more help.
+Please see [troubleshooting guide](troubleshoot.md), reference the [FAQ](Filamentalist_FAQ.md), or join our discord server (https://discord.gg/uDcGxukRKd) for more help.
 
 
 # <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Brain_Logo.png" width="50" height="60"> Testing
