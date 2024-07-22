@@ -57,3 +57,9 @@
 
   <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/26b48491a1fce7cc9411857c30e11546146ed1a2/Recommended_Options/Filamentalist_Rewinder/Assets/UnOriginal%20Prusa%20DryBox.jpg" width="300" height="350">
   (solution/picture courtesy of barsam on Discord)
+  
+  ### Fysetc Drybox Enclosure Kit
+
+  Kit is available on Aliexpress including links to CAD/stl files and assembly instructions:  https://www.aliexpress.us/item/3256806921054513.html. Delete existing spool roller solution and modify for Filamentalist mounting.  Contact SkiBikePrint (SkiBikeMake on Discord) for modified stl's that capture 2020 rails for use with the Filamentalist clip-in style mount.
+
+<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/056f07c5e8521a5d036f45ad4861045ddff9ef1a/Recommended_Options/Filamentalist_Rewinder/Assets/Fysetc%20Enclosure.jpg" width="400" height="250">
