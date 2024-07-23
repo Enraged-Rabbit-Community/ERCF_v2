@@ -151,7 +151,7 @@ Also, there is an optional "Base_Plate" part that mounts to the Supports and Ten
 
    - 4.1 Thread the Idler Roller (male) and Idler Roller (female) parts together tightly.  Press a total of (4) MR608 bearings into the Right Support, Left Support, and Idler Roller parts.  The Axle Depth Tool can be used to aid with pressing the bearings into the deep bearing pockets of the Idler Roller.  Ensure the inner races of the bearings in the Right/Left Support parts turn freely.
 
-<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/ba96384b23351f8518af1fe28bfbe48044499fa8/Recommended_Options/Filamentalist_Rewinder/Assets/Base_Assy_2.jpg" width="400" height="350">
+<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/ba96384b23351f8518af1fe28bfbe48044499fa8/Recommended_Options/Filamentalist_Rewinder/Assets/Base_Assy_2.jpg" width="500" height="350">
 
    - 4.2 Place the Tensioner Assembly around the Drive Roller Assembly and screw the Tensioner Mnt onto one of the Support parts using (2) 3x12 FHCS screws (or x10, x8).
 ## **Double Check that the one-way bearing of the Center Drive Roller locks when rotated in the direction of a filament unload (if using the Tensioner Mount Rear Load option then the one-way bearing must be reversed and operate/lock in the counter clockwise direction with respect to the picture above).**
