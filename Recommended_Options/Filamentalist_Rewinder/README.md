@@ -72,9 +72,13 @@ This rewinder is "almost" perfect, but not completely perfect.  Things that you 
 ## **Part Specific:**
 - Orientation suggestions are relative to the installed assembly orientation and are shown in the slicer images below.
 - There are stls for both 80mm and 100mm wide version and a Fusion 360 parametric CAD model for additional custom widths.  See "Additional Notes/Considerations" point 3 above for more details.
-- There is the option to include a threaded Rim Roller to support O-Ring replacement.  This is like not needed for most people.  See "Drive Roller Assembly" section 3.2 below for more detail.
+- If rotating the Filamentalist is not feasible for your required filament loading direction or you need a bottom feed capability (for example enclosure limitations or feeding through the bottom of a shelf) there is an option for a rear loading version which only requires printing the Tensioner_Mount_Rear_Load_80mm/100mm_[option] in the place of Tensioner_Mount_80mm/100mm part.
+  
+  <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/3b946b5a517907430df33ce0d7e4794720a04dd4/Recommended_Options/Filamentalist_Rewinder/Assets/rear_load_option.jpg" width="350" height="175">
+
 - Stl's are provided for optional clip-in style supports where no Base_Plate is needed and the rewinders are easily clipped in and out of (2) 2020 extrusions mounted 170mm center-to-center apart.  This option is highly recommeded if your setup can accomodate this style type of mount.
-  - <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/Assets/Clip_Mount_Version.jpg" width="280" height="175">
+  
+  <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/6087084814dd65dc4c94823a450a0158fbb8b9cb/Recommended_Options/Filamentalist_Rewinder/Assets/Clip-In_Supports.jpg" width="250" height="175">
 - **!! IMPORTANT !!  This design relies on multiple press-fits for bearings, axles, and ECAS fittings.  As a result, printer calibration is important.  A Test_Block stl is included.  It is highly recommended that you print this block first, check fits, and make adjustments to extrusion multipliers and/or slicer scaling if needed before printing the Filamentalist parts.**
   
 <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Logo.png" width="200" height="300">  <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Sliced_(Black)_1.jpg" width="375" height="300">  <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Sliced_(Orange)_1.jpg" width="375" height="300">
@@ -84,6 +88,8 @@ This rewinder is "almost" perfect, but not completely perfect.  Things that you 
 |------|-----------------------------------------|------------|--------------------|-----|---------------------------------|
 | 1       | Right_Support | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/Assets/Right_Support.jpg" width="40" height="40"> |  Horizontal                   | N     |                                  |
 | 1       | Left_Support | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/Assets/Left_Support.jpg" width="40" height="40">                                                            | Horizontal                   | N     |                                  |
+| 1       | Option: Right_Support(2020_Clip-In) | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/ac5dc770fc719fbddc8d7d1fcfac345636657814/Recommended_Options/Filamentalist_Rewinder/Assets/Right_Support(2020-Clip-In).jpg" width="50" height="30"> |  Horizontal                   | N     |                                  |
+| 1       | Option: Left_Support(2020_Clip-In) | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/ac5dc770fc719fbddc8d7d1fcfac345636657814/Recommended_Options/Filamentalist_Rewinder/Assets/Left_Support(2020_Clip-in).jpg" width="50" height="30">                                                            | Horizontal                   | N     |                                  |
 | 1       | Base_Plate_80mm/100mm_[option] | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/Assets/Base.jpg" width="40" height="40">                                                            | Horizontal                   | N     | Optional part for a standalone unit not mounted to another surface  |
 | 1       | Idler_Roller_Axle_80mm/100mm  | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/Assets/Rear_Roller_Axle.jpg" width="40" height="40"> | Horizontal | N | align flat of "D" to build plate |
 | 2       | Rim_Roller_80mm/100mm | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/Assets/Rim_Roller.jpg" width="40" height="40">                                                   | Horizontal                | N       | Dished side up.   |
@@ -92,7 +98,7 @@ This rewinder is "almost" perfect, but not completely perfect.  Things that you 
 | 1       | Tensioner_Arm_Left |  <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/Assets/Tensioner_Arm_Left_1.jpg" width="40" height="40"> | Horizontal                          |  N    |  |
 | 1       | Tensioner_Arm_Right |  <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/Assets/Tensioner_Arm_Right_1.jpg" width="40" height="40"> | Horizontal                          |  Built-in     | Remove built-in support from the locking tab |
 | 1       | Tensioner_Mount_80mm/100mm | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/Assets/Tensioner_Mnt_printed.jpg" width="40" height="40">                           | Vertical (as installed)                | N  |   |
-| 1       | Tensioner_Mount_Rear_Load_80mm/100mm_[option] | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/Assets/Tensioner_Mnt_printed.jpg" width="40" height="40">                           | Vertical (as installed).  Optional for rear loading if needed.               | N  |   |
+| 1       | Tensioner_Mount_Rear_Load_80mm/100mm_[option] | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/f2f9d9bb04fad333333788b4d2238f26b38bbf62/Recommended_Options/Filamentalist_Rewinder/Assets/Tensioner_Mount_Rear_Load.jpg" width="60" height="30">                           | Vertical (as installed).  Optional for rear loading if needed.               | N  |   |
 | 1       | Idler_Roller_(male)_80mm/100mm   | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/Assets/Idler_Roller_(male).jpg" width="40" height="40">  | Vertical  | N  |  Scattered seams |
 | 1       | Idler_Roller_(female)_80mm/100mm   | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/Assets/Idler_Roller_(female).jpg" width="40" height="40">  | Vertical  | N  |  Scattered seams |
 | 1    | Axle_Pressing_Tool_80mm/100mm | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/Assets/Axle_Pressing_Tool.jpg" width="40" height="40"> | Vertical | N | Pocket opening up.  Print with 100% infill for reuse strength and durability when building multiple rewinders. |
@@ -119,11 +125,7 @@ This rewinder is "almost" perfect, but not completely perfect.  Things that you 
    - 2.3 Place a 3x18 FHCS (or x16, x12) through the hole in the Tensioner Arm Left part at the "nose" end and moderately tighten the screw into the Tensioner Arm right piece.  
    - 2.4 Install the Tensioner Arm onto the Tensioner Mnt using a 3x18mm FHCS screw (or x16) .  Tighten until snug and then back off until the arm rotates freely on the mount.
    - 2.5 Place an M3 washer followed by the spring onto an M3x35 SHCS (or x30, x40) and slide through the slotted hole in the bottom of the arm assembly.  Screw the SHCS into the heatset insert of the Tensioner Mnt.  No tension should be on the spring at this point.
-       - 2.5.1 ALTERNATE INSTALLATION:
-                If the orientation of your Filamentalist makes it difficult to access the tension adjustment screw you can use a 50mm long 3mm SHCS coming from the bowden side of the rewinder with a lock nut, nut with loctite, or a heatset with loctite on the other end as shown in the image below.  
-<p align="center">
-<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/Filamentalist_Rewinder/Assets/Tensioner_Screw_(alternate).jpg" width="400" height="350">
-</p>
+
 
 # 3. Drive Roller Assembly
 
