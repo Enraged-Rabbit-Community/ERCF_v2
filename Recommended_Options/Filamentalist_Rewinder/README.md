@@ -126,7 +126,9 @@ This rewinder is "almost" perfect, but not completely perfect.  Things that you 
    - 2.3 Place a 3x18 FHCS (or x16, x12) through the hole in the Tensioner Arm Left part at the "nose" end and moderately tighten the screw into the Tensioner Arm right piece.  
    - 2.4 Install the Tensioner Arm onto the Tensioner Mnt using a 3x18mm FHCS screw (or x16) .  Tighten until snug and then back off until the arm rotates freely on the mount.
    - 2.5 Place an M3 washer followed by the spring onto an M3x35 SHCS (or x30, x40) and slide through the slotted hole in the bottom of the arm assembly.  Screw the SHCS into the heatset insert of the Tensioner Mnt.  No tension should be on the spring at this point.
+     - 2.5.1 ALTERNATE INSTALLATION: If the orientation of your Filamentalist makes it difficult to access the tension adjustment screw you can use a 50mm long 3mm SHCS coming from the bowden side of the rewinder with a lock nut with loctite, or a heatset with loctite on the other end as shown in the image below.
 
+       <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/d422277f00883d8e07eb964bd4cc063f579f5f2b/Recommended_Options/Filamentalist_Rewinder/Assets/Tensioner_Screw_(alternate).jpg" width="300" height="200"> 
 
 # 3. Drive Roller Assembly
 
