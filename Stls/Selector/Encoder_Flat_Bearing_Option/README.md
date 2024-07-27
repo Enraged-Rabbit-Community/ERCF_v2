@@ -1,2 +1,0 @@
-# Encoder mm623zz bearing option
-This directory contains a variation of the ERCFv2 encoder that uses the plain M623zz bearing that was part of the v1.1 kits.  It is not as precise as the recommended v623zz bearing option but does work.  If you opt for this version it is important that you carefully align your selector positions with your gates otherwise you might experience slightly different measurement in the forward vs. reverse direction.
