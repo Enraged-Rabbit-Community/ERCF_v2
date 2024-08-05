@@ -45,8 +45,8 @@ Things that you need to know include:
    - Feed Direction: The orientation of your MMU with respect to your filament spools location may require a front, rear, or bottom loading capability from the
        rewinder.  Tensioner Mount options are provided to support this.
    - Pre-gate Sensors: If your MMU does not have pre-gate sensors and the software you use supports them (like Happy Hare) there are Tensioner Mount options that  support this.
-3. A high torque NEMA 17 motor is recommended.  Many in the Beta team ran NEMA 17's spec'd at 55 N-cm max torque and config'd them for 1-1.5A.  Grafton's 40 tooth NEMA 17 mod is recommended (https://www.printables.com/model/692720-ercf-40-tooth-gear-modifiction).  This may not be required so if you already have built your ERCF, try the Filamentalist with the motor/gearing you have and decide if you think you need more torque/speed.
-4. Several in the Beta team had space constraints that they wanted the rewinder to honor.  As a result, one baseline width of the Filamentalist was set to use a 80mm axle length.  It has a maximum spool width of 68mm and supports most standard 1, 0.5, and 0.25KG spool sizes and still be able to fit 6 rewinders across the top of a 350 size Voron printer. Height was set to be as low as possible to fit some existing dry box designs although there is the possibility to make user modifications to to reduce height further if needed. Some spools such as NinjaFlexand KVP's are too wide to fit the 80mm design.  If you use spools wider than 68mm there is also step and stl files posted for a 100mm axle length version. If you are using Autodesk Fusion 360 the provided .f3d file in the CAD directory is a parametric based model allowing you to customize the width of your rewinder to suit your max/min spool widths and/or to design around a standard available steel axle length (see instructions here  [parametric_model](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist/CAD/readme.md) ). 
+3. A high torque gear motor may be required.  Many in the Beta team ran NEMA 17's spec'd at 55 N-cm max torque and config'd them for 1-1.5A (probably overkill...).  [Grafton's 40 Tooth NEMA 17 Mod](https://www.printables.com/model/692720-ercf-40-tooth-gear-modifiction) works really well.  This may not be required so if you already have built your ERCF or have a gear motor, try the Filamentalist with the motor/gearing you have and decide if you think you need more torque/speed.
+4. So that (6) rewinders could fit across the 500mm wideth of a 350 Voron printer, one baseline width of the Filamentalist was set to use a 80mm axle length.  It has a maximum spool width of 68mm and supports most standard 1, 0.5, and 0.25KG spool sizes. Height was set to be as low as possible to fit some existing dry box designs although there is the possibility to make user modifications to to reduce height further if needed. Some spools such as NinjaFlexand KVP's are too wide to fit the 80mm design.  If you use spools wider than 68mm there is also step and stl files posted for a 100mm axle length version. If you are using Autodesk Fusion 360, the provided .f3d file in the CAD directory is a parametric based model allowing you to customize the width of your rewinder to suit your max/min spool widths and/or to design around a standard available steel axle length (see instructions here [parametric_model](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist/CAD/readme.md) ). 
 5. Because the standard tuning of this design relies on some filament slip at the o-rings, the o-rings may ultimately wear-out.  Testing and extrapolation estimates that the wear-out point is ~5K cycles. See the O-Ring Replacement section at the end of this document for o-ring swap/replacement instructions. 
 6. Due to pressfits for the 608 bearings and ECAS fitting printer calibration is important.  A "Test Block" stl is included.  It is recommended you print this first and test the press fits and measure the two small holes (2.7mm for cutting 3mm screw threads and 2.3mm for the filament path) to determine if you need to apply any scaling or changes to your extrusion factors in your slicer before printing.  Due to varying ECAS supplier tolerances and varying printer tolerances some experienced cracking at the ECAS hole when pressing in the ECAS.  If all other press fits work well on the Test Block but you experience cracking at the ECAS hole when pressing in an ECAS fitting, you can use an Xacto knife to lightly remove some plastic from the ECAS hole.  If the ECAS is too loose you can use superglue to glue the ECAS into the Tensioner Mount (not the Test Block 😉 ).
 7. Questions or input?
@@ -126,7 +126,7 @@ Things that you need to know include:
 | 1       | Idler_Roller_(female)_80mm/100mm   | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist/Assets/Idler_Roller_(female).jpg" width="40" height="40">  | Vertical  | N  |  Scattered seams |
 | 1    | Axle_Depth_Tool_80mm/100mm | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist/Assets/Axle_Pressing_Tool.jpg" width="40" height="40"> | Vertical | N | Pocket opening up.  Print with 100% infill for reuse strength and durability when building multiple rewinders. |
 | 2 | ECAS_Clip | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist/Assets/ECAS_Locking_Clip.jpg" width="40" height="40"> |  Horizontal | N | Tab up |
-| 1 | Test_Block | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist/Assets/Test_Block.jpg" width="40" height="40"> |  608 Pocket facing up | N | printer calibration tool |
+| 1 | Test_Block | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist/Assets/test_block.jpg" width="40" height="40"> |  608 Pocket facing up | N | printer calibration tool |
 
 
 ## <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist/Assets/Filamentalist_Brain_Logo.png" width="50" height="60"> Assembly Instructions:
@@ -197,7 +197,7 @@ You may never need to replace o-rings.  Testing and extrapolation estimates that
 
 ## <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist/Assets/Filamentalist_Brain_Logo.png" width="50" height="60"> Troubleshooting
 
-Please see [troubleshooting guide](troubleshoot.md), reference the [FAQ](Filamentalist_FAQ.md), or join our discord server (https://discord.gg/uDcGxukRKd) for more help.
+Please see [troubleshooting guide](troubleshoot.md), reference the [FAQ](Filamentalist_FAQ.md), or join the [Filamentalist Discord server](https://discord.gg/uDcGxukRKd) for more help.
 
 
 ## <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist/Assets/Filamentalist_Brain_Logo.png" width="50" height="60"> Testing
@@ -282,6 +282,10 @@ V2 - 7/22/24
   2. Removed threaded Rim Roller option and converted Rim Rollers from press-fit to set screw style.
   3. Add 608 bearing inner race clearance back into Supports.
   4. Added ~2mm of additional bowden capture in Tensioner_Mounts
+
+V3 - 8/5/24
+  1. Add pre-gate sensor version of Tensioner Mounts.
+  2. Revised supports to provide spool "guide rail" making the support stiffer and helping keep spools from "derailing" off of the rollers.
 
 # To DO
 
