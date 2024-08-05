@@ -26,7 +26,7 @@ If you observe excessive slack, please read the troubleshooting information belo
 - **Tight One-Way Bearing:** Verify that the one-way bearing rotates freely on the shaft (has equal to, or leass resistance than a 608 bearing). If one-way bearing feels tight/draggy when rotated on the shaft in the unloacked direction measure the diameter of the shaft. If your measurements exceeds 8mm, the shaft may be too large for the bearing.  Try reworking the bearing first using the procedure below:
   - **One-Way Bearing Rework Procedure** - see video of procedure [here](https://photos.app.goo.gl/eutmcUaLEJoAGmiJ7)
       1. Place bearing on end of axle rod/tube.
-      2. Heat bearing with heat gun or blow dryer until bearing gets very hot (1-2 minutes).
+      2. Heat bearing with heat gun or blow dryer until bearing gets very hot (~1 minute).
       3. While holding the bearing and axle with a towel or (anything to protect your hands from getting burnt), rotate the bearing on the shaft in the unlocked direction until the bearing cools down.
       4. The bearing should now rotate on the axle with little to no resistance.  If you still feel excessive resistance (greater than a 608 bearing's resistance), repeat the procedure adding even more heat/time.
   - **Lubrication:** Use a light lubricant (thin layer of lithium grease or silicone lubricant) on the center portion of the shaft where the one-way bearing will sit.
