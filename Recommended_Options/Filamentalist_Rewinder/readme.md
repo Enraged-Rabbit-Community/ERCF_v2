@@ -255,9 +255,10 @@ gcode:
 
 # <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Brain_Logo.png" width="50" height="60"> Version History
 
-Versioning convention.  V"X"."Y"
+Versioning convention.  V"X"."Y"."Z"
 - "X" represents a major change in form, fit, or function.  An increment in "X" may not require that existing built units undergo rework but the new parts will generally not be compatible with past version rewinders.
-- "Y" represents a "step rev" or minor revision.  These are generally small "tweaks" for improved printability and/or assembly and typically would not require reprint/rework for existing rewinders.  If there are cases where a step rev may incrementally improve function on existing units in the field this will be called out in the releas and on the discord channel.
+- "Y" represents a "step rev" or minor revision.  These are generally small "tweaks" for improved functionality, useability, and/or assembly and typically would not require reprint/rework for existing rewinders.  
+- "Z" represents a backwards compatible "bug fix".  This will generally be addressing nuisance CAD or printability issues.
 
 V1 - 5/17/24 - Public release into ERCF V2 RC2 repository
 
