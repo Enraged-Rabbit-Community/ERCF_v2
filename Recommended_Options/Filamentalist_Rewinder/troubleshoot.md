@@ -23,12 +23,13 @@ If you observe excessive slack, please read the troubleshooting information belo
   
   **Friction Concerns:**
 
-- **Tight One-Way Bearing:** Verify that the one-way bearing rotates freely on the shaft (has equal to, or leass resistance than a 608 bearing). If one-way bearing feels tight/draggy when rotated on the shaft in the unloacked direction measure the diameter of the shaft. If your measurements exceeds 8mm, the shaft may be too large for the bearing.  Try reworking the bearing first using the procedure below:
-  - **One-Way Bearing Rework Procedure** - see video of procedure [here](https://photos.app.goo.gl/eutmcUaLEJoAGmiJ7)
+- **Tight One-Way Bearing:** Verify that the one-way bearing rotates freely on the shaft (has equal to, or leass resistance than a 608 bearing). If one-way bearing feels tight/draggy when rotated on the shaft in the unlocked direction the inner plastic spring/retainer my be too tight.  Ttry reworking the bearing using the procedure below:
+  - **One-Way Bearing Rework Procedure** - see video of procedure [here](https://photos.app.goo.gl/rgrtAJLfc5br5F7E9)
       1. Place bearing on end of axle rod/tube.
-      2. Heat bearing with heat gun or blow dryer until bearing gets very hot (~1 minute).
-      3. While holding the bearing and axle with a towel or (anything to protect your hands from getting burnt), rotate the bearing on the shaft in the unlocked direction until the bearing cools down.
-      4. The bearing should now rotate on the axle with little to no resistance.  If you still feel excessive resistance (greater than a 608 bearing's resistance), repeat the procedure adding even more heat/time.
+      2. Heat bearing with heat gun or blow dryer until bearing gets hot.  Rotate bearing while heating to get uniform heating
+         - **Since power/heat of heat guns vary it is possible to overheat the bearing and melt the inner plastic!** Check result on the first bearing with every 20-30 seconds of heating by following steps 3 and 4 below until you determine the correct amount of heating required for your heat gun and tight bearings.
+      4. While holding the the heated bearing and axle with a towel or (anything to protect your hands from getting burnt), rotate the bearing on the shaft in the unlocked direction until the bearing cools down.
+      5. The bearing should now rotate on the axle with little to no resistance in the unlocked direction but still lock tightly in the opposite direction.  If you still feel excessive resistance (greater than a 608 bearing's resistance), repeat the procedure adding even more heat/time.
   - **Lubrication:** Use a light lubricant (thin layer of lithium grease or silicone lubricant) on the center portion of the shaft where the one-way bearing will sit.
   - **5/16" Diameter Axles:**" As a last resort, purchasing 5/16" diameter shaft or stainless steel tubing should result in an axle diameter less than 8mm
 
