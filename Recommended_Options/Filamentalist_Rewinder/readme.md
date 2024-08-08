@@ -288,6 +288,14 @@ V3 - 8/5/24
   2.  Included option for the Filamentalist Enclosure style Base Supports
   3.  Updated all supports to include a spool guide rail to help keep spools from wandering off of the rollers.
 
+V3.0.1 - 8/8/24 - No reprint/rebuild required:
+1. Improved clearances for indesxing tab feature in Tensioner Arm parts
+2. Improved breakaway feature for small print-in support in Tensioner_Arm_Right part 
+3. Provided additional edge chamfering to Idler Roller Axles
+4. Reinstated design history in Filamentalist_(parametric)_V3.f3d CAD model so that the parametric functionality would work correctly.
+5. Added accent color to file naming convention in stl file names.
+6. Updated pdf manual to reflect/describe accent color for file naming convention in stl file names.
+
 # To DO
 
 1. 
