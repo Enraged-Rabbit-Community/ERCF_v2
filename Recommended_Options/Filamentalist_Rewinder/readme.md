@@ -136,7 +136,7 @@ Things that you need to know include:
 <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Tensioner_Mnt.jpg" width="400" height="350">
 
    - 1.1 Install 3mm heatset insert into Tensioner Mnt.
-   - 1.2 Remove the rubber seal from the ECAS fitting.
+   - **1.2 Remove the rubber seal from the ECAS fitting.**
    - 1.3 Install the ECAS fitting into the Tensioner Mnt.  It should be a moderate press-in.  You may need to push it in firmly using the end of a 8mm steel shaft or printed rear axle shaft to get it to sit flush to the Tensioner Mnt mating surface.  The sidewalls of this hole are relatively thin.  Varying ECAS and print tolerances could result in the sidewall cracking.  If this happens, use superglue around the ECAS and crack.
 
 ## 2. Tensioner Arm Installation
