@@ -22,7 +22,7 @@
   - Length with 200mm Diameter Spool:  202mm
 - Height:  76mm without optional Base Plate, 79mm with Base Plate
   - Height with 200mm Diameter Spool:  252mm without optional Base Plate, 255 with Base Plate (varies slightly with Rim Roller rubber band thickness)
-- Width:  80mm Axle Version = 81.5mm, 100 mm Axle Version = 100mm<br />
+- Width:  80mm Axle Version = 81.5mm **(max spool width of 68mm)**, 100 mm Axle Version = 100mm **(max spool width of 86.5mm)** <br />
   <br />
     
 [return to index](#filamentalist-frequently-asked-questions)
