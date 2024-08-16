@@ -137,65 +137,10 @@ Things that you need to know include:
 | 1 | Test_Block | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/test_block.jpg" width="40" height="40"> |  608 Pocket facing up | N | printer calibration tool |
 
 
-## <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Brain_Logo.png" width="50" height="60"> Assembly Instructions:
+## <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Brain_Logo.png" width="50" height="60"> [Assembly Manual](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Documentation/Filamentalist_Rewinder_Manual_V3.pdf)  [<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist RC2 Manual_Cover.jpg" width="150" height="100">](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Documentation/Filamentalist_Rewinder_Manual_V3.pdf)
 
 
 ## [Filamentalist Assembly Guide Video](https://youtu.be/5Qk3N2sKz40)  [<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist RC2 Manual_Cover.jpg" width="150" height="100">](https://youtu.be/5Qk3N2sKz40)
-
-
-## 1. Tensioner Mount Assembly
-
-<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Tensioner_Mnt.jpg" width="400" height="350">
-
-   - 1.1 Install 3mm heatset insert into Tensioner Mnt.
-   - **1.2 Remove the rubber seal from the ECAS fitting.**
-   - 1.3 Install the ECAS fitting into the Tensioner Mnt.  It should be a moderate press-in.  You may need to push it in firmly using the end of a 8mm steel shaft or printed rear axle shaft to get it to sit flush to the Tensioner Mnt mating surface.  The sidewalls of this hole are relatively thin.  Varying ECAS and print tolerances could result in the sidewall cracking.  If this happens, use superglue around the ECAS and crack.
-
-## 2. Tensioner Arm Installation
-
-<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Tensioner_Assy.jpg" width="400" height="350">
-
-   - 2.1 Lay the Tensioner Arm Right part on a flat surface.  Slide the 608 bearing onto the bearing post.  Place the Tensioner Arm Left part into the 608 bearing and rotate against the Tensioner Arm Right part making sure the alignment tab seats correctly into the pocket at the bottom of the Tensioner Arm Right part.
-   - 2.2 Place a 3x18 FHCS (or x16, x12) through the bearing mount hole of the Tensioner Arm Left part and moderately tighten the screw into the Tensioner Arm right piece.  Once installed verify that the bearing turns freely.
-   - 2.3 Place a 3x18 FHCS (or x16, x12) through the hole in the Tensioner Arm Left part at the "nose" end and moderately tighten the screw into the Tensioner Arm right piece.  
-   - 2.4 Install the Tensioner Arm onto the Tensioner Mnt using a 3x18mm FHCS screw (or x16) .  Tighten until snug and then back off until the arm rotates freely on the mount.
-   - 2.5 Place an M3 washer followed by the spring onto an M3x35 SHCS (or x30, x40) and slide through the slotted hole in the bottom of the arm assembly.  Screw the SHCS into the heatset insert of the Tensioner Mnt.  No tension should be on the spring at this point.
-     - 2.5.1 ALTERNATE INSTALLATION: If the orientation of your Filamentalist makes it difficult to access the tension adjustment screw you can use a 50mm long 3mm SHCS coming from the bowden side of the rewinder with a lock nut with loctite, or a heatset with loctite on the other end as shown in the image below.
-
-       <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Tensioner_Screw_(alternate).jpg" width="300" height="200"> 
-
-## 3. Drive Roller Assembly
-
-<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Center_Drive_Roller_with_1-Way_Bearing.jpg" width="250" height="250">  <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Drive_Roller_Assembly_1.jpg" width="750" height="400">
-
-- 3.1 Press HF081412 One-Way Bearing into Center Drive Roller.  Orientation does not matter at this point.
-- 3.2 Before placing the Rim Rollers onto the axle use a ball end hex driver to drive the M3x8mm SHCS through the hole in each hub of the Rim Rollers to cut threads into the plastic.  Back the screws out a little to allow the axle to be inserted into the Rim Roller.
-- 3.3 Install first Rim Roller onto the 8mm steel axle with dished side facing down as shown in picture above.  Use the Axle_Depth_Tool to aid with getting the Rim Roller set at the correct distance from the end of the axle.  Use a ball end hex driver to tighten the M3x8mm SHCS against the steel axle shaft.  Only medium force is required as to not strip the plastic threads.
-- 3.4 Slide the first CDR Spacer followed by the Center Drive Roller (with One-way bearing already installed) followed by the second CDR Spacer onto the axle.
-- 3.5 Install the second Rim Roller onto the 8mm steel axle with dished side facing outward as shown in picture above.  Use the Axle_Depth_Tool to aid with getting the Rim Roller set at the correct distance from the end of the axle.  Use a ball end hex driver to tighten the M3x8mm SHCS against the steel axle shaft.  Only medium force is required as to not strip the plastic threads.
-- 3.6 It is very important that the one-way bearing rotates in the unlocked direction freely with low resistance .  If the resistance of the one-way bearing is greater than the combined rolling resistance of the rest of the rewinder the one-way bearing will not disengage and freespool properly during filament loads resulting in loose coils on the spool.  There has been limited instances of certain one-way bearings having too much resistance.  If your one-way bearings don't spin freely in the unlocked direction then assess your shaft diameter to ensure it is not too much above 8mm and/or you may need to try a different brand of one-way bearing (5/16" or 7.2-7.6mm diameter is optimal).
-
-## 4. Base Assembly
-
-There is an alternate version of the base that clips into two 2020 rails spaced 170mm apart (center-to-center). It enables quick add/remove/relocate capabilities and requires no hardware to mount.  You print all of the same parts except for the 2 base Supports that use the clip mount version (see "[2020 Clip-In_option]" versions in STLs directory).  Assembly is the same.
-
-Also, there is an optional "Base_Plate" part that mounts to the Supports and Tensioner Mount for a standalone application where the unit will not be attached to some other mounting suface.  If installing the Base_Plate part, screw the Tensioner Mount to the Base from the bottom before installing the side Support parts, Drive Roller Assembly, and/or Idler Roller.
-
-<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Base.jpg" width="250" height="250">
-
-<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Base_MR608_Bearings.jpg" width="300" height="350">  <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Rear_Roller_MR608_Bearings.jpg" width="300" height="250">
-
-   - 4.1 Thread the Idler Roller (male) and Idler Roller (female) parts together tightly.  Press a total of (4) MR608 bearings into the Right Support, Left Support, and Idler Roller parts.  The Axle Depth Tool can be used to aid with pressing the bearings into the deep bearing pockets of the Idler Roller.  Ensure the inner races of the bearings in the Right/Left Support parts turn freely.
-
-<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Base_Assy_2.jpg" width="500" height="350">
-
-   - 4.2 Place the Tensioner Assembly around the Drive Roller Assembly and screw the Tensioner Mnt onto one of the Support parts using (2) 3x12 FHCS screws (or x10, x8).
-### **Double Check that the one-way bearing of the Center Drive Roller locks when rotated in the direction of a filament unload (if using the Tensioner Mount Rear Load option then the one-way bearing must be reversed and operate/lock in the counter clockwise direction with respect to the picture above).**
-   - 4.3 Insert the Rear Roller Axle through the same base part aligning the "D" shape end to the flat in the 8mm pocket of the Support.  Ensure it presses all of the way in (you may need to tap it in a bit).  Secure with (1) 3x18 FHCS screw (or x10, x8).  
-   - 4.4 Slide the Rear Roller onto the Rear Roller Axle.
-   - 4.5 Install the opposite side Support part to assembly pressing in the D shaft end and securing with (3) 3x12 FHCS screws (or x10, x8).  Make sure there is no spring tension on the Tensioner arm for this step.
-   - 4.6 Insert a section of bowden tube into the ECAS until it bottoms out/butts against the Tensioner Mnt behind the ECAS.  Place a locking clip in the ECAS (if you don't have these, an stl file is provided to print the locking clips).  2.5mm ID tubing is recommended to ensure good stiffness and minimal "buckling" of filament in the driven filament path.  Cut your section of tubing a little long for the location of the rewinder and the run to the ERCF slot position.  You can fine tune/trim the length after installation of the rewinder.  
-### **It is recommended that you chamfer the inner edge of the tubing that is going into the Tensioner Mount with an Xacto knife or drill bit to ensure easy filament loading.  Also, depending on print quality you may want/need to clean up the filament path hole in the Tensioner Mount by hand turning a 1.75-2mm drill bit and the bowden tubing hole with a 4mm drill bit.**
 
 
 ## <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Brain_Logo.png" width="50" height="60"> Tuning
@@ -302,13 +247,16 @@ V3 - 8/5/24
   3.  Updated all supports to include a spool guide rail to help keep spools from wandering off of the rollers.
 
 V3.0.1 - 8/8/24 - No reprint/rebuild required:
-1. Improved clearances for indesxing tab feature in Tensioner Arm parts
+1. Improved clearances for indexing tab feature in Tensioner Arm parts
 2. Improved breakaway feature for small print-in support in Tensioner_Arm_Right part 
 3. Provided additional edge chamfering to Idler Roller Axles
 4. Reinstated design history in Filamentalist_(parametric)_V3.f3d CAD model so that the parametric functionality would work correctly.
 5. Added accent color to file naming convention in stl file names.
 6. Updated pdf manual to reflect/describe accent color for file naming convention in stl file names.
 
+V3.0.2 - 8/15/24 - No reprint/rebuild required:
+1. Added more reference dimensions to the User Parameters section for the Filamentalist_(parametric).f3d parametric CAD model.
+   
 # To DO
 
 1. 
