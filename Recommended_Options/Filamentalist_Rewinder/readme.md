@@ -8,8 +8,7 @@
 </p>
 
 
-## (Filamentalist Assembly Guide Video)[<img src="https://github.com/SkiBikePrint/Filamentalist/blob/7042b9b10466e7a60b45ed23568b3a78ff5930b9/Assets/Swap_Video.jpg" width="100" height="100">](https://youtu.be/5Qk3N2sKz40)
-
+## [Filamentalist Assembly Guide Video](https://youtu.be/5Qk3N2sKz40)  [<img src="Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist RC2 Manual_Cover.jpg" width="100" height="100">](https://photos.app.goo.gl/hKso7JYPZcdRLKrW8)
 
 
 
