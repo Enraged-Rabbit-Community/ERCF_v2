@@ -8,7 +8,7 @@
 </p>
 
 
-## [Filamentalist Assembly Guide Video](https://youtu.be/5Qk3N2sKz40)  [<img src="Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist RC2 Manual_Cover.jpg" width="100" height="100">](https://photos.app.goo.gl/hKso7JYPZcdRLKrW8)
+## [Filamentalist Assembly Guide Video](https://youtu.be/5Qk3N2sKz40)  [<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist RC2 Manual_Cover.jpg" width="150" height="100">](https://photos.app.goo.gl/hKso7JYPZcdRLKrW8)
 
 
 
