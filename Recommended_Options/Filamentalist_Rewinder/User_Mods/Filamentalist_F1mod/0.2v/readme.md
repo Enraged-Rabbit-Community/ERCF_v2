@@ -16,12 +16,12 @@ forked from (https://github.com/SkiBikePrint/ERCF_Mods/tree/main/Filamentalist)
 
 # Filamentalist F1 v0.2
 
-![image](https://raw.githubusercontent.com/v6cl/Filamentalist/main/Filamentalist_F1mod/0.2v/FilamentalistF1_v0.2/IMAGE/1.png)
+![image](https://raw.githubusercontent.com/v6cl/Filamentalist/main/F1mod/0.2v/IMAGE/1.png)
 
-![image](https://raw.githubusercontent.com/v6cl/Filamentalist/main/Filamentalist_F1mod/0.2v/FilamentalistF1_v0.2/IMAGE/2.png)
+![image](https://raw.githubusercontent.com/v6cl/Filamentalist/main/F1mod/0.2v/IMAGE/2.png)
 
-![image](https://raw.githubusercontent.com/v6cl/Filamentalist/main/Filamentalist_F1mod/0.2v/FilamentalistF1_v0.2/IMAGE/3.png)
+![image](https://raw.githubusercontent.com/v6cl/Filamentalist/main/F1mod/0.2v/IMAGE/3.png)
 
-![image](https://raw.githubusercontent.com/v6cl/Filamentalist/main/Filamentalist_F1mod/0.2v/FilamentalistF1_v0.2/IMAGE/4.png)
+![image](https://raw.githubusercontent.com/v6cl/Filamentalist/main/F1mod/0.2v/IMAGE/4.png)
 
-![image](https://raw.githubusercontent.com/v6cl/Filamentalist/main/Filamentalist_F1mod/0.2v/FilamentalistF1_v0.2/IMAGE/5.png)
+![image](https://raw.githubusercontent.com/v6cl/Filamentalist/main/F1mod/0.2v/IMAGE/5.png)
