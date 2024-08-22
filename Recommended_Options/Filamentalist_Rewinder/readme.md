@@ -77,7 +77,7 @@ Things that you need to know include:
 |   1   | Spring  | https://www.amazon.com/dp/B076LNJF5Q, Aliexpress | Like in extruders - 304 Stainless Steel,6mm OD,0.6mm Wire Size,7.5mm Compressed Length,15mm Free Length (the stiffer 1mm wire size extruder spring used on CW2 and G2E will also work if you have those on-hand) |                                 |
 |   1 | 3mm Heatset Insert | M3x4x5 like these:  https://www.amazon.com/gp/product/B09MCW7ZN5 | Voron standard size | set into the Tensioner Mnt |
 |   1   | 3x35mm SHCS | SS Socket Head Cap Screw | Spring Tensioner Screw anything in the range of 35mm +/- 10mm should work.  If building the alernate reverse access version then a 40-50mm length is recommended. |
-|  2-6  | M3x8 SHCS  |  Stainless Steel Socket Head Screw | for locking rim rollers to 8mm steel axle shaft.  1 to 3 screws per roller Depending on tightness/looseness of Rim Roller center bore |
+|  2-6  | M3x10 SHCS  |  Stainless Steel Socket Head Screw | for locking rim rollers to 8mm steel axle shaft.  1 to 3 screws per roller Depending on tightness/looseness of Rim Roller center bore |
 |   6   | 3x12 FHCS  |  Stainless Steel Flat Head Screw | for Tensioner Mnt and Rear Axle installation 8/10/12mm lengths will work|
 |   3   | 3x18 FHCS  |  Stainless Steel Flat Head Screw | for Tensioner Arm clamp bearings and Tensioner Mnt pivot installation 16mm length will work |
 |   2   | Rubber Band | See [FAQ](Filamentalist_FAQ.md) | bike tire inner tube or rubber bands |
