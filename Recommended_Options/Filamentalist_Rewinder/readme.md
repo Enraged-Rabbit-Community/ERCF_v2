@@ -37,7 +37,9 @@ The Filamentalist is an integrated solution for buffering and spool holding prov
 </p>
 
 ## <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Brain_Logo.png" width="50" height="60"> Credits:
-Discord user Thisiscam first made me aware of [Muzi Xiaoyang's video](https://www.bilibili.com/video/BV1ZM41197fX/?spm_id_from=333.337.search-card.all.click) of a filament driven rewinder .  Through a long collaboration with Thisiscam, a great Beta dev/test team, and many design iterations/improvements on the Muzi Xiaoyang design, the Filamentalist was born. Key changes include incorporation of a one-way bearing, establishing the correct gear ratio for operation across the range of empty-to-full spools, and the long-life o-ring based filament clamping interface.
+Discord user Thisiscam first made me aware of [Muzi Xiaoyang's video](https://www.bilibili.com/video/BV1ZM41197fX/?spm_id_from=333.337.search-card.all.click) of a filament driven rewinder .  Through a long collaboration with Thisiscam, a great Beta dev/test team, and many design iterations/improvements on the Muzi Xiaoyang design, the Filamentalist was born. Key changes to the Muzi Xiaoyang design include incorporation of a one-way bearing, establishing the correct gear ratio for operation across the range of empty-to-full spools, and the long-life o-ring based filament clamping interface.
+
+A special mention and thanks goes out to Cheesefrog and JCPhlux for their innovation and inputs for design refinement. 
 
 ## <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Brain_Logo.png" width="50" height="60"> **Additional Notes/Considerations** 
 
