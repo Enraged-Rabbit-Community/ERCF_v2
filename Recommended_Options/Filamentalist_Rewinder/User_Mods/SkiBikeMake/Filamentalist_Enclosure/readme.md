@@ -2,22 +2,22 @@
 
 The Filamentalist Enclosure is a passive dry box designed to house the Filamentalist passive rewinder.  It  consists of (4) printed endcaps, (6) pieces of 2020 extrusion cut/ordered to the desired length, and 0.060" (1/16') polycarbonate sheet(s) cut to size. 
 
-<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/Recommended_Options/Filamentalist_Rewinder/User_Mods/SkiBikeMake/Filamentalist_Enclosure/Assets/20240619_221414.jpg" width="475" height="425">
+<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/User_Mods/SkiBikeMake/Filamentalist_Enclosure/Assets/20240619_221414.jpg" width="475" height="425">
 </p>
 
-<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/Recommended_Options/Filamentalist_Rewinder/User_Mods/SkiBikeMake/Filamentalist_Enclosure/Assets/20240615_221926.jpg" width="475" height="600">
+<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/User_Mods/SkiBikeMake/Filamentalist_Enclosure/Assets/20240615_221926.jpg" width="475" height="700">
 </p>
 
-<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/Recommended_Options/Filamentalist_Rewinder/User_Mods/SkiBikeMake/Filamentalist_Enclosure/Assets/20240615_221938.jpg" width="475" height="600">
+<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/User_Mods/SkiBikeMake/Filamentalist_Enclosure/Assets/20240615_221938.jpg" width="475" height="600">
 </p>
 
-<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/Recommended_Options/Filamentalist_Rewinder/User_Mods/SkiBikeMake/Filamentalist_Enclosure/Assets/20240615_222004.jpg" width="475" height="475">
+<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/User_Mods/SkiBikeMake/Filamentalist_Enclosure/Assets/20240615_222004.jpg" width="475" height="400">
 </p>
 
-<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/Recommended_Options/Filamentalist_Rewinder/User_Mods/SkiBikeMake/Filamentalist_Enclosure/Assets/20240615_222014.jpg" width="475" height="475">
+<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/User_Mods/SkiBikeMake/Filamentalist_Enclosure/Assets/20240615_222014.jpg" width="475" height="475">
 </p>
 
-<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/Recommended_Options/Filamentalist_Rewinder/User_Mods/SkiBikeMake/Filamentalist_Enclosure/Assets/20240615_222119.jpg" width="475" height="475">
+<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/User_Mods/SkiBikeMake/Filamentalist_Enclosure/Assets/20240615_222119.jpg" width="475" height="475">
 </p>
 
 BOM:
@@ -56,19 +56,19 @@ There is room, and some special "far left" and "far right" extended supports tha
 
 **Seal Installation:**
 
-<img src="https://github.com/SkiBikePrint/ERCF_Mods/blob/f93ed33f1c8511d502d34e729206b746fa133d2f/Filamentalist_Enclosure/Assets/Seal_Install_1.jpg" width="475" height="475">
+<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/User_Mods/SkiBikeMake/Filamentalist_Enclosure/Assets/Seal_Install_1.jpg" width="475" height="475">
 </p>
-<img src="https://github.com/SkiBikePrint/ERCF_Mods/blob/f93ed33f1c8511d502d34e729206b746fa133d2f/Filamentalist_Enclosure/Assets/Seal_Install_2.jpg" width="475" height="475">
+<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/User_Mods/SkiBikeMake/Filamentalist_Enclosure/Assets/Seal_Install_2.jpg" width="475" height="475">
 </p>
-<img src="https://github.com/SkiBikePrint/ERCF_Mods/blob/f93ed33f1c8511d502d34e729206b746fa133d2f/Filamentalist_Enclosure/Assets/Seal_Install_3.jpg" width="475" height="475">
+<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/User_Mods/SkiBikeMake/Filamentalist_Enclosure/Assets/Seal_Install_3.jpg" width="475" height="475">
 </p>
-<img src="https://github.com/SkiBikePrint/ERCF_Mods/blob/f93ed33f1c8511d502d34e729206b746fa133d2f/Filamentalist_Enclosure/Assets/Seal_Install_4.jpg" width="475" height="475">
+<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/User_Mods/SkiBikeMake/Filamentalist_Enclosure/Assets/Seal_Install_4.jpg" width="475" height="475">
 </p>
-<img src="https://github.com/SkiBikePrint/ERCF_Mods/blob/f93ed33f1c8511d502d34e729206b746fa133d2f/Filamentalist_Enclosure/Assets/Seal_Install_5.jpg" width="475" height="475">
+<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/User_Mods/SkiBikeMake/Filamentalist_Enclosure/Assets/Seal_Install_5.jpg" width="475" height="475">
 </p>
 
 **Securing/Sealing on Printer:**
 
 For a Voron enclosure you can "straddle" the top panel like the pic below.  Drill 2 countersunk holes in the top panel and screw them into t-nuts in the bottom enclosure extrusion.  The screw heads sit just below the panel surface so that the bowden tube doesnt catch on them while the print head is zooming around.   Run seal material in the rear bottom extrusion channel of the enclosure. Cut out sections of the weather stripping base to make space for the t-nuts to sit under but leave a continuous piece of weatherstripping seal running over the top of the t-nuts.  You can stick toothpicks into the t-nut holes (or 3mm screws with the heads cut off) to serve as locating pegs when you drop the enclosure onto the printer to make sure the top panel holes align with the t-nut locations.  This will pull  the top panel against the seal and is enough to secure the enclosure in place on the printer.
 
-<img src="https://github.com/SkiBikePrint/ERCF_Mods/blob/bb7fdd7f198937ab097e0a71e6ffcc328b678437/Filamentalist_Enclosure/Assets/Base_Attachment.jpg" width="950" height="475">
+<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/User_Mods/SkiBikeMake/Filamentalist_Enclosure/Assets/Base_Attachment.jpg" width="950" height="475">
