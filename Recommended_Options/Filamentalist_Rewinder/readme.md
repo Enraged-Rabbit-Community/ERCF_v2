@@ -65,7 +65,8 @@ Things that you need to know include:
    - Filamentalist Discord group [here:](https://discord.gg/uDcGxukRKd)
 
 ## <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Brain_Logo.png" width="50" height="60"> **BOM:**
-(please read comments in the right column)
+
+**ATTENTION!! PLEASE READ COMMENTS IN FAR RIGHT COLUMN** (you may need to scroll over in your view)
 
 | Qty per Site | Part | Example Source Reference | Comments |
 |-------|---------------------------|-----------------------------|-------------------------------|
