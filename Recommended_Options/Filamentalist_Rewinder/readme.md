@@ -7,9 +7,9 @@
 <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_6_Color.jpg" width="350" height="300">
 </p>
 
+## [Filamentalist Assembly Guide Document](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Documentation/Filamentalist_Rewinder_Manual_V3.pdf)  [<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist RC2 Manual_Cover.jpg" width="150" height="100">](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Documentation/Filamentalist_Rewinder_Manual_V3.pdf)
 
-## [Filamentalist Assembly Guide Video](https://youtu.be/5Qk3N2sKz40)  [<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist RC2 Manual_Cover.jpg" width="150" height="100">](https://youtu.be/5Qk3N2sKz40)
-
+## [Filamentalist Assembly Guide Video](https://youtu.be/-1cHOcnosxE)  [<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist RC2 Manual_Cover.jpg" width="150" height="100">](https://youtu.be/-1cHOcnosxE)
 
 
 ## Video of 6 rewinders swapping (plus SW Only Blobifier Purging):  [<img src="https://github.com/SkiBikePrint/Filamentalist/blob/7042b9b10466e7a60b45ed23568b3a78ff5930b9/Assets/Swap_Video.jpg" width="100" height="100">](https://photos.app.goo.gl/hKso7JYPZcdRLKrW8)
