@@ -112,7 +112,7 @@
   [return to index](#filamentalist-frequently-asked-questions)
 
 
-### Flexible Filament
+## Flexible Filament
   - The Filamentalist has been successfully tested with 95A hardness TPU
   - 85A hardness TPU (for example NinjaFlex) has been minimally tested and the Filamentalist would load/unload it.  I was unable to perform filament tool changes  within a print as the NinjaFlex was jamming in my extruder due to excessive extrusion rates.  I'll get back to testing this at some point with a slower extrusion rate for purging and printing.  If you have had success or failure with the Filamentalist using flexible materials softer than 95A please let me know.<br />
   <br />
