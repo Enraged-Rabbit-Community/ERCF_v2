@@ -65,12 +65,15 @@
 
   Research the options below and decide what will work best for you.
   
-  ### CottonTail Lite:
-  - Coupler Blocks: https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/ERCT_Buffer/Coupler_Block/Coupler_Block_Lite.stl
-  - End Cap Mount:  https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/ERCT_Buffer/Support_Arm/End_Cap_Mount.stl
-  - End Arm Cap Mount:  https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/ERCT_Buffer/Support_Arm/End_Arm_Cap_Mount.stl
-  - End Arm Cap Mount Extension:  https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/rc2/Recommended_Options/ERCT_Buffer/Support_Arm/End_Arm_Cap_Mount_Extention.stl
-  - Electronics Box will Mount to This:  https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/rc2/Stls/Electronics/Universal_Box
+  ### CottonTail Lite:  
+  - https://github.com/Tyler8299/CottonTail-Lite
+  - Includes:
+    - Coupler Blocks
+    - End Cap Mount 
+    - End Arm Cap Mount
+    - End Arm Cap Mount Extension
+    - Universal Electronics Box, Lid, and Mount
+    - LED Carrier/Apron
   
   <img src="https://github.com/SkiBikePrint/Filamentalist/blob/9d7a90dc3dec40c67051558c80c616155eb8eba8/Assets/CottonTail%20Lite%20Pre-Gate%20Sensors.jpg" width="500" height="350">
 
