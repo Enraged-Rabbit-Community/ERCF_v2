@@ -87,7 +87,7 @@ Things that you need to know include:
 **Optional Parts**
 | Qty per Site | Part | Example Source Reference | Comments |
 |-------|---------------------------|-----------------------------|-------------------------------|
-|   3   | D2F-L3 Microswitch  | Omron brand - Mouser, Digikey, etc., Aliexpress example: https://www.aliexpress.us/item/3256805036222979.html  | for pre-gate sensor option versions |
+|   1   | D2F-L3 Microswitch  | Omron brand - Mouser, Digikey, etc., Aliexpress example: https://www.aliexpress.us/item/3256805036222979.html  | for pre-gate sensor option versions |
 |   2   | M2x10 Self Tapping Screw | Philips or socket head.  Amazon example: https://www.amazon.com/DTGN-M2x10mm-Phillips-Self-tapping-Screw/dp/B0CSRTYBLR, Aliexpress example: https://www.aliexpress.us/item/3256802486141312.html (select size) | for pre-gate sensor option versions |
 |   1   | JST-XH 2-pin Socket/Plug | Amazon example:  https://www.amazon.com/CQRobot-Connector-Terminals-Housing-Adapter/dp/B0B2R966ZY, Aliexpress Example: https://www.aliexpress.us/item/3256804799083128.html (need housing, plug, and terminal) | for pre-gate sensor option versions |
 |   var.   | 24 awg wire  |   | for pre-gate sensor option versions |
