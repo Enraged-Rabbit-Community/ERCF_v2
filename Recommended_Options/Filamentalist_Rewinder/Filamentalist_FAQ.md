@@ -89,6 +89,13 @@
 
   Similar to the CheeseFrog solution but more complex.  Also requires a teardown/rebuild if added to an existing ERCF.<br />
   <br />
+
+  ### Filamentalist Tensioner Mount based Pre-Gate Sensors
+
+  This option is provided for users who are using an MMU other than ERCF and don't have another option for pre-gate sensors.  If you are building a new ERCF I recommend the Cheesefrog sensors above.  If you have an existing ERCF and have the space for them, the CottontailLite sensors above are a good option.  For more information refer to the assembly manual, see CAD, and stl files.
+
+  <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/354a8adedb6695756e69be10073012356cb178e7/Recommended_Options/Filamentalist_Rewinder/Assets/Tensioner_pre-gate_sensor_cad.jpg" width="250" height="250"><img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/354a8adedb6695756e69be10073012356cb178e7/Recommended_Options/Filamentalist_Rewinder/Assets/Tensioner_pre-gate_sensor_pic.jpg" width="250" height="250">
+
     
   [return to index](#filamentalist-frequently-asked-questions)
 
