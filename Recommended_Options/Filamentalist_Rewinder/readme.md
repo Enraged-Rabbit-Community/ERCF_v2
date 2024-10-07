@@ -77,16 +77,17 @@ Things that you need to know include:
 |   2   | O-rings | Metric 3.5x20 (ID) or AS568 Standard size 211, Home Depot #110, Amazon example: https://www.amazon.com/211-Buna-N-Ring-Durometer-Black/dp/B000FN0W7I/, Aliexpress example: https://www.aliexpress.us/item/2255799953260685.html (select correct size) | In the range of 13/16" ID, 1-1/16" OD or ~20mm ID, ~27mm OD, ~3.5mm cross section/cs, Nitrile Butadiene Rubber (NBR or Buna-N)|
 |   1   | Spring  | https://www.amazon.com/dp/B076LNJF5Q, Aliexpress | Like in extruders - 304 Stainless Steel,6mm OD,0.6mm Wire Size,7.5mm Compressed Length,15mm Free Length (the stiffer 1mm wire size extruder spring used on CW2 and G2E will also work if you have those on-hand) |                                 |
 |   1 | 3mm Heatset Insert | M3x4x5 like these:  https://www.amazon.com/gp/product/B09MCW7ZN5 | Voron standard size | set into the Tensioner Mnt |
-|   1   | 3x35mm SHCS | SS Socket Head Cap Screw | Spring Tensioner Screw anything in the range of 35mm +/- 10mm should work.  If building the alernate reverse access version then a 40-50mm length is recommended. |
+|   1   | 3x35mm SHCS | SS Socket Head Cap Screw | Spring Tensioner Screw anything in the range of 35mm +/- 10mm should work.  If building the alernate reverse access version then a 30mm length is recommended. |
 |  2-6  | M3x10 SHCS  |  Stainless Steel Socket Head Screw | for locking rim rollers to 8mm steel axle shaft.  1 to 3 screws per roller Depending on tightness/looseness of Rim Roller center bore |
 |   6   | 3x12 FHCS  |  Stainless Steel Flat Head Screw | for Tensioner Mnt and Rear Axle installation 8/10/12mm lengths will work|
 |   3   | 3x18 FHCS  |  Stainless Steel Flat Head Screw | for Tensioner Arm clamp bearings and Tensioner Mnt pivot installation 16mm length will work |
+|   1   | M3 Washer  |  Stainless Steel | between Spring Tensioner screw head and spring |
 |   2   | Rubber Band | See [FAQ](Filamentalist_FAQ.md) | bike tire inner tube or rubber bands |
 
 **Optional Parts**
 | Qty per Site | Part | Example Source Reference | Comments |
 |-------|---------------------------|-----------------------------|-------------------------------|
-|   3   | D2F-L3 Microswitch  | Omron brand - Mouser, Digikey, etc., Aliexpress example: https://www.aliexpress.us/item/3256805036222979.html  | for pre-gate sensor option versions |
+|   1   | D2F-L3 Microswitch  | Omron brand - Mouser, Digikey, etc., Aliexpress example: https://www.aliexpress.us/item/3256805036222979.html  | for pre-gate sensor option versions |
 |   2   | M2x10 Self Tapping Screw | Philips or socket head.  Amazon example: https://www.amazon.com/DTGN-M2x10mm-Phillips-Self-tapping-Screw/dp/B0CSRTYBLR, Aliexpress example: https://www.aliexpress.us/item/3256802486141312.html (select size) | for pre-gate sensor option versions |
 |   1   | JST-XH 2-pin Socket/Plug | Amazon example:  https://www.amazon.com/CQRobot-Connector-Terminals-Housing-Adapter/dp/B0B2R966ZY, Aliexpress Example: https://www.aliexpress.us/item/3256804799083128.html (need housing, plug, and terminal) | for pre-gate sensor option versions |
 |   var.   | 24 awg wire  |   | for pre-gate sensor option versions |

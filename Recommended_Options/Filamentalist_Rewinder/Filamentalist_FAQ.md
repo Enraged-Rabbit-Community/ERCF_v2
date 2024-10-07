@@ -89,6 +89,13 @@
 
   Similar to the CheeseFrog solution but more complex.  Also requires a teardown/rebuild if added to an existing ERCF.<br />
   <br />
+
+  ### Filamentalist Tensioner Mount based Pre-Gate Sensors
+
+  This option is provided for users who are using an MMU other than ERCF and don't have another option for pre-gate sensors.  Although these work well, I have found that having the sensor "bump" at the beginning of the Tensioner Mount filament path makes filament loading a little more difficult.  If you are building a new ERCF I recommend the Cheesefrog sensors above.  If you have an existing ERCF and have the space for them, the CottontailLite sensors above are a good option.  For more information on the Tesnioner Mount based pre-gate sensor option refer to the assembly manual, CAD, and stl files.
+
+  <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/354a8adedb6695756e69be10073012356cb178e7/Recommended_Options/Filamentalist_Rewinder/Assets/Tensioner_pre-gate_sensor_cad.jpg" width="250" height="250"><img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/354a8adedb6695756e69be10073012356cb178e7/Recommended_Options/Filamentalist_Rewinder/Assets/Tensioner_pre-gate_sensor_pic.jpg" width="250" height="250">
+
     
   [return to index](#filamentalist-frequently-asked-questions)
 
@@ -117,7 +124,7 @@
 
 ## Flexible Filament
   - The Filamentalist has been successfully tested with 95A hardness TPU
-  - 85A hardness TPU (for example NinjaFlex) has been minimally tested and the Filamentalist would load/unload it.  I was unable to perform filament tool changes  within a print as the NinjaFlex was jamming in my extruder due to excessive extrusion rates.  I'll get back to testing this at some point with a slower extrusion rate for purging and printing.  If you have had success or failure with the Filamentalist using flexible materials softer than 95A please let me know.<br />
+  - 85A hardness TPU (for example NinjaFlex) - NOT RECOMMENDED! - Soft TPU has been minimally tested and the Filamentalist experienced kinking and jamming during unload.  If you have had success or failure with the Filamentalist using flexible materials softer than 95A please let me know.<br />
   <br />
     
   [return to index](#filamentalist-frequently-asked-questions)
