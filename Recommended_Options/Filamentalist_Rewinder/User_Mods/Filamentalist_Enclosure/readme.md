@@ -27,12 +27,16 @@ BOM:
     - get extrusions with holes that can be tapped to a 5mm thread (like the Misumi with a 4.2mm D hole)
     - examples: https://www.amazon.com/dp/B09DYMCBYF, https://www.aliexpress.us/item/3256801651139612.html
 
-- Polycarbonate Sheet (Lexan) - 1/16" (or 0.060") thick.  Width of pieces = Extrusion Length -2mm (i.e. cut sheet to 498mm wide if using 500mm extrusions)
+- Polycarbonate Sheet (Lexan) - 1/16" (also 0.060" or 1.5mm) thick.  Width of pieces = Extrusion Length -2mm (i.e. cut sheet to 498mm wide if using 500mm extrusions)
     - Lid Length = 451.5mm
     - Base Rear Panel Height = 120mm
     - Base Front Panel Height = 45mm
     - Bottom Panel Length (if used) = 230mm
-    - For enclosures up to 607.6mm wide a single 24" x 36" sheet is enough material.  (2) 24" x 24" or (1) 24" x 24" + (2) 12" x 24" sheets will work as well if it is easier for you to source smaller sheets.
+    - For enclosures up to 607.6mm wide a single 24" x 36" sheet is enough material.
+      - (2) 24" x 24" or (1) 24" x 24" + (2) 12" x 24" sheets will work as well if it is easier for you to source smaller sheets.
+    - Sourcing Alternatives:
+      - If there are difficulties sourcing the recommended Polycarbonate (Lexan) sheet material, PET and PET-G sheet has been used successfully although it wil be less scratch resistant
+      - 2mm sheet can also be substituted but it will be more difficult when bending the lid panel into the lid frame and end caps
 
 - Seal Material - ~10m or 32ft of 3/8" wide x 1/4" high (9mm x 6mm) self-adhesive weather seal.  Something like this:  https://www.homedepot.com/p/M-D-Building-Products-17-ft-Black-Small-Rubber-Auto-Marine-Weatherseal-for-All-Climates-01025/202066509, or https://www.amazon.com/Insulation-Weatherproof-Soundproofing-Self-Adhesive-Weatherstrip/dp/B082HDZ1P1?th=1, or https://www.aliexpress.us/item/3256806396445681.html.  Most of the glue needs to be peeled off so you want the style that has the "strings" embedded in the glue to aid in removal.
 
