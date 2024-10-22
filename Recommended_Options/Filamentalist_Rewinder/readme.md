@@ -7,9 +7,9 @@
 <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_6_Color.jpg" width="350" height="300">
 </p>
 
+## [Filamentalist Assembly Guide Document](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/b04e75d1da1841365e015c20a97aaef5a365349d/Recommended_Options/Filamentalist_Rewinder/Documentation/Filamentalist_Rewinder_Manual_V3.1.pdf)  [<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist RC2 Manual_Cover.jpg" width="150" height="100">](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Documentation/Filamentalist_Rewinder_Manual_V3.pdf)
 
-## [Filamentalist Assembly Guide Video](https://youtu.be/5Qk3N2sKz40)  [<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist RC2 Manual_Cover.jpg" width="150" height="100">](https://youtu.be/5Qk3N2sKz40)
-
+## [Filamentalist Assembly Guide Video](https://youtu.be/-1cHOcnosxE?si=RZV318OI9f3f_CkE)  [<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist Assembly Video Thumbnail.jpg" width="150" height="100">](https://youtu.be/-1cHOcnosxE?si=RZV318OI9f3f_CkE)
 
 
 ## Video of 6 rewinders swapping (plus SW Only Blobifier Purging):  [<img src="https://github.com/SkiBikePrint/Filamentalist/blob/7042b9b10466e7a60b45ed23568b3a78ff5930b9/Assets/Swap_Video.jpg" width="100" height="100">](https://photos.app.goo.gl/hKso7JYPZcdRLKrW8)
@@ -37,7 +37,9 @@ The Filamentalist is an integrated solution for buffering and spool holding prov
 </p>
 
 ## <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Brain_Logo.png" width="50" height="60"> Credits:
-Discord user Thisiscam first made me aware of [Muzi Xiaoyang's video](https://www.bilibili.com/video/BV1ZM41197fX/?spm_id_from=333.337.search-card.all.click) of a filament driven rewinder .  Through a long collaboration with Thisiscam, a great Beta dev/test team, and many design iterations/improvements on the Muzi Xiaoyang design, the Filamentalist was born. Key changes include incorporation of a one-way bearing, establishing the correct gear ratio for operation across the range of empty-to-full spools, and the long-life o-ring based filament clamping interface.
+Discord user Thisiscam first made me aware of [Muzi Xiaoyang's video](https://www.bilibili.com/video/BV1ZM41197fX/?spm_id_from=333.337.search-card.all.click) of a filament driven rewinder .  Through a long collaboration with Thisiscam, a great Beta dev/test team, and many design iterations/improvements on the Muzi Xiaoyang design, the Filamentalist was born. Key changes to the Muzi Xiaoyang design include incorporation of a one-way bearing, establishing the correct gear ratio for operation across the range of empty-to-full spools, and the long-life o-ring based filament clamping interface.
+
+A special mention and thanks goes out to Cheesefrog and JCPhlux for their innovation and inputs for design refinement. 
 
 ## <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Brain_Logo.png" width="50" height="60"> **Additional Notes/Considerations** 
 
@@ -63,7 +65,8 @@ Things that you need to know include:
    - Filamentalist Discord group [here:](https://discord.gg/uDcGxukRKd)
 
 ## <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Brain_Logo.png" width="50" height="60"> **BOM:**
-(please read comments in the right column)
+
+**ATTENTION!! PLEASE READ COMMENTS IN FAR RIGHT COLUMN** (you may need to scroll over in your view)
 
 | Qty per Site | Part | Example Source Reference | Comments |
 |-------|---------------------------|-----------------------------|-------------------------------|
@@ -74,16 +77,17 @@ Things that you need to know include:
 |   2   | O-rings | Metric 3.5x20 (ID) or AS568 Standard size 211, Home Depot #110, Amazon example: https://www.amazon.com/211-Buna-N-Ring-Durometer-Black/dp/B000FN0W7I/, Aliexpress example: https://www.aliexpress.us/item/2255799953260685.html (select correct size) | In the range of 13/16" ID, 1-1/16" OD or ~20mm ID, ~27mm OD, ~3.5mm cross section/cs, Nitrile Butadiene Rubber (NBR or Buna-N)|
 |   1   | Spring  | https://www.amazon.com/dp/B076LNJF5Q, Aliexpress | Like in extruders - 304 Stainless Steel,6mm OD,0.6mm Wire Size,7.5mm Compressed Length,15mm Free Length (the stiffer 1mm wire size extruder spring used on CW2 and G2E will also work if you have those on-hand) |                                 |
 |   1 | 3mm Heatset Insert | M3x4x5 like these:  https://www.amazon.com/gp/product/B09MCW7ZN5 | Voron standard size | set into the Tensioner Mnt |
-|   1   | 3x35mm SHCS | SS Socket Head Cap Screw | Spring Tensioner Screw anything in the range of 35mm +/- 10mm should work.  If building the alernate reverse access version then a 40-50mm length is recommended. |
-|  2-6  | M3x8 SHCS  |  Stainless Steel Socket Head Screw | for locking rim rollers to 8mm steel axle shaft.  1 to 3 screws per roller Depending on tightness/looseness of Rim Roller center bore |
+|   1   | 3x35mm SHCS | SS Socket Head Cap Screw | Spring Tensioner Screw anything in the range of 35mm +/- 10mm should work.  If building the alernate reverse access version then a 30mm length is recommended. |
+|  2-6  | M3x10 SHCS  |  Stainless Steel Socket Head Screw | for locking rim rollers to 8mm steel axle shaft.  1 to 3 screws per roller Depending on tightness/looseness of Rim Roller center bore |
 |   6   | 3x12 FHCS  |  Stainless Steel Flat Head Screw | for Tensioner Mnt and Rear Axle installation 8/10/12mm lengths will work|
 |   3   | 3x18 FHCS  |  Stainless Steel Flat Head Screw | for Tensioner Arm clamp bearings and Tensioner Mnt pivot installation 16mm length will work |
+|   1   | M3 Washer  |  Stainless Steel | between Spring Tensioner screw head and spring |
 |   2   | Rubber Band | See [FAQ](Filamentalist_FAQ.md) | bike tire inner tube or rubber bands |
 
 **Optional Parts**
 | Qty per Site | Part | Example Source Reference | Comments |
 |-------|---------------------------|-----------------------------|-------------------------------|
-|   3   | D2F-L3 Microswitch  | Omron brand - Mouser, Digikey, etc., Aliexpress example: https://www.aliexpress.us/item/3256805036222979.html  | for pre-gate sensor option versions |
+|   1   | D2F-L3 Microswitch  | Omron brand - Mouser, Digikey, etc., Aliexpress example: https://www.aliexpress.us/item/3256805036222979.html  | for pre-gate sensor option versions |
 |   2   | M2x10 Self Tapping Screw | Philips or socket head.  Amazon example: https://www.amazon.com/DTGN-M2x10mm-Phillips-Self-tapping-Screw/dp/B0CSRTYBLR, Aliexpress example: https://www.aliexpress.us/item/3256802486141312.html (select size) | for pre-gate sensor option versions |
 |   1   | JST-XH 2-pin Socket/Plug | Amazon example:  https://www.amazon.com/CQRobot-Connector-Terminals-Housing-Adapter/dp/B0B2R966ZY, Aliexpress Example: https://www.aliexpress.us/item/3256804799083128.html (need housing, plug, and terminal) | for pre-gate sensor option versions |
 |   var.   | 24 awg wire  |   | for pre-gate sensor option versions |
