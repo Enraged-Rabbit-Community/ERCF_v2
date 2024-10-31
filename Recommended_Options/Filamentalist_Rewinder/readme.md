@@ -7,7 +7,7 @@
 <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_6_Color.jpg" width="350" height="300">
 </p>
 
-## [Filamentalist Assembly Guide Document](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/b04e75d1da1841365e015c20a97aaef5a365349d/Recommended_Options/Filamentalist_Rewinder/Documentation/Filamentalist_Rewinder_Manual_V3.1.pdf)  [<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist RC2 Manual_Cover.jpg" width="150" height="100">](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Documentation/Filamentalist_Rewinder_Manual_V3.pdf)
+## [Filamentalist Assembly Guide Document](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/b04e75d1da1841365e015c20a97aaef5a365349d/Recommended_Options/Filamentalist_Rewinder/Documentation/Filamentalist_Rewinder_Manual_V3.1.pdf)  [<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist RC2 Manual_Cover.jpg" width="150" height="100">](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Documentation/Filamentalist_Rewinder_Manual_V3.1.pdf)
 
 ## [Filamentalist Assembly Guide Video](https://youtu.be/-1cHOcnosxE?si=RZV318OI9f3f_CkE)  [<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist Assembly Video Thumbnail.jpg" width="150" height="100">](https://youtu.be/-1cHOcnosxE?si=RZV318OI9f3f_CkE)
 
