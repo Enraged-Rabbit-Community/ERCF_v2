@@ -15,6 +15,9 @@
 ## Video of 6 rewinders swapping (plus SW Only Blobifier Purging):  [<img src="https://github.com/SkiBikePrint/Filamentalist/blob/7042b9b10466e7a60b45ed23568b3a78ff5930b9/Assets/Swap_Video.jpg" width="100" height="100">](https://photos.app.goo.gl/hKso7JYPZcdRLKrW8)
 
 
+## [Video of loading a spool onto a Filamentalist rewinder using pre-gate sensors auto-detecting the filament and pulling it into the ERCF:](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/de5aa6bcda6b4f88f728a2cb1822f25097617822/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Loading_1.mp4)  
+
+
 ## [Filamentalist Enclosure Drybox Project Github](https://github.com/SkiBikePrint/ERCF_Mods/tree/main/Filamentalist_Enclosure)
 <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/20240619_221414.jpg" width="350" height="300">
 </p>
