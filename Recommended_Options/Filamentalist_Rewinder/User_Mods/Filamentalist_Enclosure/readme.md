@@ -52,7 +52,7 @@ BOM:
 
 - M5 x 8/10mm length SHCS - Qty 2 - Optional, for setting how far the lid hinges back.
   
-- 6mm OD/4mm ID grommets for sealing  bowden tubes. Drill 6.5mm holes.  uxcell Rubber Grommets 4mm Dia.  https://a.co/d/bBc6JAL
+- 6mm OD/4mm ID grommets for sealing  bowden tubes. Drill 6.5mm holes.  Example:  https://a.co/d/bBc6JAL
 
 (6) standard width (81.5mm) Filamentalist will fit in the 500mm length extrusion version of the enclosure.  There is room, and some special "far left" and "far right" extended supports that allow you to build one ~94mm wide Filamentalist unit using the parametric model to support a wider spool like KVP or NinjaFlex.
 
