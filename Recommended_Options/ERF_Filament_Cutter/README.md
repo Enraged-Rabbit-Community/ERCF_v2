@@ -43,12 +43,17 @@ Currently ERF is only available for the Stealthburner toolhead. We hope to offer
     <td>4_No_Sensors</td>
     <td><a href="Stls/4_No_Sensors/SB_CW2_Body.stl">Body</a></td>
   </tr>
-
   <tr>
     <td>LGX Lite</td>
     <td>4_No_Sensors</td>
     <td><a href="Stls/4_No_Sensors/SB_LGX_Lite_Body.stl">Body</a></td>
     <td>Credit: <a href="https://www.printables.com/de/model/576122-lgx-lite-stealthburner-filament-cutter">tommorox234</a></td>
+  </tr>
+  <tr>
+    <td>StealthOrbiter</td>
+    <td>4_No_Sensors</td>
+    <td><a href="Stls/4_No_Sensors/SB_StealthOrbiter_Body.stl">Body</a></td>
+    <td>Credit: <a href="https://github.com/emjay276">emjay276</a></td>
   </tr>
 </table>
 
