@@ -145,7 +145,7 @@ ERCF is designed to be used with the Happy Hare MMU firmware for Klipper which a
 Happy Hare provides an easy installation script which has knowledge of recommended settings and will greatly accelerate the setup process.
 <p>
 
-[Happy Hare](https://github.com/moggieuk/Happy-Hare/blob/main/doc/ercf_v2.md) &nbsp;&nbsp; [KlipperScreen](https://github.com/moggieuk/KlipperScreen-Happy-Hare-Edition)
+[Happy Hare](https://github.com/moggieuk/Happy-Hare/wiki) &nbsp;&nbsp; [KlipperScreen](https://github.com/moggieuk/KlipperScreen-Happy-Hare-Edition)
 </td>
 </tr>
 </table>
