@@ -5,7 +5,7 @@ forked from (https://github.com/SkiBikePrint/ERCF_Mods/tree/main/Filamentalist)
 - 608 Bearing x 4
 - 623 Bearing x 1
 - HF081412 One-Way Bearing
-- Rubber O - ring ID ~20mm , OD ~26mm AN-211
+- Rubber O - ring ID ~20mm , OD ~27mm AN-211
 - ECAS04 OR 6mm collet
 - N52 Grade 6x3 magnet x 4
 - 50mm, 8mm Diameter shaft or dowell pin
