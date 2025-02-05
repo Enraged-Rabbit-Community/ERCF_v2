@@ -4,7 +4,7 @@ forked from (https://github.com/SkiBikePrint/ERCF_Mods/tree/main/Filamentalist)
 
 - 608 Bearing x 5
 - HF081412 One-Way Bearing
-- Rubber O - ring ID ~20mm , OD ~26mm AN-211
+- Rubber O - ring ID ~20mm , OD ~27mm AN-211
 - 623 Bearing x 2 (Optional)
 - ECAS04
 - Ball pen Spring 20mm (https://ko.aliexpress.com/w/wholesale-ball-pen-spring.html?spm=a2g0o.detail.search.0)
