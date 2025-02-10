@@ -3,7 +3,7 @@
 <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_render.png" width="350" height="475">
 </p>
 
-## Filamentalist Discord group [here:](https://discord.gg/uDcGxukRKd) ##
+## Filamentalist Discord group [here:](https://discord.gg/zHGH9sXFVK) ##
 
 <p align="center"><img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Front.jpg" width="350" height="300">
 <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Top.jpg" width="300" height="300">
