@@ -25,7 +25,7 @@ Initially, ERCF V2 will be released with ERF (Filametrix) for Voron Stealthburne
 BTT MMB is the new standard and recommended board for V2. Easy BRD and alternatives will work for most of V2's features, but some of the new features, like pregate sensors and, in some cases, RGB lighting, will require a board with enough endstop and LED inputs to operate fully.
 
 ### Q9. Where can I get support for my ERCF V2 build?
-ERCF V2 is built on a community of supporters and other experienced builders. Visit [VoronDesign #ercf_questions](https://discord.com/channels/460117602945990666/909743915475816458) Discord server for any questions and support issues where members of the V2 team as well as the community is there to help.
+ERCF V2 is built on a community of supporters and other experienced builders. Visit the [ERCF Discord server](https://discord.gg/MPZ4cHm9gm) for any questions and support issues, where members the community are there to help.
 
 ### Q10. Is there a build guide on assembling and calibrating my new ERCF?
 Yes, a build guide is available in PDF format on the GitHub repository.
