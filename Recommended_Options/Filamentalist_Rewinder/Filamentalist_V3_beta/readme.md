@@ -30,6 +30,9 @@
 |   var.   | 24 awg wire  |   | for pre-gate sensor option versions |
 | 2  | 6x3mm Neodymium Magnet | Amazon, Aliexpress | Preferably N52 strength but N35 will work |
 
+## Filamentalist V2 to V3 BOM Compare ##
+<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Filamentalist_V3_beta/Assets/V2-V3_BOM_Compare.png" width="750" height="650">
+</p>
 
 ## Assembly Tips: ##
 
