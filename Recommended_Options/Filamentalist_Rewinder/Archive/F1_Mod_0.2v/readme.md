@@ -1,3 +1,5 @@
+The F1 0.2v User Mod has been moved out of User Mods and into the archive as it is no longer supported and had some fundamental design deficiencies.
+
 forked from (https://github.com/SkiBikePrint/ERCF_Mods/tree/main/Filamentalist)
 
 # BOM
