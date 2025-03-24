@@ -18,8 +18,8 @@
 |   1 | 3mm Heatset Insert | M3x4x5 like these:  https://www.amazon.com/gp/product/B09MCW7ZN5 | Voron standard size | set into the Tensioner Mnt |
 |   1   | M3x40mm SHCS | SS Socket Head Cap Screw | Spring Tensioner Screw |
 |  2-6  | M3x12 Screw  |  Any style head | for locking rim rollers to 8mm steel axle shaft.  1 to 3 screws per roller Depending on tightness/looseness of Rim Roller center bore |
-|  3  | M3x12 FHCS  |  Flat HEad Cap Screw | for Idler Roller wheels and Tensioner Bearing axle |
-|   14-16   | M3x8 FHCS  |  Stainless Steel Flat Head Screw |  |
+|  3  | M3x12 FHCS  |  Flat Head Cap Screw | for Idler Roller wheels and Tensioner Bearing axle |
+|   14-16   | M3x8 FHCS  |  Stainless Steel Flat Head Cap Screw |  |
 |   1   | M3 Nut  |  Stainless Steel | for Spring Tensioner screw |
 |   2   | Rubber Band | See [FAQ](Filamentalist_FAQ.md) | bike tire inner tube or rubber bands |
 
@@ -30,6 +30,9 @@
 |   var.   | 24 awg wire  |   | for pre-gate sensor option versions |
 | 2  | 6x3mm Neodymium Magnet | Amazon, Aliexpress | Preferably N52 strength but N35 will work |
 
+## Filamentalist V2 to V3 BOM Compare ##
+<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Filamentalist_V3_beta/Assets/V2-V3_BOM_Compare.png" width="750" height="650">
+</p>
 
 ## Assembly Tips: ##
 
