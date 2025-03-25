@@ -12,7 +12,7 @@
    OR:
 |   4   | 688 bearings | As an alternative to the 608 bearings for Drive and Idler axles, so would be a total of 5 688 bearings including the Tensioner Arm bearing.  This allows for only needing to buy one bearing size but the 688's might be a tighter fit on the axle shafts.|
 |   1   | HF081412 One-Way Bearing | https://www.amazon.com/dp/B0C7TRFJBS, Aliexpress | 8mm Bore, 12mm length, 14.2mm Diameter. Get the "octogonal" style. |
-|   1   | ECAS press-in pneumatic fittings for the bowden tubes (like used in ERCF)  |  | A locking clip is required and can be bought or printed (stl included).  The rubber seal is not needed and should not be installed upon assembly. |
+|   1   | ECAS04 press-in pneumatic fittings for the bowden tubes (like used in ERCF)  |  | A locking clip is required and can be bought or printed (stl included).  The rubber seal is not needed and should not be installed upon assembly. |
 |   2   | O-ring | Metric 3.5x20 (ID) or AS568 Standard size 211, Home Depot #110, Amazon example: https://www.amazon.com/211-Buna-N-Ring-Durometer-Black/dp/B000FN0W7I/, Aliexpress example: https://www.aliexpress.us/item/2255799953260685.html (select correct size) | In the range of 13/16" ID, 1-1/16" OD or ~20mm ID, ~27mm OD, ~3.5mm cross section/cs, Nitrile Butadiene Rubber (NBR or Buna-N)|
 |   1   | Spring  |  https://www.amazon.com/uxcell-Compression-Stainless-Compressed-Capacity/dp/B08FDYJLYC, Aliexpress https://www.aliexpress.us/item/3256802612787566.html | Like in extruders - 304 Stainless Steel,6mm OD,1mm Wire Size,7.5mm Compressed Length,15mm Free Length |                                 |
 |   1 | 3mm Heatset Insert | M3x4x5 like these:  https://www.amazon.com/gp/product/B09MCW7ZN5 | Voron standard size | set into the Tensioner Mnt |
