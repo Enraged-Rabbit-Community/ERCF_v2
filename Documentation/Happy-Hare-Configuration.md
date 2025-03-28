@@ -12,13 +12,25 @@
 
 1.  Open the file `config / mmu / base / mmu.cfg`. At the top of the file, beneath `\[mcu mmu\]`, add your Local MCU's CANBus UUID. If you are using USB to connect, Happy Hare should have detected and filled your serial number in for you. If not, you must add it in at this point. Save and close the file.
 
-2. Open the file `config / mmu / base / mmu_hardware.cfg`. You need to increase your motor currents starting on line 128. You want the current to be set to 70% of the motor's rated current, up to the stepper driver's max rated current. The max for for EZ Drivers and most motors is 1.6 amps, so you should probably only use 70% of that rating - about 1.1 amps **as a maximum**. If your motor is rated for 1.0 amps, try 0.6 amps.
+2. Open the file `config / mmu / base / mmu_hardware.cfg`. If you are using a beefy NEMA17 motor for Direct Drive, you need to increase your motor currents starting on *line 128*.
 
-3. Still in the file `config / mmu / base / mmu_hardware.cfg`. If you are using a different gearing setup, edit the Gear Ratio on line 143, like this:
+The Gear Motor `run_current` should be set to *either* 70% of the motor's peak current rating, *or* the stepper driver's maximum rated current, *whichever is less.* The max for for 2209 EZ Drivers is 1.3 amps without cooling and 1.6 amps with cooling. 
 
-`gear_ratio: 80:20			# E.g. ERCF 80:20, Tradrack 50:17`
+For the BOM 1.0 amp motor, this is 0.7 amps.
 
-You need the Gear Ratio to be set to match your physical gear ratio, usually 80:20 or 60:20. These numbers represent the number of teeth on the 80- or 60-tooth gears, and the 20-tooth pulley. Save and close the file.
+3. Still in the file `config / mmu / base / mmu_hardware.cfg`. If you are using Direct Drive, comment out the Gear Ratio on line 143 by adding a hash, like this:
+
+`#gear_ratio: 80:20			# E.g. ERCF 80:20, Tradrack 50:17`
+
+If you are using legacy Geared Drive, you instead need the Gear Ratio to be set to match your physical gear ratio, usually 80:20 or 60:20. These numbers represent the number of teeth on the 80- or 60-tooth gears, and the 20-tooth pulley.
+
+4. Still in the file `config / mmu / base / mmu_hardware.cfg`, on *lines 164-165*:
+
+You want the Selector Motor `run_current` to be set to 70% of the motor's peak current rating, and the `hold_current` should be about 40% of the peak current rating.
+
+For the BOM 1.0 amp motor, this is 0.7 amps and 0.4 amps.
+
+Save and close the file.
 
 
 ## ![#f03c15](assets/f03c15.png) ![#c5f015](assets/c5f015.png) ![#1589F0](assets/1589F0.png) Filament Cutter Options
