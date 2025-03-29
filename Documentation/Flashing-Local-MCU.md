@@ -232,7 +232,7 @@ This will start flashing the firmware.
 <summary>Compiling and flashing Klipper onto EASY-BRD</summary>
 
 This guide assumes you are using the version with Seeeduino XIAO.
-Other microcontrollers configurations are available in [config](https://github.com/Tircown/ERCF-easy-brd/blob/main/config/Seeeduino%20XIAO%20-%20SAMD21G18/ercf_hardware.cfg).
+Other microcontrollers configurations are available in [config](https://github.com/Tircown/ERCF-easy-brd/blob/master/config/Seeeduino%20XIAO%20-%20SAMD21G18/ercf_hardware.cfg).
 
 * Install bossac (version ≥1.8)
 ```
@@ -269,7 +269,7 @@ https://wiki.seeedstudio.com/Seeeduino-XIAO/#enter-bootloader-mode
 <details>
 <summary>Other EASY-BRD MCU configurations</summary>
 
-See [ercf_hardware.cfg](https://github.com/Tircown/ERCF-easy-brd/blob/main/config/Seeeduino%20XIAO%20-%20SAMD21G18/ercf_hardware.cfg) for the Seeeduino XIAO (most common solution)
+See [ercf_hardware.cfg](https://github.com/Tircown/ERCF-easy-brd/blob/master/config/Seeeduino%20XIAO%20-%20SAMD21G18/ercf_hardware.cfg) for the Seeeduino XIAO (most common solution)
 Other microcontrollers configurations are available in config.
 </details>
 
@@ -370,7 +370,7 @@ See `ercf_hardware.cfg` in the ERBv1.0 repository [config](https://github.com/FY
 
 ### Known issues
 
-The mark of GPIO24 and GPIO25 is swapped, check the silk file [here](https://github.com/FYSETC/FYSETC-ERB/blob/main/hardware/Silk%20Fixed.pdf).
+The mark of GPIO24 and GPIO25 is swapped, check the silk file [here](https://github.com/FYSETC/FYSETC-ERB/blob/master/hardware/Silk%20Fixed.pdf).
 </details>
 
 ---
@@ -452,14 +452,14 @@ See `ercf_hardware.cfg` in the ERBv2.0 repository [config](https://github.com/FY
 
 ### ERCF Setup Steps:
 - Flashing Your Local MCU
-- [Installing Happy Hare](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/Installing-Happy-Hare.md)
-- [Happy Hare Configuration](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/Happy-Hare-Configuration.md)
-- [Hardware Configuration Checks](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/Hardware-configuration-checks.md)
-- [Hardware Calibration](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/Hardware-Calibration.md)
-- [Toolhead Distances](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/Toolhead-Distances.md)
-- [Installing KlipperScreen Happy Hare](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/Installing-KlipperScreen.md)
-- [Slicer Setup](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/Slicer-Setup.md)
-- [Further Mods to Consider](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/Further-Mods.md)
+- [Installing Happy Hare](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/Installing-Happy-Hare.md)
+- [Happy Hare Configuration](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/Happy-Hare-Configuration.md)
+- [Hardware Configuration Checks](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/Hardware-configuration-checks.md)
+- [Hardware Calibration](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/Hardware-Calibration.md)
+- [Toolhead Distances](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/Toolhead-Distances.md)
+- [Installing KlipperScreen Happy Hare](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/Installing-KlipperScreen.md)
+- [Slicer Setup](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/Slicer-Setup.md)
+- [Further Mods to Consider](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/Further-Mods.md)
 
 #### Even more Happy Hare info can be found at:
 - [Happy Hare Wiki](https://github.com/moggieuk/Happy-Hare/wiki)

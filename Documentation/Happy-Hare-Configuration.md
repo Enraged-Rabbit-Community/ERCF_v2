@@ -54,7 +54,7 @@ gcode:
 
 Instead of setting the `form_tip_macro` to `_MMU_CUT_TIP` as above, put your "safe" cutting macro with the rest of your non-MMU macros (eg. in `printer.cfg`), then set `form_tip_macro` to the name of your safe cutting macro, in this example, `_MMU_SAFE_CUT_TIP`.
 
-Next, you will need to go through the entire file `config / mmu / base / mmu_macro_vars.cfg`. Read it, understand it, and change all of the options to suit your unique build and needs. The values you use depend on which extruder / toolhead you are using. See [Toolhead Distances](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/Toolhead-Distances.md) for more details, but don't forget to do the hardware configuration and calibration steps first!
+Next, you will need to go through the entire file `config / mmu / base / mmu_macro_vars.cfg`. Read it, understand it, and change all of the options to suit your unique build and needs. The values you use depend on which extruder / toolhead you are using. See [Toolhead Distances](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/Toolhead-Distances.md) for more details, but don't forget to do the hardware configuration and calibration steps first!
 
 Critical variables to change include setting `variable_simple_tip_forming` to `False` and setting the `variable_pin_loc_xy`, but you should really *at least* review the **Movement** and **Cut Tip** sections. These control parking and tip cutting settings and variables.
 
@@ -81,15 +81,15 @@ Coming soon! I don't use these yet, so I need help writing this section!
 
 
 ### ERCF Setup Steps:
-- [Flashing Your Local MCU](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/Flashing-Local-MCU.md)
-- [Installing Happy Hare](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/Installing-Happy-Hare.md)
+- [Flashing Your Local MCU](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/Flashing-Local-MCU.md)
+- [Installing Happy Hare](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/Installing-Happy-Hare.md)
 - Happy Hare Configuration
-- [Hardware Configuration Checks](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/Hardware-configuration-checks.md)
-- [Hardware Calibration](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/Hardware-Calibration.md)
-- [Toolhead Distances](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/Toolhead-Distances.md)
-- [Installing KlipperScreen Happy Hare](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/Installing-KlipperScreen.md)
-- [Slicer Setup](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/Slicer-Setup.md)
-- [Further Mods to Consider](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/Further-Mods.md)
+- [Hardware Configuration Checks](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/Hardware-configuration-checks.md)
+- [Hardware Calibration](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/Hardware-Calibration.md)
+- [Toolhead Distances](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/Toolhead-Distances.md)
+- [Installing KlipperScreen Happy Hare](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/Installing-KlipperScreen.md)
+- [Slicer Setup](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/Slicer-Setup.md)
+- [Further Mods to Consider](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/Further-Mods.md)
 
 #### Even more Happy Hare info can be found at:
 - [Happy Hare Wiki](https://github.com/moggieuk/Happy-Hare/wiki)

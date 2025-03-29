@@ -48,8 +48,8 @@ Let's run through the important steps in a toolchange (for both tip forming and 
 
 Transitioning from an orange filament to a blue _(Click on images to see the detail)_:
 
-<p align="center"><a href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/assets/Unloading_Tip_Forming.png"><img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/assets/Unloading_Tip_Forming.png" alt="Unloading Tip Forming"></a></p>
-<p align="center"><a href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/assets/Loading_Tip_Forming.png"><img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/assets/Loading_Tip_Forming.png" alt="Loading Tip Forming" width="70%"></a></p>
+<p align="center"><a href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/assets/Unloading_Tip_Forming.png"><img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/assets/Unloading_Tip_Forming.png" alt="Unloading Tip Forming"></a></p>
+<p align="center"><a href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/assets/Loading_Tip_Forming.png"><img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/assets/Loading_Tip_Forming.png" alt="Loading Tip Forming" width="70%"></a></p>
 
 <br>
 
@@ -57,8 +57,8 @@ Transitioning from an orange filament to a blue _(Click on images to see the det
 
 With toolhead tip cutting the procedure is a little more complex and introduces two additional macro variables (defined in `mmu_macro_vars.cfg` that configure the tip cutting logic):
 
-<p align="center"><a href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/assets/Unloading_Tip_Cutting.png"><img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/assets/Unloading_Tip_Cutting.png" alt="Unloading Tip Cutting"></a></p>
-<p align="center"><a href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/assets/Loading_Tip_Cutting.png"><img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/assets/Loading_Tip_Cutting.png" alt="Loading Tip Cutting" width="70%"></a></p>
+<p align="center"><a href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/assets/Unloading_Tip_Cutting.png"><img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/assets/Unloading_Tip_Cutting.png" alt="Unloading Tip Cutting"></a></p>
+<p align="center"><a href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/assets/Loading_Tip_Cutting.png"><img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/assets/Loading_Tip_Cutting.png" alt="Loading Tip Cutting" width="70%"></a></p>
 
 Note that the cut piece of filament remaining and the residual filament are automatically accounted for by Happy Hare so long as you have configured the parameters exactly as defined in this illustration.
 
@@ -79,7 +79,7 @@ Note that the cut piece of filament remaining and the residual filament are auto
 
 Ok, now you know what the correct meaning of the dimensions are the next question is how to discover them for your setup. For everything other than `toolhead_residual_filament` it is possible to use accurate CAD models to measure them (remember to use the internal shoulder in the nozzle). This can be a challenge if using a CHT nozzle as shown below.
 
-<p align="center"><a href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/assets/CHT_Cutaway.png"><img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/assets/CHT_Cutaway.png" alt="CHT Cutaway" width="40%"></a></p>
+<p align="center"><a href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/assets/CHT_Cutaway.png"><img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/assets/CHT_Cutaway.png" alt="CHT Cutaway" width="40%"></a></p>
 
 If you have a toolhead sensor there is now an automated way to measure! If not, then you can refer to this wiki in the future, where we will aim to collate verified measurements for common toolhead combinations and once you have those set, you can experiment to discover the correct `toolhead_residual_filament` setting.
 
@@ -146,7 +146,7 @@ Because the extruder was empty we were able to establish the position of the int
 
 </td>
 <td width=30%>
-<a href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/assets/Probe_Nozzle_Shoulder.png"><img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/assets/Probe_Nozzle_Shoulder.png" alt="Probe Nozzle Shoulder"></a>
+<a href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/assets/Probe_Nozzle_Shoulder.png"><img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/assets/Probe_Nozzle_Shoulder.png" alt="Probe Nozzle Shoulder"></a>
 </td>
 </tr>
 </table>
@@ -211,7 +211,7 @@ Again referring back to the earlier illustrations, the difference between the cl
 
 </td>
 <td width=30%>
-<a href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/assets/Probe_Filament_Remains.png"><img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/assets/Probe_Filament_Remains.png" alt="Probe Filament Remains"></a>
+<a href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/assets/Probe_Filament_Remains.png"><img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/assets/Probe_Filament_Remains.png" alt="Probe Filament Remains"></a>
 </td>
 </tr>
 </table>
@@ -258,7 +258,7 @@ Referencing earlier illustrations, the blade position `variable_blade_pos` can t
 
 </td>
 <td width=30%>
-<a href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/assets/Probe_Cut_Remains.png"><img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/assets/Probe_Cut_Remains.png" alt="Probe Cut Remains"></a>
+<a href="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/assets/Probe_Cut_Remains.png"><img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/assets/Probe_Cut_Remains.png" alt="Probe Cut Remains"></a>
 </td>
 </tr>
 </table>
@@ -413,7 +413,7 @@ Cold pull is successful if you can see the shape of the nozzle at the filament e
 
 **How do you know if the cold pull was successful?** The pulled end of the filament should like one of the pictures below. You need to be able to see the impression of the nozzle at the tip of the pulled filament. On regular nozzles it should look similar to the image on the left, while with CHT nozzles similar to the image on the right. Note that the author of that picture (@igiannakas) should be commended for an excellent result because CHT nozzles require the pull at exactly the right temperature and a bit of luck!
 
-<p align="center"><img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/assets/Cold_Pull_Normal_Example.png" alt="Cold Pull Normal" width="40%"> <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/assets/Cold_Pull_CHT_Example.png" alt="Cold Pull Normal" width="40%"></p>
+<p align="center"><img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/assets/Cold_Pull_Normal_Example.png" alt="Cold Pull Normal" width="40%"> <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/assets/Cold_Pull_CHT_Example.png" alt="Cold Pull Normal" width="40%"></p>
 
 It may take a few pulls to get suitable results...
 
@@ -437,15 +437,15 @@ Good luck!
 
 
 ### ERCF Setup Steps:
-- [Flashing Your Local MCU](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/Flashing-Local-MCU.md)
-- [Installing Happy Hare](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/Installing-Happy-Hare.md)
-- [Happy Hare Configuration](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/Happy-Hare-Configuration.md)
-- [Hardware Configuration Checks](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/Hardware-configuration-checks.md)
-- [Hardware Calibration](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/Hardware-Calibration.md)
+- [Flashing Your Local MCU](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/Flashing-Local-MCU.md)
+- [Installing Happy Hare](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/Installing-Happy-Hare.md)
+- [Happy Hare Configuration](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/Happy-Hare-Configuration.md)
+- [Hardware Configuration Checks](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/Hardware-configuration-checks.md)
+- [Hardware Calibration](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/Hardware-Calibration.md)
 - Toolhead Distances
-- [Installing KlipperScreen Happy Hare](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/Installing-KlipperScreen.md)
-- [Slicer Setup](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/Slicer-Setup.md)
-- [Further Mods to Consider](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/main/Documentation/Further-Mods.md)
+- [Installing KlipperScreen Happy Hare](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/Installing-KlipperScreen.md)
+- [Slicer Setup](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/Slicer-Setup.md)
+- [Further Mods to Consider](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Documentation/Further-Mods.md)
 
 #### Even more Happy Hare info can be found at:
 - [Happy Hare Wiki](https://github.com/moggieuk/Happy-Hare/wiki)
