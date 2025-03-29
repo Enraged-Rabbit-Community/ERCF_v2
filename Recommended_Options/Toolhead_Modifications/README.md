@@ -60,7 +60,7 @@ Here are the STLs for popular Toolhead/Extruder combinations.  Note that this is
   </tr>
   <tr>
     <td>Clockwork 2</td>
-    <td> <a href="./Stls/1_Toolhead_And_Entry_Sensors/[a]_SB_CW2_Latch.stl">Latch</a> <br> <a href="./Stls/1_Toolhead_And_Entry_Sensors/SB_CW2_Body.stl">Body</a> <br> <a href="./Stls/1_Toolhead_And_Entry_Sensors/SB_CW2_Plate.stl">Plate</a> <br> <sub>Additional items: <br> 1x ECAS <br> 2x D2F-5 <br>2x ball 5,5mm <br> 4x self tapping screw M2x10 <br> Credit: <a href="https://www.printables.com/model/466692-stealthburner-cw2-filament-sensors-with-ecas-latch">Petr Kašpar</a></sub> </td>
+    <td> <a href="./Stls/1_Toolhead_And_Entry_Sensors/[a]_SB_CW2_Latch.stl">Latch</a> <br> <a href="./Stls/1_Toolhead_And_Entry_Sensors/SB_CW2_Body.stl">Body</a> <br> <sub>Additional items: <br> 1x ECAS <br> 2x D2F-5 <br>2x ball 5,5mm <br> 4x self tapping screw M2x10 <br> Credit: <a href="https://www.printables.com/model/466692-stealthburner-cw2-filament-sensors-with-ecas-latch">Petr Kašpar</a></sub> </td>
     <td> <br> <sub>Additional items: <br> 1x ECAS <br> 1x D2F-5 <br>1x ball 5,5mm <br> 2x self tapping screw M2x10</sub> </td>
     <td> <br> <sub>Additional items: <br> 1x ECAS <br> 2x D2F-5 <br>2x ball 5,5mm <br> 4x self tapping screw M2x10</sub> </td>
     <td> <a href="./Stls/4_No_Sensors/SB_CW2_Latch.stl">Latch</a> <br> <a href="./Stls/4_No_Sensors/SB_CW2_Body.stl">Body</a> <br> <sub>Additional items: <br> 1x ECAS</sub> </td>
