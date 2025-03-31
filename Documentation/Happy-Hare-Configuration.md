@@ -43,7 +43,7 @@ If you are using a Filament Cutter, you must update `config / mmu / base / mmu_p
 ```yml
 [gcode_macro _MMU_SAFE_CUT_TIP]
 gcode:
-  G0 X50
+  G0 X50 F12000
   G0 Y305
   _MMU_CUT_TIP
   G0 X50
