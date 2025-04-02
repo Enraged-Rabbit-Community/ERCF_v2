@@ -27,6 +27,7 @@
 | Qty per Site | Part | Example Source Reference | Comments |
 |-------|---------------------------|-----------------------------|-------------------------------|
 |   1   | Omron D2F-01FL-D3 Microswitch | https://www.mouser.com/ProductDetail/Omron-Electronics/D2F-01FL-D3?qs=i1w9Bv2NFd2YXdp4zNwbgA%3D%3D  | For pre-gate sensor switch option. |
+|   1   | MR85-ZZ Bearing |  Amazon:  https://www.amazon.com/MR85ZZ-Bearings-Double-shielded-Printer-5x8x2-5mm/dp/B07CKL54RS, Aliexpress:  https://www.aliexpress.us/item/3256807829434893.html | same as used in ERCF |
 |   var.   | 24 awg wire  |   | for pre-gate sensor option versions |
 | 2  | Male/Female connectors |  | Connectors of your choice, JST-XH 2-pin works well |
 
