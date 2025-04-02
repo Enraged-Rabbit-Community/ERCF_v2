@@ -14,26 +14,22 @@
 |   1   | HF081412 One-Way Bearing | https://www.amazon.com/dp/B0C7TRFJBS, Aliexpress | 8mm Bore, 12mm length, 14.2mm Diameter. Get the "octogonal" style. |
 |   1   | ECAS04   |  | Press-in pneumatic fitting for the bowden tubes (like used in ERCF).  A locking clip is required and can be bought or printed (stl included).  The rubber seal is not needed and should not be installed upon assembly. |
 |   2   | O-ring | Metric 3.5x20 (ID) or AS568 Standard size 211, Home Depot #110, Amazon example: https://www.amazon.com/211-Buna-N-Ring-Durometer-Black/dp/B000FN0W7I/, Aliexpress example: https://www.aliexpress.us/item/2255799953260685.html (select correct size) | In the range of 13/16" ID, 1-1/16" OD or ~20mm ID, ~27mm OD, ~3.5mm cross section/cs, Nitrile Butadiene Rubber (NBR or Buna-N)|
-|   1   | Spring  |  https://www.amazon.com/uxcell-Compression-Stainless-Compressed-Capacity/dp/B08FDYJLYC, Aliexpress https://www.aliexpress.us/item/3256802612787566.html | Like in extruders - 304 Stainless Steel,6mm OD,1mm Wire Size,7.5mm Compressed Length,15mm Free Length |                                 |
+|   1   | Spring  |  https:https://www.amazon.com/dp/B076LNJF5Q, Aliexpress https://www.aliexpress.us/item/3256805126192641.html (select size per comments) | 304 Stainless Steel,6mm OD,0.6mm Wire Size,7.5mm Compressed Length,15mm Free Length |                                 |
 |   1 | 3mm Heatset Insert | M3x4x5 like these:  https://www.amazon.com/gp/product/B09MCW7ZN5 | Voron standard size | set into the Tensioner Mnt |
-|   1   | M3x40mm SHCS | SS Socket Head Cap Screw | Spring Tensioner Screw |
+|   1   | M3x30mm SHCS | SS Socket Head Cap Screw | Spring Tensioner Screw |
 |  2-6  | M3x12 Screw  |  Any style head | for locking rim rollers to 8mm steel axle shaft.  1 to 3 screws per roller Depending on tightness/looseness of Rim Roller center bore |
-|  3  | M3x12 FHCS  |  Flat Head Cap Screw | for Idler Roller wheels and Tensioner Bearing axle |
-|   14-16   | M3x8 FHCS  |  Stainless Steel Flat Head Cap Screw |  |
-|   1   | M3 Nut  |  Stainless Steel | for Spring Tensioner screw |
-|   2   | Rubber Band | See [FAQ](Filamentalist_FAQ.md) | bike tire inner tube or rubber bands |
+|  4  | M3x12 FHCS  |  Flat Head Cap Screw | for Idler Roller wheels, Tensioner Bearing axle, and Tensioner Pivot |
+|   14   | M3x8 FHCS  |  Stainless Steel Flat Head Cap Screw |  |
+|   1   | M3 Washer  |  Stainless Steel | for Spring Tensioner screw |
+|   2   | Rubber Band | See [FAQ](Filamentalist_FAQ.md) | bike tire inner tube is best, or rubber bands |
 
-**Parts for Magnet Switch Option**
+**Parts for Microswitch Option**
 | Qty per Site | Part | Example Source Reference | Comments |
 |-------|---------------------------|-----------------------------|-------------------------------|
-|   1   | JST-XH 2-pin Right Angle Socket/Plug | Amazon:  like from this kit https://www.amazon.com/VOGOOPOI-Terminal-Housing-Connector-Adaptor/dp/B0CH8G2XN9 or https://www.amazon.com/ELCOKITEX-Positions-Connector-Industrial-Integrated/dp/B0C7V8HZS8, Aliexpress: https://www.aliexpress.us/item/2251832795744352.html  | For pre-gate sensor mag switch option.  Need housing, plug, and terminal. |
+|   1   | Omron D2F-01FL-D3 Microswitch | https://www.mouser.com/ProductDetail/Omron-Electronics/D2F-01FL-D3?qs=i1w9Bv2NFd2YXdp4zNwbgA%3D%3D  | For pre-gate sensor switch option. |
 |   var.   | 24 awg wire  |   | for pre-gate sensor option versions |
-| 2  | 6x3mm Neodymium Magnet | Amazon, Aliexpress | Preferably N52 strength but N35 will work |
+| 2  | Male/Female connectors |  | Connectors of your choice, JST-XH 2-pin works well |
 
-## Filamentalist V2 to V3 BOM Compare ##
-<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Filamentalist_V3_beta/Assets/V2-V3_BOM_Compare.png" width="750" height="650">
-</p>
 
 ## Assembly Tips: ##
 
-1.  After inserting the 40mm Tensioner Screw through the Tensioner Arm and sliding the spring onto the screw, the heat set insert should be secured using CA adhesive (Superglue) with ~10mm of the screw protruding beyond the insert to prevent it from turning on the screw.
