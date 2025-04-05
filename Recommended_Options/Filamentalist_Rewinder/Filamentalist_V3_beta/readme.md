@@ -1,5 +1,11 @@
 ## WORK IN PROGRESS! ##
 
+<h1 align="center">The "Filamentalist V3"   <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Brain_Logo.png" width="150" height="150">   Passive Filament Driven Rewinder</h1>
+<p align="center">
+<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_render.png" width="350" height="475">
+</p>
+
+
 ## <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Brain_Logo.png" width="50" height="60"> **BOM:**
 
 **ATTENTION!! PLEASE READ COMMENTS IN FAR RIGHT COLUMN** (you may need to scroll over in your view)
@@ -17,9 +23,9 @@
 |   1   | Spring  |  https:https://www.amazon.com/dp/B076LNJF5Q, Aliexpress https://www.aliexpress.us/item/3256805126192641.html (select size per comments) | 304 Stainless Steel,6mm OD,0.6mm Wire Size,7.5mm Compressed Length,15mm Free Length |                                 |
 |   1 | 3mm Heatset Insert | M3x4x5 like these:  https://www.amazon.com/gp/product/B09MCW7ZN5 | Voron standard size | set into the Tensioner Mnt |
 |   1   | M3x30mm SHCS | SS Socket Head Cap Screw | Spring Tensioner Screw |
-|  2-6  | M3x12 Screw  |  Any style head | for locking rim rollers to 8mm steel axle shaft.  1 to 3 screws per roller Depending on tightness/looseness of Rim Roller center bore |
+|  2-6  | M3x12mm Screw  |  Any style head | for locking rim rollers to 8mm steel axle shaft.  1 to 3 screws per roller Depending on tightness/looseness of Rim Roller center bore |
 |  4  | M3x12 FHCS  |  Flat Head Cap Screw | for Idler Roller wheels, Tensioner Bearing axle, and Tensioner Pivot |
-|   14   | M3x8 FHCS  |  Stainless Steel Flat Head Cap Screw |  |
+|   14   | M3x8mm FHCS  |  Stainless Steel Flat Head Cap Screw |  |
 |   1   | M3 Washer  |  Stainless Steel | for Spring Tensioner screw |
 |   2   | Rubber Band | See [FAQ](Filamentalist_FAQ.md) | bike tire inner tube is best, or rubber bands |
 
@@ -27,7 +33,8 @@
 | Qty per Site | Part | Example Source Reference | Comments |
 |-------|---------------------------|-----------------------------|-------------------------------|
 |   1   | Omron D2F-01FL-D3 Microswitch | https://www.mouser.com/ProductDetail/Omron-Electronics/D2F-01FL-D3?qs=i1w9Bv2NFd2YXdp4zNwbgA%3D%3D  | For pre-gate sensor switch option. |
-|   1   | MR85-ZZ Bearing |  Amazon:  https://www.amazon.com/MR85ZZ-Bearings-Double-shielded-Printer-5x8x2-5mm/dp/B07CKL54RS, Aliexpress:  https://www.aliexpress.us/item/3256807829434893.html | same as used in ERCF |
+|   var.   | 24 awg wire  |   | for pre-gate sensor option versions |
+|   2   | M2x10mm Self-Tapping Screw|  Amazon:  https://www.amazon.com/dp/B012THLK1E, Aliexpress:  https://www.aliexpress.us/item/2251832815597603.html |  |
 |   var.   | 24 awg wire  |   | for pre-gate sensor option versions |
 | 2  | Male/Female connectors |  | Connectors of your choice, JST-XH 2-pin works well |
 
