@@ -34,7 +34,6 @@
 |   1   | Omron D2F-01FL-D3 Microswitch | https://www.mouser.com/ProductDetail/Omron-Electronics/D2F-01FL-D3?qs=i1w9Bv2NFd2YXdp4zNwbgA%3D%3D  | For pre-gate sensor switch option. |
 |   var.   | 24 awg wire  |   | for pre-gate sensor option versions |
 |   2   | M2x10mm Self-Tapping Screw|  Amazon:  https://www.amazon.com/dp/B012THLK1E, Aliexpress:  https://www.aliexpress.us/item/2251832815597603.html |  |
-|   var.   | 24 awg wire  |   | for pre-gate sensor option versions |
 | 2  | Male/Female connectors |  | Connectors of your choice, JST-XH 2-pin works well |
 
 
