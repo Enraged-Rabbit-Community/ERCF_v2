@@ -124,7 +124,10 @@
 
 ## Flexible Filament
   - The Filamentalist has been successfully tested with 95A hardness TPU
-  - 85A hardness TPU (for example NinjaFlex) - NOT RECOMMENDED! - Soft TPU has been minimally tested and the Filamentalist experienced kinking and jamming during unload.  If you have had success or failure with the Filamentalist using flexible materials softer than 95A please let me know.<br />
+  - 85A hardness TPU (for example NinjaFlex) - NOT RECOMMENDED! - Soft TPU tends to kink and jam during unload.
+  - The smaller/lighter the spool, the better.  The resistance created by the rotational inertia of a heavy spool can cause the Flexibile filament to kink at the o-rings or just expand and jam in the tubing.
+    - the little 200/250 gram spools work great.
+    - Lower unload acceleration reduces the above problem by reducing the rotational inertia.<br />
   <br />
     
   [return to index](#filamentalist-frequently-asked-questions)
