@@ -111,11 +111,16 @@
 <img src="https://github.com/SkiBikePrint/Filamentalist/blob/71cee20fe18fa942feb86cab2a580b9eeac974d1/Assets/inner_tube.jpg" width="500" height="350">
 
 ### Rubber Bands
-  - Size #82 (2 1/2" length x 1/2" wide) or 50mm diameter (~80mm length) x 10mm width
-    - qty 2 per roller for 80mm width version, qty 3 per roller for 100mm width version
-  - Amazon example: https://www.amazon.com/AIWOQI-Industrial-supplies-Survival-Tactical/dp/B0CZQ57TF6
-  - Aliexpress example: https://www.aliexpress.us/item/3256803949130763.html
- 
+  - For the standard size Classic Rewinder (20mm Rim Roller face width):
+    - Size #82 (2 1/2" length x 1/2" wide) or ~50mm diameter (~80mm length) x 10mm width
+      - qty 2 per roller for 80mm width version, qty 3 per roller for 100mm width version
+    - Amazon example: https://www.amazon.com/AIWOQI-Industrial-supplies-Survival-Tactical/dp/B0CZQ57TF6
+    - Aliexpress example: https://www.aliexpress.us/item/3256803949130763.html
+  - For the standard size FV3 Rewinder (23mm Rim Roller face width):
+    - Size #84 (3 1/2" length x 1/2" wide) or ~57mm diameter (~90mm length) x 10mm width
+      - qty 2 per roller for 80mm width version, qty 3 per roller for 100mm width version
+    - Amazon example: https://www.amazon.com/dp/B0CBJQLXLB
+    
 <img src="https://github.com/SkiBikePrint/Filamentalist/blob/71cee20fe18fa942feb86cab2a580b9eeac974d1/Assets/rubber_band_82.jpg" width="300" height="350"><br />
   <br />
     
