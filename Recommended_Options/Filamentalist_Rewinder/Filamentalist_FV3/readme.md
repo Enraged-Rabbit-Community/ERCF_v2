@@ -31,8 +31,14 @@
 **Parts for Microswitch Option**
 | Qty per Site | Part | Example Source Reference | Comments |
 |-------|---------------------------|-----------------------------|-------------------------------|
-|   1   | Omron D2F-01FL-D3 Microswitch | https://www.mouser.com/ProductDetail/Omron-Electronics/D2F-01FL-D3?qs=i1w9Bv2NFd2YXdp4zNwbgA%3D%3D  | For pre-gate sensor switch option. |
+|   1   | Omron D2F-01FL-D3 Lever Microswitch | https://www.mouser.com/ProductDetail/Omron-Electronics/D2F-01FL-D3?qs=i1w9Bv2NFd2YXdp4zNwbgA%3D%3D  | For pre-gate sensor levered switch option. |
+   OR:
+|   1   | Omron D2F-01F-D3 Button Microswitch | https://www.mouser.com/ProductDetail/Omron-Electronics/D2F-01F-D3?qs=i1w9Bv2NFd2sPdBLm34BPQ%3D%3D  | For pre-gate sensor printed lever switch option. |
 |   1   | MR85 Bearing | Amazon: https://www.amazon.com/dp/B07CKL54RS, Aliexpress: https://www.aliexpress.us/item/3256807026256776.html   | ZZ, RS, or open style will work.  For pre-gate sensor switch option. |
+   OR:
+|   1   | 8x3 Disc Magnet | Amazon: https://www.amazon.com/FINDMAG-Magnetic-Whiteboard-Refrigerator-Magnets-8x3mm/dp/B0863BGG6H, Aliexpress: https://www.aliexpress.us/item/3256806495856656.html   | For pre-gate sensor switch option. |
+   OR:
+|   1   | 6x3 Disc Magnet | Amazon: https://www.amazon.com/TRYMAG-Magnets-Refrigerator-Whiteboard-Neodymium/dp/B09QHSB2XM, Aliexpress: https://www.aliexpress.us/item/3256807048616464.html   | For pre-gate sensor switch option. |  
 |   var.   | 24 awg wire  |   | for pre-gate sensor option versions |
 |   2   | M2x8mm SHCS |  Amazon:  https://www.amazon.com/Alloy-Steel-Socket-Screws-Black/dp/B015A37DVU, Aliexpress:  https://www.aliexpress.us/item/3256806889548681.html | Self tapping screws can be used as an alternative |
 | 2  | Male/Female connectors |  | Connectors of your choice, JST-XH 2-pin works well |
