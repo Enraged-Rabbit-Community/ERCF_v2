@@ -4,7 +4,7 @@
 <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/107354267b091ebfa1f7c5fee38bbce0996c39b9/Recommended_Options/Filamentalist_Rewinder/Filamentalist_FV3/Assets/Filamentalist_V3_Render_Large.png" width="560" height="480">
 </p>
    
-## __________ Filamentalist "Classic" _______________________ Filamentalist FV3 ____________ ##
+## __________ [Filamentalist "Classic"](https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/Recommended_Options/Filamentalist_Rewinder/Filamentalist_Classic) _______________________ [Filamentalist FV3](https://discord.gg/zHGH9sXFVK) ____________ ##
 </p>
 
 ## Filamentalist Discord group [here:](https://discord.gg/zHGH9sXFVK) ##
@@ -14,15 +14,18 @@
 <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_6_Color.jpg" width="350" height="300">
 </p>
 
-## [Filamentalist Assembly Guide Document](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/a68bc6678bab41d7bded5e42a17276a9430a0f45/Recommended_Options/Filamentalist_Rewinder/Filamentalist_Classic/Documentation/Filamentalist_Rewinder_Manual_V3.1.2.pdf)  [<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist RC2 Manual_Cover.jpg" width="150" height="100">](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/a68bc6678bab41d7bded5e42a17276a9430a0f45/Recommended_Options/Filamentalist_Rewinder/Filamentalist_Classic/Documentation/Filamentalist_Rewinder_Manual_V3.1.2.pdf)
+## [Filamentalist Classic Assembly Guide Document](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/a68bc6678bab41d7bded5e42a17276a9430a0f45/Recommended_Options/Filamentalist_Rewinder/Filamentalist_Classic/Documentation/Filamentalist_Rewinder_Manual_V3.1.2.pdf)  [<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist RC2 Manual_Cover.jpg" width="150" height="100">](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/a68bc6678bab41d7bded5e42a17276a9430a0f45/Recommended_Options/Filamentalist_Rewinder/Filamentalist_Classic/Documentation/Filamentalist_Rewinder_Manual_V3.1.2.pdf)
 
-## [Filamentalist Assembly Guide Video](https://youtu.be/-1cHOcnosxE?si=RZV318OI9f3f_CkE)  [<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist Assembly Video Thumbnail.jpg" width="150" height="100">](https://youtu.be/-1cHOcnosxE?si=RZV318OI9f3f_CkE)
+## [Filamentalist FV3 Assembly Guide Document](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/4648ff0c2f5a9ee3f4b7aded86e414564832cd24/Recommended_Options/Filamentalist_Rewinder/Filamentalist_FV3/Documentation/Filamentalist_V3_Manual_V1.0.pdf)  [<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/d2b144ee8d95d24b84439ef060b2681a3b5932ac/Recommended_Options/Filamentalist_Rewinder/Filamentalist_FV3/Assets/FV3%20Manual.png" width="150" height="100">](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/d2b144ee8d95d24b84439ef060b2681a3b5932ac/Recommended_Options/Filamentalist_Rewinder/Filamentalist_FV3/Assets/FV3%20Manual.png)
+
+
+## [Filamentalist Classic Assembly Guide Video](https://youtu.be/-1cHOcnosxE?si=RZV318OI9f3f_CkE)  [<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist Assembly Video Thumbnail.jpg" width="150" height="100">](https://youtu.be/-1cHOcnosxE?si=RZV318OI9f3f_CkE)
 
 
 ## Video of 6 rewinders swapping (plus SW Only Blobifier Purging):  [<img src="https://github.com/SkiBikePrint/Filamentalist/blob/7042b9b10466e7a60b45ed23568b3a78ff5930b9/Assets/Swap_Video.jpg" width="100" height="100">](https://photos.app.goo.gl/hKso7JYPZcdRLKrW8)
 
 
-## [Video of loading a spool (pre-gate sensors auto-detect filament and pull into ERCF):](https://photos.app.goo.gl/qPX1pxYLU2VeUuqV8)  [<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/0b776b2135c37ffe00467f2f5e31c06634e68210/Recommended_Options/Filamentalist_Rewinder/User_Mods/Filamentalist_Enclosure/Assets/20240615_221938.jpg" width="100" height="100">](https://photos.app.goo.gl/qPX1pxYLU2VeUuqV8)
+## [Video of loading a spool (pre-gate sensors auto-detect filament and pull into ERCF):](https://photos.app.goo.gl/yGS7Rr49dFMvjNLF9)  [<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/0b776b2135c37ffe00467f2f5e31c06634e68210/Recommended_Options/Filamentalist_Rewinder/User_Mods/Filamentalist_Enclosure/Assets/20240615_221938.jpg" width="100" height="100">](https://photos.app.goo.gl/yGS7Rr49dFMvjNLF9)
 
 
 ## [Filamentalist Enclosure Drybox Project Github](https://github.com/SkiBikePrint/ERCF_Mods/tree/main/Filamentalist_Enclosure)
@@ -32,14 +35,14 @@
 
 ## <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Brain_Logo.png" width="50" height="60"> Theory of operation:
 
-The Filamentalist is an integrated solution for buffering and spool holding providing space savings as well as the potential for filament path reduction and the associated drag/resistance that comes with long runs from spool to buffer to MMU.
+The Filamentalist is a passive (no motors or electronics required) integrated solution for buffering and spool holding providing space savings as well as the potential for filament path reduction and the associated drag/resistance that comes with long runs from spool to buffer to MMU.
 
 - The Filamentalist uses the axial force delivered by the MMU gear motor along the filament to load and unload to and from the filament spool.
 - An adjustable spring clamp forces the filament against two o-rings that sit on the drive pulley to create a high traction interface for rotating the axle and filament spool.
 - A one-way clutch style bearing locks against the drive shaft and rotates the filament spool to take up filament during an unload.
 - For loading and print extruding, the clutch disengages allowing for effective free-spooling of the filament spool similar to a roller style spool holder.
 - The difference in diameter of the filament driven clutched roller versus the larger roller that the filament spool sits on provides the needed gear ratio to produce enough rotations to take up, and unload a nearly empty or full filament roll.
-- During unloading/buffering, to account for the varying diameter of a spool from full to empty filament tension will cause the spring loaded arm to lift a small amount and release traction from the o-rings allowing slip to occur between the filament and the o-ring interface of the rewinder (full spool = max slip, empty spool = no/minimal slip).
+- During unloading/buffering, to account for the varying diameter of a spool from full to empty filament tension will cause the spring loaded arm to lift a small amount and release traction from the o-rings allowing slip to occur between the filament and the o-ring interface of the rewinder producing a dynamic, continuous variable gear ratio (full spool = max slip, empty spool = no/minimal slip).
 
 
 <p align="center">
