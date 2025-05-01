@@ -44,6 +44,52 @@
 |   2   | M2x8mm SHCS |  Amazon:  https://www.amazon.com/Alloy-Steel-Socket-Screws-Black/dp/B015A37DVU, Aliexpress:  https://www.aliexpress.us/item/3256806889548681.html | Self tapping screws can be used as an alternative |
 | 2  | Male/Female connectors |  | Connectors of your choice, JST-XH 2-pin works well |
 
+## <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Brain_Logo.png" width="50" height="60"> Printing Guidelines:
+
+## **General:**
+- Material: ABS or ASA (2020 Center Mount version: ~154gm per site, Filamentalist Enclsoure Mount Version: ~175gm per site)
+- Print Time: 2020 Center Mount version: ~7hr 34min, Filamentalist Enclsoure Mount Version: ~9hr 10min (based on the Ellis PIF profile speeds, accelerations, and volumes)
+- 0.2mm layer height
+- 40% infill recommended.  Linear style infills are fastest (rectilinear, monotonic, grid, triangles, stars, etc.)
+- Wall Count: 4
+- Solid Top/Bottom Layers: 5
+
+## **Part Specific:**
+- Orientation suggestions are relative to the installed assembly orientation and are shown in the slicer images below.
+- There are stls for both 80mm and 100mm wide version and a Fusion 360 parametric CAD model for additional custom widths.  See "Additional Notes/Considerations" point 3 above for more details.
+- If rotating the Filamentalist is not feasible for your required filament loading direction or you need a bottom feed capability (for example enclosure limitations or feeding through the bottom of a shelf) there is an option for a rear loading version which only requires printing the Tensioner_Mount_Rear_Load_80mm/100mm_[option] in the place of Tensioner_Mount_80mm/100mm part.
+  
+  <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/rear_load_option.jpg" width="350" height="175">
+
+- Stl's are provided for optional clip-in style supports where no Base_Plate is needed and the rewinders are easily clipped in and out of (2) 2020 extrusions mounted 170mm center-to-center apart.  This option is highly recommeded if your setup can accomodate this style type of mount.
+  
+  <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Clip-In_Supports.jpg" width="250" height="175">
+- **!! IMPORTANT !!  This design relies on multiple press-fits for bearings and ECAS fittings.  As a result, printer calibration is important.  A Test_Block stl is included.  It is highly recommended that you print this block first, check fits, and make adjustments to extrusion multipliers and/or slicer scaling if needed before printing the Filamentalist parts.**
+  
+<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Logo.png" width="200" height="300">  <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Sliced_(Black)_1.jpg" width="375" height="300">  <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Sliced_(Orange)_1.jpg" width="375" height="300">
+
+
+| **Qty per Site** | **Part**  | **Pic** |  **Orientation**            | **Printed Supports Needed** | **Comments** |
+|------|-----------------------------------------|------------|--------------------|-----|---------------------------------|
+| 1       | Right_Support | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Right_Support.jpg" width="40" height="40"> |  Horizontal                   | N     |                                  |
+| 1       | Left_Support | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Left_Support.jpg" width="40" height="40">                                                            | Horizontal                   | N     |                                  |
+| 1       | Option: Right_Support_[2020_Clip-In_option] | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Right_Support(2020-Clip-In).jpg" width="50" height="30"> |  Horizontal                   | N     |                                  |
+| 1       | Option: Left_Support_[2020_Clip-In_option] | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Left_Support(2020_Clip-in).jpg" width="50" height="30">                                                            | Horizontal                   | N     |                                  |
+| 1       | Base_Plate_80mm/100mm_[option] | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Base.jpg" width="40" height="40">                                                            | Horizontal                   | N     | Optional part for a standalone unit not mounted to another surface  |
+| 1       | Idler_Roller_Axle_80mm/100mm  | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Rear_Roller_Axle.jpg" width="40" height="40"> | Horizontal | N | align flat of "D" to build plate |
+| 2       | [a]_Rim_Roller_80mm/100mm | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Rim_Roller.jpg" width="40" height="40">                                                   | Horizontal                | N       | Dished side up.   |
+| 1       | [a]_Center_Drive_Roller  | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Center_Drive_Roller.jpg" width="40" height="40">                                                        | Horizontal                 | N        | Recommend scattered seams for press fit-bore concentricity |
+| 2       | CDR_Spacer_80mm/100mm |  <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Center_Drive_Roller_Spacer.jpg" width="40" height="40">    | Horizontal                 | N        |                             |
+| 1       | Tensioner_Arm_Left |  <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Tensioner_Arm_Left_1.jpg" width="40" height="40"> | Horizontal                          |  N    |  |
+| 1       | Tensioner_Arm_Right |  <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Tensioner_Arm_Right_1.jpg" width="40" height="40"> | Horizontal                          |  Built-in     | Remove built-in support from the locking tab |
+| 1       | [a]_Tensioner_Mount_80mm/100mm | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Tensioner_Mnt_printed.jpg" width="40" height="40">                           | Vertical (as installed)                | N  | There is a pre-gate sensor option version available as well (split to parts in slicer for print-in-place breakaway connector retaining key).  |
+| 1       | [a]_Tensioner_Mount_Rear_Load_80mm/100mm _[option] | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/f2f9d9bb04fad333333788b4d2238f26b38bbf62/Recommended_Options/Filamentalist_Rewinder/Assets/Tensioner_Mount_Rear_Load.jpg" width="60" height="30">                           | Vertical (as installed).  Optional for rear loading if needed.               | N  | There is a pre-gate sensor option version available as well.  |
+| 1       | [a]_Idler_Roller _(male) _80mm/100mm   | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Idler_Roller_(male).jpg" width="40" height="40">  | Vertical  | N  |  Scattered seams |
+| 1       | [a]_Idler_Roller _(female)_80mm/100mm   | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Idler_Roller_(female).jpg" width="40" height="40">  | Vertical  | N  |  Scattered seams |
+| 1    | Axle_Depth_Tool_80mm/100mm | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Axle_Pressing_Tool.jpg" width="40" height="40"> | Vertical | N | Pocket opening up.  Print with 100% infill for reuse strength and durability when building multiple rewinders. |
+| 2 | [a]_ECAS_Clip | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/ECAS_Locking_Clip.jpg" width="40" height="40"> |  Horizontal | N | Tab up |
+| 1 | Test_Block | <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/test_block.jpg" width="40" height="40"> |  608 Pocket facing up | N | printer calibration tool |
+
 
 
 ## Assembly Tips: ##
