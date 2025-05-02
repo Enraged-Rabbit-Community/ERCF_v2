@@ -2,10 +2,11 @@
 <h1 align="center">The "Filamentalist" Passive Filament Driven Rewinder</h1>
 
 <p align="center"><img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_render2.png" width="300" height="450">
-<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/107354267b091ebfa1f7c5fee38bbce0996c39b9/Recommended_Options/Filamentalist_Rewinder/Filamentalist_FV3/Assets/Filamentalist_V3_Render_Large.png" width="500" height="450">
+<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/FV3/Filamentalist_V3_Render_Large.png" width="300" height="300">
+<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Enclosure/Enclosure_Render.PNG" width="300" height="300">
 </p>
    
-## __________ [Filamentalist "Classic"](https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/Recommended_Options/Filamentalist_Rewinder/Filamentalist_Classic) _______________________ [Filamentalist FV3](https://discord.gg/zHGH9sXFVK) ____________ ##
+## _____ [Filamentalist "Classic"](https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/Recommended_Options/Filamentalist_Rewinder/Filamentalist_Classic) _________ [Filamentalist FV3](https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/Recommended_Options/Filamentalist_Rewinder/FV3) ___________[Filamentalist Enclosure](https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/Recommended_Options/Filamentalist_Rewinder/Enclosure) ____
 </p>
 
 ## Filamentalist Discord group [here:](https://discord.gg/zHGH9sXFVK) ##
