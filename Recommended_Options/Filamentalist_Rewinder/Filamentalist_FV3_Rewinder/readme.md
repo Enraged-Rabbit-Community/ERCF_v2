@@ -1,6 +1,5 @@
-## WORK IN PROGRESS! ##
-
-<h1 align="center">The "Filamentalist V3"   <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Brain_Logo.png" width="150" height="150">   Passive Filament Driven Rewinder</h1>
+<p align="center"><img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Brain_Logo.png" width="150" height="150">
+<h1 align="center">The Filamentalist V3 ("FV3") Passive Filament Driven Rewinder</h1>
 <p align="center">
 <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/3c9f6ff0488cfe39d422b2b4c9527ab92d81b29c/Recommended_Options/Filamentalist_Rewinder/Filamentalist_V3_beta/Assets/Filamentalist_V3_Render_Large.png" width="700" height="600">
 </p>
@@ -46,7 +45,7 @@
 
 ## <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Brain_Logo.png" width="50" height="60"> Printing Guidelines:
 
-## **NEEDS UPDATE!  THESE ARE THE CLASSIC PARTS - General:**
+## **General:**
 - Material: ABS or ASA (2020 Center Mount version: ~154gm per site, Filamentalist Enclsoure Mount Version: ~175gm per site)
 - Print Time: 2020 Center Mount version: ~7hr 34min, Filamentalist Enclsoure Mount Version: ~9hr 10min (based on the Ellis PIF profile speeds, accelerations, and volumes)
 - 0.2mm layer height
@@ -54,10 +53,11 @@
 - Wall Count: 4
 - Solid Top/Bottom Layers: 5
 
-## **Part Specific:**
 - Recommended orientation is set in the stl files and should load correctly into slicer programs.  Print orientation is shown below in the slicer plate pictures for base and accent color parts.
 - Where applicable, stl's are provided for two different axle bearing types, 688 (16mm OD) and 608 (22mm OD) bearings.  Bearing size is denoted in the file naming.
-- **!! IMPORTANT !!  This design relies on multiple press-fits for bearings and ECAS fittings.  As a result, printer calibration is important.  The Print_Calibration_Tool_###_Bearing.stl file is included.  It is highly recommended that you print this block first, check fits, and make adjustments to extrusion multipliers and/or slicer scaling if needed before printing the Filamentalist parts.**
+- **!! IMPORTANT !!  This design relies on multiple press-fits for bearings and ECAS fittings.  As a result, printer calibration is important.  The Print_Calibration_Tool_###_Bearing.stl file is included.  It is highly recommended that you print this part first, check fits, and make adjustments to extrusion multipliers and/or slicer scaling if needed before printing the Filamentalist parts.**
+   - Other materials such as PETG or PLA may work fine but parts were not designed or validated for these materials.  If you want to use a different material start with the Print Calibration Tool and adjust extrusion rates and slicer scaling to achieve the correct dimensions for the press fit parts.
+
   
 <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/abbbd81a78ae753106748c35d51503875ee82a7b/Recommended_Options/Filamentalist_Rewinder/Assets/FV3/Slicer_Plate_Base_Color.png" width="375" height="300">  <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/abbbd81a78ae753106748c35d51503875ee82a7b/Recommended_Options/Filamentalist_Rewinder/Assets/FV3/Slicer_Plate_Accent_Color.png" width="375" height="300">
 
