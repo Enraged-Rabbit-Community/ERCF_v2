@@ -61,7 +61,3 @@
   
 <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/abbbd81a78ae753106748c35d51503875ee82a7b/Recommended_Options/Filamentalist_Rewinder/Assets/FV3/Slicer_Plate_Base_Color.png" width="375" height="300">  <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/abbbd81a78ae753106748c35d51503875ee82a7b/Recommended_Options/Filamentalist_Rewinder/Assets/FV3/Slicer_Plate_Accent_Color.png" width="375" height="300">
 
-
-
-## Assembly Tips: ##
-
