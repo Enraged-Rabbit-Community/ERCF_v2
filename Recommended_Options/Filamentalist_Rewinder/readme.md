@@ -13,7 +13,7 @@
 
 ## <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Brain_Logo.png" width="50" height="60"> Description & Theory of operation:
 
-The Filamentalist is a passive (no motors or electronics required) integrated multi-material unit (MMU) solution for buffering and spool holding, providing space savings and potential filament path reduction and the associated drag/resistance that comes with long runs from spool to buffer to MMU.
+The Filamentalist is a passive (no motors or electronics required) integrated buffering and spool holding multi-material unit (MMU) solution, providing space savings and potential filament path reduction and the associated drag/resistance that comes with long runs from spool to buffer to MMU.
 
 - The Filamentalist uses the axial force delivered by the MMU gear motor along the filament to load and unload to and from the filament spool.
 - An adjustable spring clamp forces the filament against two o-rings that sit on the drive pulley to create a high traction interface for rotating the axle and filament spool.
