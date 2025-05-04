@@ -13,7 +13,7 @@
 
 ## <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Brain_Logo.png" width="50" height="60"> Description & Theory of operation:
 
-The Filamentalist is a passive (no motors or electronics required) integrated buffering and spool holding multi-material unit (MMU) solution, providing space savings and potential filament path reduction and the associated drag/resistance that comes with long runs from spool to buffer to MMU.
+The Filamentalist is a passive (no motors or electronics required) integrated buffering and spool holding multi-material unit (MMU) solution.  It provides space savings and potential filament path reduction that comes with using paths from spool to buffer to MMU.
 
 - The Filamentalist uses the axial force delivered by the MMU gear motor along the filament to load and unload to and from the filament spool.
 - An adjustable spring clamp forces the filament against two o-rings that sit on the drive pulley to create a high traction interface for rotating the axle and filament spool.
@@ -36,7 +36,7 @@ The Filamentalist is a passive (no motors or electronics required) integrated bu
 
 ## Filamentalist Version Selection ##
 
-One version is not necessarily better than the other.  The Filamentalist Classic has slightly better Tensioner system geometry making it a bit smoother in the filament grip/slip modulation.  The FV3 is "sexier" and accomodates wider spool widths in less horizontal space which can be useful for fitting in existing enclosures or accross the top of a printer.  Below is a selection table to help wit you decision.
+One version is not necessarily better than the other.  The Filamentalist Classic has slightly better Tensioner system geometry making it a bit smoother in the filament grip/slip modulation.  The FV3 is "sexier" and accomodates wider spool widths in less horizontal space which can be useful for fitting in existing enclosures or across the top of a printer.  Below is a selection table to help wit you decision.
 
 <p align="center"><img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Selection_Table.png" width="1000" height="800">
 
