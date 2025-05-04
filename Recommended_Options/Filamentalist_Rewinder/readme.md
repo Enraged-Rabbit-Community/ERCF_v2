@@ -34,6 +34,12 @@ The Filamentalist is a passive (no motors or electronics required) integrated bu
 <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_6_Color.jpg" width="350" height="300">
 </p>
 
+## Filamentalist Version Selection ##
+
+One version is not necessarily better than the other.  The Filamentalist Classic has slightly better Tensioner system geometry making it a bit smoother in the filament grip/slip modulation.  The FV3 is "sexier" and accomodates wider spool widths in less horizontal space which can be useful for fitting in existing enclosures or accros the top of a printer.  Below is a selection table to help wit you decision.
+
+
+
 ## [Filamentalist Classic Assembly Guide Document](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/a68bc6678bab41d7bded5e42a17276a9430a0f45/Recommended_Options/Filamentalist_Rewinder/Filamentalist_Classic/Documentation/Filamentalist_Rewinder_Manual_V3.1.2.pdf)  [<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist RC2 Manual_Cover.jpg" width="150" height="100">](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/a68bc6678bab41d7bded5e42a17276a9430a0f45/Recommended_Options/Filamentalist_Rewinder/Filamentalist_Classic/Documentation/Filamentalist_Rewinder_Manual_V3.1.2.pdf)
 
 ## [Filamentalist FV3 Assembly Guide Document](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/4648ff0c2f5a9ee3f4b7aded86e414564832cd24/Recommended_Options/Filamentalist_Rewinder/Filamentalist_FV3/Documentation/Filamentalist_V3_Manual_V1.0.pdf)  [<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/d2b144ee8d95d24b84439ef060b2681a3b5932ac/Recommended_Options/Filamentalist_Rewinder/Filamentalist_FV3/Assets/FV3%20Manual.png" width="150" height="100">](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/d2b144ee8d95d24b84439ef060b2681a3b5932ac/Recommended_Options/Filamentalist_Rewinder/Filamentalist_FV3/Assets/FV3%20Manual.png)
