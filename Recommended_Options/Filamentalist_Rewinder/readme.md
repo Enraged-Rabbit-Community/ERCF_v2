@@ -36,7 +36,7 @@ The Filamentalist is a passive (no motors or electronics required) integrated bu
 
 ## Filamentalist Version Selection ##
 
-One version is not necessarily better than the other.  The Filamentalist Classic has slightly better Tensioner system geometry making it a bit smoother in the filament grip/slip modulation.  The FV3 is "sexier" and accomodates wider spool widths in less horizontal space which can be useful for fitting in existing enclosures or across the top of a printer.  Below is a selection table to help wit you decision.
+One version is not necessarily better than the other.  The Filamentalist Classic has slightly better Tensioner system geometry making it a bit smoother in the filament grip/slip modulation.  The FV3 is "sexier" and accomodates wider spool widths in less horizontal space which can be useful for fitting in existing enclosures or across the top of a printer.  Below is a selection table to help with your decision.
 
 <p align="center"><img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Selection_Table.png" width="1000" height="800">
 
