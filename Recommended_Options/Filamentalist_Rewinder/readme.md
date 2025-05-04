@@ -36,17 +36,9 @@ The Filamentalist is a passive (no motors or electronics required) integrated bu
 
 ## Filamentalist Version Selection ##
 
-One version is not necessarily better than the other.  The Filamentalist Classic has slightly better Tensioner system geometry making it a bit smoother in the filament grip/slip modulation.  The FV3 is "sexier" and accomodates wider spool widths in less horizontal space which can be useful for fitting in existing enclosures or accros the top of a printer.  Below is a selection table to help wit you decision.
+One version is not necessarily better than the other.  The Filamentalist Classic has slightly better Tensioner system geometry making it a bit smoother in the filament grip/slip modulation.  The FV3 is "sexier" and accomodates wider spool widths in less horizontal space which can be useful for fitting in existing enclosures or accross the top of a printer.  Below is a selection table to help wit you decision.
 
-
-
-## [Filamentalist Classic Assembly Guide Document](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/a68bc6678bab41d7bded5e42a17276a9430a0f45/Recommended_Options/Filamentalist_Rewinder/Filamentalist_Classic/Documentation/Filamentalist_Rewinder_Manual_V3.1.2.pdf)  [<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist RC2 Manual_Cover.jpg" width="150" height="100">](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/a68bc6678bab41d7bded5e42a17276a9430a0f45/Recommended_Options/Filamentalist_Rewinder/Filamentalist_Classic/Documentation/Filamentalist_Rewinder_Manual_V3.1.2.pdf)
-
-## [Filamentalist FV3 Assembly Guide Document](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/4648ff0c2f5a9ee3f4b7aded86e414564832cd24/Recommended_Options/Filamentalist_Rewinder/Filamentalist_FV3/Documentation/Filamentalist_V3_Manual_V1.0.pdf)  [<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/d2b144ee8d95d24b84439ef060b2681a3b5932ac/Recommended_Options/Filamentalist_Rewinder/Filamentalist_FV3/Assets/FV3%20Manual.png" width="150" height="100">](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/d2b144ee8d95d24b84439ef060b2681a3b5932ac/Recommended_Options/Filamentalist_Rewinder/Filamentalist_FV3/Assets/FV3%20Manual.png)
-
-
-## [Filamentalist Classic Assembly Guide Video](https://youtu.be/-1cHOcnosxE?si=RZV318OI9f3f_CkE)  [<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist Assembly Video Thumbnail.jpg" width="150" height="100">](https://youtu.be/-1cHOcnosxE?si=RZV318OI9f3f_CkE)
-
+<p align="center"><img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Selection_Table.png" width="1000" height="800">
 
 ## Video of 6 rewinders swapping (plus SW Only Blobifier Purging):  [<img src="https://github.com/SkiBikePrint/Filamentalist/blob/7042b9b10466e7a60b45ed23568b3a78ff5930b9/Assets/Swap_Video.jpg" width="100" height="100">](https://photos.app.goo.gl/hKso7JYPZcdRLKrW8)
 
@@ -73,7 +65,7 @@ Things that you need to know include:
 
 ## <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Brain_Logo.png" width="50" height="60"> Tuning
 
-Tune by setting the Tensioner Arm clamping force.  The arm does not need an extreme amount of tension.  To tune the spring force, lift the tensioner and insert a section of filament through the o-ring bearing interface and into the bowden tube.  Hold the center roller by placing your thumb against the o-rings and try to pull the filament out.  You want the slip force to be slightly more than what the overall system drag is, so you have to imagine the range of gear motor pull force vs rewinder drag and set a slip range in-between the two "imaginary" lines.  Adjust the spring tensioner screw accordingly and err on the light side.  Run the rewinder (see test code below). If loose filament is forming around the filament spool during unload, tighten the spring tensioning screw.  If no loose filament is forming around the filament roll, gradually reduce the spring tension until loose filament starts to accumulate and then increase tension in ~1/2 screw turn increments until you feel you have the lightest tension that results in a tightly packed unload. 
+Tune by setting the Tensioner Arm clamping force.  The arm does not need an extreme amount of tension.  To tune the spring force, lift the tensioner and insert a section of filament through the o-ring bearing interface and into the bowden tube.  Hold a Rim Roller to keep it from rotating and try to pull the filament out (in unload direction).  You want the slip force to be slightly more than what the overall system drag is, so you have to imagine the range of gear motor pull force vs rewinder drag and set a slip range in-between the two "imaginary" lines.  As a starting point adjust the spring tensioner screw accordingly and err on the light side.  Run the rewinder (see test code below). If loose filament is forming around the filament spool during unload, tighten the spring tensioning screw.  If no loose filament is forming around the filament roll, gradually reduce the spring tension until loose filament starts to accumulate and then increase tension in ~1/2 screw turn increments until you feel you have the lightest tension that results in a tightly packed unload. 
 
 ## <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Brain_Logo.png" width="50" height="60"> Testing
 
@@ -84,47 +76,29 @@ Happy multi-material printing and rewindering!
 ```
 [gcode_macro rewinder_test]
 gcode:
-    MMU_TEST_LOAD LENGTH=50
-    {% for n in range(20) %}
+    {% set tool = params.TOOL | default(0) | int %}   ; This target can be set with the drop-down in Mainsail
+    {% set cycles = params.CYCLES | default(5) | int %}   ; This target can be set with the drop-down in Mainsail
+    {% set speed = params.SPEED | default(300) | float %}   ; This target can be set with the drop-down in Mainsail
+    {% set accel = params.ACCEL | default(300) | float %}   ; This target can be set with the drop-down in Mainsail
+    {% set length = params.LENGTH | default(800) | float %}   ; This target can be set with the drop-down in Mainsail
 
-# cycles currently set at 20, i.e. range(20).  You can changes this however you chose.
+    MMU_SELECT TOOL={tool}
+    MMU_PRELOAD
+    MMU_TEST_LOAD LENGTH=50
+    {% for n in range(cycles) %}
+
         MMU_SERVO POS=DOWN
-#        MANUAL_STEPPER STEPPER="gear_stepper" SPEED=300 ACCEL=400 MOVE=800
-        MMU_TEST_MOVE SPEED=300 ACCEL=400 MOVE=800
-# change the SPEED and ACCEL as you see fit
+        MMU_TEST_MOVE SPEED={speed} ACCEL={accel} MOVE={length}
         MMU_SERVO POS=UP
 # to stop a macro mid-cycle you must use the e-stop.  This dwell allows you to hit the e-stop while the servo is up so that you can pull the filament out of the ERCF while the printer/macro is stopped
         MMU_SERVO POS=DOWN
-        MMU_TEST_MOVE SPEED=300 ACCEL=400 MOVE=-800
+        MMU_TEST_MOVE SPEED={speed} ACCEL={accel} MOVE=-{length}
         MMU_SERVO POS=UP
 
     {% endfor %}
 
+    MMU_UNLOAD
 
-[gcode_macro rewinder_test_multitool]
-gcode:
-    {% set gates = [5] %} # [0,1,2,3,4,5] move between these gates
-    {% set test_load_length = params.TEST_LOAD_LENGTH | default(50) | float %}
-    {% set repeats = params.REPEATS | default(20) | int %}
-    {% set speed = params.SPEED | default(300) | float %}
-    {% set accel = params.ACCEL | default(400) | float %}
-    {% set length = params.LENGTH | default(800) | float %}
 
-    MMU_HOME
-
-#    MMU_TEST_LOAD LENGTH=50
-    {% for n in range(repeats) %}
-        {% for gate in gates %}
-            MMU_SELECT GATE={gate}
-            MMU_TEST_LOAD LENGTH={test_load_length} # preload gate for a bit of length
-            MMU_TEST_MOVE SPEED={speed} ACCEL={accel} MOVE={length}
-            MMU_SERVO POS=UP
-            MMU_TEST_MOVE SPEED={speed} ACCEL={accel} MOVE=-{length}
-            MMU_EJECT
-            MMU_RECOVER
-
-        {% endfor %}
-  
-    {% endfor %}
 ```
 
