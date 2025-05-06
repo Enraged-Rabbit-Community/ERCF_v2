@@ -26,7 +26,7 @@
 |  4  | M3x12 FHCS  |  Flat Head Cap Screw | for Idler Roller wheels, Tensioner Bearing axle, and Tensioner Pivot |
 |   12-14   | M3x8mm FHCS  |  Stainless Steel Flat Head Cap Screw | Qty 12 for 2020 center mount, 14 for Enclosure mount |
 |   1   | M3 Washer  |  Stainless Steel | for Spring Tensioner screw |
-|   4   | #84 Rubber Band | See [FAQ](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/f4b36f50e9c2cce9561285ea40eadc532c116dd9/Recommended_Options/Filamentalist_Rewinder/Filamentalist_FAQ.md) | 2" bike tire inner tube cut to width or rubber bands |
+|   4   | #84 Rubber Band | See [FAQ](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Filamentalist_FAQ.md#rubber-band-sourcing-options) | 2" bike tire inner tube cut to width or rubber bands |
 
 **Parts for Microswitch Option**
 | Qty per Site | Part | Example Source Reference | Comments |
