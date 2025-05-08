@@ -105,7 +105,7 @@
 ### Bike Tire Inner Tube
 - You can cut to get a perfect fit across the face of the Rim Roller for 80mm, 100mm, or custom width rewinders with this solution.  Mountain bike or "balloon" tire sized tubes for tires in the 1.75"-2.5" width work well.  Select a wheel diameter of at least 16" to have enough material for up to 12 100mm wide rewinders.  Cut at ~30-35% wider than face of Rim Roller to account for width reduction when stretched onto roller.
   - easy to source locally (your garage, bike shop, hardware store,...)
-  - Amazon example: https://www.amazon.com/Schwinn-27-5X-1-95-2-125-Sealing/dp/B094L91SS6
+  - Amazon example: https://www.amazon.com/BELL-Standard-Bicycle-Inner-Tube/dp/B003CUBPUY
   - Aliexpress example: https://www.aliexpress.us/item/3256804654544066.html
  
 <img src="https://github.com/SkiBikePrint/Filamentalist/blob/71cee20fe18fa942feb86cab2a580b9eeac974d1/Assets/inner_tube.jpg" width="500" height="350">
