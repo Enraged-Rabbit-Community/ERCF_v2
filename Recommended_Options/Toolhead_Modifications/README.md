@@ -81,7 +81,7 @@ Here are the STLs for popular Toolhead/Extruder combinations.  Note that this is
   </tr>
   <tr>
     <td>Galileo 2</td>
-    <td></td>
+    <td><a href="https://github.com/juliusjj25/G2E-Filametrix-Lever-Switch-Mod">Toolhead and Entry Sensor</a></td>
     <td></td>
     <td></td>
     <td></td>
