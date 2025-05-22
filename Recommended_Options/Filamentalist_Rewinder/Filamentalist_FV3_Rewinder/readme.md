@@ -46,7 +46,7 @@
 ## <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Brain_Logo.png" width="50" height="60"> Printing Guidelines:
 
 ## **General:**
-- Material: ABS or ASA (2020 Center Mount version: ~154gm per site, Filamentalist Enclsoure Mount Version: ~175gm per site)
+- Material: ABS or ASA (2020 Center Mount version: ~154gm per unit, Filamentalist Enclsoure Mount Version: ~175gm per unit)
 - Print Time: 2020 Center Mount version: ~7hr 34min, Filamentalist Enclsoure Mount Version: ~9hr 10min (based on the Ellis PIF profile speeds, accelerations, and volumes)
 - 0.2mm layer height
 - 40% infill recommended.  Linear style infills are fastest (rectilinear, monotonic, grid, triangles, stars, etc.)
