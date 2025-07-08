@@ -4,8 +4,8 @@
 <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/FV3/FV3_with_Spool.PNG" width="300" height="400">
 </p>
 
-## [FV3 Assembly Guide Document](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/7073613b22078dc97ce46dbdf73928932b3739d9/Recommended_Options/Filamentalist_Rewinder/Filamentalist_FV3_Rewinder/Documentation/Filamentalist_V3_Manual_V1.1.1.pdf)  [<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/a7619c956b7a39eb0be6572dc150f5f14788e9e1/Recommended_Options/Filamentalist_Rewinder/Assets/FV3/FV3%20Manual.png" width="150" height="100">](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/7073613b22078dc97ce46dbdf73928932b3739d9/Recommended_Options/Filamentalist_Rewinder/Filamentalist_FV3_Rewinder/Documentation/Filamentalist_V3_Manual_V1.1.1.pdf)
-## <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/Filamentalist_Brain_Logo.png" width="50" height="60"> **BOM:**
+## [FV3 Assembly Guide Document](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Filamentalist_FV3_Rewinder/Documentation/Filamentalist_V3_Manual_V1.1.1.pdf)  [<img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/FV3/FV3%20Manual.png" width="150" height="100">](https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Filamentalist_FV3_Rewinder/Documentation/Filamentalist_V3_Manual_V1.1.1.pdf)
+## <img src="https://github.com/Enraged-Rabbit-Community/ERCF_v2/blob/master/Recommended_Options/Filamentalist_Rewinder/Assets/FV3/FV3%20Manual.png" width="50" height="60"> **BOM:**
 
 **ATTENTION!! PLEASE READ COMMENTS IN FAR RIGHT COLUMN** (you may need to scroll over in your view)
 
