@@ -230,7 +230,7 @@ Filametrix [in action](https://www.youtube.com/watch?v=tfMZWQRqtvY)
   </tr>
   <tr>
     <td width=40%><img src="Assets/Depressor.png" alt='Depressor'></td>
-    <td>Depressor - one on either end, end with ribs should be flush with surface below ribs with no plastic sticking up past surface</td>
+    <td>Depressor - Use two heat inserts, one on either end, end with ribs should be flush with surface below ribs with no plastic sticking up past surface</td>
   </tr>
   <tr>
     <td width=40%><img src="Assets/Depressor_Mount.png" alt='Depressor'></td>
