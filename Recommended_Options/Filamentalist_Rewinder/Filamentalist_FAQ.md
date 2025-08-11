@@ -117,7 +117,7 @@
     - Amazon example: https://www.amazon.com/AIWOQI-Industrial-supplies-Survival-Tactical/dp/B0CZQ57TF6
     - Aliexpress example: https://www.aliexpress.us/item/3256803949130763.html
   - For the standard size FV3 Rewinder (23mm Rim Roller face width):
-    - Size #84 (3 1/2" length x 1/2" wide) or ~57mm diameter (~90mm length) x 10mm width
+    - Size #84 (3 1/2" length x 1/2" wide) or ~57mm diameter (~90mm length) x 12-13mm width
       - qty 2 per roller for 80mm width version, qty 3 per roller for 100mm width version
     - Amazon example: https://www.amazon.com/dp/B0CBJQLXLB
     
