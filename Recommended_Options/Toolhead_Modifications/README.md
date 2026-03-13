@@ -24,7 +24,7 @@ This setup allows the firmware (Happy Hare) to quickly load bowden and optionall
 ✔✔ great error recovery (excellent through precise filament location)
 
 ### **2. Toolhead Sensor only**  
-With this setup the firmware can quickly load close to the nozzle and then precisely home to the toolhead sensor inside the extruder. The presence of the toolhead sensor is highly valuable in a MMU so the firmware allowing detection of correct behavior, smooth loading and auto recovery. This is usually an easy setup to accomodate and many toolhead boards or MCUs provide for this input. This option has a small possibliy of the filament not being detected as trapped between extruder and sensor but this is rarely a problem in practive. **This is the most common recommended option.**  
+With this setup the firmware can quickly load close to the nozzle and then precisely home to the toolhead sensor inside the extruder. The presence of the toolhead sensor is highly valuable in a MMU so the firmware allowing detection of correct behavior, smooth loading and auto recovery. This is usually an easy setup to accomodate and many toolhead boards or MCUs provide for this input. This option has a small possibliy of the filament not being detected as trapped between extruder and sensor but this is rarely a problem in practice. **This is the most common recommended option.**  
   
 ✔ smooth bowden loading<br>
 ✔ precise extruder loading<br>
