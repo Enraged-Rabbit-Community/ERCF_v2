@@ -123,6 +123,32 @@ Currently ERF is only available for the Stealthburner toolhead. We hope to offer
     </td>
     <td>Credit: <a href="https://www.printables.com/de/model/614813-filametrix-mod-for-slice-engingeering-mosquito-hot">MakeAUsername_285162</a></td>
   </tr>
+  <tr>
+    <td>Phaetus Dragon UHF<br><a href="Stls/Hotends/Dragon UHF (mini)/">Repo</a></td>
+    <td>
+      <ul>
+        <li>SB_Dragon_UHF_cutting_TH_Front.stl
+        <li>SB_Dragon_UHF_cutting_TH_Rear.stl
+		<li>SB_Dragon_UHF_Knife_holder.stl
+      </ul>
+    </td>
+    <td>
+      <p>Credit: <a href="https://github.com/emjay276">emjay276</a>
+    </td>
+  </tr>
+  <tr>
+    <td>Phaetus Dragon UHF mini<br><a href="Stls/Hotends/Dragon UHF (mini)/">Repo</a></td>
+    <td>
+      <ul>
+        <li>SB_Dragon_UHF_mini_cutting_TH_Front.stl
+        <li>SB_Dragon_UHF_mini_cutting_TH_Rear.stl
+		<li>SB_Dragon_UHF_Knife_holder.stl
+      </ul>
+    </td>
+    <td>
+      <p>Credit: <a href="https://github.com/emjay276">emjay276</a>
+    </td>
+  </tr>
 </table>
 </details>
 
