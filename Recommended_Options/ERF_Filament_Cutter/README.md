@@ -26,10 +26,10 @@ Currently ERF is only available for the Stealthburner toolhead. We hope to offer
     <th>Credit</th>
   </tr>
   <tr>
-    <td rowspan="4">Clockwork2 (CW2)</td>
+    <td rowspan="5">Clockwork2 (CW2)</td>
     <td>1_Toolhead_And_Entry_Sensors</td>
     <td><a href="Stls/1_Toolhead_And_Entry_Sensors/SB_CW2_Body.stl">Body</a></td>
-    <td rowspan="4">Credit: <a href="https://github.com/juliusjj25">juliusjj25</a></td>
+    <td rowspan="4">Credit: <a href="https://github.com/juliusjj25">juliusjj25</a>, <a href="https://github.com/emjay276">emjay276</a></td>
   </tr>
   <tr>
     <td>2_Toolhead_Sensor (EBB Board)</td>
@@ -40,10 +40,13 @@ Currently ERF is only available for the Stealthburner toolhead. We hope to offer
     <td><a href="Stls/3_Entry_Sensor/SB_CW2_Body.stl">Body</a></td>
   </tr>
   <tr>
-    <td>4_No_Sensors</td>
-    <td><a href="Stls/4_No_Sensors/SB_CW2_Body.stl">Body</a></td>
+    <td rowspan="2">4_No_Sensors</td>
+    <td><a href="Stls/4_No_Sensors/SB_CW2_Body_ECAS.stl">Body ECAS</a></td>
   </tr>
-
+  <tr>
+	<td><a href="Stls/4_No_Sensors/SB_CW2_Body_M6.stl">Body M6</a></td>
+	<td>Credit: <a href="https://github.com/emjay276">emjay276</a></td>
+  </tr>
   <tr>
     <td>LGX Lite</td>
     <td>4_No_Sensors</td>
@@ -149,9 +152,8 @@ Filametrix [in action](https://www.youtube.com/watch?v=tfMZWQRqtvY)
 #### Toolhead
 - 1x SB (hotend name) Cutting Printhead Back
 - 1x SB (hotend name) Cutting Printhead Front
-- 1x SB Main body Cutting with ECAS (with selected sensors)
-- 1x SB motor plate (as Stealthburner has seen a small update the newest plate does not fit anymore. So please use the one from this git)
-- 1x SB Latch ECAS
+- 1x SB Main Body Cutting with ECAS / M6 (with selected sensors)
+- 1x SB Latch ECAS / M6
 - 1x Cutting Arm
 - 1x Knife Holder
 
